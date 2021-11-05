@@ -1,6 +1,7 @@
 console.log('hello')
 
 // initial sparql query for all australian films.
+// note: sparql query really needs to be a reusable function.
 
 var query = `SELECT ?item ?itemLabel (YEAR(MIN(?pub_date)) as ?pub)
   WHERE {?item p:P31/wdt:P279* ?item_s_0Statement .?item_s_0Statement ps:P31/wdt:P279* wd:Q11424.
@@ -21,7 +22,7 @@ request.then(function(data) {
         .append('svg')
         .attr('id', 'canvas')
         .attr('width', '100%')
-        .attr('height', '50%')
+        .attr('height', '100%')
         .style('background-color', 'lime');
 
     var row_len = 100  
@@ -29,6 +30,9 @@ request.then(function(data) {
     // draw square per entity
     // mouseover returns title/earliest pub date
     // click retrieves actors as seperate query
+
+    // note: you really want to generate wiki link in the object direct, not transform in the d3.
+    // see awkward regeneration of wiki qcode at various points!
 
     d3.select('#canvas')
         .selectAll('rect')
@@ -62,7 +66,65 @@ request.then(function(data) {
                 {headers: {accept: "application/sparql-results+json"}})
             
             film_request.then(function(data) { 
-                return console.log(data.results.bindings)
+
+                var cast = data.results.bindings
+                d3.select('#canvas')
+                .selectAll('text')
+                .data(cast)
+                .join('text')
+                .attr('x', 100)
+                .attr('y', function(d, i) { return i*100+100 })
+                .attr('wiki-id', function(d,i) { 
+                    var address = d.actor.value.split('/')
+                    return address[address.length-1]
+                })
+                .text(function(d, i) {return d.actorLabel.value})
+                .on('click', function(d, i) { 
+
+                    var link = d3.select(this).attr('wiki-id')
+
+                    var actor_query = `SELECT ?film 
+                        WHERE {?film ?prop wd:`+link+`}`
+    
+                    var actor_request = d3.json(`https://query.wikidata.org/sparql?query=${encodeURIComponent(actor_query)}`, 
+                        {headers: {accept: "application/sparql-results+json"}})
+                
+                    actor_request.then(function(actor_data) { 
+                        var matches = actor_data.results.bindings
+                    
+                        matches = matches.map(wiki_id_extract_again);
+                          
+                        function wiki_id_extract_again(item) {
+                            var elem = item.film.value.split('/')
+                            return elem[elem.length-1];
+                        }
+
+                        matches = matches.filter(x => x[0] == 'Q' && x.length < 16)
+
+                        d3.select('#canvas')
+                            .selectAll('rect')
+                            .data(filmography_data)
+                            .join('rect')
+                            .style('fill', function(d,i) {
+                                var address = d.item.value.split('/'); 
+                                if (matches.includes(address[address.length-1])) {
+                                    return 'blue'
+                                } else {
+                                    return 'gold'}
+                                })
+                        return console.log(matches)
+                    })
+                })
+
+                return console.log('cast', cast)
+
+                // intention would be to draw cast+crew+tech data as seperate infobox
+                // these elements can then be highlighted to filter down the original sample
+
+                // so main screen, with umenu to select different plots, node mouseover for label (or maybe auto text+arm)
+                // on click load seperate infobox, and on click of element, recolour chart, unused goes to grey and drop labels.
+                // probably a "clear" uption to return to original state.
+
             })
         });
     })
