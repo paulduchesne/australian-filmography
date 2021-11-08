@@ -58,8 +58,26 @@ request.then(function(data) {
             var film_id = d3.select(this).attr('link')
             console.log(film_id)
 
-            var film_query = `SELECT ?actor ?actorLabel 
-                WHERE {wd:`+film_id+` wdt:P161 ?actor
+            var film_summary = d3.select(this).attr('hover')
+
+            var film_query = `SELECT ?director ?directorLabel ?actor ?actorLabel ?voice ?voiceLabel
+                ?writer ?writerLabel ?dop ?dopLabel ?editor ?editorLabel ?composer ?composerLabel 
+                ?producer ?producerLabel ?genre ?genreLabel ?rating ?ratingLabel
+                ?colour ?colourLabel ?aspect ?aspectLabel ?duration
+                WHERE {
+                    OPTIONAL { wd:`+film_id+` wdt:P57 ?director. }
+                    OPTIONAL { wd:`+film_id+` wdt:P161 ?actor. }
+                    OPTIONAL { wd:`+film_id+` wdt:P725 ?voice. }
+                    OPTIONAL { wd:`+film_id+` wdt:P58 ?writer. }
+                    OPTIONAL { wd:`+film_id+` wdt:P344 ?dop. }
+                    OPTIONAL { wd:`+film_id+` wdt:P1040 ?editor. }
+                    OPTIONAL { wd:`+film_id+` wdt:P86 ?composer. }
+                    OPTIONAL { wd:`+film_id+` wdt:P162 ?producer. }
+                    OPTIONAL { wd:`+film_id+` wdt:P136 ?genre. }
+                    OPTIONAL { wd:`+film_id+` wdt:P3156 ?rating. }
+                    OPTIONAL { wd:`+film_id+` wdt:P462 ?colour. }
+                    OPTIONAL { wd:`+film_id+` wdt:P2061 ?aspect. }
+                    OPTIONAL { wd:`+film_id+` wdt:P2047 ?duration. }
                 SERVICE wikibase:label {bd:serviceParam wikibase:language "en". }}`
 
             var film_request = d3.json(`https://query.wikidata.org/sparql?query=${encodeURIComponent(film_query)}`, 
@@ -67,7 +85,41 @@ request.then(function(data) {
             
             film_request.then(function(data) { 
 
-                var cast = data.results.bindings
+                var film_detail = data.results.bindings
+                console.log(film_detail)
+        
+                function parse_wikidata(dat, lab, val) {
+                    if (val in dat[0]) {
+                        var subset = dat.map(function(e){
+                            return {'label': e[lab].value, 'value': e[val].value}
+                        })
+                        subset = Array.from(new Set(subset.map(JSON.stringify))).map(JSON.parse);
+                        return subset
+                    } else {
+                        return []
+                    }
+                }
+
+                var director_data = parse_wikidata(film_detail, 'directorLabel', 'director')
+                var actor_data = parse_wikidata(film_detail, 'actorLabel', 'actor')
+                var voice_data = parse_wikidata(film_detail, 'voiceLabel', 'voice')
+                var writer_data = parse_wikidata(film_detail, 'writerLabel', 'writer')
+                var dop_data = parse_wikidata(film_detail, 'dopLabel', 'dop')
+                var editor_data = parse_wikidata(film_detail, 'editorLabel', 'editor')
+                var composer_data = parse_wikidata(film_detail, 'composerLabel', 'composer')
+                var producer_data = parse_wikidata(film_detail, 'producerLabel', 'producer')
+        
+                console.log(film_summary)
+                console.log(director_data)
+                console.log(actor_data)
+                console.log(voice_data)
+                console.log(writer_data)
+                console.log(dop_data)
+                console.log(editor_data)
+                console.log(composer_data)
+                console.log(producer_data)
+
+                 /*
                 d3.select('#canvas')
                 .selectAll('text')
                 .data(cast)
@@ -79,6 +131,9 @@ request.then(function(data) {
                     return address[address.length-1]
                 })
                 .text(function(d, i) {return d.actorLabel.value})
+                */
+
+                /*
                 .on('click', function(d, i) { 
 
                     var link = d3.select(this).attr('wiki-id')
@@ -117,6 +172,8 @@ request.then(function(data) {
                 })
 
                 return console.log('cast', cast)
+
+                */
 
                 // intention would be to draw cast+crew+tech data as seperate infobox
                 // these elements can then be highlighted to filter down the original sample
