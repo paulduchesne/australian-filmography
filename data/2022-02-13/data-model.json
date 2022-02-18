@@ -1,18 +1,12 @@
 [
     {
-        "name": "Pike-Cooper ID",
+        "name": "Title",
         "type": "Datatype Property",
         "domain": "Work",
         "range": "String"
     },
     {
         "name": "Year",
-        "type": "Datatype Property",
-        "domain": "Work",
-        "range": "String"
-    },
-    {
-        "name": "Title",
         "type": "Datatype Property",
         "domain": "Work",
         "range": "String"
@@ -25,6 +19,12 @@
     },
     {
         "name": "Duration",
+        "type": "Datatype Property",
+        "domain": "Work",
+        "range": "String"
+    },
+    {
+        "name": "Pike-Cooper ID",
         "type": "Datatype Property",
         "domain": "Work",
         "range": "String"
