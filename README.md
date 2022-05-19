@@ -1,2 +1,3 @@
 # Australian Filmography
-D3 interactive filmography built on Wikidata. 
+
+Rebuilding as extraction CSV -> RML -> RDF -> D3.js 
