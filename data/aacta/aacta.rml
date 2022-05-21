@@ -1,0 +1,49 @@
+@base <http://example.org/rules/> .
+@prefix ont: <https://australian-filmography.wiki/ontology/> .
+@prefix rml: <http://semweb.mmlab.be/ns/rml#> .
+@prefix ql: <http://semweb.mmlab.be/ns/ql#> .
+
+<WorkMapping> a rr:TriplesMap;
+  rml:logicalSource [
+    rml:source "/home/temp/git/australian-filmography/data/aacta/aacta.csv";
+    rml:referenceFormulation ql:CSV ].
+
+<WorkMapping>
+  rr:subjectMap [
+    rr:template "https://australian-filmography.wiki/resource/{work_uuid}";
+    rr:class ont:Work ].	
+
+<WorkMapping>
+  rr:predicateObjectMap [
+    rr:predicate rdfs:label;
+    rr:objectMap [ rml:reference "label" ] ].
+    
+<WorkMapping>
+  rr:predicateObjectMap [
+    rr:predicate ont:hasYear;
+    rr:objectMap [ rml:reference "year" ; rr:datatype xsd:gYear] ].
+
+<WorkMapping>
+  rr:predicateObjectMap [
+    rr:predicate ont:hasTitle;
+    rr:objectMap [ rml:reference "candidate" ] ].
+
+<WorkMapping>
+  rr:predicateObjectMap [
+    rr:predicate ont:hasProducer;
+    rr:objectMap [ rr:template "https://australian-filmography.wiki/resource/{agent_uuid}" ] ].
+
+<AgentMapping> a rr:TriplesMap;
+  rml:logicalSource [
+    rml:source "/home/temp/git/australian-filmography/data/aacta/aacta.csv";
+    rml:referenceFormulation ql:CSV ].
+
+<AgentMapping>
+  rr:subjectMap [
+    rr:template "https://australian-filmography.wiki/resource/{agent_uuid}";
+    rr:class ont:Person ].	
+
+<AgentMapping>
+  rr:predicateObjectMap [
+    rr:predicate rdfs:label;
+    rr:objectMap [ rml:reference "info" ] ].
