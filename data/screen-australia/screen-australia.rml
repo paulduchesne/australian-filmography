@@ -1,0 +1,69 @@
+@base <http://example.org/rules/> .
+@prefix ont: <https://australian-filmography.wiki/ontology/> .
+@prefix rml: <http://semweb.mmlab.be/ns/rml#> .
+@prefix ql: <http://semweb.mmlab.be/ns/ql#> .
+
+<DistributionMapping>
+  rml:logicalSource [
+    rml:source "/home/temp/git/australian-filmography/data/screen-australia/screen-australia.csv";
+    rml:referenceFormulation ql:CSV ].
+
+<DistributionMapping>
+ rr:subjectMap [ rr:template "https://australian-filmography.wiki/resource/{distro_uuid}"; 
+    rr:termType rr:BlankNode ].
+
+<DistributionMapping>
+  rr:predicateObjectMap [
+    rr:predicate ont:hasYear;
+    rr:objectMap [ rml:reference "year" ; rr:datatype xsd:gYear] ].
+
+<DistributionMapping>
+  rr:predicateObjectMap [
+    rr:predicate ont:hasCountry;
+    rr:objectMap [ rr:template "https://australian-filmography.wiki/ontology/{country}" ] ].
+
+<DistributionMapping>
+  rr:predicateObjectMap [
+    rr:predicate ont:hasDistibutor;
+    rr:objectMap [ rr:template "https://australian-filmography.wiki/resource/{distributor_uuid}" ] ].
+
+<WorkMapping> a rr:TriplesMap;
+  rml:logicalSource [
+    rml:source "/home/temp/git/australian-filmography/data/screen-australia/screen-australia.csv";
+    rml:referenceFormulation ql:CSV ].
+
+<WorkMapping>
+  rr:subjectMap [
+    rr:template "https://australian-filmography.wiki/resource/{work_uuid}";
+    rr:class ont:Work ].
+
+<WorkMapping>
+  rr:predicateObjectMap [
+    rr:predicate rdfs:label;
+    rr:objectMap [ rml:reference "title" ] ].
+
+<WorkMapping>
+  rr:predicateObjectMap [
+    rr:predicate ont:hasCountry;
+    rr:objectMap [ rr:template "https://australian-filmography.wiki/ontology/{coprod}" ] ].
+
+<WorkMapping>
+  rr:predicateObjectMap [
+    rr:predicate ont:hasDistributor;
+    rr:objectMap [ rr:template "https://australian-filmography.wiki/resource/{distro_uuid}"; 
+        rr:termType rr:BlankNode; ] ].
+
+<DistributorMapping> a rr:TriplesMap;
+  rml:logicalSource [
+    rml:source "/home/temp/git/australian-filmography/data/screen-australia/screen-australia.csv";
+    rml:referenceFormulation ql:CSV ].
+
+<DistributorMapping>
+  rr:subjectMap [
+    rr:template "https://australian-filmography.wiki/resource/{distributor_uuid}";
+    rr:class ont:Organisation ].
+
+<DistributorMapping>
+  rr:predicateObjectMap [
+    rr:predicate rdfs:label;
+    rr:objectMap [ rml:reference "distributor" ] ].
