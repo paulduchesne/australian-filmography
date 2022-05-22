@@ -1,0 +1,10 @@
+{
+    "uuid": "83a75034-77ad-4b4b-abd0-36ed9f1e2142",
+    "type": "agent",
+    "name": "Claude Flemming",
+    "pike-cooper": "4deab96b-637e-4aca-9a65-24f6dd7c37f4",
+    "works": [
+        "a7a5f53f-0d2a-4227-b3db-92bda3fdd49b",
+        "742a66a1-e6c4-4687-9d3c-a3b586600781"
+    ]
+}

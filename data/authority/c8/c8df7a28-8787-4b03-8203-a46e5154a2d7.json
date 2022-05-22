@@ -1,0 +1,11 @@
+{
+    "uuid": "c8df7a28-8787-4b03-8203-a46e5154a2d7",
+    "type": "agent",
+    "name": "Norman Dawn",
+    "pike-cooper": "8a4a2a45-8b36-407f-983a-da2a50e01403",
+    "works": [
+        "bf92c783-9375-4290-ac2b-b54b7cb7b915",
+        "7f4e03a9-83ae-4deb-9acc-a596fbb6766d",
+        "587c22d1-8df4-4ccb-9e35-1d24cc5da0ea"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "uuid": "0211b0ad-a483-42d3-88d4-4fe603da4ae1",
+    "type": "agent",
+    "name": "Fred Niblo",
+    "pike-cooper": "063104bf-522d-4903-9732-722ca5da6f3b",
+    "works": [
+        "6b49abb8-5779-48b0-95f4-b54fa360783c",
+        "928c990f-b895-46cb-8491-1945457be3d8"
+    ]
+}

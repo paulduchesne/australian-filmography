@@ -1,0 +1,10 @@
+{
+    "uuid": "a85a7ab3-6f52-4479-b661-2b776f5e96b4",
+    "type": "agent",
+    "name": "George Marlow",
+    "pike-cooper": "c6e6a89b-a468-4c9f-b28f-5093a414e654",
+    "works": [
+        "5d0743bf-2866-48fd-ac2d-35a5074b469a",
+        "d2ea0c4c-4eeb-4fbd-b8d3-e7a5d108b26b"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "uuid": "b574abde-9fd8-4fc1-a41e-4e0d2e5baec6",
+    "type": "agent",
+    "name": "John Duigan",
+    "pike-cooper": "ce2ba3c9-afb2-4768-a0b6-37213c5720aa",
+    "works": [
+        "fb03f605-c0fe-49a8-9105-bc0a7b3471fb",
+        "41b6324f-07c2-48a4-93f0-2db123726b17"
+    ]
+}

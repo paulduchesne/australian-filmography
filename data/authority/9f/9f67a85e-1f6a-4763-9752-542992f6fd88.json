@@ -1,0 +1,11 @@
+{
+    "uuid": "9f67a85e-1f6a-4763-9752-542992f6fd88",
+    "type": "agent",
+    "name": "Monte Luke",
+    "pike-cooper": "0577d7a1-e3c3-4b1b-b1f3-b685418c6f82",
+    "works": [
+        "1d67efbb-1247-4e7e-85e9-65568fffe17d",
+        "94c4ee90-445b-4cc1-aeef-67a18c7042a0",
+        "4af361e5-2201-4763-9897-1704f69b72de"
+    ]
+}

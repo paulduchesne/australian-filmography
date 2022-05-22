@@ -1,0 +1,17 @@
+{
+    "uuid": "ac6994b5-2555-4295-9836-9629d8d016d5",
+    "type": "agent",
+    "name": "Gaston Mervale",
+    "pike-cooper": "e109d302-36fc-46c5-8803-1c643f65368a",
+    "works": [
+        "e7d32db9-cadc-4789-858e-89d0c12edf83",
+        "f3ba9412-06d4-4bcf-b6e8-f06f3a5adcfb",
+        "1c9a55e7-c151-4261-824f-dbac4d84e2e4",
+        "77820752-96d4-4106-88ea-f6d23ef970f7",
+        "eb85b3e5-9835-4913-8dfa-95091f0e5356",
+        "abffa7cc-4887-4ce8-99a2-061190034be3",
+        "36922f9b-c001-4a5c-97e8-0ad66517dcda",
+        "1e057686-c9be-4805-a9ee-6d84003b1abb",
+        "e5d936e0-bb88-43d0-b3a2-972535231880"
+    ]
+}
