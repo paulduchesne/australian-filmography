@@ -5,12 +5,12 @@
 
 <WorkMapping> a rr:TriplesMap;
   rml:logicalSource [
-    rml:source "/home/temp/git/australian-filmography/data/pike-cooper/pike-cooper.csv";
+    rml:source "/home/temp/git/australian-filmography/data/source/pike-cooper/pike-cooper.csv";
     rml:referenceFormulation ql:CSV ].
 
 <WorkMapping>
   rr:subjectMap [
-    rr:template "https://australian-filmography.wiki/resource/{work_uuid}";
+    rr:template "https://pikecooper/{work_uuid}";
     rr:class ont:Work ].
 
 <WorkMapping>
@@ -41,16 +41,16 @@
 <WorkMapping>
   rr:predicateObjectMap [
     rr:predicate ont:hasDirector;
-    rr:objectMap [ rr:template "https://australian-filmography.wiki/resource/{agent_uuid}" ] ].
+    rr:objectMap [ rr:template "https://pikecooper/{agent_uuid}" ] ].
 
 <AgentMapping> a rr:TriplesMap;
   rml:logicalSource [
-    rml:source "/home/temp/git/australian-filmography/data/pike-cooper/pike-cooper.csv";
+    rml:source "/home/temp/git/australian-filmography/data/source/pike-cooper/pike-cooper.csv";
     rml:referenceFormulation ql:CSV ].
 
 <AgentMapping>
   rr:subjectMap [
-    rr:template "https://australian-filmography.wiki/resource/{agent_uuid}";
+    rr:template "https://pikecooper/{agent_uuid}";
     rr:class ont:Person ].
 
 <AgentMapping>
