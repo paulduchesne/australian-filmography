@@ -1,0 +1,59 @@
+@base <http://example.org/rules/> .
+@prefix ont: <https://australian-filmography.wiki/ontology/> .
+@prefix rml: <http://semweb.mmlab.be/ns/rml#> .
+@prefix ql: <http://semweb.mmlab.be/ns/ql#> .
+
+<WorkMapping> a rr:TriplesMap;
+  rml:logicalSource [
+    rml:source "/home/temp/git/australian-filmography/data/source/pike-cooper/pike-cooper.csv";
+    rml:referenceFormulation ql:CSV ].
+
+<WorkMapping>
+  rr:subjectMap [
+    rr:template "https://pikecooper/{work_uuid}";
+    rr:class ont:Work ].
+
+<WorkMapping>
+  rr:predicateObjectMap [
+    rr:predicate rdfs:label;
+    rr:objectMap [ rml:reference "label" ] ].
+
+<WorkMapping>
+  rr:predicateObjectMap [
+    rr:predicate ont:PikeCooperIdentifer;
+    rr:objectMap [ rml:reference "pike-cooper identifier" ] ].
+            
+<WorkMapping>
+  rr:predicateObjectMap [
+    rr:predicate ont:hasYear;
+    rr:objectMap [ rml:reference "year" ; rr:datatype xsd:gYear] ].
+
+<WorkMapping>
+  rr:predicateObjectMap [
+    rr:predicate ont:hasDuration;
+    rr:objectMap [ rml:reference "duration" ; rr:datatype xsd:duration] ].
+            
+<WorkMapping>
+  rr:predicateObjectMap [
+    rr:predicate ont:hasTitle;
+    rr:objectMap [ rml:reference "title" ] ].
+
+<WorkMapping>
+  rr:predicateObjectMap [
+    rr:predicate ont:hasDirector;
+    rr:objectMap [ rr:template "https://pikecooper/{agent_uuid}" ] ].
+
+<AgentMapping> a rr:TriplesMap;
+  rml:logicalSource [
+    rml:source "/home/temp/git/australian-filmography/data/source/pike-cooper/pike-cooper.csv";
+    rml:referenceFormulation ql:CSV ].
+
+<AgentMapping>
+  rr:subjectMap [
+    rr:template "https://pikecooper/{agent_uuid}";
+    rr:class ont:Person ].
+
+<AgentMapping>
+  rr:predicateObjectMap [
+    rr:predicate rdfs:label;
+    rr:objectMap [ rml:reference "director" ] ].
