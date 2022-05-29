@@ -1,0 +1,29 @@
+---
+- name: make compose directory
+  file:
+    path: '/home/{{ vm_username }}/oxigraph'
+    state: directory
+  become: yes
+  become_user: '{{ vm_username }}'
+
+- name: compose template
+  template:
+    src: './docker-compose.yml.j2'
+    dest: '/home/{{ vm_username }}/oxigraph/docker-compose.yml'
+  become: yes
+  become_user: '{{ vm_username }}'
+
+- name: launch oxigraph
+  docker_compose:
+    project_src: '/home/{{ vm_username }}/oxigraph/'
+    files:
+    - docker-compose.yml
+
+- name: pull data
+  get_url:
+    url: https://raw.githubusercontent.com/paulduchesne/australian-filmography/main/data/merge/merge.ttl 
+    dest: /home/{{ vm_username }}/data.ttl
+
+- name: load data
+  shell: "curl http://localhost:7878/store?default -H 'Content-Type: text/turtle' -d@/home/{{ vm_username }}/data.ttl" 
+

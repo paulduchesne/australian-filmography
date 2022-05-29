@@ -1,0 +1,9 @@
+---
+- name: oxigraph deploy
+  hosts: dev
+  vars_files:
+    - vars.yml
+  roles:
+    - role: user 
+    - role: docker
+    - role: oxigraph

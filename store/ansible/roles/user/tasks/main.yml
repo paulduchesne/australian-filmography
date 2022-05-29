@@ -1,0 +1,22 @@
+---
+- name: create user 
+  user: 
+    name: '{{ vm_username }}'  
+    password: "{{ vm_password | password_hash('sha512') }}"
+    groups:
+      - sudo 
+    state: present 
+    shell: /bin/bash
+    update_password: on_create
+
+- name: make ssh directory
+  file:
+    path: '/home/{{ vm_username }}/.ssh'
+    state: directory
+
+- name: copy ssh keys
+  copy: 
+    src: /root/.ssh/authorized_keys 
+    dest: '/home/{{ vm_username }}/.ssh/authorized_keys'
+    directory_mode: yes 
+    remote_src: yes
