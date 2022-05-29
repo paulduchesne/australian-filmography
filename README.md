@@ -8,7 +8,7 @@ Data claims are pulled from various sources as csv files. These are mapped to th
 
 > java -jar rmlmapper-5.0.0-r362-all.jar -s turtle -m pike-cooper.rml -o pike-cooper.ttl
 
-#### Ansible
+#### Jena
 
 A read-only instance of [Jena Fuseki](https://jena.apache.org/), preloaded with the merged data export can be built using the included [Ansible](https://www.ansible.com/) playbook. To initalise, update variables for specific deployment (inventory and var.yml) and execute:
 
