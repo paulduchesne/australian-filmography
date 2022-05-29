@@ -1,0 +1,8 @@
+---
+- name: jena deploy
+  hosts: dev
+  vars_files:
+    - vars.yml
+  roles:
+    - role: user 
+    - role: jena
