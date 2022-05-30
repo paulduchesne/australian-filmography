@@ -1,0 +1,100 @@
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+<https://australian-filmography.wiki/ontology/> a owl:Ontology .
+
+<https://australian-filmography.wiki/ontology/Activity>
+  a owl:Class ;
+  rdfs:label "Activity"^^xsd:string .
+
+<https://australian-filmography.wiki/ontology/Actor>
+  a owl:Class ;
+  rdfs:label "Actor"^^xsd:string ;
+  rdfs:subClassOf <https://australian-filmography.wiki/ontology/Activity> .
+
+<https://australian-filmography.wiki/ontology/Agent>
+  a owl:Class ;
+  rdfs:label "Agent"^^xsd:string .
+
+<https://australian-filmography.wiki/ontology/Director>
+  a owl:Class ;
+  rdfs:label "Director"^^xsd:string ;
+  rdfs:subClassOf <https://australian-filmography.wiki/ontology/Activity> .
+
+<https://australian-filmography.wiki/ontology/Identifier>
+  a owl:Class ;
+  rdfs:label "Identifier"^^xsd:string .
+
+<https://australian-filmography.wiki/ontology/Organisation>
+  a owl:Class ;
+  rdfs:label "Organisation"^^xsd:string ;
+  rdfs:subClassOf <https://australian-filmography.wiki/ontology/Agent> .
+
+<https://australian-filmography.wiki/ontology/Person>
+  a owl:Class ;
+  rdfs:label "Person"^^xsd:string ;
+  rdfs:subClassOf <https://australian-filmography.wiki/ontology/Agent> .
+
+<https://australian-filmography.wiki/ontology/PikeCooperId>
+  a owl:Class ;
+  rdfs:label "Pike-Cooper id"^^xsd:string ;
+  rdfs:subClassOf <https://australian-filmography.wiki/ontology/Identifier> .
+
+<https://australian-filmography.wiki/ontology/Producer>
+  a owl:Class ;
+  rdfs:label "Producer"^^xsd:string ;
+  rdfs:subClassOf <https://australian-filmography.wiki/ontology/Activity> .
+
+<https://australian-filmography.wiki/ontology/Work>
+  a owl:Class ;
+  rdfs:label "Work"^^xsd:string .
+
+<https://australian-filmography.wiki/ontology/hasActivity>
+  a owl:ObjectProperty ;
+  rdfs:domain <https://australian-filmography.wiki/ontology/Work> ;
+  rdfs:label "hasActivity"^^xsd:string ;
+  rdfs:range <https://australian-filmography.wiki/ontology/Activity> ;
+  rdfs:subPropertyOf owl:topObjectProperty .
+
+<https://australian-filmography.wiki/ontology/hasAgent>
+  a owl:ObjectProperty ;
+  rdfs:domain <https://australian-filmography.wiki/ontology/Activity> ;
+  rdfs:label "hasAgent"^^xsd:string ;
+  rdfs:range <https://australian-filmography.wiki/ontology/Person>, <https://australian-filmography.wiki/ontology/Organisation> ;
+  rdfs:subPropertyOf owl:topObjectProperty .
+
+<https://australian-filmography.wiki/ontology/hasDuration>
+  a owl:DatatypeProperty ;
+  rdfs:domain <https://australian-filmography.wiki/ontology/Work> ;
+  rdfs:label "hasDuration"^^xsd:string ;
+  rdfs:range xsd:integer ;
+  rdfs:subPropertyOf owl:topDataProperty .
+
+<https://australian-filmography.wiki/ontology/hasIdentifier>
+  a owl:ObjectProperty ;
+  rdfs:domain <https://australian-filmography.wiki/ontology/Work>, <https://australian-filmography.wiki/ontology/Agent> ;
+  rdfs:label "hasIdentifier"^^xsd:string ;
+  rdfs:range <https://australian-filmography.wiki/ontology/Identifier> ;
+  rdfs:subPropertyOf owl:topObjectProperty .
+
+<https://australian-filmography.wiki/ontology/hasIdentifierText>
+  a owl:DatatypeProperty ;
+  rdfs:domain <https://australian-filmography.wiki/ontology/Identifier> ;
+  rdfs:label "hasIdentifierText"^^xsd:string ;
+  rdfs:range xsd:string ;
+  rdfs:subPropertyOf owl:topDataProperty .
+
+<https://australian-filmography.wiki/ontology/hasTitle>
+  a owl:DatatypeProperty ;
+  rdfs:domain <https://australian-filmography.wiki/ontology/Work> ;
+  rdfs:label "hasTitle"^^xsd:string ;
+  rdfs:range xsd:string ;
+  rdfs:subPropertyOf owl:topDataProperty .
+
+<https://australian-filmography.wiki/ontology/hasYear>
+  a owl:DatatypeProperty ;
+  rdfs:domain <https://australian-filmography.wiki/ontology/Work> ;
+  rdfs:label "hasYear"^^xsd:string ;
+  rdfs:range xsd:dateTime ;
+  rdfs:subPropertyOf owl:topDataProperty .

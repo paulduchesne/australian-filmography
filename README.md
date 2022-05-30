@@ -2,6 +2,10 @@
 
 Interactive filmography built using [RDF](https://en.wikipedia.org/wiki/Resource_Description_Framework) and [D3.js](https://d3js.org/)
 
+#### Ontology
+
+A simple filmography ontology, built using [Protégé](https://protege.stanford.edu/).
+
 #### Data
 
 Data claims are pulled from various sources as csv files. These are mapped to the ontology by [RML](https://rml.io/specs/rml/) using [RMLMapper](https://github.com/RMLio/rmlmapper-java). A typical command to build to RDF (Turtle serialisation) would be as follows:
