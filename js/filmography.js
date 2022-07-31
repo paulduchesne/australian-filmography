@@ -75,27 +75,87 @@ const sparql_parsing = sparql_query.then((data) => {
       ),
     ];
     year = Math.min(...year);
-    films.push({ id: wiki_id, director: dir, year: year });
+
+    let title = select.map((m) => {
+      return m.filmLabel;
+    })[0];
+
+    films.push({ id: wiki_id, title: title, director: dir, year: year });
   });
 
   return films;
 });
 
 const d3_elements = sparql_parsing.then((y) => {
- 
-    //   console.log(y);
-
   let row_length = 4;
+
   d3.select("#canvas")
     .selectAll("g")
     .data(y)
     .join("circle")
-    .attr("cx", function (d, i) {
-      return (i % row_length) * 24 + 100;
-    })
-    .attr("cy", function (d, i) {
-      return Math.floor(i / row_length) * 24 + 100;
-    })
+    .attr("x_pos", (d, i) => (d.x = (i % row_length) * 24 + 100))
+    .attr("y_pos", (d, i) => (d.y = Math.floor(i / row_length) * 24 + 100))
+    .attr("cx", (d) => d.x)
+    .attr("cy", (d) => d.y)
     .attr("r", 10)
-    .style("fill", colour2);
+    .style("fill", colour2)
+    .on("mouseover", (e, k) => {
+      d3.select("#tool").transition().duration(200).attr("opacity", 1);
+      d3.select("#tool").attr("x", k.x);
+      d3.select("#tool").attr("y", k.y);
+      d3.select("#tooltext1").transition().duration(200).attr("opacity", 1);
+      d3.select("#tooltext1").attr("x", k.x + 20);
+      d3.select("#tooltext1").attr("y", k.y + 30);
+      d3.select("#tooltext1").text(k.title + " [" + k.year + "]");
+      d3.select("#tooltext2").transition().duration(200).attr("opacity", 1);
+      d3.select("#tooltext2").attr("x", k.x + 20);
+      d3.select("#tooltext2").attr("y", k.y + 60);
+      d3.select("#tooltext2").text(k.director);
+    })
+    .on("mouseout", () => {
+      d3.select("#tool").transition().duration(200).attr("opacity", 0);
+      d3.select("#tooltext1").transition().duration(200).attr("opacity", 0);
+      d3.select("#tooltext2").transition().duration(200).attr("opacity", 0);
+    });
+
+  d3.select("#canvas")
+    .append("rect")
+    .attr("id", "tool")
+    .attr("x", 400)
+    .attr("y", 400)
+    .attr("rx", 10)
+    .attr("ry", 10)
+    .attr("width", 400)
+    .attr("height", 80)
+    .attr("opacity", 0)
+    .style("pointer-events", "none")
+    .style("stroke", "black")
+    .style("fill", "black");
+
+  d3.select("#canvas")
+    .append("text")
+    .attr("id", "tooltext1")
+    .attr("x", 100)
+    .attr("y", 100)
+    .attr("opacity", 0)
+    .style("pointer-events", "none")
+    .style("stroke", colour1)
+    .style("fill", colour1)
+    .attr("font-family", "Spartan")
+    .attr("font-weight", 800)
+    .text("hello");
+
+  d3.select("#canvas")
+    .append("text")
+    .attr("id", "tooltext2")
+    .attr("x", 100)
+    .attr("y", 100)
+    .attr("opacity", 0)
+    .style("pointer-events", "none")
+    .style("stroke", colour1)
+    .style("fill", colour1)
+    .attr("font-family", "Spartan")
+    .attr("font-weight", 200)
+    .text("hello");
+
 });
