@@ -100,9 +100,6 @@ const d3_elements = sparql_parsing.then((y) => {
     .attr("r", 10)
     .style("fill", colour2)
     .on("mouseover", (e, k) => {
-      d3.select("#tool").transition().duration(200).attr("opacity", 1);
-      d3.select("#tool").attr("x", k.x);
-      d3.select("#tool").attr("y", k.y);
       d3.select("#tooltext1").transition().duration(200).attr("opacity", 1);
       d3.select("#tooltext1").attr("x", k.x + 20);
       d3.select("#tooltext1").attr("y", k.y + 30);
@@ -111,6 +108,13 @@ const d3_elements = sparql_parsing.then((y) => {
       d3.select("#tooltext2").attr("x", k.x + 20);
       d3.select("#tooltext2").attr("y", k.y + 60);
       d3.select("#tooltext2").text(k.director);
+      let text_size1 = d3.select("#tooltext1").node().getBBox().width+40
+      let text_size2 = d3.select("#tooltext2").node().getBBox().width+40
+      let text_max = Math.max(text_size1, text_size2)
+      d3.select("#tool").transition().duration(200).attr("opacity", 1);
+      d3.select("#tool").attr("x", k.x);
+      d3.select("#tool").attr("y", k.y);
+      d3.select("#tool").attr("width", text_max);
     })
     .on("mouseout", () => {
       d3.select("#tool").transition().duration(200).attr("opacity", 0);
@@ -159,3 +163,6 @@ const d3_elements = sparql_parsing.then((y) => {
     .text("hello");
 
 });
+
+// sparql function, on click of circle pull cast, credit and technical data.
+// second query will be per agent or technical, pull ids that conform and then colour original graph accourdingly.
