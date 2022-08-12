@@ -531,7 +531,7 @@ function draw_detail(k) {
 const d3_elements = sparql_parsing.then((y) => {
   y.sort((a, b) => (a.year > b.year ? 1 : -1));
 
-  let row_length = 10;
+  let row_length = 50;
 
   d3.select("#canvas")
     .selectAll("g")
