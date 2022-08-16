@@ -408,3 +408,32 @@ Q4929113 // Blue Fire Lady (1977)
 Q7757054 // The Picture Show Man (1977)
 Q1753929 // Summer City (1977)
 Q12125099 // Inside Looking Out (1977)
+
+
+// AFI Awards
+
+
+// 2019
+Q67171163 // I Am Woman (2019)
+Q86501880 // H Is For Happiness (2019)
+Q66712802 // Babyteeth (2019)
+Q83726541 // Koko: A Red Dog Story (2019)
+Q96406413 // Standing Up for Sunny (2019)
+Q56274013 // True History of the Kelly Gang (2019)
+Q60737528 // Dirt Music (2019)
+
+// 2020
+Q60737579 // Miss Fisher and the Crypt of Tears (2020)
+Q98126098 // Bloody Hell (2020)
+Q87519760 // Relic (2020)
+Q104374134 // The Dry (2020)
+Q109442804 // The Furnace (2020)
+Q87654420 // High Ground (2020)
+Q38686109 // Penguin Bloom (2020)
+Q97355155 // Rams (2020) 
+Q107105075 // Ellie & Abbie (2020)
+Q99751860 // 2067 (2020)
+Q108030463 // Disclosure (2020)
+
+// 2021
+Q106462638 // Nitram (2021)

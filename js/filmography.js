@@ -261,6 +261,9 @@ function focus_attribute(data) {
     let matches = y.results.bindings;
     let match_list = [...new Set(matches.map((d) => d.a.value))];
     d3.selectAll(".round").style("fill", (d) => {
+      
+// bounce down circles to make room for selection box
+
       if (match_list.includes(d.id)) {
         return colour2;
       } else {
@@ -270,11 +273,21 @@ function focus_attribute(data) {
   });
 
   colour_circles.then(() => {
-    d3.select("#detail").transition().duration(500).style("opacity", 0);
-    d3.select("#headertext").transition().duration(500).style("opacity", 0);
-    d3.selectAll(".casttext").transition().duration(500).style("opacity", 0);
-    d3.selectAll(".castlabel").transition().duration(500).style("opacity", 0);
-    d3.selectAll("#testing").transition().duration(500).style("opacity", 0);
+
+
+
+    // selection box goes here
+
+    console.log('clear text')
+
+
+
+
+    d3.select("#detail").style("pointer-events", "none").transition().duration(500).style("opacity", 0);
+    d3.select("#headertext").style("pointer-events", "none").transition().duration(500).style("opacity", 0);
+    d3.selectAll(".casttext").style("pointer-events", "none").transition().duration(500).style("opacity", 0);
+    d3.selectAll(".castlabel").style("pointer-events", "none").transition().duration(500).style("opacity", 0);
+    d3.selectAll("#testing").style("pointer-events", "none").transition().duration(500).style("opacity", 0);
   });
 }
 
@@ -569,6 +582,45 @@ const d3_elements = sparql_parsing.then((y) => {
     })
     .on("click", (e, k) => draw_detail(k));
 
+
+
+
+
+    d3.select("#canvas")
+    .append("rect")
+    .attr("id", "selection_box")
+    .attr("x", 500)
+    .attr("y", 500)
+    .attr("rx", 10)
+    .attr("ry", 10)
+    .attr("width", 400)
+    .attr("height", 80)
+    .attr("opacity", 1)
+    .style("pointer-events", "none")
+    .style("stroke", colour2)
+    .style("fill", colour2);
+
+
+    d3.select("#canvas")
+    .append("text")
+    .attr("id", "selection_text")
+    .attr("x", 500)
+    .attr("y", 500)
+    .attr("opacity", 1)
+    .style("pointer-events", "none")
+    .style("stroke", 'red')
+    .style("fill", 'red')
+    .attr("font-family", "Spartan")
+    .attr("font-weight", 200)
+    .text("hello");
+
+
+
+
+
+
+
+
   d3.select("#canvas")
     .append("rect")
     .attr("id", "tool")
@@ -582,6 +634,17 @@ const d3_elements = sparql_parsing.then((y) => {
     .style("pointer-events", "none")
     .style("stroke", colour2)
     .style("fill", colour2);
+
+
+
+
+
+
+
+
+
+
+
 
   d3.select("#canvas")
     .append("text")
@@ -671,11 +734,23 @@ const d3_elements = sparql_parsing.then((y) => {
     .style("fill", "aqua")
     .style("opacity", 0)
     .on("click", (e, k) => {
-      d3.select("#detail").transition().duration(500).style("opacity", 0);
-      d3.select("#headertext").transition().duration(500).style("opacity", 0);
-      d3.selectAll(".casttext").transition().duration(500).style("opacity", 0);
-      d3.selectAll(".castlabel").transition().duration(500).style("opacity", 0);
-      d3.selectAll("#testing").transition().duration(500).style("opacity", 0);
+      console.log('clear text')
+
+
+      // d3.select("#detail").style("pointer-events", "none");
+      // d3.select("#headertext").style("pointer-events", "none");
+      // d3.selectAll(".casttext").style("pointer-events", "none");
+      // d3.selectAll(".castlabel").style("pointer-events", "none");
+      // d3.selectAll("#testing").style("pointer-events", "none");
+
+
+      d3.select("#detail").style("pointer-events", "none").transition().duration(500).style("opacity", 0);
+      d3.select("#headertext").style("pointer-events", "none").transition().duration(500).style("opacity", 0);
+      d3.selectAll(".casttext").style("pointer-events", "none").transition().duration(500).style("opacity", 0);
+      d3.selectAll(".castlabel").style("pointer-events", "none").transition().duration(500).style("opacity", 0);
+      d3.selectAll("#testing").style("pointer-events", "none").transition().duration(500).style("opacity", 0);
+
+ 
     });
 });
 
