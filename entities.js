@@ -412,8 +412,41 @@ Q12125099 // Inside Looking Out (1977)
 
 // AFI Awards
 
+// 2015
+Q21428148 // Tanna (2015)
+Q21010855 // Girl Asleep (2015)
+Q20745693 // The Daughter (2015)
+Q17020430 // Paper Planes (2015)
+Q20751330 // Last Cab To Darwin (2015)
+Q20647417 // Holding The Man (2015)
+Q18389586 // The Dressmaker (2015)
+Q1757288 // Mad Max Fury Road (2015)
+
+// 2016
+Q24278847 // Ali's Wedding (2016)
+Q23013699 // Lion (2016)
+Q25136735 // Goldstone (2016)
+Q21010856 // Hacksaw Ridge (2016)
+
+// 2017
+Q39074257 // Cargo (2017)
+Q47244559 // Breath (2017)
+Q35144519 // Sweet Country (2017)
+Q27959325 // Jasper Jones (2017)
+Q27962542 // Hounds of Love (2017)
+Q25212771 // Berlin Syndrome (2017)
+
+// 2018
+Q39659543 // Boy Erased (2018)
+Q29262902 // The Nightingale (2018)
+Q58814676 // Ladies In Black (2018)
 
 // 2019
+Q27703167 // Hotel Mumbai (2019)
+Q61450786 // Judy and Punch (2019)
+Q54801155 // The King (2019)
+Q70842752 // Ride Like a Girl (2019)
+Q61740832 // Top End Wedding (2019)
 Q67171163 // I Am Woman (2019)
 Q86501880 // H Is For Happiness (2019)
 Q66712802 // Babyteeth (2019)
