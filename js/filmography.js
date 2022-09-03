@@ -770,3 +770,7 @@ const d3_elements = sparql_parsing.then((y) => {
 // ---- tweak to be able to select year and length
 
 // ---- scroll graphs
+
+// ---- add an "edit this data yourself" link
+
+// ---- add an "about this project" page
