@@ -1,9 +1,18 @@
 // filmography.js
 // pull data from wikidata and plot using d3.js
 
+// a better solution to dropping circles based on selection box
+// would be that we adjust height of box whether active or not
+// and circles always redraw based on this
+
+// full wikidata query is also throwing a 403 headers error
+// so we need to batch and also break into a module
+
 let colour1 = "#D8DBE2"; // background
 let colour2 = "#373F51"; // static
 let colour3 = "#58A4B0"; // active
+
+const row_length = 50;
 
 canvas = d3
   .select("#paper")
@@ -14,13 +23,11 @@ canvas = d3
   .style("background-color", colour1);
 
 d3.select("#canvas")
-
   .append("text")
   .attr("id", "title")
   .attr("x", 100)
   .attr("y", 40)
   .attr("opacity", 1)
-  // .style("pointer-events", "none")
   .style("stroke", colour2)
   .style("fill", colour2)
   .attr("font-family", "Spartan")
@@ -260,38 +267,80 @@ function focus_attribute(data) {
   let colour_circles = wikidata_individual(attribute).then((y) => {
     let matches = y.results.bindings;
     let match_list = [...new Set(matches.map((d) => d.a.value))];
-    d3.selectAll(".round").style("fill", (d) => {
-      
-// bounce down circles to make room for selection box
+    d3.selectAll(".round")
+      .style("fill", (d) => {
 
-      if (match_list.includes(d.id)) {
-        return colour2;
-      } else {
-        return colour3;
-      }
-    });
+        // bounce down circles to make room for selection box
+
+        if (match_list.includes(d.id)) {
+          return colour2;
+        } else {
+          return colour3;
+        }
+      })
+
+      .attr(
+        "y_pos",
+        (d, i) => (d.y = Math.floor(i / row_length) * 24 + 100 + 70)
+      )
+      .attr("cy", (d) => d.y);
   });
 
   colour_circles.then(() => {
 
-
-
     // selection box goes here
 
-    console.log('clear text')
+    console.log("clear text");
 
-
-
-
-    d3.select("#detail").style("pointer-events", "none").transition().duration(500).style("opacity", 0);
-    d3.select("#headertext").style("pointer-events", "none").transition().duration(500).style("opacity", 0);
-    d3.selectAll(".casttext").style("pointer-events", "none").transition().duration(500).style("opacity", 0);
-    d3.selectAll(".castlabel").style("pointer-events", "none").transition().duration(500).style("opacity", 0);
-    d3.selectAll("#testing").style("pointer-events", "none").transition().duration(500).style("opacity", 0);
+    d3.select("#detail")
+      .style("pointer-events", "none")
+      .transition()
+      .duration(500)
+      .style("opacity", 0);
+    d3.select("#headertext")
+      .style("pointer-events", "none")
+      .transition()
+      .duration(500)
+      .style("opacity", 0);
+    d3.selectAll(".casttext")
+      .style("pointer-events", "none")
+      .transition()
+      .duration(500)
+      .style("opacity", 0);
+    d3.selectAll(".castlabel")
+      .style("pointer-events", "none")
+      .transition()
+      .duration(500)
+      .style("opacity", 0);
+    d3.selectAll("#testing")
+      .style("pointer-events", "none")
+      .transition()
+      .duration(500)
+      .style("opacity", 0);
   });
+
+  d3.select("#selection_text")
+    .text(data.label)
+    .attr("x", 100 + 20)
+    .attr("y", 90 + 30)
+    .transition()
+    .duration(500)
+    .style("opacity", 1);
+  let selection_text_size =
+    d3.select("#selection_text").node().getBBox().width + 40;
+  d3.select("#selection_box")
+    .attr("x", 100)
+    .attr("y", 90)
+    .attr("height", 50)
+    .attr("width", selection_text_size)
+    .transition()
+    .duration(500)
+    .style("opacity", 1)
+    .style("pointer-events", "all");
 }
 
 function draw_detail(k) {
+
   // this function takes preexiting box/text elements and draws detail.
 
   sparql_query2(k).then((x) => {
@@ -321,7 +370,6 @@ function draw_detail(k) {
         return i * 20 + 200;
       })
       .attr("opacity", 0)
-      // .style("pointer-events", "none")
       .style("stroke", colour1)
       .style("fill", colour1)
       .attr("font-family", "Spartan")
@@ -386,10 +434,6 @@ function draw_detail(k) {
         .style("fill", colour3)
         .text(d.label)
         .on("click", (e, k) => {
-          // return console.log(d);
-
-          console.log("hello", d);
-
           focus_attribute(d);
         });
     });
@@ -437,62 +481,8 @@ function draw_detail(k) {
           return d.label;
         })
         .on("click", (d, k) => {
-          // okay here, you pull run another sparql query to find everything related to this indvidual
-          // then you run colours on anything which matches
-
-          // let blah = wikidata_individual()
-
           focus_attribute(k);
-
-          // let individual_id = k.id.split("/");
-          // ind_id = individual_id[individual_id.length - 1];
-          // // return console.log('blah');
-
-          // let colour_circles = wikidata_individual(ind_id).then((a) => {
-          //   console.log(a);
-
-          //   let my_data = a.results.bindings;
-
-          //   let test_again = [...new Set(my_data.map((d) => d.a.value))];
-
-          //   // console.log(test_again);
-
-          //   d3.selectAll(".round").style("fill", (d) => {
-          //     console.log(d);
-
-          //     if (test_again.includes(d.id)) {
-          //       return colour2;
-          //     } else {
-          //       return colour3;
-          //     }
-          //   });
-
-          //   // when this has run you can kill it and close the viewer
-          // });
-
-          // colour_circles.then(() => {
-          //   d3.select("#detail").transition().duration(500).style("opacity", 0);
-          //   d3.select("#headertext")
-          //     .transition()
-          //     .duration(500)
-          //     .style("opacity", 0);
-          //   d3.selectAll(".casttext")
-          //     .transition()
-          //     .duration(500)
-          //     .style("opacity", 0);
-          //   d3.selectAll(".castlabel")
-          //     .transition()
-          //     .duration(500)
-          //     .style("opacity", 0);
-          //   d3.selectAll("#testing")
-          //     .transition()
-          //     .duration(500)
-          //     .style("opacity", 0);
-          // });
-
-          // return console.log(ind_id);
-        }); // what you would actually do here? a function which finds all wikidata ids which have anything to do with individual and colour appopriatly
-
+        }); 
       return key.length + drop;
     }
 
@@ -544,8 +534,6 @@ function draw_detail(k) {
 const d3_elements = sparql_parsing.then((y) => {
   y.sort((a, b) => (a.year > b.year ? 1 : -1));
 
-  let row_length = 50;
-
   d3.select("#canvas")
     .selectAll("g")
     .data(y)
@@ -582,11 +570,7 @@ const d3_elements = sparql_parsing.then((y) => {
     })
     .on("click", (e, k) => draw_detail(k));
 
-
-
-
-
-    d3.select("#canvas")
+  d3.select("#canvas")
     .append("rect")
     .attr("id", "selection_box")
     .attr("x", 500)
@@ -595,31 +579,53 @@ const d3_elements = sparql_parsing.then((y) => {
     .attr("ry", 10)
     .attr("width", 400)
     .attr("height", 80)
-    .attr("opacity", 1)
+    .attr("opacity", 0)
     .style("pointer-events", "none")
     .style("stroke", colour2)
-    .style("fill", colour2);
+    .style("fill", colour2)
+    .on("click", () => {
 
+      // reset, so fade out selection box and text, minify, recolour circles and move\
 
-    d3.select("#canvas")
+      console.log("hello paul");
+      d3.select("#selection_box")
+        .transition()
+        .duration(500)
+        .style("opacity", 0)
+        .style("pointer-events", "none");
+
+      d3.select("#selection_text")
+        .transition()
+        .duration(500)
+        .style("opacity", 0)
+        .style("pointer-events", "none");
+
+      d3.selectAll(".round")
+        .transition()
+        .delay(500)
+        .duration(500)
+        .style("fill", (d) => {
+          return colour3;
+        })
+
+        // bounce down circles to make room for selection box
+
+        .attr("y_pos", (d, i) => (d.y = Math.floor(i / row_length) * 24 + 100))
+        .attr("cy", (d) => d.y);
+    });
+
+  d3.select("#canvas")
     .append("text")
     .attr("id", "selection_text")
     .attr("x", 500)
     .attr("y", 500)
-    .attr("opacity", 1)
+    .attr("opacity", 0)
     .style("pointer-events", "none")
-    .style("stroke", 'red')
-    .style("fill", 'red')
+    .style("stroke", colour1)
+    .style("fill", colour1)
     .attr("font-family", "Spartan")
     .attr("font-weight", 200)
     .text("hello");
-
-
-
-
-
-
-
 
   d3.select("#canvas")
     .append("rect")
@@ -633,18 +639,7 @@ const d3_elements = sparql_parsing.then((y) => {
     .attr("opacity", 0)
     .style("pointer-events", "none")
     .style("stroke", colour2)
-    .style("fill", colour2);
-
-
-
-
-
-
-
-
-
-
-
+    .style("fill", colour3);
 
   d3.select("#canvas")
     .append("text")
@@ -653,8 +648,8 @@ const d3_elements = sparql_parsing.then((y) => {
     .attr("y", 100)
     .attr("opacity", 0)
     .style("pointer-events", "none")
-    .style("stroke", colour1)
-    .style("fill", colour1)
+    .style("stroke", colour2)
+    .style("fill", colour2)
     .attr("font-family", "Spartan")
     .attr("font-weight", 500)
     .text("hello");
@@ -666,8 +661,8 @@ const d3_elements = sparql_parsing.then((y) => {
     .attr("y", 100)
     .attr("opacity", 0)
     .style("pointer-events", "none")
-    .style("stroke", colour1)
-    .style("fill", colour1)
+    .style("stroke", colour2)
+    .style("fill", colour2)
     .attr("font-family", "Spartan")
     .attr("font-weight", 200)
     .text("hello");
@@ -734,33 +729,44 @@ const d3_elements = sparql_parsing.then((y) => {
     .style("fill", "aqua")
     .style("opacity", 0)
     .on("click", (e, k) => {
-      console.log('clear text')
+      console.log("clear text");
 
-
-      // d3.select("#detail").style("pointer-events", "none");
-      // d3.select("#headertext").style("pointer-events", "none");
-      // d3.selectAll(".casttext").style("pointer-events", "none");
-      // d3.selectAll(".castlabel").style("pointer-events", "none");
-      // d3.selectAll("#testing").style("pointer-events", "none");
-
-
-      d3.select("#detail").style("pointer-events", "none").transition().duration(500).style("opacity", 0);
-      d3.select("#headertext").style("pointer-events", "none").transition().duration(500).style("opacity", 0);
-      d3.selectAll(".casttext").style("pointer-events", "none").transition().duration(500).style("opacity", 0);
-      d3.selectAll(".castlabel").style("pointer-events", "none").transition().duration(500).style("opacity", 0);
-      d3.selectAll("#testing").style("pointer-events", "none").transition().duration(500).style("opacity", 0);
-
- 
+      d3.select("#detail")
+        .style("pointer-events", "none")
+        .transition()
+        .duration(500)
+        .style("opacity", 0);
+      d3.select("#headertext")
+        .style("pointer-events", "none")
+        .transition()
+        .duration(500)
+        .style("opacity", 0);
+      d3.selectAll(".casttext")
+        .style("pointer-events", "none")
+        .transition()
+        .duration(500)
+        .style("opacity", 0);
+      d3.selectAll(".castlabel")
+        .style("pointer-events", "none")
+        .transition()
+        .duration(500)
+        .style("opacity", 0);
+      d3.selectAll("#testing")
+        .style("pointer-events", "none")
+        .transition()
+        .duration(500)
+        .style("opacity", 0);
     });
 });
 
 // work to be done:
 
-// note that two feature currently have no directors listed, so test adding data wikidata side.
+// ---- split first wikidata query out into a module.
 
-// tweak to be able to select year and length
+// ---- style focused tooltips differently (light on dark)
 
-// in addition to colouring the rounds, add a tag up the top with the attribute listed
-// and the ability to close. given mechanics, only one state will be possible.
+// ---- note that two feature currently have no directors listed, so test adding data wikidata side.
 
-// scroll graphs
+// ---- tweak to be able to select year and length
+
+// ---- scroll graphs
