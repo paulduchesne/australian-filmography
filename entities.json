@@ -1,0 +1,1420 @@
+{
+  "entities": [
+    {
+      "wikidata": "Q1421747"
+    },
+    {
+      "wikidata": "Q5420265"
+    },
+    {
+      "wikidata": "Q12126942"
+    },
+    {
+      "wikidata": "Q91663313"
+    },
+    {
+      "wikidata": "Q3176350"
+    },
+    {
+      "wikidata": "Q5467144"
+    },
+    {
+      "wikidata": "Q2118926"
+    },
+    {
+      "wikidata": "Q180363"
+    },
+    {
+      "wikidata": "Q6542266"
+    },
+    {
+      "wikidata": "Q926678"
+    },
+    {
+      "wikidata": "Q15706385"
+    },
+    {
+      "wikidata": "Q3415693"
+    },
+    {
+      "wikidata": "Q690463"
+    },
+    {
+      "wikidata": "Q20649328"
+    },
+    {
+      "wikidata": "Q7562351"
+    },
+    {
+      "wikidata": ""
+    },
+    {
+      "wikidata": ""
+    },
+    {
+      "wikidata": ""
+    },
+    {
+      "wikidata": ""
+    },
+    {
+      "wikidata": ""
+    },
+    {
+      "wikidata": ""
+    },
+    {
+      "wikidata": ""
+    },
+    {
+      "wikidata": ""
+    },
+    {
+      "wikidata": ""
+    },
+    {
+      "wikidata": ""
+    },
+    {
+      "wikidata": ""
+    },
+    {
+      "wikidata": ""
+    },
+    {
+      "wikidata": ""
+    },
+    {
+      "wikidata": ""
+    },
+    {
+      "wikidata": ""
+    },
+    {
+      "wikidata": ""
+    },
+    {
+      "wikidata": ""
+    },
+    {
+      "wikidata": ""
+    },
+    {
+      "wikidata": ""
+    },
+    {
+      "wikidata": ""
+    },
+    {
+      "wikidata": ""
+    },
+    {
+      "wikidata": ""
+    },
+    {
+      "wikidata": ""
+    },
+    {
+      "wikidata": ""
+    },
+    {
+      "wikidata": ""
+    },
+    {
+      "wikidata": ""
+    },
+    {
+      "wikidata": ""
+    },
+    {
+      "wikidata": ""
+    },
+    {
+      "wikidata": ""
+    },
+    {
+      "wikidata": ""
+    },
+    {
+      "wikidata": ""
+    },
+    {
+      "wikidata": ""
+    },
+    {
+      "wikidata": ""
+    },
+    {
+      "wikidata": ""
+    },
+    {
+      "wikidata": ""
+    },
+    {
+      "wikidata": ""
+    },
+    {
+      "wikidata": ""
+    },
+    {
+      "wikidata": ""
+    },
+    {
+      "wikidata": ""
+    },
+    {
+      "wikidata": ""
+    },
+    {
+      "wikidata": ""
+    },
+    {
+      "wikidata": ""
+    },
+    {
+      "wikidata": ""
+    },
+    {
+      "wikidata": ""
+    },
+    {
+      "wikidata": ""
+    },
+    {
+      "wikidata": ""
+    },
+    {
+      "wikidata": ""
+    },
+    {
+      "wikidata": ""
+    },
+    {
+      "wikidata": ""
+    },
+    {
+      "wikidata": ""
+    },
+    {
+      "wikidata": ""
+    },
+    {
+      "wikidata": ""
+    },
+    {
+      "wikidata": ""
+    },
+    {
+      "wikidata": ""
+    },
+    {
+      "wikidata": ""
+    },
+    {
+      "wikidata": ""
+    },
+    {
+      "wikidata": ""
+    },
+    {
+      "wikidata": ""
+    },
+    {
+      "wikidata": ""
+    },
+    {
+      "wikidata": ""
+    },
+    {
+      "wikidata": ""
+    },
+    {
+      "wikidata": ""
+    },
+    {
+      "wikidata": ""
+    },
+    {
+      "wikidata": ""
+    },
+    {
+      "wikidata": ""
+    },
+    {
+      "wikidata": ""
+    },
+    {
+      "wikidata": ""
+    },
+    {
+      "wikidata": ""
+    },
+    {
+      "wikidata": ""
+    },
+    {
+      "wikidata": ""
+    },
+    {
+      "wikidata": ""
+    },
+    {
+      "wikidata": ""
+    },
+    {
+      "wikidata": ""
+    },
+    {
+      "wikidata": ""
+    },
+    {
+      "wikidata": ""
+    },
+    {
+      "wikidata": ""
+    },
+    {
+      "wikidata": ""
+    },
+    {
+      "wikidata": ""
+    },
+    {
+      "wikidata": ""
+    },
+    {
+      "wikidata": ""
+    },
+    {
+      "wikidata": ""
+    },
+    {
+      "wikidata": ""
+    },
+    {
+      "wikidata": ""
+    },
+    {
+      "wikidata": ""
+    },
+    {
+      "wikidata": ""
+    },
+    {
+      "wikidata": ""
+    },
+    {
+      "wikidata": ""
+    },
+    {
+      "wikidata": ""
+    },
+    {
+      "wikidata": ""
+    },
+    {
+      "wikidata": ""
+    },
+    {
+      "wikidata": ""
+    },
+    {
+      "wikidata": ""
+    },
+    {
+      "wikidata": ""
+    },
+    {
+      "wikidata": ""
+    },
+    {
+      "wikidata": ""
+    },
+    {
+      "wikidata": ""
+    },
+    {
+      "wikidata": ""
+    },
+    {
+      "wikidata": ""
+    },
+    {
+      "wikidata": ""
+    },
+    {
+      "wikidata": ""
+    },
+    {
+      "wikidata": ""
+    },
+    {
+      "wikidata": ""
+    },
+    {
+      "wikidata": ""
+    },
+    {
+      "wikidata": ""
+    },
+    {
+      "wikidata": ""
+    },
+    {
+      "wikidata": ""
+    },
+    {
+      "wikidata": ""
+    },
+    {
+      "wikidata": ""
+    },
+    {
+      "wikidata": ""
+    },
+    {
+      "wikidata": ""
+    },
+    {
+      "wikidata": ""
+    },
+    {
+      "wikidata": ""
+    },
+    {
+      "wikidata": ""
+    },
+    {
+      "wikidata": ""
+    },
+    {
+      "wikidata": ""
+    },
+    {
+      "wikidata": ""
+    },
+    {
+      "wikidata": ""
+    },
+    {
+      "wikidata": ""
+    },
+    {
+      "wikidata": ""
+    },
+    {
+      "wikidata": ""
+    },
+    {
+      "wikidata": ""
+    },
+    {
+      "wikidata": ""
+    },
+    {
+      "wikidata": ""
+    },
+    {
+      "wikidata": ""
+    },
+    {
+      "wikidata": ""
+    },
+    {
+      "wikidata": ""
+    },
+    {
+      "wikidata": ""
+    },
+    {
+      "wikidata": ""
+    },
+    {
+      "wikidata": ""
+    },
+    {
+      "wikidata": ""
+    },
+    {
+      "wikidata": ""
+    },
+    {
+      "wikidata": ""
+    },
+    {
+      "wikidata": ""
+    },
+    {
+      "wikidata": ""
+    },
+    {
+      "wikidata": ""
+    },
+    {
+      "wikidata": ""
+    },
+    {
+      "wikidata": ""
+    },
+    {
+      "wikidata": ""
+    },
+    {
+      "wikidata": ""
+    },
+    {
+      "wikidata": ""
+    },
+    {
+      "wikidata": ""
+    },
+    {
+      "wikidata": ""
+    },
+    {
+      "wikidata": ""
+    },
+    {
+      "wikidata": ""
+    },
+    {
+      "wikidata": ""
+    },
+    {
+      "wikidata": ""
+    },
+    {
+      "wikidata": ""
+    },
+    {
+      "wikidata": ""
+    },
+    {
+      "wikidata": ""
+    },
+    {
+      "wikidata": ""
+    },
+    {
+      "wikidata": ""
+    },
+    {
+      "wikidata": ""
+    },
+    {
+      "wikidata": ""
+    },
+    {
+      "wikidata": ""
+    },
+    {
+      "wikidata": ""
+    },
+    {
+      "wikidata": ""
+    },
+    {
+      "wikidata": ""
+    },
+    {
+      "wikidata": ""
+    },
+    {
+      "wikidata": ""
+    },
+    {
+      "wikidata": ""
+    },
+    {
+      "wikidata": ""
+    },
+    {
+      "wikidata": ""
+    },
+    {
+      "wikidata": ""
+    },
+    {
+      "wikidata": ""
+    },
+    {
+      "wikidata": ""
+    },
+    {
+      "wikidata": ""
+    },
+    {
+      "wikidata": ""
+    },
+    {
+      "wikidata": ""
+    },
+    {
+      "wikidata": ""
+    },
+    {
+      "wikidata": ""
+    },
+    {
+      "wikidata": ""
+    },
+    {
+      "wikidata": ""
+    },
+    {
+      "wikidata": ""
+    },
+    {
+      "wikidata": ""
+    },
+    {
+      "wikidata": ""
+    },
+    {
+      "wikidata": ""
+    },
+    {
+      "wikidata": ""
+    },
+    {
+      "wikidata": ""
+    },
+    {
+      "wikidata": ""
+    },
+    {
+      "wikidata": ""
+    },
+    {
+      "wikidata": ""
+    },
+    {
+      "wikidata": ""
+    },
+    {
+      "wikidata": ""
+    },
+    {
+      "wikidata": ""
+    },
+    {
+      "wikidata": ""
+    },
+    {
+      "wikidata": ""
+    },
+    {
+      "wikidata": ""
+    },
+    {
+      "wikidata": ""
+    },
+    {
+      "wikidata": ""
+    },
+    {
+      "wikidata": ""
+    },
+    {
+      "wikidata": ""
+    },
+    {
+      "wikidata": ""
+    },
+    {
+      "wikidata": ""
+    },
+    {
+      "wikidata": ""
+    },
+    {
+      "wikidata": ""
+    },
+    {
+      "wikidata": ""
+    },
+    {
+      "wikidata": ""
+    },
+    {
+      "wikidata": ""
+    },
+    {
+      "wikidata": ""
+    },
+    {
+      "wikidata": ""
+    },
+    {
+      "wikidata": ""
+    },
+    {
+      "wikidata": ""
+    },
+    {
+      "wikidata": ""
+    },
+    {
+      "wikidata": ""
+    },
+    {
+      "wikidata": ""
+    },
+    {
+      "wikidata": ""
+    },
+    {
+      "wikidata": ""
+    },
+    {
+      "wikidata": ""
+    },
+    {
+      "wikidata": ""
+    },
+    {
+      "wikidata": ""
+    },
+    {
+      "wikidata": ""
+    },
+    {
+      "wikidata": ""
+    },
+    {
+      "wikidata": ""
+    },
+    {
+      "wikidata": ""
+    },
+    {
+      "wikidata": ""
+    },
+    {
+      "wikidata": ""
+    },
+    {
+      "wikidata": ""
+    },
+    {
+      "wikidata": ""
+    },
+    {
+      "wikidata": ""
+    },
+    {
+      "wikidata": ""
+    },
+    {
+      "wikidata": ""
+    },
+    {
+      "wikidata": ""
+    },
+    {
+      "wikidata": ""
+    },
+    {
+      "wikidata": ""
+    },
+    {
+      "wikidata": ""
+    },
+    {
+      "wikidata": ""
+    },
+    {
+      "wikidata": ""
+    },
+    {
+      "wikidata": ""
+    },
+    {
+      "wikidata": ""
+    },
+    {
+      "wikidata": ""
+    },
+    {
+      "wikidata": ""
+    },
+    {
+      "wikidata": ""
+    },
+    {
+      "wikidata": ""
+    },
+    {
+      "wikidata": ""
+    },
+    {
+      "wikidata": ""
+    },
+    {
+      "wikidata": ""
+    },
+    {
+      "wikidata": ""
+    },
+    {
+      "wikidata": ""
+    },
+    {
+      "wikidata": ""
+    },
+    {
+      "wikidata": ""
+    },
+    {
+      "wikidata": ""
+    },
+    {
+      "wikidata": ""
+    },
+    {
+      "wikidata": ""
+    },
+    {
+      "wikidata": ""
+    },
+    {
+      "wikidata": ""
+    },
+    {
+      "wikidata": ""
+    },
+    {
+      "wikidata": ""
+    },
+    {
+      "wikidata": ""
+    },
+    {
+      "wikidata": ""
+    },
+    {
+      "wikidata": ""
+    },
+    {
+      "wikidata": ""
+    },
+    {
+      "wikidata": ""
+    },
+    {
+      "wikidata": ""
+    },
+    {
+      "wikidata": ""
+    },
+    {
+      "wikidata": ""
+    },
+    {
+      "wikidata": ""
+    },
+    {
+      "wikidata": ""
+    },
+    {
+      "wikidata": ""
+    },
+    {
+      "wikidata": ""
+    },
+    {
+      "wikidata": ""
+    },
+    {
+      "wikidata": ""
+    },
+    {
+      "wikidata": ""
+    },
+    {
+      "wikidata": ""
+    },
+    {
+      "wikidata": ""
+    },
+    {
+      "wikidata": ""
+    },
+    {
+      "wikidata": ""
+    },
+    {
+      "wikidata": ""
+    },
+    {
+      "wikidata": ""
+    },
+    {
+      "wikidata": ""
+    },
+    {
+      "wikidata": ""
+    },
+    {
+      "wikidata": ""
+    },
+    {
+      "wikidata": ""
+    },
+    {
+      "wikidata": ""
+    },
+    {
+      "wikidata": ""
+    },
+    {
+      "wikidata": ""
+    },
+    {
+      "wikidata": ""
+    },
+    {
+      "wikidata": ""
+    },
+    {
+      "wikidata": ""
+    },
+    {
+      "wikidata": ""
+    },
+    {
+      "wikidata": ""
+    },
+    {
+      "wikidata": ""
+    },
+    {
+      "wikidata": ""
+    },
+    {
+      "wikidata": ""
+    },
+    {
+      "wikidata": ""
+    },
+    {
+      "wikidata": ""
+    },
+    {
+      "wikidata": ""
+    },
+    {
+      "wikidata": ""
+    },
+    {
+      "wikidata": ""
+    },
+    {
+      "wikidata": ""
+    },
+    {
+      "wikidata": ""
+    },
+    {
+      "wikidata": ""
+    },
+    {
+      "wikidata": ""
+    },
+    {
+      "wikidata": ""
+    },
+    {
+      "wikidata": ""
+    },
+    {
+      "wikidata": ""
+    },
+    {
+      "wikidata": ""
+    },
+    {
+      "wikidata": ""
+    },
+    {
+      "wikidata": ""
+    },
+    {
+      "wikidata": ""
+    },
+    {
+      "wikidata": ""
+    },
+    {
+      "wikidata": ""
+    },
+    {
+      "wikidata": ""
+    },
+    {
+      "wikidata": ""
+    },
+    {
+      "wikidata": ""
+    },
+    {
+      "wikidata": ""
+    },
+    {
+      "wikidata": ""
+    },
+    {
+      "wikidata": ""
+    },
+    {
+      "wikidata": ""
+    },
+    {
+      "wikidata": ""
+    },
+    {
+      "wikidata": ""
+    },
+    {
+      "wikidata": ""
+    },
+    {
+      "wikidata": ""
+    },
+    {
+      "wikidata": ""
+    },
+    {
+      "wikidata": ""
+    },
+    {
+      "wikidata": ""
+    },
+    {
+      "wikidata": ""
+    },
+    {
+      "wikidata": ""
+    },
+    {
+      "wikidata": ""
+    },
+    {
+      "wikidata": ""
+    },
+    {
+      "wikidata": ""
+    },
+    {
+      "wikidata": ""
+    },
+    {
+      "wikidata": ""
+    },
+    {
+      "wikidata": ""
+    },
+    {
+      "wikidata": ""
+    },
+    {
+      "wikidata": ""
+    },
+    {
+      "wikidata": ""
+    },
+    {
+      "wikidata": ""
+    },
+    {
+      "wikidata": ""
+    },
+    {
+      "wikidata": ""
+    },
+    {
+      "wikidata": ""
+    },
+    {
+      "wikidata": ""
+    },
+    {
+      "wikidata": ""
+    },
+    {
+      "wikidata": ""
+    },
+    {
+      "wikidata": ""
+    },
+    {
+      "wikidata": ""
+    },
+    {
+      "wikidata": ""
+    },
+    {
+      "wikidata": ""
+    },
+    {
+      "wikidata": ""
+    },
+    {
+      "wikidata": ""
+    },
+    {
+      "wikidata": ""
+    },
+    {
+      "wikidata": ""
+    },
+    {
+      "wikidata": ""
+    },
+    {
+      "wikidata": ""
+    },
+    {
+      "wikidata": ""
+    },
+    {
+      "wikidata": ""
+    },
+    {
+      "wikidata": ""
+    },
+    {
+      "wikidata": ""
+    },
+    {
+      "wikidata": ""
+    },
+    {
+      "wikidata": ""
+    },
+    {
+      "wikidata": ""
+    },
+    {
+      "wikidata": ""
+    },
+    {
+      "wikidata": ""
+    },
+    {
+      "wikidata": ""
+    },
+    {
+      "wikidata": ""
+    },
+    {
+      "wikidata": ""
+    },
+    {
+      "wikidata": ""
+    },
+    {
+      "wikidata": ""
+    },
+    {
+      "wikidata": ""
+    },
+    {
+      "wikidata": ""
+    },
+    {
+      "wikidata": ""
+    },
+    {
+      "wikidata": ""
+    },
+    {
+      "wikidata": ""
+    },
+    {
+      "wikidata": ""
+    },
+    {
+      "wikidata": ""
+    },
+    {
+      "wikidata": ""
+    },
+    {
+      "wikidata": ""
+    },
+    {
+      "wikidata": ""
+    },
+    {
+      "wikidata": ""
+    },
+    {
+      "wikidata": ""
+    },
+    {
+      "wikidata": ""
+    },
+    {
+      "wikidata": ""
+    },
+    {
+      "wikidata": ""
+    },
+    {
+      "wikidata": ""
+    },
+    {
+      "wikidata": ""
+    },
+    {
+      "wikidata": ""
+    },
+    {
+      "wikidata": ""
+    },
+    {
+      "wikidata": ""
+    },
+    {
+      "wikidata": ""
+    },
+    {
+      "wikidata": ""
+    },
+    {
+      "wikidata": ""
+    },
+    {
+      "wikidata": ""
+    },
+    {
+      "wikidata": ""
+    },
+    {
+      "wikidata": ""
+    },
+    {
+      "wikidata": ""
+    },
+    {
+      "wikidata": ""
+    },
+    {
+      "wikidata": ""
+    },
+    {
+      "wikidata": ""
+    },
+    {
+      "wikidata": ""
+    },
+    {
+      "wikidata": ""
+    },
+    {
+      "wikidata": ""
+    },
+    {
+      "wikidata": ""
+    },
+    {
+      "wikidata": ""
+    },
+    {
+      "wikidata": ""
+    },
+    {
+      "wikidata": ""
+    },
+    {
+      "wikidata": ""
+    },
+    {
+      "wikidata": ""
+    },
+    {
+      "wikidata": ""
+    },
+    {
+      "wikidata": ""
+    },
+    {
+      "wikidata": ""
+    },
+    {
+      "wikidata": ""
+    },
+    {
+      "wikidata": "Q21428148"
+    },
+    {
+      "wikidata": "Q21010855"
+    },
+    {
+      "wikidata": "Q20745693"
+    },
+    {
+      "wikidata": "Q17020430"
+    },
+    {
+      "wikidata": "Q20751330"
+    },
+    {
+      "wikidata": "Q20647417"
+    },
+    {
+      "wikidata": "Q18389586"
+    },
+    {
+      "wikidata": "Q1757288"
+    },
+    {
+      "wikidata": ""
+    },
+    {
+      "wikidata": ""
+    },
+    {
+      "wikidata": "Q24278847"
+    },
+    {
+      "wikidata": "Q23013699"
+    },
+    {
+      "wikidata": "Q25136735"
+    },
+    {
+      "wikidata": "Q21010856"
+    },
+    {
+      "wikidata": ""
+    },
+    {
+      "wikidata": ""
+    },
+    {
+      "wikidata": "Q39074257"
+    },
+    {
+      "wikidata": "Q47244559"
+    },
+    {
+      "wikidata": "Q35144519"
+    },
+    {
+      "wikidata": "Q27959325"
+    },
+    {
+      "wikidata": "Q27962542"
+    },
+    {
+      "wikidata": "Q25212771"
+    },
+    {
+      "wikidata": ""
+    },
+    {
+      "wikidata": ""
+    },
+    {
+      "wikidata": "Q39659543"
+    },
+    {
+      "wikidata": "Q29262902"
+    },
+    {
+      "wikidata": "Q58814676"
+    },
+    {
+      "wikidata": ""
+    },
+    {
+      "wikidata": ""
+    },
+    {
+      "wikidata": "Q27703167"
+    },
+    {
+      "wikidata": "Q61450786"
+    },
+    {
+      "wikidata": "Q54801155"
+    },
+    {
+      "wikidata": "Q70842752"
+    },
+    {
+      "wikidata": "Q61740832"
+    },
+    {
+      "wikidata": "Q67171163"
+    },
+    {
+      "wikidata": "Q86501880"
+    },
+    {
+      "wikidata": "Q66712802"
+    },
+    {
+      "wikidata": "Q83726541"
+    },
+    {
+      "wikidata": "Q96406413"
+    },
+    {
+      "wikidata": "Q56274013"
+    },
+    {
+      "wikidata": "Q60737528"
+    },
+    {
+      "wikidata": ""
+    },
+    {
+      "wikidata": ""
+    },
+    {
+      "wikidata": "Q60737579"
+    },
+    {
+      "wikidata": "Q98126098"
+    },
+    {
+      "wikidata": "Q87519760"
+    },
+    {
+      "wikidata": "Q104374134"
+    },
+    {
+      "wikidata": "Q109442804"
+    },
+    {
+      "wikidata": "Q87654420"
+    },
+    {
+      "wikidata": "Q38686109"
+    },
+    {
+      "wikidata": "Q97355155"
+    },
+    {
+      "wikidata": "Q107105075"
+    },
+    {
+      "wikidata": "Q99751860"
+    },
+    {
+      "wikidata": "Q108030463"
+    },
+    {
+      "wikidata": ""
+    },
+    {
+      "wikidata": ""
+    },
+    {
+      "wikidata": "Q106462638"
+    }
+  ]
+}
