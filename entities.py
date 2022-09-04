@@ -4,10 +4,7 @@ import pathlib
 with open(pathlib.Path.cwd() / 'entities.js') as ent:
     ent = ent.read().split('\n')
     ent = [x.split('//')[0].strip() for x in ent]
-
-    # checking id validity here would be smart.
-
-    ent = [{'wikidata':x} for x in ent]
+    ent = [{'wikidata':x} for x in ent if 'Q' in x]
 
 export = {'entities': ent}
 
