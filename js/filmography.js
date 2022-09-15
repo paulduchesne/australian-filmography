@@ -318,6 +318,105 @@ async function parse_detail_data(d) {
   return top_collection;
 }
 
+
+async function draw_head_text(data1, data2) {
+
+  console.log(data1)
+
+  console.log(data1['title'])
+  let colour1 = "#D8DBE2"; // background
+  let colour2 = "#373F51"; // static
+  let colour3 = "#58A4B0"; // active
+
+      d3.select("#canvas")
+
+      .append("text")
+      .attr("class", "headertext")
+      .attr("x", 200)
+      .attr("y", (d, i) => {
+        return i * 20 + 200;
+      })
+      .attr("opacity", 0) // make 0 and transition up
+      .style("stroke", colour1)
+      .style("fill", colour1)
+      .attr("font-family", "Spartan")
+      .attr("font-weight", 800)
+      .attr("font-size", "50px")
+      .text(data1.title)
+
+      .append("tspan")
+      .attr("font-weight", 200)
+      .style("stroke", colour1)
+      .style("fill", colour1)
+      .text(" (")
+
+      .append("tspan")
+      .text(data1.year)
+
+      .style("stroke", colour3)
+      .style("fill", colour3)
+      .attr("font-weight", 200)
+      .on("click", (d, k) => {
+        return console.log(data1.year); // search by year
+      })
+      .append("tspan")
+      .attr("font-weight", 200)
+      .style("stroke", colour1)
+      .style("fill", colour1)
+      .text(")");
+
+
+// pull from director of detail view, as this is already split
+
+      console.log(data2.director)
+
+// director?
+
+// // //     d3.select("#canvas")
+// // //       .selectAll("g")
+// // //       .data(["blah"])
+// // //       .join("text")
+// // //       .attr("id", "testing")
+// // //       .attr("x", (d, i) => {
+// // //         return 200;
+// // //       })
+// // //       .attr("y", (d, i) => {
+// // //         return 250;
+// // //       })
+// // //       .attr("opacity", 0)
+// // //       .style("pointer-events", "all")
+// // //       .style("stroke", colour1)
+// // //       .style("fill", colour1)
+// // //       .attr("font-family", "Spartan")
+// // //       .attr("font-weight", 200)
+// // //       .text("dir. ");
+
+// // //     let director_list = x.film_detail.director;
+
+// // //     console.log("director list", director_list);
+
+// // //     director_list.forEach((d, i) => {
+// // //       if (i != 0) {
+// // //         d3.select("#testing").append("tspan").text(", ");
+// // //       }
+
+// // //       d3.select("#testing")
+// // //         .append("tspan")
+// // //         .style("stroke", colour3)
+// // //         .style("fill", colour3)
+// // //         .text(d.label)
+// // //         .on("click", (e, k) => {
+// // //           focus_attribute(d);
+// // //         });
+// // //     });
+
+
+
+
+      d3.select(".headertext").transition().duration(5000).style("opacity", 1);
+
+}
+
 async function draw_detail(data) {
 
 
@@ -333,7 +432,15 @@ async function draw_detail(data) {
 
   // okay you can grab this detail data and draw to screen
 
-  console.log("parsed", detail_data, data); // okay draw this thing to canvas
+  // console.log("parsed", detail_data, data); // okay draw this thing to canvas
+
+  await draw_head_text(data, detail_data)
+  // await draw_body_text()
+
+  // draw title
+
+
+
 
   // now we need a dedicated sparql query to pull up the second query
   // this is the detail_query
