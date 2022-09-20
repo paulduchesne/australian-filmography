@@ -1,4 +1,3 @@
-// filmography.js
 // pull data from wikidata and plot using d3.js
 
 async function setup_canvas() {
@@ -37,7 +36,7 @@ async function setup_canvas() {
     .style("stroke", colour2)
     .style("fill", colour2);
 
-  console.log("heck");
+  // console.log("heck");
 }
 
 async function load_json() {
@@ -295,7 +294,6 @@ async function parse_detail_data(d) {
   let top_collection = {};
 
   Object.keys(attributes).forEach((a) => {
-
     if (Object.keys(adjusted[0]).includes(a)) {
       let coll = [];
 
@@ -311,136 +309,181 @@ async function parse_detail_data(d) {
       top_collection[a] = filtered;
       // console.log('break')
     }
-
-
   });
 
   return top_collection;
 }
 
-
 async function draw_head_text(data1, data2) {
-
-  console.log(data1)
-
-  console.log(data1['title'])
   let colour1 = "#D8DBE2"; // background
   let colour2 = "#373F51"; // static
   let colour3 = "#58A4B0"; // active
 
+  d3.select("#canvas")
+
+    .append("text")
+    .attr("class", "headertext")
+    .attr("x", 200)
+    .attr("y", (d, i) => {
+      return i * 20 + 200;
+    })
+    .attr("opacity", 0) // make 0 and transition up
+    .style("stroke", colour1)
+    .style("fill", colour1)
+    .attr("font-family", "Spartan")
+    .attr("font-weight", 800)
+    .attr("font-size", "50px")
+    .text(data1.title)
+
+    .append("tspan")
+    .attr("font-weight", 200)
+    .style("stroke", colour1)
+    .style("fill", colour1)
+    .text(" (")
+
+    .append("tspan")
+    .text(data1.year)
+
+    .style("stroke", colour3)
+    .style("fill", colour3)
+    .attr("font-weight", 200)
+    .on("click", (d, k) => {
+      return console.log(data1.year); // search by year
+    })
+    .append("tspan")
+    .attr("font-weight", 200)
+    .style("stroke", colour1)
+    .style("fill", colour1)
+    .text(")");
+
+  d3.select("#canvas")
+    .selectAll("g")
+    .data(["blah"])
+    .join("text")
+    .attr("class", "testing")
+    .attr("x", (d, i) => {
+      return 200;
+    })
+    .attr("y", (d, i) => {
+      return 250;
+    })
+    .attr("opacity", 0)
+    .style("pointer-events", "all")
+    .style("stroke", colour1)
+    .style("fill", colour1)
+    .attr("font-family", "Spartan")
+    .attr("font-weight", 200)
+    .text("dir. ");
+
+  // let director_list = data2.director;
+
+  data2.director.forEach((d, i) => {
+    // console.log(d, i)
+    if (i != 0) {
+      d3.select(".testing").append("tspan").text(", ");
+    }
+
+    d3.select(".testing")
+      .append("tspan")
+      .style("stroke", colour3) // COLOUR3
+      .style("fill", colour3) // COLOUR3
+      .style("opacity", 1)
+      .text(d.label)
+      .on("click", (e, k) => {
+        console.log("clicked");
+        // focus_attribute(d);
+      });
+  });
+
+  let sorter = [
+    { name: "cast", keys: ["actor", "voice"] },
+    { name: "crew", keys: ["writer", "dop", "editor", "composer", "producer"] },
+    { name: "info", keys: ["genre", "rating", "colour", "aspect", "duration"] },
+  ];
+
+  let detail_body = {};
+
+  sorter.forEach((d) => {
+    let detail_role = {};
+    Object.entries(data2).forEach((x) => {
+      if (d["keys"].includes(x[0])) {
+        detail_role[x[0]] = x[1];
+      }
+    });
+    detail_body[d["name"]] = detail_role;
+  });
+
+  console.log(detail_body);
+
+  // Is there a point to collecting and then traversing?
+  // the below code could probably be integrated above.
+
+  Object.entries(detail_body).forEach((d, i) => {
+    // console.log(d,i);
+
+    let drop = 0;
+
+    Object.entries(d[1]).forEach((e, j) => {
       d3.select("#canvas")
+        .append("text")
+        .attr("class", "castlabel")
+        .attr("x", 200 + i * 500)
+        .attr("y", drop * 20 + 400)
+        .attr("opacity", 0)
+        // .style("pointer-events", "all")
+        .style("stroke", colour1)
+        .style("fill", colour1)
+        .attr("font-family", "Spartan")
+        .attr("font-weight", 200)
+        .text(e[0]);
 
-      .append("text")
-      .attr("class", "headertext")
-      .attr("x", 200)
-      .attr("y", (d, i) => {
-        return i * 20 + 200;
-      })
-      .attr("opacity", 0) // make 0 and transition up
-      .style("stroke", colour1)
-      .style("fill", colour1)
-      .attr("font-family", "Spartan")
-      .attr("font-weight", 800)
-      .attr("font-size", "50px")
-      .text(data1.title)
+      Object.entries(e[1]).forEach((f, k) => {
+        d3.select("#canvas")
+          .append("text")
+          .attr("class", "casttext")
+          .attr("x", 200 + i * 500 + 100)
+          .attr("y", drop * 20 + 400)
+          .attr("opacity", 0)
+          .style("pointer-events", "all")
+          .style("stroke", colour3)
+          .style("fill", colour3)
+          .attr("font-family", "Spartan")
+          .attr("font-weight", 200)
+          .text(f[1]["label"])
+          .on("click", (d, k) => {
+            console.log("clicked detail");
+            // focus_attribute(k);
+          });
 
-      .append("tspan")
-      .attr("font-weight", 200)
-      .style("stroke", colour1)
-      .style("fill", colour1)
-      .text(" (")
+        drop += 1;
+      });
+    });
+  });
 
-      .append("tspan")
-      .text(data1.year)
-
-      .style("stroke", colour3)
-      .style("fill", colour3)
-      .attr("font-weight", 200)
-      .on("click", (d, k) => {
-        return console.log(data1.year); // search by year
-      })
-      .append("tspan")
-      .attr("font-weight", 200)
-      .style("stroke", colour1)
-      .style("fill", colour1)
-      .text(")");
-
-
-// pull from director of detail view, as this is already split
-
-      console.log(data2.director)
-
-// director?
-
-// // //     d3.select("#canvas")
-// // //       .selectAll("g")
-// // //       .data(["blah"])
-// // //       .join("text")
-// // //       .attr("id", "testing")
-// // //       .attr("x", (d, i) => {
-// // //         return 200;
-// // //       })
-// // //       .attr("y", (d, i) => {
-// // //         return 250;
-// // //       })
-// // //       .attr("opacity", 0)
-// // //       .style("pointer-events", "all")
-// // //       .style("stroke", colour1)
-// // //       .style("fill", colour1)
-// // //       .attr("font-family", "Spartan")
-// // //       .attr("font-weight", 200)
-// // //       .text("dir. ");
-
-// // //     let director_list = x.film_detail.director;
-
-// // //     console.log("director list", director_list);
-
-// // //     director_list.forEach((d, i) => {
-// // //       if (i != 0) {
-// // //         d3.select("#testing").append("tspan").text(", ");
-// // //       }
-
-// // //       d3.select("#testing")
-// // //         .append("tspan")
-// // //         .style("stroke", colour3)
-// // //         .style("fill", colour3)
-// // //         .text(d.label)
-// // //         .on("click", (e, k) => {
-// // //           focus_attribute(d);
-// // //         });
-// // //     });
-
-
-
-
-      d3.select(".headertext").transition().duration(5000).style("opacity", 1);
-
+  d3.select(".headertext").transition().duration(5000).style("opacity", 1);
+  d3.select(".testing").transition().duration(5000).style("opacity", 1);
+  d3.selectAll(".castlabel").transition().duration(5000).style("opacity", 1);
+  d3.selectAll(".casttext").transition().duration(5000).style("opacity", 1);
 }
 
 async function draw_detail(data) {
-
-
   await draw_detail_window();
   let detail_wikidata = await detail_query(data);
 
-  console.log(detail_wikidata);
+  // console.log(detail_wikidata);
 
   // parse this into something usable parse_detail_data
 
   let detail_data = await parse_detail_data(detail_wikidata);
 
-
   // okay you can grab this detail data and draw to screen
 
   // console.log("parsed", detail_data, data); // okay draw this thing to canvas
 
-  await draw_head_text(data, detail_data)
+  await draw_head_text(data, detail_data);
   // await draw_body_text()
 
   // draw title
-
-
-
 
   // now we need a dedicated sparql query to pull up the second query
   // this is the detail_query
@@ -488,13 +531,13 @@ async function draw_circles(data) {
 }
 
 async function australian_filmography() {
-  console.log("boing");
+  // console.log("boing");
 
   // setup d3 env (possibly with loading status)
 
   await setup_canvas();
 
-  let data_set  = await load_json();
+  let data_set = await load_json();
   let mapped_data = await map_entities(data_set);
   let question = await cycle_query(mapped_data);
   let sparql_parsed = await sparql_parsing(question);
