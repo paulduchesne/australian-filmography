@@ -460,10 +460,62 @@ async function draw_head_text(data1, data2) {
     });
   });
 
+  const distance = 15
+
+
+    d3.select("#canvas")
+    .append("line")
+    .attr("class", "cross")
+    .attr("x1", 0 + distance)
+    .attr("x2", 20 + distance)
+    .attr("y1", 20 + distance)
+    .attr("y2", 0 + distance)
+    .attr("opacity", 0)
+    .style("stroke-width", "4px")
+    .style("stroke", colour1)
+    .style("fill", colour1);
+
+  d3.select("#canvas")
+    .append("line")
+    .attr("class", "cross")
+    .attr("x1", 20 + distance)
+    .attr("x2", 0 + distance)
+    .attr("y1", 20 + distance)
+    .attr("y2", 0 + distance)
+    .attr("opacity", 0)
+    .style("stroke-width", "4px")
+    .style("stroke", colour1)
+    .style("fill", colour1);
+
+
+    // actually transparent box is what takes you back
+
+
+      d3.select("#canvas")
+    .append("rect")
+    .attr("x", distance)
+    .attr("y", distance)
+    .attr("width", 20)
+    .attr("height", 20)
+    .style("fill", "aqua")
+    .style("opacity", 0)
+    .on("click", (e, k) => {
+      console.log("exit detail")
+      d3.select(".detail_back").remove();
+      d3.select(".headertext").remove();
+      d3.select(".testing").remove();
+      d3.selectAll(".castlabel").remove();
+      d3.selectAll(".casttext").remove();
+      d3.selectAll(".cross").remove();
+      
+    });
+
+
   d3.select(".headertext").transition().duration(5000).style("opacity", 1);
   d3.select(".testing").transition().duration(5000).style("opacity", 1);
   d3.selectAll(".castlabel").transition().duration(5000).style("opacity", 1);
   d3.selectAll(".casttext").transition().duration(5000).style("opacity", 1);
+  d3.selectAll(".cross").transition().duration(5000).style("opacity", 1);
 }
 
 async function draw_detail(data) {
