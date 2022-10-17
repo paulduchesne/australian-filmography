@@ -314,6 +314,79 @@ async function parse_detail_data(d) {
   return top_collection;
 }
 
+async function find_individual(wd) {
+  // find triples matching individual.
+  let query = `select ?a  where { ?a ?b wd:` + wd + `}`;
+  let sparql_request = d3.json(
+    `https://query.wikidata.org/sparql?query=${encodeURIComponent(query)}`,
+    { headers: { accept: "application/sparql-results+json" } }
+  );
+  return sparql_request;
+}
+
+async function focus_attribute(d) {
+
+  console.log(d)
+  // focus specific nodes based on selected entity.
+
+  let colour1 = "#D8DBE2"; // background
+  let colour2 = "#373F51"; // static
+  let colour3 = "#58A4B0"; // active
+
+  let attribute = d.link.split("/");
+  attribute = attribute[attribute.length - 1];
+
+  console.log(attribute)
+  let associations = await find_individual(attribute);
+  associations = associations.results.bindings;
+  let association_list = [...new Set(associations.map((d) => d.a.value))];
+
+  console.log(association_list)
+
+
+
+  // d3.selectAll(".round-focus").attr("class", 'round')
+
+  // d3.selectAll(".round").attr("class", (d) => {
+  //   if (association_list.includes(d.film)) { return 'round-focus' } else { return 'round' }});
+
+  d3.select(".detail_back").remove();
+  d3.select(".headertext").remove();
+  d3.select(".testing").remove();
+  d3.selectAll(".castlabel").remove();
+  d3.selectAll(".casttext").remove();
+  d3.selectAll(".cross").remove();
+
+}
+
+// async function focus_attribute(d) {
+//   // focus specific attribute
+
+//   let colour1 = "#D8DBE2"; // background
+//   let colour2 = "#373F51"; // static
+//   let colour3 = "#58A4B0"; // active
+
+//   let attribute = d.link.split('/');
+//   attribute = attribute[attribute.length -1]
+
+
+
+
+
+
+
+
+
+
+// }
+
+
+
+
+
+
+
+
 async function draw_head_text(data1, data2) {
   let colour1 = "#D8DBE2"; // background
   let colour2 = "#373F51"; // static
@@ -390,8 +463,8 @@ async function draw_head_text(data1, data2) {
       .style("opacity", 1)
       .text(d.label)
       .on("click", (e, k) => {
-        console.log("clicked");
-        // focus_attribute(d);
+        // console.log("clicked");
+        focus_attribute(d);
       });
   });
 
@@ -451,8 +524,8 @@ async function draw_head_text(data1, data2) {
           .attr("font-weight", 200)
           .text(f[1]["label"])
           .on("click", (d, k) => {
-            console.log("clicked detail");
-            // focus_attribute(k);
+            // console.log("clicked detail");
+            focus_attribute(f[1]);
           });
 
         drop += 1;
