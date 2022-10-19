@@ -1,5 +1,100 @@
 // pull data from wikidata and plot using d3.js
 
+async function draw_about() {
+
+  let colour1 = "#D8DBE2"; // background
+  let colour2 = "#373F51"; // static
+  let colour3 = "#58A4B0"; // active
+
+  d3.select("#canvas")
+  .append("rect")
+  .attr("class", "about_back")
+  .attr("x", 0)
+  .attr("y", 0)
+  .attr("width", "100%")
+  .attr("height", "100%")
+  .attr("opacity", 0)
+  .style("pointer-events", "all")
+  .style("fill", colour1)
+  .on("click", () => {
+    console.log('exit')
+    d3.selectAll('.about_back').remove()
+    d3.selectAll('.about_text1').remove()
+    d3.selectAll('.about_text2').remove()
+  });
+    
+  d3.select("#canvas")
+    .append("text")
+    .attr("class", "about_text1")
+    .attr("x", 100)
+    .attr("y", 150)
+    .attr("opacity", 0)
+    .style("stroke", colour3)
+    .style("fill", colour3)
+    .style("pointer-events", "none")
+    .attr("font-family", "Spartan")
+    .attr("font-weight", 500)
+    .text("The ")
+    .append("tspan")
+    .style("stroke", colour2)
+    .style("fill", colour2)
+    .text("Australian Filmography ")
+    .append("tspan")
+    .style("stroke", colour3)
+    .style("fill", colour3)
+    .text("is an ongoing experiment involving the data visualisation of Creative Commons Zero data related to Australian Film.")
+
+  d3.select("#canvas")
+    .append("text")
+    .attr("class", "about_text2")
+    .attr("x", 100)
+    .attr("y", 190)
+    .attr("opacity", 0)
+    .style("stroke", colour3)
+    .style("fill", colour3)
+    .style("pointer-events", "none")
+    .attr("font-family", "Spartan")
+    .attr("font-weight", 500)
+    .text("All code by ")
+    .append("tspan")
+    .style("stroke", colour2)
+    .style("fill", colour2)
+    .text("Paul Duchesne")
+    .append("tspan")
+    .style("stroke", colour3)
+    .style("fill", colour3)
+    .text(". ")
+    .append("tspan")
+    .attr("id", "about_text3")
+    .style("stroke", colour3)
+    .style("fill", colour3)
+    .text("All data from ")
+    .append("tspan")
+    .style("stroke", colour2)
+    .style("fill", colour2)
+    .text("Wikidata")
+    .append("tspan")
+    .style("stroke", colour3)
+    .style("fill", colour3)
+    .text(". ")
+    .append("tspan")
+    .style("stroke", colour3)
+    .style("fill", colour3)
+    .text("The font is ")
+    .append("tspan")
+    .style("stroke", colour2)
+    .style("fill", colour2)
+    .text("Spartan")
+    .append("tspan")
+    .style("stroke", colour3)
+    .style("fill", colour3)
+    .text(".")
+
+  d3.selectAll('.about_back').transition().duration(500).style("opacity", 1)
+  d3.selectAll('.about_text1').transition('x').delay(1500).duration(1000).style('opacity', 1)
+  d3.selectAll('.about_text2').transition('x').delay(2500).duration(1000).style('opacity', 1)
+}
+
 async function setup_canvas() {
   let colour1 = "#D8DBE2"; // background
   let colour2 = "#373F51"; // static
@@ -23,7 +118,19 @@ async function setup_canvas() {
     .style("fill", colour2)
     .attr("font-family", "Spartan")
     .attr("font-weight", 500)
-    .text("AUSTRALIAN FILMOGRAPHY");
+    .text("AUSTRALIAN FILMOGRAPHY")
+    .append("tspan")
+    .attr("font-weight", 200)
+    .style("stroke", colour3)
+    .style("fill", colour3)
+    .text(" // ")
+    .append("tspan")
+    .attr("font-weight", 200)
+    .style("stroke", colour3)
+    .style("fill", colour3)
+    .text("ABOUT")
+    .on("click", () => draw_about());
+    
 
   d3.select("#canvas")
     .append("line")
