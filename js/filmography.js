@@ -142,15 +142,15 @@ async function sparql_parsing(x) {
 
 async function draw_summary(x, y, text1, text2, film_id, col, inj) {
 
-  console.log('my_data_x', x)
+  // console.log('my_data_x', x)
 
-  console.log('my_data_y', y)
-
-
-  console.log('my_data_text1', text1)
+  // console.log('my_data_y', y)
 
 
-  console.log('my_data_text2', text2)
+  // console.log('my_data_text1', text1)
+
+
+  // console.log('my_data_text2', text2)
   let colour1 = "#D8DBE2"; // background
   let colour2 = "#373F51"; // static
   let colour3 = "#58A4B0"; // active
@@ -348,7 +348,7 @@ async function find_individual(wd) {
 
 async function focus_attribute(d) {
 
-  console.log(d)
+  // console.log(d)
   // focus specific nodes based on selected entity.
 
   let colour1 = "#D8DBE2"; // background
@@ -358,12 +358,12 @@ async function focus_attribute(d) {
   let attribute = d.link.split("/");
   attribute = attribute[attribute.length - 1];
 
-  console.log(attribute)
+  // console.log(attribute)
   let associations = await find_individual(attribute);
   associations = associations.results.bindings;
   let association_list = [...new Set(associations.map((d) => d.a.value))];
 
-  console.log(association_list)
+  // console.log(association_list)
 
 
 
@@ -424,7 +424,7 @@ async function focus_attribute(d) {
   d3.selectAll(".castlabel").remove();
   d3.selectAll(".casttext").remove();
   d3.selectAll(".cross").remove();
-
+  d3.selectAll(".editlink").remove();
 }
 
 // async function focus_attribute(d) {
@@ -554,10 +554,12 @@ async function draw_head_text(data1, data2) {
     detail_body[d["name"]] = detail_role;
   });
 
-  console.log(detail_body);
+  // console.log(detail_body);
 
   // Is there a point to collecting and then traversing?
   // the below code could probably be integrated above.
+
+  let lowest_point = 0
 
   Object.entries(detail_body).forEach((d, i) => {
     // console.log(d,i);
@@ -597,9 +599,37 @@ async function draw_head_text(data1, data2) {
           });
 
         drop += 1;
+
+        let new_low = drop * 20 + 400
+
+        if (new_low > lowest_point) {return lowest_point = new_low}
       });
     });
   });
+
+  // console.log(lowest_point)
+// console.log('data1', data1)
+// console.log('data2', data2)
+  d3.select("#canvas")
+  .append("text")
+  .attr("class", "editlink")
+  .attr("x", 200)
+  .attr("y", lowest_point+50)
+  .attr("opacity", 0)
+  .style("pointer-events", "all")
+  .style("stroke", colour1)
+  .style("fill", colour1)
+  .attr("font-family", "Spartan")
+  .attr("font-weight", 200)
+  .text('found an error? ')
+  .append("tspan")
+  .style("stroke", colour3)
+  .style("fill", colour3)
+  .attr("font-family", "Spartan")
+  .attr("font-weight", 200)
+  .text('edit the data.')
+  .on("click", function() { window.open(data1.wikidata); })
+
 
   const distance = 15
 
@@ -641,13 +671,14 @@ async function draw_head_text(data1, data2) {
     .style("fill", "aqua")
     .style("opacity", 0)
     .on("click", (e, k) => {
-      console.log("exit detail")
+      // console.log("exit detail")
       d3.select(".detail_back").remove();
       d3.select(".headertext").remove();
       d3.select(".testing").remove();
       d3.selectAll(".castlabel").remove();
       d3.selectAll(".casttext").remove();
       d3.selectAll(".cross").remove();
+      d3.selectAll(".editlink").remove();
       
     });
 
@@ -657,6 +688,7 @@ async function draw_head_text(data1, data2) {
   d3.selectAll(".castlabel").transition().duration(5000).style("opacity", 1);
   d3.selectAll(".casttext").transition().duration(5000).style("opacity", 1);
   d3.selectAll(".cross").transition().duration(5000).style("opacity", 1);
+  d3.selectAll(".editlink").transition().duration(5000).style("opacity", 1);
 }
 
 async function draw_detail(data) {
@@ -709,9 +741,9 @@ async function draw_circles(data) {
     // .style("fill", colour2)
     .on("mouseover", (k, d) => {
 
-  console.log(k, d)
+  // console.log(k, d)
 
-  console.log(d.trigger)
+  // console.log(d.trigger)
 
   if (d.active == 'neg')
 
@@ -735,7 +767,7 @@ async function draw_circles(data) {
 
 
       // draw_summary(k.x, k.y, d.label, d.director, d.film, my_colour);
-      console.log(d, 'this data?')
+      // console.log(d, 'this data?')
     })
     .on("mouseout", () => {
       d3.selectAll(".summary_box").remove();
@@ -771,7 +803,7 @@ async function australian_filmography() {
 
   await draw_circles(sparql_parsed);
 
-  console.log(sparql_parsed);
+  // console.log(sparql_parsed);
 
   // populate d3 with start position
 
