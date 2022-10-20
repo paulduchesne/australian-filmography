@@ -1,5 +1,100 @@
 // pull data from wikidata and plot using d3.js
 
+async function draw_about() {
+
+  let colour1 = "#D8DBE2"; // background
+  let colour2 = "#373F51"; // static
+  let colour3 = "#58A4B0"; // active
+
+  d3.select("#canvas")
+  .append("rect")
+  .attr("class", "about_back")
+  .attr("x", 0)
+  .attr("y", 0)
+  .attr("width", "100%")
+  .attr("height", "100%")
+  .attr("opacity", 0)
+  .style("pointer-events", "all")
+  .style("fill", colour1)
+  .on("click", () => {
+    console.log('exit')
+    d3.selectAll('.about_back').remove()
+    d3.selectAll('.about_text1').remove()
+    d3.selectAll('.about_text2').remove()
+  });
+    
+  d3.select("#canvas")
+    .append("text")
+    .attr("class", "about_text1")
+    .attr("x", 100)
+    .attr("y", 150)
+    .attr("opacity", 0)
+    .style("stroke", colour3)
+    .style("fill", colour3)
+    .style("pointer-events", "none")
+    .attr("font-family", "Spartan")
+    .attr("font-weight", 500)
+    .text("The ")
+    .append("tspan")
+    .style("stroke", colour2)
+    .style("fill", colour2)
+    .text("Australian Filmography ")
+    .append("tspan")
+    .style("stroke", colour3)
+    .style("fill", colour3)
+    .text("is an ongoing experiment involving the data visualisation of Creative Commons Zero data related to Australian Film.")
+
+  d3.select("#canvas")
+    .append("text")
+    .attr("class", "about_text2")
+    .attr("x", 100)
+    .attr("y", 190)
+    .attr("opacity", 0)
+    .style("stroke", colour3)
+    .style("fill", colour3)
+    .style("pointer-events", "none")
+    .attr("font-family", "Spartan")
+    .attr("font-weight", 500)
+    .text("All code by ")
+    .append("tspan")
+    .style("stroke", colour2)
+    .style("fill", colour2)
+    .text("Paul Duchesne")
+    .append("tspan")
+    .style("stroke", colour3)
+    .style("fill", colour3)
+    .text(". ")
+    .append("tspan")
+    .attr("id", "about_text3")
+    .style("stroke", colour3)
+    .style("fill", colour3)
+    .text("All data from ")
+    .append("tspan")
+    .style("stroke", colour2)
+    .style("fill", colour2)
+    .text("Wikidata")
+    .append("tspan")
+    .style("stroke", colour3)
+    .style("fill", colour3)
+    .text(". ")
+    .append("tspan")
+    .style("stroke", colour3)
+    .style("fill", colour3)
+    .text("The font is ")
+    .append("tspan")
+    .style("stroke", colour2)
+    .style("fill", colour2)
+    .text("Spartan")
+    .append("tspan")
+    .style("stroke", colour3)
+    .style("fill", colour3)
+    .text(".")
+
+  d3.selectAll('.about_back').transition().duration(500).style("opacity", 1)
+  d3.selectAll('.about_text1').transition('x').delay(1500).duration(1000).style('opacity', 1)
+  d3.selectAll('.about_text2').transition('x').delay(2500).duration(1000).style('opacity', 1)
+}
+
 async function setup_canvas() {
   let colour1 = "#D8DBE2"; // background
   let colour2 = "#373F51"; // static
@@ -23,7 +118,19 @@ async function setup_canvas() {
     .style("fill", colour2)
     .attr("font-family", "Spartan")
     .attr("font-weight", 500)
-    .text("AUSTRALIAN FILMOGRAPHY");
+    .text("AUSTRALIAN FILMOGRAPHY")
+    .append("tspan")
+    .attr("font-weight", 200)
+    .style("stroke", colour3)
+    .style("fill", colour3)
+    .text(" // ")
+    .append("tspan")
+    .attr("font-weight", 200)
+    .style("stroke", colour3)
+    .style("fill", colour3)
+    .text("ABOUT")
+    .on("click", () => draw_about());
+    
 
   d3.select("#canvas")
     .append("line")
@@ -359,6 +466,55 @@ async function find_individual(wd, wdt) {
         }
       }
 
+
+async function focus_clear(d) {
+  let colour1 = "#D8DBE2"; // background
+  let colour2 = "#373F51"; // static
+  let colour3 = "#58A4B0"; // active
+
+  d3.select(".clear_box").remove()
+  d3.select(".clear_text").remove()
+
+  d3.select("#canvas")
+    .append("rect")
+    .attr("class", "clear_box")
+    .attr("x", 100)
+    .attr("y", 100-15)
+    .attr("rx", 10)
+    .attr("ry", 10)
+    .attr("width", 20)
+    .attr("height", 35)
+    .style("fill", colour2)
+    .style("opacity", 1)
+    .on("click", () => {
+      d3.select(".clear_box").remove()
+      d3.select(".clear_text").remove()
+      d3.selectAll(".round-focus").attr("class", 'round')
+      d3.selectAll(".round").transition().duration(1000).attr("cy", (d) => d.y)
+      d3.selectAll(".round").attr("trigger", (d) => { return d.active = 'neg'})
+    })
+
+  d3.select("#canvas")
+    .append("text")
+    .attr("class", "clear_text")
+    .attr("x", 120)
+    .attr("y", 123-15)
+    .style("pointer-events", "none")
+    .attr("opacity", 1) // make 0 and transition up
+    .style("stroke", colour3)
+    .style("fill", colour3)
+    .attr("font-family", "Spartan")
+    .attr("font-weight", 500)
+    .text(d)
+
+  let clear_width = d3.select(".clear_text").node().getBBox().width + 40;
+  d3.select(".clear_box").attr("width", clear_width);
+
+}
+
+
+
+
 async function focus_attribute(d, prop) {
 
   // console.log(d)
@@ -368,70 +524,37 @@ async function focus_attribute(d, prop) {
   let colour2 = "#373F51"; // static
   let colour3 = "#58A4B0"; // active
 
+
+
+ 
+
   let attribute = d.link.split("/");
   attribute = attribute[attribute.length - 1];
 
   // console.log(attribute)
+
   let associations = await find_individual(attribute, prop);
   console.log(associations)
+
 
   associations = associations.results.bindings;
   let association_list = [...new Set(associations.map((d) => d.a.value))];
 
-  // console.log(association_list)
 
 
+// also shift all the circles down here.
 
   d3.selectAll(".round-focus").attr("class", 'round')
+  d3.selectAll(".round").attr("cy", (d) => d.y+45)
+  d3.selectAll(".round").attr("class", (d) => { console.log(d)
+
 
   d3.selectAll(".round").attr("class", (d) => { 
-    // console.log(d)
+
     if (association_list.includes(d.wikidata)) { return 'round-focus' } else { return 'round' }});
 
-
     d3.selectAll(".round-focus").attr("trigger", (d) => { return d.active = 'pos'})
-
     d3.selectAll(".round").attr("trigger", (d) => { return d.active = 'neg'})
-
-
-
-      // if (association_list.includes(d.wikidata)) { return d.trigger = 'YEAH' } else { return d.trigger ='NOPE' }});
-  
-
-
-    // d3.selectAll(".summary_box").remove();
-
-    // // d3.selectAll(".summary_box-focus").attr("class", 'summary_box')
-
-    // // d3.select(".summary_box").attr("fill", (d) => { console.log(d)
-    // //   if (association_list.includes(d.wikidata)) { return 'green' } else { return 'orange' }});
-  
-
-    // d3.selectAll(".summary_box").style("stroke", "green");
-  
-    // d3.selectAll(".summary_box").style("fill", "green");
-  
-    // d3.selectAll(".summary_box").attr("stroke", "green");
-  
-    // d3.selectAll(".summary_box").attr("fill", "green");
-
-    // d3.select(".summary_box").style("stroke", "green");
-  
-    // d3.select(".summary_box").style("fill", "green");
-  
-    // d3.select(".summary_box").attr("stroke", "green");
-  
-    // d3.select(".summary_box").attr("fill", "green");
-  
-
-  //   if (association_list.includes(d.film)) { return 'round-focus' } else { return 'round' }});
-
-
-  //   d3.selectAll(".summary_box-focus").attr("class", 'summary_box')
-
-  //   d3.selectAll(".summary_box").attr("class", (d) => {
-  //     if (association_list.includes(d.film)) { return 'summary_box-focus' } else { return 'summary_box' }});
-  
 
 
   d3.select(".detail_back").remove();
@@ -440,29 +563,10 @@ async function focus_attribute(d, prop) {
   d3.selectAll(".castlabel").remove();
   d3.selectAll(".casttext").remove();
   d3.selectAll(".cross").remove();
-
+  d3.selectAll(".editlink").remove();
+  
+  focus_clear(d.label)
 }
-
-// async function focus_attribute(d) {
-//   // focus specific attribute
-
-//   let colour1 = "#D8DBE2"; // background
-//   let colour2 = "#373F51"; // static
-//   let colour3 = "#58A4B0"; // active
-
-//   let attribute = d.link.split('/');
-//   attribute = attribute[attribute.length -1]
-
-
-
-
-
-
-
-
-
-
-// }
 
 
 
@@ -577,6 +681,8 @@ async function draw_head_text(data1, data2) {
   // Is there a point to collecting and then traversing?
   // the below code could probably be integrated above.
 
+  let lowest_point = 0
+
   Object.entries(detail_body).forEach((d, i) => {
     // console.log(d,i);
 
@@ -628,9 +734,37 @@ async function draw_head_text(data1, data2) {
           });
 
         drop += 1;
+
+        let new_low = drop * 20 + 400
+
+        if (new_low > lowest_point) {return lowest_point = new_low}
       });
     });
   });
+
+  // console.log(lowest_point)
+// console.log('data1', data1)
+// console.log('data2', data2)
+  d3.select("#canvas")
+  .append("text")
+  .attr("class", "editlink")
+  .attr("x", 200)
+  .attr("y", lowest_point+50)
+  .attr("opacity", 0)
+  .style("pointer-events", "all")
+  .style("stroke", colour1)
+  .style("fill", colour1)
+  .attr("font-family", "Spartan")
+  .attr("font-weight", 200)
+  .text('found an error? ')
+  .append("tspan")
+  .style("stroke", colour3)
+  .style("fill", colour3)
+  .attr("font-family", "Spartan")
+  .attr("font-weight", 200)
+  .text('edit the data.')
+  .on("click", function() { window.open(data1.wikidata); })
+
 
   const distance = 15
 
@@ -679,6 +813,7 @@ async function draw_head_text(data1, data2) {
       d3.selectAll(".castlabel").remove();
       d3.selectAll(".casttext").remove();
       d3.selectAll(".cross").remove();
+      d3.selectAll(".editlink").remove();
       
     });
 
@@ -688,6 +823,7 @@ async function draw_head_text(data1, data2) {
   d3.selectAll(".castlabel").transition().duration(5000).style("opacity", 1);
   d3.selectAll(".casttext").transition().duration(5000).style("opacity", 1);
   d3.selectAll(".cross").transition().duration(5000).style("opacity", 1);
+  d3.selectAll(".editlink").transition().duration(5000).style("opacity", 1);
 }
 
 async function draw_detail(data) {
