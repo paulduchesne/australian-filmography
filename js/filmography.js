@@ -477,6 +477,7 @@ async function focus_clear(d) {
       d3.select(".clear_text").remove()
       d3.selectAll(".round-focus").attr("class", 'round')
       d3.selectAll(".round").transition().duration(1000).attr("cy", (d) => d.y)
+      d3.selectAll(".round").attr("trigger", (d) => { return d.active = 'neg'})
     })
 
   d3.select("#canvas")
