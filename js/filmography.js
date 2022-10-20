@@ -42,7 +42,7 @@ async function draw_about() {
     .append("tspan")
     .style("stroke", colour3)
     .style("fill", colour3)
-    .text("is an ongoing experiment involving the data visualisation of Creative Commons Zero data related to Australian Film.")
+    .text("is an ongoing experiment involving visualisation of Creative Commons Zero data related to Australian Film.")
 
   d3.select("#canvas")
     .append("text")
@@ -546,7 +546,6 @@ async function focus_attribute(d, prop) {
 
   d3.selectAll(".round-focus").attr("class", 'round')
   d3.selectAll(".round").attr("cy", (d) => d.y+45)
-  d3.selectAll(".round").attr("class", (d) => { console.log(d)
 
 
   d3.selectAll(".round").attr("class", (d) => { 
