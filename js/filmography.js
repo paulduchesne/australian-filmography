@@ -443,15 +443,29 @@ async function parse_detail_data(d) {
   return top_collection;
 }
 
-async function find_individual(wd) {
-  // find triples matching individual.
-  let query = `select ?a  where { ?a ?b wd:` + wd + `}`;
-  let sparql_request = d3.json(
-    `https://query.wikidata.org/sparql?query=${encodeURIComponent(query)}`,
-    { headers: { accept: "application/sparql-results+json" } }
-  );
-  return sparql_request;
-}
+async function find_individual(wd, wdt) {
+  
+  if (wdt == 'year') {
+    let query = `select ?a where { ?a wdt:P31 wd:Q11424; wdt:P495 wd:Q408; wdt:P577 ?year. filter (year(?year) = ` + wd + `). }`;
+    let sparql_request = d3.json(
+      `https://query.wikidata.org/sparql?query=${encodeURIComponent(query)}`,
+      { headers: { accept: "application/sparql-results+json" } });
+      return sparql_request;
+    } else if (wdt == 'duration') {
+      let query = `select ?a where { ?a wdt:P31 wd:Q11424; wdt:P2047 `+wd+`. }`
+      let sparql_request = d3.json(
+        `https://query.wikidata.org/sparql?query=${encodeURIComponent(query)}`,
+        { headers: { accept: "application/sparql-results+json" } });
+        return sparql_request;
+      } else {
+        let query = `select ?a  where { ?a ?b wd:` + wd + `}`;
+        let sparql_request = d3.json(
+          `https://query.wikidata.org/sparql?query=${encodeURIComponent(query)}`,
+          { headers: { accept: "application/sparql-results+json" } });
+          return sparql_request;
+        }
+      }
+
 
 async function focus_clear(d) {
   let colour1 = "#D8DBE2"; // background
@@ -498,9 +512,12 @@ async function focus_clear(d) {
 
 }
 
-async function focus_attribute(d) {
 
 
+
+async function focus_attribute(d, prop) {
+
+  // console.log(d)
   // focus specific nodes based on selected entity.
 
   let colour1 = "#D8DBE2"; // background
@@ -515,18 +532,25 @@ async function focus_attribute(d) {
   attribute = attribute[attribute.length - 1];
 
   // console.log(attribute)
-  let associations = await find_individual(attribute);
+
+  let associations = await find_individual(attribute, prop);
+  console.log(associations)
+
+
   associations = associations.results.bindings;
   let association_list = [...new Set(associations.map((d) => d.a.value))];
 
-  // console.log(association_list)
+
 
 // also shift all the circles down here.
 
   d3.selectAll(".round-focus").attr("class", 'round')
-
   d3.selectAll(".round").attr("cy", (d) => d.y+45)
   d3.selectAll(".round").attr("class", (d) => { console.log(d)
+
+
+  d3.selectAll(".round").attr("class", (d) => { 
+
     if (association_list.includes(d.wikidata)) { return 'round-focus' } else { return 'round' }});
 
     d3.selectAll(".round-focus").attr("trigger", (d) => { return d.active = 'pos'})
@@ -581,11 +605,13 @@ async function draw_head_text(data1, data2) {
     .append("tspan")
     .text(data1.year)
 
-    .style("stroke", colour3)
-    .style("fill", colour3)
+    .style("stroke", colour1)
+    .style("fill", colour1)
     .attr("font-weight", 200)
     .on("click", (d, k) => {
-      return console.log(data1.year); // search by year
+      // year is currently not working, sparql query just hangs.
+      console.log(data1.year)
+      // find_individual(data1.year, 'year')
     })
     .append("tspan")
     .attr("font-weight", 200)
@@ -628,7 +654,7 @@ async function draw_head_text(data1, data2) {
       .text(d.label)
       .on("click", (e, k) => {
         // console.log("clicked");
-        focus_attribute(d);
+        focus_attribute(d, 'director');
       });
   });
 
@@ -690,8 +716,21 @@ async function draw_head_text(data1, data2) {
           .attr("font-weight", 200)
           .text(f[1]["label"])
           .on("click", (d, k) => {
-            // console.log("clicked detail");
-            focus_attribute(f[1]);
+            // console.log("clicked d",d); // can you pull property from here?
+            // console.log("clicked k",k); // can you pull property from here?
+            // console.log("clicked f",f); // can you pull property from here?
+            // console.log("clicked e", e[0]); // can you pull property from here?
+            // console.log("clicked j",j); // can you pull property from here?
+
+            // console.log("clicked d",d); // can you pull property from here?
+
+            // console.log("clicked i", i); // can you pull property from here?
+
+
+
+
+
+            focus_attribute(f[1], e[0]);
           });
 
         drop += 1;
