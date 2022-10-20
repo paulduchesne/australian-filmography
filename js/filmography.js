@@ -142,15 +142,15 @@ async function sparql_parsing(x) {
 
 async function draw_summary(x, y, text1, text2, film_id, col, inj) {
 
-  console.log('my_data_x', x)
+  // console.log('my_data_x', x)
 
-  console.log('my_data_y', y)
-
-
-  console.log('my_data_text1', text1)
+  // console.log('my_data_y', y)
 
 
-  console.log('my_data_text2', text2)
+  // console.log('my_data_text1', text1)
+
+
+  // console.log('my_data_text2', text2)
   let colour1 = "#D8DBE2"; // background
   let colour2 = "#373F51"; // static
   let colour3 = "#58A4B0"; // active
@@ -336,19 +336,32 @@ async function parse_detail_data(d) {
   return top_collection;
 }
 
-async function find_individual(wd) {
-  // find triples matching individual.
-  let query = `select ?a  where { ?a ?b wd:` + wd + `}`;
-  let sparql_request = d3.json(
-    `https://query.wikidata.org/sparql?query=${encodeURIComponent(query)}`,
-    { headers: { accept: "application/sparql-results+json" } }
-  );
-  return sparql_request;
-}
+async function find_individual(wd, wdt) {
+  
+  if (wdt == 'year') {
+    let query = `select ?a where { ?a wdt:P31 wd:Q11424; wdt:P495 wd:Q408; wdt:P577 ?year. filter (year(?year) = ` + wd + `). }`;
+    let sparql_request = d3.json(
+      `https://query.wikidata.org/sparql?query=${encodeURIComponent(query)}`,
+      { headers: { accept: "application/sparql-results+json" } });
+      return sparql_request;
+    } else if (wdt == 'duration') {
+      let query = `select ?a where { ?a wdt:P31 wd:Q11424; wdt:P2047 `+wd+`. }`
+      let sparql_request = d3.json(
+        `https://query.wikidata.org/sparql?query=${encodeURIComponent(query)}`,
+        { headers: { accept: "application/sparql-results+json" } });
+        return sparql_request;
+      } else {
+        let query = `select ?a  where { ?a ?b wd:` + wd + `}`;
+        let sparql_request = d3.json(
+          `https://query.wikidata.org/sparql?query=${encodeURIComponent(query)}`,
+          { headers: { accept: "application/sparql-results+json" } });
+          return sparql_request;
+        }
+      }
 
-async function focus_attribute(d) {
+async function focus_attribute(d, prop) {
 
-  console.log(d)
+  // console.log(d)
   // focus specific nodes based on selected entity.
 
   let colour1 = "#D8DBE2"; // background
@@ -358,18 +371,21 @@ async function focus_attribute(d) {
   let attribute = d.link.split("/");
   attribute = attribute[attribute.length - 1];
 
-  console.log(attribute)
-  let associations = await find_individual(attribute);
+  // console.log(attribute)
+  let associations = await find_individual(attribute, prop);
+  console.log(associations)
+
   associations = associations.results.bindings;
   let association_list = [...new Set(associations.map((d) => d.a.value))];
 
-  console.log(association_list)
+  // console.log(association_list)
 
 
 
   d3.selectAll(".round-focus").attr("class", 'round')
 
-  d3.selectAll(".round").attr("class", (d) => { console.log(d)
+  d3.selectAll(".round").attr("class", (d) => { 
+    // console.log(d)
     if (association_list.includes(d.wikidata)) { return 'round-focus' } else { return 'round' }});
 
 
@@ -485,11 +501,13 @@ async function draw_head_text(data1, data2) {
     .append("tspan")
     .text(data1.year)
 
-    .style("stroke", colour3)
-    .style("fill", colour3)
+    .style("stroke", colour1)
+    .style("fill", colour1)
     .attr("font-weight", 200)
     .on("click", (d, k) => {
-      return console.log(data1.year); // search by year
+      // year is currently not working, sparql query just hangs.
+      console.log(data1.year)
+      // find_individual(data1.year, 'year')
     })
     .append("tspan")
     .attr("font-weight", 200)
@@ -532,7 +550,7 @@ async function draw_head_text(data1, data2) {
       .text(d.label)
       .on("click", (e, k) => {
         // console.log("clicked");
-        focus_attribute(d);
+        focus_attribute(d, 'director');
       });
   });
 
@@ -554,7 +572,7 @@ async function draw_head_text(data1, data2) {
     detail_body[d["name"]] = detail_role;
   });
 
-  console.log(detail_body);
+  // console.log(detail_body);
 
   // Is there a point to collecting and then traversing?
   // the below code could probably be integrated above.
@@ -592,8 +610,21 @@ async function draw_head_text(data1, data2) {
           .attr("font-weight", 200)
           .text(f[1]["label"])
           .on("click", (d, k) => {
-            // console.log("clicked detail");
-            focus_attribute(f[1]);
+            // console.log("clicked d",d); // can you pull property from here?
+            // console.log("clicked k",k); // can you pull property from here?
+            // console.log("clicked f",f); // can you pull property from here?
+            // console.log("clicked e", e[0]); // can you pull property from here?
+            // console.log("clicked j",j); // can you pull property from here?
+
+            // console.log("clicked d",d); // can you pull property from here?
+
+            // console.log("clicked i", i); // can you pull property from here?
+
+
+
+
+
+            focus_attribute(f[1], e[0]);
           });
 
         drop += 1;
@@ -641,7 +672,7 @@ async function draw_head_text(data1, data2) {
     .style("fill", "aqua")
     .style("opacity", 0)
     .on("click", (e, k) => {
-      console.log("exit detail")
+      // console.log("exit detail")
       d3.select(".detail_back").remove();
       d3.select(".headertext").remove();
       d3.select(".testing").remove();
@@ -709,9 +740,9 @@ async function draw_circles(data) {
     // .style("fill", colour2)
     .on("mouseover", (k, d) => {
 
-  console.log(k, d)
+  // console.log(k, d)
 
-  console.log(d.trigger)
+  // console.log(d.trigger)
 
   if (d.active == 'neg')
 
@@ -735,7 +766,7 @@ async function draw_circles(data) {
 
 
       // draw_summary(k.x, k.y, d.label, d.director, d.film, my_colour);
-      console.log(d, 'this data?')
+      // console.log(d, 'this data?')
     })
     .on("mouseout", () => {
       d3.selectAll(".summary_box").remove();
@@ -771,7 +802,7 @@ async function australian_filmography() {
 
   await draw_circles(sparql_parsed);
 
-  console.log(sparql_parsed);
+  // console.log(sparql_parsed);
 
   // populate d3 with start position
 
