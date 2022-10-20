@@ -453,14 +453,62 @@ async function find_individual(wd) {
   return sparql_request;
 }
 
+async function focus_clear(d) {
+  let colour1 = "#D8DBE2"; // background
+  let colour2 = "#373F51"; // static
+  let colour3 = "#58A4B0"; // active
+
+  d3.select(".clear_box").remove()
+  d3.select(".clear_text").remove()
+
+  d3.select("#canvas")
+    .append("rect")
+    .attr("class", "clear_box")
+    .attr("x", 100)
+    .attr("y", 100-15)
+    .attr("rx", 10)
+    .attr("ry", 10)
+    .attr("width", 20)
+    .attr("height", 35)
+    .style("fill", colour2)
+    .style("opacity", 1)
+    .on("click", () => {
+      d3.select(".clear_box").remove()
+      d3.select(".clear_text").remove()
+      d3.selectAll(".round-focus").attr("class", 'round')
+      d3.selectAll(".round").transition().duration(1000).attr("cy", (d) => d.y)
+    })
+
+  d3.select("#canvas")
+    .append("text")
+    .attr("class", "clear_text")
+    .attr("x", 120)
+    .attr("y", 123-15)
+    .style("pointer-events", "none")
+    .attr("opacity", 1) // make 0 and transition up
+    .style("stroke", colour3)
+    .style("fill", colour3)
+    .attr("font-family", "Spartan")
+    .attr("font-weight", 500)
+    .text(d)
+
+  let clear_width = d3.select(".clear_text").node().getBBox().width + 40;
+  d3.select(".clear_box").attr("width", clear_width);
+
+}
+
 async function focus_attribute(d) {
 
-  // console.log(d)
+
   // focus specific nodes based on selected entity.
 
   let colour1 = "#D8DBE2"; // background
   let colour2 = "#373F51"; // static
   let colour3 = "#58A4B0"; // active
+
+
+
+ 
 
   let attribute = d.link.split("/");
   attribute = attribute[attribute.length - 1];
@@ -472,57 +520,16 @@ async function focus_attribute(d) {
 
   // console.log(association_list)
 
-
+// also shift all the circles down here.
 
   d3.selectAll(".round-focus").attr("class", 'round')
 
+  d3.selectAll(".round").attr("cy", (d) => d.y+45)
   d3.selectAll(".round").attr("class", (d) => { console.log(d)
     if (association_list.includes(d.wikidata)) { return 'round-focus' } else { return 'round' }});
 
-
     d3.selectAll(".round-focus").attr("trigger", (d) => { return d.active = 'pos'})
-
     d3.selectAll(".round").attr("trigger", (d) => { return d.active = 'neg'})
-
-
-
-      // if (association_list.includes(d.wikidata)) { return d.trigger = 'YEAH' } else { return d.trigger ='NOPE' }});
-  
-
-
-    // d3.selectAll(".summary_box").remove();
-
-    // // d3.selectAll(".summary_box-focus").attr("class", 'summary_box')
-
-    // // d3.select(".summary_box").attr("fill", (d) => { console.log(d)
-    // //   if (association_list.includes(d.wikidata)) { return 'green' } else { return 'orange' }});
-  
-
-    // d3.selectAll(".summary_box").style("stroke", "green");
-  
-    // d3.selectAll(".summary_box").style("fill", "green");
-  
-    // d3.selectAll(".summary_box").attr("stroke", "green");
-  
-    // d3.selectAll(".summary_box").attr("fill", "green");
-
-    // d3.select(".summary_box").style("stroke", "green");
-  
-    // d3.select(".summary_box").style("fill", "green");
-  
-    // d3.select(".summary_box").attr("stroke", "green");
-  
-    // d3.select(".summary_box").attr("fill", "green");
-  
-
-  //   if (association_list.includes(d.film)) { return 'round-focus' } else { return 'round' }});
-
-
-  //   d3.selectAll(".summary_box-focus").attr("class", 'summary_box')
-
-  //   d3.selectAll(".summary_box").attr("class", (d) => {
-  //     if (association_list.includes(d.film)) { return 'summary_box-focus' } else { return 'summary_box' }});
-  
 
 
   d3.select(".detail_back").remove();
@@ -532,28 +539,9 @@ async function focus_attribute(d) {
   d3.selectAll(".casttext").remove();
   d3.selectAll(".cross").remove();
   d3.selectAll(".editlink").remove();
+  
+  focus_clear(d.label)
 }
-
-// async function focus_attribute(d) {
-//   // focus specific attribute
-
-//   let colour1 = "#D8DBE2"; // background
-//   let colour2 = "#373F51"; // static
-//   let colour3 = "#58A4B0"; // active
-
-//   let attribute = d.link.split('/');
-//   attribute = attribute[attribute.length -1]
-
-
-
-
-
-
-
-
-
-
-// }
 
 
 
