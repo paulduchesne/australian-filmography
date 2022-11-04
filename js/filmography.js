@@ -146,73 +146,65 @@ async function setup_canvas() {
   // console.log("heck");
 }
 
-async function load_json() {
-  // load predefined list of accepted Australian feature films.
-  let film_list = d3.json("./entities.json");
-  return film_list;
-}
+// async function load_json() {
+//   // load predefined list of accepted Australian feature films.
+//   let film_list = d3.json("./entities.json");
+//   return film_list;
+// }
 
-async function map_entities(x) {
-  // map object to array, and cut into batches.
-  let j = x.entities.map((d) => {
-    return d.wikidata;
-  });
+// async function map_entities(x) {
+//   // map object to array, and cut into batches.
+//   let j = x.entities.map((d) => {
+//     return d.wikidata;
+//   });
 
-  const batch_count = Math.ceil(j.length / 100);
-  let batches = Array();
-  for (let i = 0; i < batch_count; i++) {
-    batches[i] = j.slice(i * 100, (i + 1) * 100);
-  }
-  return batches;
-}
+//   const batch_count = Math.ceil(j.length / 100);
+//   let batches = Array();
+//   for (let i = 0; i < batch_count; i++) {
+//     batches[i] = j.slice(i * 100, (i + 1) * 100);
+//   }
+//   return batches;
+// }
 
-async function query_wikidata(y) {
-  // send batches to wikidata.
-  return new Promise((resolve) => {
-    setTimeout(() => {
-      let wd_list = "wd:" + y.join(" wd:");
-      let query =
-        `select ?film ?filmLabel ?dirLabel ?year where {
-           values ?film { wd:` +
-        wd_list +
-        ` } .
-         ?film wdt:P57 ?dir .
-         ?film  wdt:P577 ?year .
-         service wikibase:label {bd:serviceParam wikibase:language "en". }}`;
-      let sparql_request = d3.json(
-        `https://query.wikidata.org/sparql?query=${encodeURIComponent(query)}`,
-        { headers: { accept: "application/sparql-results+json" } }
-      );
-      resolve(sparql_request);
-    }, 500);
-  });
-}
+// async function query_wikidata(y) {
+//   // send batches to wikidata.
+//   return new Promise((resolve) => {
+//     setTimeout(() => {
+//       let wd_list = "wd:" + y.join(" wd:");
+//       let query =
+//         `select ?film ?filmLabel ?dirLabel ?year where {
+//            values ?film { wd:` +
+//         wd_list +
+//         ` } .
+//          ?film wdt:P57 ?dir .
+//          ?film  wdt:P577 ?year .
+//          service wikibase:label {bd:serviceParam wikibase:language "en". }}`;
+//       let sparql_request = d3.json(
+//         `https://query.wikidata.org/sparql?query=${encodeURIComponent(query)}`,
+//         { headers: { accept: "application/sparql-results+json" } }
+//       );
+//       resolve(sparql_request);
+//     }, 500);
+//   });
+// }
 
-async function cycle_query(x) {
-  // cycle through batches.
-  var initial_dataset = [];
-  for (const id of x) {
-    const data_chunk = await query_wikidata(id);
-    initial_dataset.push(data_chunk);
-  }
-  return initial_dataset;
-}
+// async function cycle_query(x) {
+//   // cycle through batches.
+//   var initial_dataset = [];
+//   for (const id of x) {
+//     const data_chunk = await query_wikidata(id);
+//     initial_dataset.push(data_chunk);
+//   }
+//   return initial_dataset;
+// }
 
-async function sparql_parsing(x) {
-  let flat_array = [];
-
-  x.forEach((d1) => {
-    let mid = d1.results.bindings;
-    mid.forEach((d2) => {
-      flat_array.push(d2);
-    });
-  });
+async function parse_data(data) {
 
   let film_array = [];
 
-  flat_array.forEach((d4) => {
-    if (!film_array.includes(d4.film.value)) {
-      film_array.push(d4.film.value);
+  data.forEach((d) => {
+    if (!film_array.includes(d.film)) {
+      film_array.push(d.film);
     }
   });
 
@@ -221,26 +213,30 @@ async function sparql_parsing(x) {
   });
 
   film_array.forEach((d) => {
-    let select = flat_array.filter((k) => {
-      return k.film.value == d.film;
+    let select = data.filter((k) => {
+      return k.film == d.film;
     });
+
+    console.log(select)
     let years = [];
     select.forEach((b) => {
-      years.push(parseInt(b.year.value.slice(0, 4)));
+      years.push(parseInt(b.year.slice(0, 4)));
     });
     d.year = Math.min(...years);
     d.title = select.map((a) => {
-      return a.filmLabel.value;
+      return a.filmLabel;
     })[0];
     d.director = Array.from(
       new Set(
         select.map((a) => {
-          return a.dirLabel.value;
+          return a.dirLabel;
         })
       )
     ).join(", ");
     d.label = d.title + " [" + d.year + "]";
   });
+
+  console.log(film_array)
 
   film_array.sort((a, b) => (a.year > b.year ? 1 : -1));
 
@@ -921,21 +917,27 @@ async function draw_circles(data) {
   // on mouseover do something
 }
 
+async function pull_json(path) {
+  return d3.json(path)
+}
+
 async function australian_filmography() {
   // console.log("boing");
 
   // setup d3 env (possibly with loading status)
 
-  let association_list = [];
+  // let association_list = [];
 
   await setup_canvas();
 
-  let data_set = await load_json();
-  let mapped_data = await map_entities(data_set);
-  let question = await cycle_query(mapped_data);
-  let sparql_parsed = await sparql_parsing(question);
+  let dataset = await pull_json('https://raw.githubusercontent.com/paulduchesne/australian-film-data/2-cache-data/cache/json/overview.json')
+  // console.log(dataset)
 
-  await draw_circles(sparql_parsed);
+  let dataset2 = await parse_data(dataset)
+
+  console.log(dataset2)
+
+  await draw_circles(dataset2);
 
   // console.log(sparql_parsed);
 
