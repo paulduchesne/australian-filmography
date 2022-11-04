@@ -1,3 +1,5 @@
+
+// australian-filmography.js
 // pull data from wikidata and plot using d3.js
 
 async function draw_about() {
@@ -7,22 +9,22 @@ async function draw_about() {
   let colour3 = "#58A4B0"; // active
 
   d3.select("#canvas")
-  .append("rect")
-  .attr("class", "about_back")
-  .attr("x", 0)
-  .attr("y", 0)
-  .attr("width", "100%")
-  .attr("height", "100%")
-  .attr("opacity", 0)
-  .style("pointer-events", "all")
-  .style("fill", colour1)
-  .on("click", () => {
-    console.log('exit')
-    d3.selectAll('.about_back').remove()
-    d3.selectAll('.about_text1').remove()
-    d3.selectAll('.about_text2').remove()
-  });
-    
+    .append("rect")
+    .attr("class", "about_back")
+    .attr("x", 0)
+    .attr("y", 0)
+    .attr("width", "100%")
+    .attr("height", "100%")
+    .attr("opacity", 0)
+    .style("pointer-events", "all")
+    .style("fill", colour1)
+    .on("click", () => {
+      console.log('exit')
+      d3.selectAll('.about_back').remove()
+      d3.selectAll('.about_text1').remove()
+      d3.selectAll('.about_text2').remove()
+    });
+
   d3.select("#canvas")
     .append("text")
     .attr("class", "about_text1")
@@ -130,7 +132,7 @@ async function setup_canvas() {
     .style("fill", colour3)
     .text("ABOUT")
     .on("click", () => draw_about());
-    
+
 
   d3.select("#canvas")
     .append("line")
@@ -142,61 +144,7 @@ async function setup_canvas() {
     .style("stroke-width", "10px")
     .style("stroke", colour2)
     .style("fill", colour2);
-
-  // console.log("heck");
 }
-
-// async function load_json() {
-//   // load predefined list of accepted Australian feature films.
-//   let film_list = d3.json("./entities.json");
-//   return film_list;
-// }
-
-// async function map_entities(x) {
-//   // map object to array, and cut into batches.
-//   let j = x.entities.map((d) => {
-//     return d.wikidata;
-//   });
-
-//   const batch_count = Math.ceil(j.length / 100);
-//   let batches = Array();
-//   for (let i = 0; i < batch_count; i++) {
-//     batches[i] = j.slice(i * 100, (i + 1) * 100);
-//   }
-//   return batches;
-// }
-
-// async function query_wikidata(y) {
-//   // send batches to wikidata.
-//   return new Promise((resolve) => {
-//     setTimeout(() => {
-//       let wd_list = "wd:" + y.join(" wd:");
-//       let query =
-//         `select ?film ?filmLabel ?dirLabel ?year where {
-//            values ?film { wd:` +
-//         wd_list +
-//         ` } .
-//          ?film wdt:P57 ?dir .
-//          ?film  wdt:P577 ?year .
-//          service wikibase:label {bd:serviceParam wikibase:language "en". }}`;
-//       let sparql_request = d3.json(
-//         `https://query.wikidata.org/sparql?query=${encodeURIComponent(query)}`,
-//         { headers: { accept: "application/sparql-results+json" } }
-//       );
-//       resolve(sparql_request);
-//     }, 500);
-//   });
-// }
-
-// async function cycle_query(x) {
-//   // cycle through batches.
-//   var initial_dataset = [];
-//   for (const id of x) {
-//     const data_chunk = await query_wikidata(id);
-//     initial_dataset.push(data_chunk);
-//   }
-//   return initial_dataset;
-// }
 
 async function parse_data(data) {
 
@@ -245,22 +193,13 @@ async function parse_data(data) {
 
 async function draw_summary(x, y, text1, text2, film_id, col, inj) {
 
-  // console.log('my_data_x', x)
-
-  // console.log('my_data_y', y)
-
-
-  // console.log('my_data_text1', text1)
-
-
-  // console.log('my_data_text2', text2)
   let colour1 = "#D8DBE2"; // background
   let colour2 = "#373F51"; // static
   let colour3 = "#58A4B0"; // active
 
   d3.select("#canvas")
     .append("rect")
-    .attr("class", 'summary_box'+inj)
+    .attr("class", 'summary_box' + inj)
     .attr('wikidata', film_id)
     .attr("x", x)
     .attr("y", y)
@@ -270,54 +209,47 @@ async function draw_summary(x, y, text1, text2, film_id, col, inj) {
     .attr("height", 80)
     .attr("opacity", 1)
     .style("pointer-events", "none")
-    // .style("stroke", col)
-    // .style("fill", col);
+
 
   d3.select("#canvas")
     .append("text")
-    .attr("class", "summary_text1"+inj)
+    .attr("class", "summary_text1" + inj)
     .attr("x", x + 20)
     .attr("y", y + 30)
     .attr("opacity", 1)
     .style("pointer-events", "none")
-    // .style("stroke", colour2) //colour2
-    // .style("fill", colour2) //colour2
     .attr("font-family", "Spartan")
     .attr("font-weight", 500)
     .text(text1);
 
   d3.select("#canvas")
     .append("text")
-    .attr("class", "summary_text2"+inj)
+    .attr("class", "summary_text2" + inj)
     .attr("x", x + 20)
     .attr("y", y + 60)
     .attr("opacity", 1)
     .style("pointer-events", "none")
-    // .style("stroke", colour2) //colour2
-    // .style("fill", colour2) //colour2
     .attr("font-family", "Spartan")
     .attr("font-weight", 200)
     .text(text2);
 
-    if (inj == '') {
-  let text_size1 = d3.select(".summary_text1").node().getBBox().width + 40;
-  let text_size2 = d3.select(".summary_text2").node().getBBox().width + 40;
-  let text_max = Math.max(text_size1, text_size2);
-  d3.select(".summary_box").attr("width", text_max);
-    } else {
+  if (inj == '') {
+    let text_size1 = d3.select(".summary_text1").node().getBBox().width + 40;
+    let text_size2 = d3.select(".summary_text2").node().getBBox().width + 40;
+    let text_max = Math.max(text_size1, text_size2);
+    d3.select(".summary_box").attr("width", text_max);
+  } else {
 
-  let text_size1 = d3.select(".summary_text1-focus").node().getBBox().width + 40;
-  let text_size2 = d3.select(".summary_text2-focus").node().getBBox().width + 40;
-  let text_max = Math.max(text_size1, text_size2);
-  d3.select(".summary_box-focus").attr("width", text_max);
+    let text_size1 = d3.select(".summary_text1-focus").node().getBBox().width + 40;
+    let text_size2 = d3.select(".summary_text2-focus").node().getBBox().width + 40;
+    let text_max = Math.max(text_size1, text_size2);
+    d3.select(".summary_box-focus").attr("width", text_max);
 
-    }
-
-  // d3.select(".summary_box").attr("fill", "green");
+  }
 }
 
 async function draw_detail_window() {
-  // okay we need to draw the blue window and the x mark
+
   let colour1 = "#D8DBE2"; // background
   let colour2 = "#373F51"; // static
   let colour3 = "#58A4B0"; // active
@@ -337,7 +269,6 @@ async function draw_detail_window() {
     .duration(500)
     .style("opacity", 1);
 
-  // return ''
 }
 
 async function send_sparql_query(q) {
@@ -352,9 +283,6 @@ async function send_sparql_query(q) {
 async function detail_query(data) {
   let wikidata_id = data.film.split("/");
   wikidata_id = wikidata_id[wikidata_id.length - 1];
-  // console.log('hello', wikidata_id)
-
-  // you want to build this up programmatically
 
   let attributes = {
     director: "P57",
@@ -378,8 +306,8 @@ async function detail_query(data) {
   build_query += " where {";
   Object.entries(attributes).forEach(
     (d) =>
-      (build_query +=
-        " optional { wd:" + wikidata_id + " wdt:" + d[1] + " ?" + d[0] + ".}")
+    (build_query +=
+      " optional { wd:" + wikidata_id + " wdt:" + d[1] + " ?" + d[0] + ".}")
   );
   build_query +=
     ' service wikibase:label {bd:serviceParam wikibase:language "en". }}';
@@ -391,14 +319,11 @@ async function detail_query(data) {
     { headers: { accept: "application/sparql-results+json" } }
   );
 
-  // console.log(sparql_request)
   return sparql_request;
 }
 
 async function parse_detail_data(d) {
   let adjusted = d.results.bindings;
-
-  // console.log('first instance', adjusted[0])
 
   let attributes = {
     director: "P57",
@@ -426,13 +351,8 @@ async function parse_detail_data(d) {
         coll.push({ link: b[a].value, label: b[a + "Label"].value });
       });
 
-      // console.log(coll)
-
       filtered = Array.from(new Set(coll.map(JSON.stringify))).map(JSON.parse);
-
-      // console.log(filtered)
       top_collection[a] = filtered;
-      // console.log('break')
     }
   });
 
@@ -440,28 +360,27 @@ async function parse_detail_data(d) {
 }
 
 async function find_individual(wd, wdt) {
-  
+
   if (wdt == 'year') {
     let query = `select ?a where { ?a wdt:P31 wd:Q11424; wdt:P495 wd:Q408; wdt:P577 ?year. filter (year(?year) = ` + wd + `). }`;
     let sparql_request = d3.json(
       `https://query.wikidata.org/sparql?query=${encodeURIComponent(query)}`,
       { headers: { accept: "application/sparql-results+json" } });
-      return sparql_request;
-    } else if (wdt == 'duration') {
-      let query = `select ?a where { ?a wdt:P31 wd:Q11424; wdt:P2047 `+wd+`. }`
-      let sparql_request = d3.json(
-        `https://query.wikidata.org/sparql?query=${encodeURIComponent(query)}`,
-        { headers: { accept: "application/sparql-results+json" } });
-        return sparql_request;
-      } else {
-        let query = `select ?a  where { ?a ?b wd:` + wd + `}`;
-        let sparql_request = d3.json(
-          `https://query.wikidata.org/sparql?query=${encodeURIComponent(query)}`,
-          { headers: { accept: "application/sparql-results+json" } });
-          return sparql_request;
-        }
-      }
-
+    return sparql_request;
+  } else if (wdt == 'duration') {
+    let query = `select ?a where { ?a wdt:P31 wd:Q11424; wdt:P2047 ` + wd + `. }`
+    let sparql_request = d3.json(
+      `https://query.wikidata.org/sparql?query=${encodeURIComponent(query)}`,
+      { headers: { accept: "application/sparql-results+json" } });
+    return sparql_request;
+  } else {
+    let query = `select ?a  where { ?a wdt:P495 wd:Q408; ?b wd:` + wd + `}`;
+    let sparql_request = d3.json(
+      `https://query.wikidata.org/sparql?query=${encodeURIComponent(query)}`,
+      { headers: { accept: "application/sparql-results+json" } });
+    return sparql_request;
+  }
+}
 
 async function focus_clear(d) {
   let colour1 = "#D8DBE2"; // background
@@ -475,7 +394,7 @@ async function focus_clear(d) {
     .append("rect")
     .attr("class", "clear_box")
     .attr("x", 100)
-    .attr("y", 100-15)
+    .attr("y", 100 - 15)
     .attr("rx", 10)
     .attr("ry", 10)
     .attr("width", 20)
@@ -487,14 +406,14 @@ async function focus_clear(d) {
       d3.select(".clear_text").remove()
       d3.selectAll(".round-focus").attr("class", 'round')
       d3.selectAll(".round").transition().duration(1000).attr("cy", (d) => d.y)
-      d3.selectAll(".round").attr("trigger", (d) => { return d.active = 'neg'})
+      d3.selectAll(".round").attr("trigger", (d) => { return d.active = 'neg' })
     })
 
   d3.select("#canvas")
     .append("text")
     .attr("class", "clear_text")
     .attr("x", 120)
-    .attr("y", 123-15)
+    .attr("y", 123 - 15)
     .style("pointer-events", "none")
     .attr("opacity", 1) // make 0 and transition up
     .style("stroke", colour3)
@@ -505,52 +424,32 @@ async function focus_clear(d) {
 
   let clear_width = d3.select(".clear_text").node().getBBox().width + 40;
   d3.select(".clear_box").attr("width", clear_width);
-
 }
 
-
-
-
 async function focus_attribute(d, prop) {
-
-  // console.log(d)
-  // focus specific nodes based on selected entity.
 
   let colour1 = "#D8DBE2"; // background
   let colour2 = "#373F51"; // static
   let colour3 = "#58A4B0"; // active
 
-
-
- 
-
   let attribute = d.link.split("/");
   attribute = attribute[attribute.length - 1];
-
-  // console.log(attribute)
 
   let associations = await find_individual(attribute, prop);
   console.log(associations)
 
-
   associations = associations.results.bindings;
   let association_list = [...new Set(associations.map((d) => d.a.value))];
 
-
-
-// also shift all the circles down here.
-
   d3.selectAll(".round-focus").attr("class", 'round')
-  d3.selectAll(".round").attr("cy", (d) => d.y+45)
+  d3.selectAll(".round").attr("cy", (d) => d.y + 45)
+  d3.selectAll(".round").attr("class", (d) => {
 
+    if (association_list.includes(d.wikidata)) { return 'round-focus' } else { return 'round' }
+  });
 
-  d3.selectAll(".round").attr("class", (d) => { 
-
-    if (association_list.includes(d.wikidata)) { return 'round-focus' } else { return 'round' }});
-
-    d3.selectAll(".round-focus").attr("trigger", (d) => { return d.active = 'pos'})
-    d3.selectAll(".round").attr("trigger", (d) => { return d.active = 'neg'})
-
+  d3.selectAll(".round-focus").attr("trigger", (d) => { return d.active = 'pos' })
+  d3.selectAll(".round").attr("trigger", (d) => { return d.active = 'neg' })
 
   d3.select(".detail_back").remove();
   d3.select(".headertext").remove();
@@ -559,16 +458,9 @@ async function focus_attribute(d, prop) {
   d3.selectAll(".casttext").remove();
   d3.selectAll(".cross").remove();
   d3.selectAll(".editlink").remove();
-  
+
   focus_clear(d.label)
 }
-
-
-
-
-
-
-
 
 async function draw_head_text(data1, data2) {
   let colour1 = "#D8DBE2"; // background
@@ -633,10 +525,7 @@ async function draw_head_text(data1, data2) {
     .attr("font-weight", 200)
     .text("dir. ");
 
-  // let director_list = data2.director;
-
   data2.director.forEach((d, i) => {
-    // console.log(d, i)
     if (i != 0) {
       d3.select(".testing").append("tspan").text(", ");
     }
@@ -648,7 +537,6 @@ async function draw_head_text(data1, data2) {
       .style("opacity", 1)
       .text(d.label)
       .on("click", (e, k) => {
-        // console.log("clicked");
         focus_attribute(d, 'director');
       });
   });
@@ -671,15 +559,12 @@ async function draw_head_text(data1, data2) {
     detail_body[d["name"]] = detail_role;
   });
 
-  // console.log(detail_body);
-
   // Is there a point to collecting and then traversing?
   // the below code could probably be integrated above.
 
   let lowest_point = 0
 
   Object.entries(detail_body).forEach((d, i) => {
-    // console.log(d,i);
 
     let drop = 0;
 
@@ -711,20 +596,6 @@ async function draw_head_text(data1, data2) {
           .attr("font-weight", 200)
           .text(f[1]["label"])
           .on("click", (d, k) => {
-            // console.log("clicked d",d); // can you pull property from here?
-            // console.log("clicked k",k); // can you pull property from here?
-            // console.log("clicked f",f); // can you pull property from here?
-            // console.log("clicked e", e[0]); // can you pull property from here?
-            // console.log("clicked j",j); // can you pull property from here?
-
-            // console.log("clicked d",d); // can you pull property from here?
-
-            // console.log("clicked i", i); // can you pull property from here?
-
-
-
-
-
             focus_attribute(f[1], e[0]);
           });
 
@@ -732,39 +603,36 @@ async function draw_head_text(data1, data2) {
 
         let new_low = drop * 20 + 400
 
-        if (new_low > lowest_point) {return lowest_point = new_low}
+        if (new_low > lowest_point) { return lowest_point = new_low }
       });
     });
   });
 
-  // console.log(lowest_point)
-// console.log('data1', data1)
-// console.log('data2', data2)
   d3.select("#canvas")
-  .append("text")
-  .attr("class", "editlink")
-  .attr("x", 200)
-  .attr("y", lowest_point+50)
-  .attr("opacity", 0)
-  .style("pointer-events", "all")
-  .style("stroke", colour1)
-  .style("fill", colour1)
-  .attr("font-family", "Spartan")
-  .attr("font-weight", 200)
-  .text('found an error? ')
-  .append("tspan")
-  .style("stroke", colour3)
-  .style("fill", colour3)
-  .attr("font-family", "Spartan")
-  .attr("font-weight", 200)
-  .text('edit the data.')
-  .on("click", function() { window.open(data1.wikidata); })
+    .append("text")
+    .attr("class", "editlink")
+    .attr("x", 200)
+    .attr("y", lowest_point + 50)
+    .attr("opacity", 0)
+    .style("pointer-events", "all")
+    .style("stroke", colour1)
+    .style("fill", colour1)
+    .attr("font-family", "Spartan")
+    .attr("font-weight", 200)
+    .text('found an error? ')
+    .append("tspan")
+    .style("stroke", colour3)
+    .style("fill", colour3)
+    .attr("font-family", "Spartan")
+    .attr("font-weight", 200)
+    .text('edit the data.')
+    .on("click", function () { window.open(data1.wikidata); })
 
 
   const distance = 15
 
 
-    d3.select("#canvas")
+  d3.select("#canvas")
     .append("line")
     .attr("class", "cross")
     .attr("x1", 0 + distance)
@@ -788,11 +656,7 @@ async function draw_head_text(data1, data2) {
     .style("stroke", colour1)
     .style("fill", colour1);
 
-
-    // actually transparent box is what takes you back
-
-
-      d3.select("#canvas")
+  d3.select("#canvas")
     .append("rect")
     .attr("x", distance)
     .attr("y", distance)
@@ -809,9 +673,8 @@ async function draw_head_text(data1, data2) {
       d3.selectAll(".casttext").remove();
       d3.selectAll(".cross").remove();
       d3.selectAll(".editlink").remove();
-      
-    });
 
+    });
 
   d3.select(".headertext").transition().duration(5000).style("opacity", 1);
   d3.select(".testing").transition().duration(5000).style("opacity", 1);
@@ -822,31 +685,12 @@ async function draw_head_text(data1, data2) {
 }
 
 async function draw_detail(data) {
+
   await draw_detail_window();
   let detail_wikidata = await detail_query(data);
-
-  // console.log(detail_wikidata);
-
-  // parse this into something usable parse_detail_data
-
   let detail_data = await parse_detail_data(detail_wikidata);
-
-  // okay you can grab this detail data and draw to screen
-
-  // console.log("parsed", detail_data, data); // okay draw this thing to canvas
-
   await draw_head_text(data, detail_data);
-  // await draw_body_text()
 
-  // draw title
-
-  // now we need a dedicated sparql query to pull up the second query
-  // this is the detail_query
-
-  // I think I want to bring up the detail window first
-  // this allows for "loading" graphic
-  // then draw sparql
-  // exit is a fade then a destroy
 }
 
 async function draw_circles(data) {
@@ -868,36 +712,18 @@ async function draw_circles(data) {
     .attr("cy", (d) => d.y)
     .attr("r", 10)
     .style("opacity", 0)
-    // .style("fill", colour2)
     .on("mouseover", (k, d) => {
 
-  // console.log(k, d)
+      if (d.active == 'neg') {
+        draw_summary(k.x, k.y, d.label, d.director, d.film, 'aqua', '')
 
-  // console.log(d.trigger)
-
-  if (d.active == 'neg')
-
-  { draw_summary(k.x, k.y, d.label, d.director, d.film, 'aqua', '')
-  
-
-  } else{
-
-    draw_summary(k.x, k.y, d.label, d.director, d.film, 'pink', '-focus')
+      } else {
+        cdraw_summary(k.x, k.y, d.label, d.director, d.film, 'pink', '-focus')
 
 
 
-  }
+      }
 
-  // console.log(d3.select('this').attr('cx'), 'ehllo paul')
-
-      // if (association_list.includes(d.film)) { 
-        
-      //   draw_summary(k.x, k.y, d.label, d.director, d.film, 'aqua');
-      //    } else {    draw_summary(k.x, k.y, d.label, d.director, d.film, 'pink'); };
-
-
-      // draw_summary(k.x, k.y, d.label, d.director, d.film, my_colour);
-      // console.log(d, 'this data?')
     })
     .on("mouseout", () => {
       d3.selectAll(".summary_box").remove();
@@ -910,11 +736,6 @@ async function draw_circles(data) {
     .on("click", (e, k) => draw_detail(k));
 
   d3.selectAll(".round").transition("a").duration(500).style("opacity", 1);
-  // d3.selectAll(".round").transition("b").duration(500).style("fill", colour3);
-  // .on("click", (d, k) = {});
-  // .on("click", (d, k) = {});
-
-  // on mouseover do something
 }
 
 async function pull_json(path) {
@@ -922,43 +743,12 @@ async function pull_json(path) {
 }
 
 async function australian_filmography() {
-  // console.log("boing");
-
-  // setup d3 env (possibly with loading status)
-
-  // let association_list = [];
 
   await setup_canvas();
-
   let dataset = await pull_json('https://raw.githubusercontent.com/paulduchesne/australian-film-data/2-cache-data/cache/json/overview.json')
-  // console.log(dataset)
-
   let dataset2 = await parse_data(dataset)
-
-  console.log(dataset2)
-
   await draw_circles(dataset2);
-
-  // console.log(sparql_parsed);
-
-  // populate d3 with start position
-
   console.log("do something else");
 }
 
 australian_filmography();
-
-
-// // // // work to be done:
-
-// // // // ---- split first wikidata query out into a module.
-
-// // // // ---- note that two feature currently have no directors listed, so test adding data wikidata side.
-
-// // // // ---- tweak to be able to select year and length
-
-// // // // ---- scroll graphs
-
-// // // // ---- add an "edit this data yourself" link
-
-// // // // ---- add an "about this project" page
