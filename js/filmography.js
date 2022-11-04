@@ -745,7 +745,7 @@ async function pull_json(path) {
 async function australian_filmography() {
 
   await setup_canvas();
-  let dataset = await pull_json('https://raw.githubusercontent.com/paulduchesne/australian-film-data/2-cache-data/cache/json/overview.json')
+  let dataset = await pull_json('https://raw.githubusercontent.com/paulduchesne/australian-film-data/main/cache/json/overview.json')
   let dataset2 = await parse_data(dataset)
   await draw_circles(dataset2);
   console.log("do something else");
