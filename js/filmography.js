@@ -718,7 +718,7 @@ async function draw_circles(data) {
         draw_summary(k.x, k.y, d.label, d.director, d.film, 'aqua', '')
 
       } else {
-        cdraw_summary(k.x, k.y, d.label, d.director, d.film, 'pink', '-focus')
+        draw_summary(k.x, k.y, d.label, d.director, d.film, 'pink', '-focus')
 
 
 
