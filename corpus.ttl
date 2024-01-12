@@ -1,0 +1,11 @@
+<http://www.wikidata.org/entity/Q1421747> a <http://ausfilm/model/film> .
+
+<http://www.wikidata.org/entity/Q180363> a <http://ausfilm/model/film> .
+
+<http://www.wikidata.org/entity/Q5467144> a <http://ausfilm/model/film> .
+
+<http://www.wikidata.org/entity/Q83495> a <http://ausfilm/model/film> .
+
+<http://www.wikidata.org/entity/Q87203764> a <http://ausfilm/model/film> .
+
+<http://www.wikidata.org/entity/Q16833576> a <http://ausfilm/model/film> .

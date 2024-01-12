@@ -1,231 +1,359 @@
-@prefix ns1: <//ausfilm/property/> .
+@prefix ns1: <http://ausfilm/model/> .
+@prefix ns2: <http://purl.org/dc/elements/1.1/> .
 @prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
 @prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
 
-<//ausfilm/entity/1f19bbe728063fbfdddbb910ccd88309> rdfs:label "Alexandra's Project"@en ;
-    ns1:actor <//ausfilm/attribute/1f75cd340beb294544ee12791e337031>,
-        <//ausfilm/attribute/a44138c8c775fdb17d6c167d2ed1c4dd> ;
-    ns1:colour <//ausfilm/attribute/02b38ab1011ed5fa5913c8da5bfcbd7a> ;
-    ns1:composer <//ausfilm/attribute/74c13405c98f860982b16f93047c71e5> ;
-    ns1:director <//ausfilm/attribute/71e9928454521a4faf8d7cc55f3ab8d0> ;
-    ns1:dop <//ausfilm/attribute/090727a4ab51fe5f2e0ef1a8cbaca2d7> ;
-    ns1:duration 99.0 ;
-    ns1:genre <//ausfilm/attribute/fef037e2bcf08c9dc157a4b3082a4ab9> ;
-    ns1:producer <//ausfilm/attribute/545b7ae967caf7ede7c69db65abe19d9> ;
-    ns1:writer <//ausfilm/attribute/71e9928454521a4faf8d7cc55f3ab8d0> ;
-    ns1:year "2003-01-01T00:00:00+00:00"^^xsd:dateTime .
-
-<//ausfilm/entity/34292bc6f165b3e62909ff89d12417e4> rdfs:label "Time In Summer"@en ;
-    ns1:director <//ausfilm/attribute/893fdb0d2b6e3ef27e74a30e1cc2f0c7> ;
-    ns1:year "1968-01-01T00:00:00+00:00"^^xsd:dateTime .
-
-<//ausfilm/entity/79e59e72aa7e88bfef67061df94e7e5e> rdfs:label "Picnic at Hanging Rock"@en ;
-    ns1:actor <//ausfilm/attribute/0d9061871ebd9a20a9a34da7bddf3ca3>,
-        <//ausfilm/attribute/59a04775878520fc342830604d397dc9>,
-        <//ausfilm/attribute/5bcf195d32e90c947d78280f2632fc9a>,
-        <//ausfilm/attribute/76f958361ef7d26e4649a6ebb29cb69b>,
-        <//ausfilm/attribute/8cf95109c8e66f66dc847d4d5b47fb7c>,
-        <//ausfilm/attribute/a611538fc248e3d1fbbf955e1a249ff9>,
-        <//ausfilm/attribute/b9194e3208523d27ee4471d88e3f08df>,
-        <//ausfilm/attribute/dfe5bce6a1dd0e98301232ba2e3cb248>,
-        <//ausfilm/attribute/efd0c8b2551a87c3c76582e5418ead65> ;
-    ns1:colour <//ausfilm/attribute/02b38ab1011ed5fa5913c8da5bfcbd7a> ;
-    ns1:composer <//ausfilm/attribute/758b308dcfaffae61f82b5ff1f55f0a6> ;
-    ns1:director <//ausfilm/attribute/390cac0b8739198eb1849ac228cfa1a7> ;
-    ns1:dop <//ausfilm/attribute/cd00e9d88bba036855ddaaa29277cd43> ;
-    ns1:duration 118.0 ;
-    ns1:genre <//ausfilm/attribute/0738e113d7991c490e072724960ab1f7>,
-        <//ausfilm/attribute/1273d53ae5f8e750cfc088611093cd5e>,
-        <//ausfilm/attribute/fef037e2bcf08c9dc157a4b3082a4ab9> ;
-    ns1:producer <//ausfilm/attribute/24622e3ce551243ef990ab3a4da369f5>,
-        <//ausfilm/attribute/97e8a33c2a820a132acb9a84da2184bf> ;
-    ns1:writer <//ausfilm/attribute/9a2adb1d8b1fe033cd255552cd832fcb> ;
-    ns1:year "1975-08-08T00:00:00+00:00"^^xsd:dateTime .
-
-<//ausfilm/entity/efad3ce4246a543c454b9987f38de907> rdfs:label "For the Term of His Natural Life"@en ;
-    ns1:actor <//ausfilm/attribute/a44797f321132848c0b0a4ade820585f> ;
-    ns1:colour <//ausfilm/attribute/dc3c4aa5f22a01eafdb1829ad6f562af> ;
-    ns1:director <//ausfilm/attribute/ce281ec4e907143ae03935d743022fea> ;
-    ns1:duration 101.0 ;
-    ns1:editor <//ausfilm/attribute/c7cd76cca084068ca17470dc8de734e8> ;
-    ns1:genre <//ausfilm/attribute/76204ec2e4107ef9947d6f0d24c466a1>,
-        <//ausfilm/attribute/e07f855c989b6336568c7f0f6fd8302d> ;
-    ns1:writer <//ausfilm/attribute/ce281ec4e907143ae03935d743022fea> ;
-    ns1:year "1927-01-01T00:00:00+00:00"^^xsd:dateTime .
-
-<//ausfilm/entity/fdda6cf7ba8538c1227834add33405ff> rdfs:label "The Matrix"@en ;
-    ns1:actor <//ausfilm/attribute/0b7f96da1a71c7442be4ea2544a1427c>,
-        <//ausfilm/attribute/0b81098c18fe23e26e58598d28e3f5ff>,
-        <//ausfilm/attribute/0f93d5285e050ad2f41584d0e484fc36>,
-        <//ausfilm/attribute/1e6700ce1117cc01e81ec2ec9f1111b1>,
-        <//ausfilm/attribute/2396fd686b52321e84dbd8f159b9eb45>,
-        <//ausfilm/attribute/28af29fb66de7fe912e6b252bffb044f>,
-        <//ausfilm/attribute/2c8e84223c26754ad142dbf924253b0a>,
-        <//ausfilm/attribute/4b8c9e8f9967236d1de4b9370fc500c9>,
-        <//ausfilm/attribute/55e1afd3a02bd7a2b35823410e5a33c4>,
-        <//ausfilm/attribute/6ab44599fb9fb1ddff931b238c50017d>,
-        <//ausfilm/attribute/6cd2b5919891ecd6d92b34c7c2232830>,
-        <//ausfilm/attribute/7709713a724b98e7220ff500c71fd8a9>,
-        <//ausfilm/attribute/7d0b6c144c31250d3f8eaede68e48c97>,
-        <//ausfilm/attribute/a31979a218541bfab7bbb11c7184d708>,
-        <//ausfilm/attribute/b4b682aded99f3071f6efdd47fc81295>,
-        <//ausfilm/attribute/b7b28b89638505fd123808ead29b67c3>,
-        <//ausfilm/attribute/c58e2031e5bfb9f10418e8eed32ff9f7>,
-        <//ausfilm/attribute/f348626ab94ec75cf3b93e6e1dbf5f3d>,
-        <//ausfilm/attribute/fedaed8837418f2709dc13ee4d30fcb2> ;
-    ns1:aspect <//ausfilm/attribute/b961f4f39059d18b3600c3b137fe99da> ;
-    ns1:colour <//ausfilm/attribute/02b38ab1011ed5fa5913c8da5bfcbd7a> ;
-    ns1:composer <//ausfilm/attribute/6d9bda20bad3c59585eadb8779eeac83> ;
-    ns1:director <//ausfilm/attribute/6bb4ad09d67c3a6cb57be0a88a436ff5>,
-        <//ausfilm/attribute/951002272723789226e1fbd7cdac1aa2> ;
-    ns1:dop <//ausfilm/attribute/1184169d65dd9bb110888d0287b5debc> ;
-    ns1:duration 136.0 ;
-    ns1:editor <//ausfilm/attribute/1f25ef841d820dbd4c7a0735c428c429> ;
-    ns1:genre <//ausfilm/attribute/22626c7a64ff058050d0b3d9c4c6570e>,
-        <//ausfilm/attribute/53f11098b9953e4ddf9b7d93815b721a>,
-        <//ausfilm/attribute/8420c34b68542af6f8e3448780f77d9a>,
-        <//ausfilm/attribute/9e9f47fb3e2f2d5927c3e1ea41c21b45>,
-        <//ausfilm/attribute/a31d2aff6b912e73e164e1654e250c8e>,
-        <//ausfilm/attribute/bc920cb129d26d1579a490d1e7f68df7>,
-        <//ausfilm/attribute/e029e175b823b3bc48fa422aad493c91>,
-        <//ausfilm/attribute/f5a81108206fa7e97f9b4999c419dcac> ;
-    ns1:producer <//ausfilm/attribute/d30e6a4d73fd3bd2a383c90e54f9468b> ;
-    ns1:writer <//ausfilm/attribute/a6009a663b7731fceba9a0886fcc4a1f> ;
-    ns1:year "1999-03-31T00:00:00+00:00"^^xsd:dateTime,
-        "1999-06-17T00:00:00+00:00"^^xsd:dateTime,
-        "1999-07-14T00:00:00+00:00"^^xsd:dateTime .
+<http://ausfilm/entity/1f19bbe728063fbfdddbb910ccd88309> a ns1:film ;
+    rdfs:label "Alexandra's Project"@en ;
+    ns1:hasCast [ ns1:hasAttribute <http://ausfilm/entity/1f75cd340beb294544ee12791e337031> ],
+        [ ns1:hasAttribute <http://ausfilm/entity/a44138c8c775fdb17d6c167d2ed1c4dd> ] ;
+    ns1:hasCrew [ rdfs:label "producer" ;
+            ns1:hasAttribute <http://ausfilm/entity/545b7ae967caf7ede7c69db65abe19d9> ],
+        [ rdfs:label "dop" ;
+            ns1:hasAttribute <http://ausfilm/entity/090727a4ab51fe5f2e0ef1a8cbaca2d7> ],
+        [ rdfs:label "director" ;
+            ns1:hasAttribute <http://ausfilm/entity/71e9928454521a4faf8d7cc55f3ab8d0> ],
+        [ rdfs:label "writer" ;
+            ns1:hasAttribute <http://ausfilm/entity/71e9928454521a4faf8d7cc55f3ab8d0> ],
+        [ rdfs:label "composer" ;
+            ns1:hasAttribute <http://ausfilm/entity/74c13405c98f860982b16f93047c71e5> ] ;
+    ns1:hasDetail [ rdfs:label "year" ;
+            ns1:hasAttribute "2003-01-01T00:00:00+00:00"^^xsd:dateTime ],
+        [ rdfs:label "genre" ;
+            ns1:hasAttribute <http://ausfilm/entity/fef037e2bcf08c9dc157a4b3082a4ab9> ],
+        [ rdfs:label "duration" ;
+            ns1:hasAttribute 99.0 ],
+        [ rdfs:label "colour" ;
+            ns1:hasAttribute <http://ausfilm/entity/02b38ab1011ed5fa5913c8da5bfcbd7a> ] ;
+    ns1:link "Q180363" ;
+    ns2:description "Rolf de Heer 2003" .
+
+<http://ausfilm/entity/34292bc6f165b3e62909ff89d12417e4> a ns1:film ;
+    rdfs:label "Time In Summer"@en ;
+    ns1:hasCrew [ rdfs:label "director" ;
+            ns1:hasAttribute <http://ausfilm/entity/893fdb0d2b6e3ef27e74a30e1cc2f0c7> ] ;
+    ns1:hasDetail [ rdfs:label "year" ;
+            ns1:hasAttribute "1968-01-01T00:00:00+00:00"^^xsd:dateTime ] ;
+    ns1:link "Q87203764" ;
+    ns2:description "Ludwik Dutkiewicz 1968" .
+
+<http://ausfilm/entity/79e59e72aa7e88bfef67061df94e7e5e> a ns1:film ;
+    rdfs:label "Picnic at Hanging Rock"@en ;
+    ns1:hasCast [ rdfs:label "Mlle. de Poitiers" ;
+            ns1:hasAttribute <http://ausfilm/entity/5bcf195d32e90c947d78280f2632fc9a> ],
+        [ rdfs:label "Albert Crundall" ;
+            ns1:hasAttribute <http://ausfilm/entity/0d9061871ebd9a20a9a34da7bddf3ca3> ],
+        [ rdfs:label "Miranda" ;
+            ns1:hasAttribute <http://ausfilm/entity/b9194e3208523d27ee4471d88e3f08df> ],
+        [ rdfs:label "Miss Lumley" ;
+            ns1:hasAttribute <http://ausfilm/entity/efd0c8b2551a87c3c76582e5418ead65> ],
+        [ rdfs:label "Minnie" ;
+            ns1:hasAttribute <http://ausfilm/entity/76f958361ef7d26e4649a6ebb29cb69b> ],
+        [ rdfs:label "Irma" ;
+            ns1:hasAttribute <http://ausfilm/entity/8cf95109c8e66f66dc847d4d5b47fb7c> ],
+        [ rdfs:label "Miss McCraw" ;
+            ns1:hasAttribute <http://ausfilm/entity/59a04775878520fc342830604d397dc9> ],
+        [ rdfs:label "Mrs. Appleyard" ;
+            ns1:hasAttribute <http://ausfilm/entity/dfe5bce6a1dd0e98301232ba2e3cb248> ],
+        [ rdfs:label "Michael Fitzhubert" ;
+            ns1:hasAttribute <http://ausfilm/entity/a611538fc248e3d1fbbf955e1a249ff9> ] ;
+    ns1:hasCrew [ rdfs:label "composer" ;
+            ns1:hasAttribute <http://ausfilm/entity/758b308dcfaffae61f82b5ff1f55f0a6> ],
+        [ rdfs:label "producer" ;
+            ns1:hasAttribute <http://ausfilm/entity/24622e3ce551243ef990ab3a4da369f5> ],
+        [ rdfs:label "dop" ;
+            ns1:hasAttribute <http://ausfilm/entity/cd00e9d88bba036855ddaaa29277cd43> ],
+        [ rdfs:label "writer" ;
+            ns1:hasAttribute <http://ausfilm/entity/9a2adb1d8b1fe033cd255552cd832fcb> ],
+        [ rdfs:label "director" ;
+            ns1:hasAttribute <http://ausfilm/entity/390cac0b8739198eb1849ac228cfa1a7> ],
+        [ rdfs:label "producer" ;
+            ns1:hasAttribute <http://ausfilm/entity/97e8a33c2a820a132acb9a84da2184bf> ] ;
+    ns1:hasDetail [ rdfs:label "genre" ;
+            ns1:hasAttribute <http://ausfilm/entity/1273d53ae5f8e750cfc088611093cd5e> ],
+        [ rdfs:label "genre" ;
+            ns1:hasAttribute <http://ausfilm/entity/fef037e2bcf08c9dc157a4b3082a4ab9> ],
+        [ rdfs:label "duration" ;
+            ns1:hasAttribute 118.0 ],
+        [ rdfs:label "year" ;
+            ns1:hasAttribute "1975-08-08T00:00:00+00:00"^^xsd:dateTime ],
+        [ rdfs:label "colour" ;
+            ns1:hasAttribute <http://ausfilm/entity/02b38ab1011ed5fa5913c8da5bfcbd7a> ],
+        [ rdfs:label "genre" ;
+            ns1:hasAttribute <http://ausfilm/entity/0738e113d7991c490e072724960ab1f7> ] ;
+    ns1:link "Q1421747" ;
+    ns2:description "Peter Weir 1975" .
+
+<http://ausfilm/entity/bacabc6bb4aab319561d5a7d5e8bdd57> a ns1:film ;
+    rdfs:label "Dot and the Kangaroo"@en ;
+    ns1:hasCast [ ns1:hasAttribute <http://ausfilm/entity/d1ed4b301b9008fd21f0bdedfc2f5a83> ],
+        [ ns1:hasAttribute <http://ausfilm/entity/c76dcb2226b462362a36ab20007b1be7> ],
+        [ ns1:hasAttribute <http://ausfilm/entity/940545b2f07434853c0cc3e619a67f6c> ],
+        [ ns1:hasAttribute <http://ausfilm/entity/4c82d367cc61b944add44a574d537fd1> ],
+        [ ns1:hasAttribute <http://ausfilm/entity/86ae653b08f0fe0eb8c36530b0887a5d> ],
+        [ ns1:hasAttribute <http://ausfilm/entity/aeeb81e56468f6b1041ad4d822a7a6e6> ] ;
+    ns1:hasCrew [ rdfs:label "producer" ;
+            ns1:hasAttribute <http://ausfilm/entity/e733ba21eb79cee837c4be8e618afaa1> ],
+        [ rdfs:label "editor" ;
+            ns1:hasAttribute <http://ausfilm/entity/36041c0b14f81f45d0bebec3380c9be5> ],
+        [ rdfs:label "director" ;
+            ns1:hasAttribute <http://ausfilm/entity/e733ba21eb79cee837c4be8e618afaa1> ] ;
+    ns1:hasDetail [ rdfs:label "year" ;
+            ns1:hasAttribute "1977-12-15T00:00:00+00:00"^^xsd:dateTime ],
+        [ rdfs:label "colour" ;
+            ns1:hasAttribute <http://ausfilm/entity/02b38ab1011ed5fa5913c8da5bfcbd7a> ],
+        [ rdfs:label "genre" ;
+            ns1:hasAttribute <http://ausfilm/entity/b32df56f0e5b2b4cc7f427b02df980e3> ] ;
+    ns1:link "Q16833576" ;
+    ns2:description "Yoram Gross 1977" .
+
+<http://ausfilm/entity/efad3ce4246a543c454b9987f38de907> a ns1:film ;
+    rdfs:label "For the Term of His Natural Life"@en ;
+    ns1:hasCast [ ns1:hasAttribute <http://ausfilm/entity/a44797f321132848c0b0a4ade820585f> ] ;
+    ns1:hasCrew [ rdfs:label "director" ;
+            ns1:hasAttribute <http://ausfilm/entity/ce281ec4e907143ae03935d743022fea> ],
+        [ rdfs:label "editor" ;
+            ns1:hasAttribute <http://ausfilm/entity/c7cd76cca084068ca17470dc8de734e8> ],
+        [ rdfs:label "writer" ;
+            ns1:hasAttribute <http://ausfilm/entity/ce281ec4e907143ae03935d743022fea> ] ;
+    ns1:hasDetail [ rdfs:label "genre" ;
+            ns1:hasAttribute <http://ausfilm/entity/76204ec2e4107ef9947d6f0d24c466a1> ],
+        [ rdfs:label "colour" ;
+            ns1:hasAttribute <http://ausfilm/entity/dc3c4aa5f22a01eafdb1829ad6f562af> ],
+        [ rdfs:label "year" ;
+            ns1:hasAttribute "1927-01-01T00:00:00+00:00"^^xsd:dateTime ],
+        [ rdfs:label "duration" ;
+            ns1:hasAttribute 101.0 ],
+        [ rdfs:label "genre" ;
+            ns1:hasAttribute <http://ausfilm/entity/e07f855c989b6336568c7f0f6fd8302d> ] ;
+    ns1:link "Q5467144" ;
+    ns2:description "Norman Dawn 1927" .
+
+<http://ausfilm/entity/fdda6cf7ba8538c1227834add33405ff> a ns1:film ;
+    rdfs:label "The Matrix"@en ;
+    ns1:hasCast [ rdfs:label "Dujour" ;
+            ns1:hasAttribute <http://ausfilm/entity/2c8e84223c26754ad142dbf924253b0a> ],
+        [ rdfs:label "Dozer" ;
+            ns1:hasAttribute <http://ausfilm/entity/b4b682aded99f3071f6efdd47fc81295> ],
+        [ rdfs:label "Apoc" ;
+            ns1:hasAttribute <http://ausfilm/entity/2396fd686b52321e84dbd8f159b9eb45> ],
+        [ rdfs:label "Businessman" ;
+            ns1:hasAttribute <http://ausfilm/entity/6ab44599fb9fb1ddff931b238c50017d> ],
+        [ ns1:hasAttribute <http://ausfilm/entity/1e6700ce1117cc01e81ec2ec9f1111b1> ],
+        [ rdfs:label "Lieutenant" ;
+            ns1:hasAttribute <http://ausfilm/entity/c58e2031e5bfb9f10418e8eed32ff9f7> ],
+        [ ns1:hasAttribute <http://ausfilm/entity/0f93d5285e050ad2f41584d0e484fc36> ],
+        [ ns1:hasAttribute <http://ausfilm/entity/0b7f96da1a71c7442be4ea2544a1427c> ],
+        [ rdfs:label "Blind Man" ;
+            ns1:hasAttribute <http://ausfilm/entity/55e1afd3a02bd7a2b35823410e5a33c4> ],
+        [ rdfs:label "Agent Brown" ;
+            ns1:hasAttribute <http://ausfilm/entity/0b81098c18fe23e26e58598d28e3f5ff> ],
+        [ ns1:hasAttribute <http://ausfilm/entity/a31979a218541bfab7bbb11c7184d708> ],
+        [ rdfs:label "Spoon Boy" ;
+            ns1:hasAttribute <http://ausfilm/entity/4b8c9e8f9967236d1de4b9370fc500c9> ],
+        [ ns1:hasAttribute <http://ausfilm/entity/28af29fb66de7fe912e6b252bffb044f> ],
+        [ rdfs:label "Switch" ;
+            ns1:hasAttribute <http://ausfilm/entity/fedaed8837418f2709dc13ee4d30fcb2> ],
+        [ ns1:hasAttribute <http://ausfilm/entity/7d0b6c144c31250d3f8eaede68e48c97> ],
+        [ rdfs:label "Rhineheart" ;
+            ns1:hasAttribute <http://ausfilm/entity/b7b28b89638505fd123808ead29b67c3> ],
+        [ ns1:hasAttribute <http://ausfilm/entity/7709713a724b98e7220ff500c71fd8a9> ],
+        [ ns1:hasAttribute <http://ausfilm/entity/f348626ab94ec75cf3b93e6e1dbf5f3d> ],
+        [ ns1:hasAttribute <http://ausfilm/entity/6cd2b5919891ecd6d92b34c7c2232830> ] ;
+    ns1:hasCrew [ rdfs:label "producer" ;
+            ns1:hasAttribute <http://ausfilm/entity/d30e6a4d73fd3bd2a383c90e54f9468b> ],
+        [ rdfs:label "dop" ;
+            ns1:hasAttribute <http://ausfilm/entity/1184169d65dd9bb110888d0287b5debc> ],
+        [ rdfs:label "composer" ;
+            ns1:hasAttribute <http://ausfilm/entity/6d9bda20bad3c59585eadb8779eeac83> ],
+        [ rdfs:label "director" ;
+            ns1:hasAttribute <http://ausfilm/entity/6bb4ad09d67c3a6cb57be0a88a436ff5> ],
+        [ rdfs:label "editor" ;
+            ns1:hasAttribute <http://ausfilm/entity/1f25ef841d820dbd4c7a0735c428c429> ],
+        [ rdfs:label "director" ;
+            ns1:hasAttribute <http://ausfilm/entity/951002272723789226e1fbd7cdac1aa2> ],
+        [ rdfs:label "writer" ;
+            ns1:hasAttribute <http://ausfilm/entity/a6009a663b7731fceba9a0886fcc4a1f> ] ;
+    ns1:hasDetail [ rdfs:label "year" ;
+            ns1:hasAttribute "1999-03-31T00:00:00+00:00"^^xsd:dateTime ],
+        [ rdfs:label "genre" ;
+            ns1:hasAttribute <http://ausfilm/entity/8420c34b68542af6f8e3448780f77d9a> ],
+        [ rdfs:label "genre" ;
+            ns1:hasAttribute <http://ausfilm/entity/53f11098b9953e4ddf9b7d93815b721a> ],
+        [ rdfs:label "genre" ;
+            ns1:hasAttribute <http://ausfilm/entity/f5a81108206fa7e97f9b4999c419dcac> ],
+        [ rdfs:label "genre" ;
+            ns1:hasAttribute <http://ausfilm/entity/a31d2aff6b912e73e164e1654e250c8e> ],
+        [ rdfs:label "year" ;
+            ns1:hasAttribute "1999-06-17T00:00:00+00:00"^^xsd:dateTime ],
+        [ rdfs:label "genre" ;
+            ns1:hasAttribute <http://ausfilm/entity/22626c7a64ff058050d0b3d9c4c6570e> ],
+        [ rdfs:label "genre" ;
+            ns1:hasAttribute <http://ausfilm/entity/e029e175b823b3bc48fa422aad493c91> ],
+        [ rdfs:label "genre" ;
+            ns1:hasAttribute <http://ausfilm/entity/9e9f47fb3e2f2d5927c3e1ea41c21b45> ],
+        [ rdfs:label "year" ;
+            ns1:hasAttribute "1999-07-14T00:00:00+00:00"^^xsd:dateTime ],
+        [ rdfs:label "colour" ;
+            ns1:hasAttribute <http://ausfilm/entity/02b38ab1011ed5fa5913c8da5bfcbd7a> ],
+        [ rdfs:label "aspect" ;
+            ns1:hasAttribute <http://ausfilm/entity/b961f4f39059d18b3600c3b137fe99da> ],
+        [ rdfs:label "duration" ;
+            ns1:hasAttribute 136.0 ],
+        [ rdfs:label "genre" ;
+            ns1:hasAttribute <http://ausfilm/entity/bc920cb129d26d1579a490d1e7f68df7> ] ;
+    ns1:link "Q83495" ;
+    ns2:description "Lilly Wachowski/Lana Wachowski 1999" .
 
-<//ausfilm/attribute/0738e113d7991c490e072724960ab1f7> rdfs:label "horror film"@en .
+<http://ausfilm/entity/0738e113d7991c490e072724960ab1f7> rdfs:label "horror film"@en .
 
-<//ausfilm/attribute/090727a4ab51fe5f2e0ef1a8cbaca2d7> rdfs:label "Ian Jones"@en .
+<http://ausfilm/entity/090727a4ab51fe5f2e0ef1a8cbaca2d7> rdfs:label "Ian Jones"@en .
 
-<//ausfilm/attribute/0b7f96da1a71c7442be4ea2544a1427c> rdfs:label "Gloria Foster"@en .
+<http://ausfilm/entity/0b7f96da1a71c7442be4ea2544a1427c> rdfs:label "Gloria Foster"@en .
 
-<//ausfilm/attribute/0b81098c18fe23e26e58598d28e3f5ff> rdfs:label "Paul Goddard"@en .
+<http://ausfilm/entity/0b81098c18fe23e26e58598d28e3f5ff> rdfs:label "Paul Goddard"@en .
 
-<//ausfilm/attribute/0d9061871ebd9a20a9a34da7bddf3ca3> rdfs:label "John Jarratt"@en .
+<http://ausfilm/entity/0d9061871ebd9a20a9a34da7bddf3ca3> rdfs:label "John Jarratt"@en .
 
-<//ausfilm/attribute/0f93d5285e050ad2f41584d0e484fc36> rdfs:label "Keanu Reeves"@en .
+<http://ausfilm/entity/0f93d5285e050ad2f41584d0e484fc36> rdfs:label "Keanu Reeves"@en .
 
-<//ausfilm/attribute/1184169d65dd9bb110888d0287b5debc> rdfs:label "Bill Pope"@en .
+<http://ausfilm/entity/1184169d65dd9bb110888d0287b5debc> rdfs:label "Bill Pope"@en .
 
-<//ausfilm/attribute/1273d53ae5f8e750cfc088611093cd5e> rdfs:label "film based on a novel"@en .
+<http://ausfilm/entity/1273d53ae5f8e750cfc088611093cd5e> rdfs:label "film based on a novel"@en .
 
-<//ausfilm/attribute/1e6700ce1117cc01e81ec2ec9f1111b1> rdfs:label "Hugo Weaving"@en .
+<http://ausfilm/entity/1e6700ce1117cc01e81ec2ec9f1111b1> rdfs:label "Hugo Weaving"@en .
 
-<//ausfilm/attribute/1f25ef841d820dbd4c7a0735c428c429> rdfs:label "Zach Staenberg"@en .
+<http://ausfilm/entity/1f25ef841d820dbd4c7a0735c428c429> rdfs:label "Zach Staenberg"@en .
 
-<//ausfilm/attribute/1f75cd340beb294544ee12791e337031> rdfs:label "Helen Buday"@en .
+<http://ausfilm/entity/1f75cd340beb294544ee12791e337031> rdfs:label "Helen Buday"@en .
 
-<//ausfilm/attribute/22626c7a64ff058050d0b3d9c4c6570e> rdfs:label "post-apocalyptic film"@en .
+<http://ausfilm/entity/22626c7a64ff058050d0b3d9c4c6570e> rdfs:label "post-apocalyptic film"@en .
 
-<//ausfilm/attribute/2396fd686b52321e84dbd8f159b9eb45> rdfs:label "Julian Arahanga"@en .
+<http://ausfilm/entity/2396fd686b52321e84dbd8f159b9eb45> rdfs:label "Julian Arahanga"@en .
 
-<//ausfilm/attribute/24622e3ce551243ef990ab3a4da369f5> rdfs:label "Patricia Lovell"@en .
+<http://ausfilm/entity/24622e3ce551243ef990ab3a4da369f5> rdfs:label "Patricia Lovell"@en .
 
-<//ausfilm/attribute/28af29fb66de7fe912e6b252bffb044f> rdfs:label "Robert Taylor"@en .
+<http://ausfilm/entity/28af29fb66de7fe912e6b252bffb044f> rdfs:label "Robert Taylor"@en .
 
-<//ausfilm/attribute/2c8e84223c26754ad142dbf924253b0a> rdfs:label "Ada Nicodemou"@en .
+<http://ausfilm/entity/2c8e84223c26754ad142dbf924253b0a> rdfs:label "Ada Nicodemou"@en .
 
-<//ausfilm/attribute/390cac0b8739198eb1849ac228cfa1a7> rdfs:label "Peter Weir"@en .
+<http://ausfilm/entity/36041c0b14f81f45d0bebec3380c9be5> rdfs:label "Rod Hay"@en .
 
-<//ausfilm/attribute/4b8c9e8f9967236d1de4b9370fc500c9> rdfs:label "Rowan Witt"@en .
+<http://ausfilm/entity/390cac0b8739198eb1849ac228cfa1a7> rdfs:label "Peter Weir"@en .
 
-<//ausfilm/attribute/53f11098b9953e4ddf9b7d93815b721a> rdfs:label "dystopian film"@en .
+<http://ausfilm/entity/4b8c9e8f9967236d1de4b9370fc500c9> rdfs:label "Rowan Witt"@en .
 
-<//ausfilm/attribute/545b7ae967caf7ede7c69db65abe19d9> rdfs:label "Domenico Procacci"@en .
+<http://ausfilm/entity/4c82d367cc61b944add44a574d537fd1> rdfs:label "Barbara Frawley"@en .
 
-<//ausfilm/attribute/55e1afd3a02bd7a2b35823410e5a33c4> rdfs:label "Steve Dodd"@en .
+<http://ausfilm/entity/53f11098b9953e4ddf9b7d93815b721a> rdfs:label "dystopian film"@en .
 
-<//ausfilm/attribute/59a04775878520fc342830604d397dc9> rdfs:label "Vivean Gray"@en .
+<http://ausfilm/entity/545b7ae967caf7ede7c69db65abe19d9> rdfs:label "Domenico Procacci"@en .
 
-<//ausfilm/attribute/5bcf195d32e90c947d78280f2632fc9a> rdfs:label "Helen Morse"@en .
+<http://ausfilm/entity/55e1afd3a02bd7a2b35823410e5a33c4> rdfs:label "Steve Dodd"@en .
 
-<//ausfilm/attribute/6ab44599fb9fb1ddff931b238c50017d> rdfs:label "Jeremy Ball"@en .
+<http://ausfilm/entity/59a04775878520fc342830604d397dc9> rdfs:label "Vivean Gray"@en .
 
-<//ausfilm/attribute/6bb4ad09d67c3a6cb57be0a88a436ff5> rdfs:label "Lana Wachowski"@en .
+<http://ausfilm/entity/5bcf195d32e90c947d78280f2632fc9a> rdfs:label "Helen Morse"@en .
 
-<//ausfilm/attribute/6cd2b5919891ecd6d92b34c7c2232830> rdfs:label "Joe Pantoliano"@en .
+<http://ausfilm/entity/6ab44599fb9fb1ddff931b238c50017d> rdfs:label "Jeremy Ball"@en .
 
-<//ausfilm/attribute/6d9bda20bad3c59585eadb8779eeac83> rdfs:label "Don Davis"@en .
+<http://ausfilm/entity/6bb4ad09d67c3a6cb57be0a88a436ff5> rdfs:label "Lana Wachowski"@en .
 
-<//ausfilm/attribute/74c13405c98f860982b16f93047c71e5> rdfs:label "Graham Tardif"@en .
+<http://ausfilm/entity/6cd2b5919891ecd6d92b34c7c2232830> rdfs:label "Joe Pantoliano"@en .
 
-<//ausfilm/attribute/758b308dcfaffae61f82b5ff1f55f0a6> rdfs:label "Gheorghe Zamfir"@en .
+<http://ausfilm/entity/6d9bda20bad3c59585eadb8779eeac83> rdfs:label "Don Davis"@en .
 
-<//ausfilm/attribute/76204ec2e4107ef9947d6f0d24c466a1> rdfs:label "film based on literature"@en .
+<http://ausfilm/entity/74c13405c98f860982b16f93047c71e5> rdfs:label "Graham Tardif"@en .
 
-<//ausfilm/attribute/76f958361ef7d26e4649a6ebb29cb69b> rdfs:label "Jacki Weaver"@en .
+<http://ausfilm/entity/758b308dcfaffae61f82b5ff1f55f0a6> rdfs:label "Gheorghe Zamfir"@en .
 
-<//ausfilm/attribute/7709713a724b98e7220ff500c71fd8a9> rdfs:label "Laurence Fishburne"@en .
+<http://ausfilm/entity/76204ec2e4107ef9947d6f0d24c466a1> rdfs:label "film based on literature"@en .
 
-<//ausfilm/attribute/7d0b6c144c31250d3f8eaede68e48c97> rdfs:label "Matt Doran"@en .
+<http://ausfilm/entity/76f958361ef7d26e4649a6ebb29cb69b> rdfs:label "Jacki Weaver"@en .
 
-<//ausfilm/attribute/8420c34b68542af6f8e3448780f77d9a> rdfs:label "film noir"@en .
+<http://ausfilm/entity/7709713a724b98e7220ff500c71fd8a9> rdfs:label "Laurence Fishburne"@en .
 
-<//ausfilm/attribute/893fdb0d2b6e3ef27e74a30e1cc2f0c7> rdfs:label "Ludwik Dutkiewicz"@en .
+<http://ausfilm/entity/7d0b6c144c31250d3f8eaede68e48c97> rdfs:label "Matt Doran"@en .
 
-<//ausfilm/attribute/8cf95109c8e66f66dc847d4d5b47fb7c> rdfs:label "Karen Robson"@en .
+<http://ausfilm/entity/8420c34b68542af6f8e3448780f77d9a> rdfs:label "film noir"@en .
 
-<//ausfilm/attribute/951002272723789226e1fbd7cdac1aa2> rdfs:label "Lilly Wachowski"@en .
+<http://ausfilm/entity/86ae653b08f0fe0eb8c36530b0887a5d> rdfs:label "Spike Milligan"@en .
 
-<//ausfilm/attribute/97e8a33c2a820a132acb9a84da2184bf> rdfs:label "Hal and Jim McElroy"@en .
+<http://ausfilm/entity/893fdb0d2b6e3ef27e74a30e1cc2f0c7> rdfs:label "Ludwik Dutkiewicz"@en .
 
-<//ausfilm/attribute/9a2adb1d8b1fe033cd255552cd832fcb> rdfs:label "Cliff Green"@en .
+<http://ausfilm/entity/8cf95109c8e66f66dc847d4d5b47fb7c> rdfs:label "Karen Robson"@en .
 
-<//ausfilm/attribute/9e9f47fb3e2f2d5927c3e1ea41c21b45> rdfs:label "action film"@en .
+<http://ausfilm/entity/940545b2f07434853c0cc3e619a67f6c> rdfs:label "June Salter"@en .
 
-<//ausfilm/attribute/a31979a218541bfab7bbb11c7184d708> rdfs:label "Marcus Chong"@en .
+<http://ausfilm/entity/951002272723789226e1fbd7cdac1aa2> rdfs:label "Lilly Wachowski"@en .
 
-<//ausfilm/attribute/a31d2aff6b912e73e164e1654e250c8e> rdfs:label "action thriller"@en .
+<http://ausfilm/entity/97e8a33c2a820a132acb9a84da2184bf> rdfs:label "Hal and Jim McElroy"@en .
 
-<//ausfilm/attribute/a44138c8c775fdb17d6c167d2ed1c4dd> rdfs:label "Gary Sweet"@en .
+<http://ausfilm/entity/9a2adb1d8b1fe033cd255552cd832fcb> rdfs:label "Cliff Green"@en .
 
-<//ausfilm/attribute/a44797f321132848c0b0a4ade820585f> rdfs:label "George Fisher"@en .
+<http://ausfilm/entity/9e9f47fb3e2f2d5927c3e1ea41c21b45> rdfs:label "action film"@en .
 
-<//ausfilm/attribute/a6009a663b7731fceba9a0886fcc4a1f> rdfs:label "The Wachowskis"@en .
+<http://ausfilm/entity/a31979a218541bfab7bbb11c7184d708> rdfs:label "Marcus Chong"@en .
 
-<//ausfilm/attribute/a611538fc248e3d1fbbf955e1a249ff9> rdfs:label "Dominic Guard"@en .
+<http://ausfilm/entity/a31d2aff6b912e73e164e1654e250c8e> rdfs:label "action thriller"@en .
 
-<//ausfilm/attribute/b4b682aded99f3071f6efdd47fc81295> rdfs:label "Anthony Ray Parker"@en .
+<http://ausfilm/entity/a44138c8c775fdb17d6c167d2ed1c4dd> rdfs:label "Gary Sweet"@en .
 
-<//ausfilm/attribute/b7b28b89638505fd123808ead29b67c3> rdfs:label "David Aston"@en .
+<http://ausfilm/entity/a44797f321132848c0b0a4ade820585f> rdfs:label "George Fisher"@en .
 
-<//ausfilm/attribute/b9194e3208523d27ee4471d88e3f08df> rdfs:label "Anne-Louise Lambert"@en .
+<http://ausfilm/entity/a6009a663b7731fceba9a0886fcc4a1f> rdfs:label "The Wachowskis"@en .
 
-<//ausfilm/attribute/b961f4f39059d18b3600c3b137fe99da> rdfs:label "2.35:1"@en .
+<http://ausfilm/entity/a611538fc248e3d1fbbf955e1a249ff9> rdfs:label "Dominic Guard"@en .
 
-<//ausfilm/attribute/bc920cb129d26d1579a490d1e7f68df7> rdfs:label "science fiction film"@en .
+<http://ausfilm/entity/aeeb81e56468f6b1041ad4d822a7a6e6> rdfs:label "Ron Haddrick"@en .
 
-<//ausfilm/attribute/c58e2031e5bfb9f10418e8eed32ff9f7> rdfs:label "Bill Young"@en .
+<http://ausfilm/entity/b32df56f0e5b2b4cc7f427b02df980e3> rdfs:label "comedy drama"@en .
 
-<//ausfilm/attribute/c7cd76cca084068ca17470dc8de734e8> rdfs:label "Mona Donaldson"@en .
+<http://ausfilm/entity/b4b682aded99f3071f6efdd47fc81295> rdfs:label "Anthony Ray Parker"@en .
 
-<//ausfilm/attribute/cd00e9d88bba036855ddaaa29277cd43> rdfs:label "Russell Boyd"@en .
+<http://ausfilm/entity/b7b28b89638505fd123808ead29b67c3> rdfs:label "David Aston"@en .
 
-<//ausfilm/attribute/d30e6a4d73fd3bd2a383c90e54f9468b> rdfs:label "Joel Silver"@en .
+<http://ausfilm/entity/b9194e3208523d27ee4471d88e3f08df> rdfs:label "Anne-Louise Lambert"@en .
 
-<//ausfilm/attribute/dc3c4aa5f22a01eafdb1829ad6f562af> rdfs:label "black-and-white"@en .
+<http://ausfilm/entity/b961f4f39059d18b3600c3b137fe99da> rdfs:label "2.35:1"@en .
 
-<//ausfilm/attribute/dfe5bce6a1dd0e98301232ba2e3cb248> rdfs:label "Rachel Roberts"@en .
+<http://ausfilm/entity/bc920cb129d26d1579a490d1e7f68df7> rdfs:label "science fiction film"@en .
 
-<//ausfilm/attribute/e029e175b823b3bc48fa422aad493c91> rdfs:label "cyberpunk"@en .
+<http://ausfilm/entity/c58e2031e5bfb9f10418e8eed32ff9f7> rdfs:label "Bill Young"@en .
 
-<//ausfilm/attribute/e07f855c989b6336568c7f0f6fd8302d> rdfs:label "silent film"@en .
+<http://ausfilm/entity/c76dcb2226b462362a36ab20007b1be7> rdfs:label "Ross Higgins"@en .
 
-<//ausfilm/attribute/efd0c8b2551a87c3c76582e5418ead65> rdfs:label "Kirsty Child"@en .
+<http://ausfilm/entity/c7cd76cca084068ca17470dc8de734e8> rdfs:label "Mona Donaldson"@en .
 
-<//ausfilm/attribute/f348626ab94ec75cf3b93e6e1dbf5f3d> rdfs:label "Carrie-Anne Moss"@en .
+<http://ausfilm/entity/cd00e9d88bba036855ddaaa29277cd43> rdfs:label "Russell Boyd"@en .
 
-<//ausfilm/attribute/f5a81108206fa7e97f9b4999c419dcac> rdfs:label "thriller film"@en .
+<http://ausfilm/entity/d1ed4b301b9008fd21f0bdedfc2f5a83> rdfs:label "Joan Bruce"@en .
 
-<//ausfilm/attribute/fedaed8837418f2709dc13ee4d30fcb2> rdfs:label "Belinda McClory"@en .
+<http://ausfilm/entity/d30e6a4d73fd3bd2a383c90e54f9468b> rdfs:label "Joel Silver"@en .
 
-<//ausfilm/attribute/71e9928454521a4faf8d7cc55f3ab8d0> rdfs:label "Rolf de Heer"@en .
+<http://ausfilm/entity/dc3c4aa5f22a01eafdb1829ad6f562af> rdfs:label "black-and-white"@en .
 
-<//ausfilm/attribute/ce281ec4e907143ae03935d743022fea> rdfs:label "Norman Dawn"@en .
+<http://ausfilm/entity/dfe5bce6a1dd0e98301232ba2e3cb248> rdfs:label "Rachel Roberts"@en .
 
-<//ausfilm/attribute/fef037e2bcf08c9dc157a4b3082a4ab9> rdfs:label "drama film"@en .
+<http://ausfilm/entity/e029e175b823b3bc48fa422aad493c91> rdfs:label "cyberpunk"@en .
 
-<//ausfilm/attribute/02b38ab1011ed5fa5913c8da5bfcbd7a> rdfs:label "color"@en .
+<http://ausfilm/entity/e07f855c989b6336568c7f0f6fd8302d> rdfs:label "silent film"@en .
+
+<http://ausfilm/entity/efd0c8b2551a87c3c76582e5418ead65> rdfs:label "Kirsty Child"@en .
+
+<http://ausfilm/entity/f348626ab94ec75cf3b93e6e1dbf5f3d> rdfs:label "Carrie-Anne Moss"@en .
+
+<http://ausfilm/entity/f5a81108206fa7e97f9b4999c419dcac> rdfs:label "thriller film"@en .
+
+<http://ausfilm/entity/fedaed8837418f2709dc13ee4d30fcb2> rdfs:label "Belinda McClory"@en .
+
+<http://ausfilm/entity/71e9928454521a4faf8d7cc55f3ab8d0> rdfs:label "Rolf de Heer"@en .
+
+<http://ausfilm/entity/ce281ec4e907143ae03935d743022fea> rdfs:label "Norman Dawn"@en .
+
+<http://ausfilm/entity/e733ba21eb79cee837c4be8e618afaa1> rdfs:label "Yoram Gross"@en .
+
+<http://ausfilm/entity/fef037e2bcf08c9dc157a4b3082a4ab9> rdfs:label "drama film"@en .
+
+<http://ausfilm/entity/02b38ab1011ed5fa5913c8da5bfcbd7a> rdfs:label "color"@en .
 

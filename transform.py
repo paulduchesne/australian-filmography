@@ -1,6 +1,7 @@
 
 import hashlib
 import json
+import pandas
 import pathlib
 import pydash
 import requests
@@ -13,74 +14,126 @@ def encode_identifier(text, cat):
 
     x = pathlib.Path(text).name
     x = hashlib.md5(x.encode('utf-8')).hexdigest()
-    x = rdflib.URIRef(f'//ausfilm/{cat}/{x}')
+    x = rdflib.URIRef(f'http://ausfilm/{cat}/{x}')
    
     return x
 
-with open(pathlib.Path.cwd() / 'filmography.json') as corpus:
-    corpus = json.load(corpus)
+def pull_label(graph, uri):
 
-graph = rdflib.Graph()
+    temp = rdflib.Graph()
+    for a,b,c in graph.triples((uri, rdflib.RDFS.label, None)):
+        if c.language == 'en':
+            temp.add((uri, rdflib.RDFS.label, c))
 
-for x in tqdm.tqdm(corpus['works']):
-    path = f"https://www.wikidata.org/wiki/Special:EntityData/{x['wikidata_id']}.ttl"
+    return temp
+
+
+# parse film corpus.
+
+graph = rdflib.Graph().parse(pathlib.Path.cwd() / 'corpus.ttl')
+film_list = [s for s, p, o in graph.triples((None, rdflib.RDF.type, rdflib.URIRef('http://ausfilm/model/film')))]
+
+# for each film pull data from wikidata 
+# note to self, this should really be XSLT direct to html.
+
+for s in tqdm.tqdm(film_list):
+ 
+    wikidata_id = pathlib.Path(s).stem
+    
+    path = f'https://www.wikidata.org/wiki/Special:EntityData/{wikidata_id}.ttl'
     response = requests.get(path)
-    if response.status_code == 200:
-        graph += rdflib.Graph().parse(data=response.text)
-    else:
-        raise Exception(f"Cound not fetch {x['wikidata_id']}.")
+    if response.status_code != 200:
+        raise Exception('Something went wrong!')
+
+    wikidata_graph = rdflib.Graph().parse(data=response.text)
+    graph += pull_label(wikidata_graph, s)
+
+    for x in ['P161', 'P725']:
+
+        cast_query = '''
+            select ?actor ?role where {
+                wd:'''+wikidata_id+''' ?p ?state.
+                ?state ps:'''+x+''' ?actor.
+                optional {?state pq:P4633 ?role }.  
+                }'''
+
+        for y in wikidata_graph.query(cast_query):
+            cast_bnode = rdflib.BNode()
+            graph.add((s, rdflib.URIRef('http://ausfilm/model/hasCast'), cast_bnode))
+            graph.add((cast_bnode, rdflib.URIRef('http://ausfilm/model/hasAttribute'), y[0]))
+            graph += pull_label(wikidata_graph, y[0])
+            if y[1]:
+                graph.add((cast_bnode, rdflib.RDFS.label, y[1]))
+                
+    for a,b in {
+        rdflib.URIRef('http://www.wikidata.org/prop/direct/P57'): 'director',
+        rdflib.URIRef('http://www.wikidata.org/prop/direct/P58'): 'writer',
+        rdflib.URIRef('http://www.wikidata.org/prop/direct/P344'): 'dop',
+        rdflib.URIRef('http://www.wikidata.org/prop/direct/P1040'): 'editor',
+        rdflib.URIRef('http://www.wikidata.org/prop/direct/P86'): 'composer',
+        rdflib.URIRef('http://www.wikidata.org/prop/direct/P162'): 'producer',
+       }.items():
+        for j,k,l in wikidata_graph.triples((s, rdflib.URIRef(a), None)):
+            cast_bnode = rdflib.BNode()
+            graph.add((s, rdflib.URIRef('http://ausfilm/model/hasCrew'), cast_bnode))
+            graph.add((cast_bnode, rdflib.URIRef('http://ausfilm/model/hasAttribute'), l))
+            graph.add((cast_bnode, rdflib.RDFS.label, rdflib.Literal(b)))
+            graph += pull_label(wikidata_graph, l)
+                
+    for a,b in {
+        rdflib.URIRef('http://www.wikidata.org/prop/direct/P136'): 'genre',
+        rdflib.URIRef('http://www.wikidata.org/prop/direct/P3156'): 'rating',
+        rdflib.URIRef('http://www.wikidata.org/prop/direct/P462'): 'colour',
+        rdflib.URIRef('http://www.wikidata.org/prop/direct/P2061'): 'aspect',
+        rdflib.URIRef('http://www.wikidata.org/prop/direct/P2047'): 'duration',
+        rdflib.URIRef('http://www.wikidata.org/prop/direct/P577'): 'year',
+        }.items():
+        for j,k,l in wikidata_graph.triples((s, rdflib.URIRef(a), None)):
+            cast_bnode = rdflib.BNode()
+            graph.add((s, rdflib.URIRef('http://ausfilm/model/hasDetail'), cast_bnode))
+            graph.add((cast_bnode, rdflib.URIRef('http://ausfilm/model/hasAttribute'), l))
+            graph.add((cast_bnode, rdflib.RDFS.label, rdflib.Literal(b)))
+            graph += pull_label(wikidata_graph, l)
+
+    graph.add((s, rdflib.URIRef('http://ausfilm/model/link'), rdflib.Literal(wikidata_id)))
 
 result_graph = rdflib.Graph()
+for s,p,o in graph.triples((None, None, None)):
 
-for a,b in {
-    rdflib.URIRef('http://www.wikidata.org/prop/direct/P57'): rdflib.URIRef('//ausfilm/property/director'),
-    rdflib.URIRef('http://www.wikidata.org/prop/direct/P161'): rdflib.URIRef('//ausfilm/property/actor'),
-    rdflib.URIRef('http://www.wikidata.org/prop/direct/P725'): rdflib.URIRef('//ausfilm/property/voice'),
-    rdflib.URIRef('http://www.wikidata.org/prop/direct/P58'): rdflib.URIRef('//ausfilm/property/writer'),
-    rdflib.URIRef('http://www.wikidata.org/prop/direct/P344'): rdflib.URIRef('//ausfilm/property/dop'),
-    rdflib.URIRef('http://www.wikidata.org/prop/direct/P1040'): rdflib.URIRef('//ausfilm/property/editor'),
-    rdflib.URIRef('http://www.wikidata.org/prop/direct/P86'): rdflib.URIRef('//ausfilm/property/composer'),
-    rdflib.URIRef('http://www.wikidata.org/prop/direct/P162'): rdflib.URIRef('//ausfilm/property/producer'),
-    rdflib.URIRef('http://www.wikidata.org/prop/direct/P136'): rdflib.URIRef('//ausfilm/property/genre'),
-    rdflib.URIRef('http://www.wikidata.org/prop/direct/P3156'): rdflib.URIRef('//ausfilm/property/rating'),
-    rdflib.URIRef('http://www.wikidata.org/prop/direct/P462'): rdflib.URIRef('//ausfilm/property/colour'),
-    rdflib.URIRef('http://www.wikidata.org/prop/direct/P2061'): rdflib.URIRef('//ausfilm/property/aspect'),
-    rdflib.URIRef('http://www.wikidata.org/prop/direct/P2047'): rdflib.URIRef('//ausfilm/property/duration'),
-    rdflib.URIRef('http://www.wikidata.org/prop/direct/P577'): rdflib.URIRef('//ausfilm/property/year'),
-    }.items():
+    if type(s) == type(rdflib.URIRef('')):
+        if 'wikidata' in str(s):
+            s = encode_identifier(s, 'entity')
 
-    for s,p,o in graph.triples((None, a, None)):
+    if type(o) == type(rdflib.URIRef('')):
+        if 'wikidata' in str(o):
+            o = encode_identifier(o, 'entity')
 
-        # okay what if you do the transformation here, but you also log all the wikidata ids you need to pull later
-        # so you want to do a rename on the s, transfer it to the expected name which is ausfilm/entity/uuid
-        # but you also need to log the original for later processing
+    result_graph.add((s, p, o))
 
-        s_label = ''
-        for x,y,z in graph.triples((s, rdflib.RDFS.label, None)):
-            if z.language == 'en':
-                s_label = z
+for s,p,o in result_graph.triples((None, rdflib.RDF.type, rdflib.URIRef('http://ausfilm/model/film'))):
+    slug_query = '''
+        select distinct ?director where {
+            <'''+str(s)+'''> ?b ?c.
+            ?c ?d "director" .
+            ?c <http://ausfilm/model/hasAttribute> ?e.
+            ?e rdfs:label ?director .
+        }'''
 
-        s = encode_identifier(s, 'entity')
-   
-        # note that you probably want to keep the wikidata address as you will probably want a triple which links back to wikidata
-        # eg, found a mistake, edit here!!
+    director_df = pandas.DataFrame(result_graph.query(slug_query), columns=['director'])
+    slug = '/'.join([str(x) for x in list(director_df.director.unique())])+' '
 
-        if len(s_label):
-            result_graph.add((s, rdflib.RDFS.label, rdflib.Literal(s_label)))
+    slug_query = '''
+        select distinct ?year where {
+            <'''+str(s)+'''> ?b ?c.
+            ?c ?d "year" .
+            ?c <http://ausfilm/model/hasAttribute> ?year.
+        }'''
 
-        if type(o) == type(rdflib.URIRef('')):
+  
+    year_df = pandas.DataFrame(result_graph.query(slug_query), columns=['year'])
+    slug += str(min([int(x[:4]) for x in list(year_df.year.unique())]))
+    result_graph.add((s, rdflib.URIRef('http://purl.org/dc/elements/1.1/description'), rdflib.Literal(slug)))
 
-            o_label = ''
-            for x,y,z in graph.triples((o, rdflib.RDFS.label, None)):
-                if z.language == 'en':
-                    o_label = z
+result_graph.serialize(destination=pathlib.Path.cwd() / 'filmography.ttl', format='ttl')
 
-            o = encode_identifier(o, 'attribute')
-
-            if len(o_label):
-                result_graph.add((o, rdflib.RDFS.label, rdflib.Literal(o_label)))
-
-        result_graph.add((s, b, o))
-
-result_graph.serialize(destination=pathlib.Path.cwd() / 'filmography.ttl', format='turtle')
-
+print(result_graph.serialize(format='ttl'))
