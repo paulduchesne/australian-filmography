@@ -1,0 +1,31 @@
+
+.text {
+    font-family: Raleway;
+    color: black;
+}
+
+.label {
+    font-size: 40px;
+    font-weight: 800;
+}
+
+.description {
+    font-size: 20px;
+    font-weight: 100;
+}
+
+.header {
+    font-size: 15px;
+    font-weight: 1000;
+}
+
+.role {
+    font-size: 15px;
+    font-weight: 100;
+}
+
+.link {
+    font-size: 20px;
+    font-weight: 400;
+    color: rebeccapurple;
+}

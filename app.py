@@ -1,6 +1,7 @@
 
 from flask import Flask, render_template
 import json
+import numpy
 import pathlib
 import rdflib
 
@@ -44,9 +45,13 @@ def entity_page(entity):
         payload = {}
         payload['label'] = single_field(entity_url, rdflib.RDFS.label)
         payload['description'] = single_field(entity_url, rdflib.URIRef('http://purl.org/dc/elements/1.1/description'))
-        payload['cast'] = multi_field(entity_url, rdflib.URIRef('http://ausfilm/model/hasCast'))
-        payload['crew'] = multi_field(entity_url, rdflib.URIRef('http://ausfilm/model/hasCrew'))
-        payload['detail'] = multi_field(entity_url, rdflib.URIRef('http://ausfilm/model/hasDetail'))    
+        
+        cast_temp = multi_field(entity_url, rdflib.URIRef('http://ausfilm/model/hasCast'))
+        payload['cast'] = [cast_temp[(x*4):(x+1)*4] for x in range(int(len(cast_temp)/4)+1)]
+        crew_temp = multi_field(entity_url, rdflib.URIRef('http://ausfilm/model/hasCrew'))
+        payload['crew'] = [crew_temp[(x*4):(x+1)*4] for x in range(int(len(crew_temp)/4)+1)]
+        detail_temp = multi_field(entity_url, rdflib.URIRef('http://ausfilm/model/hasDetail'))    
+        payload['detail'] = [detail_temp[(x*4):(x+1)*4] for x in range(int(len(detail_temp)/4)+1)]
         payload['link'] = single_field(entity_url, rdflib.URIRef('http://ausfilm/model/link'))
 
         return render_template('entity.html', data=payload)

@@ -1,3 +1,66 @@
-hello paul
 
-This is a film.
+
+<!DOCTYPE html>
+<html>
+
+<head>
+  <title>{{ data.label }}</title>
+  <link rel="stylesheet" type="text/css" href="{{ url_for('static', filename='style.css') }}">
+  <link href="https://fonts.googleapis.com/css?family=Raleway:100,200,300,400,500,600,700,800,900" rel="stylesheet" />
+</head>
+
+<body style="padding-top:200px; margin: 0; display: flex;justify-content: center;align-items: center;">
+ 
+<div style="width:1200px">
+<tspan class="text label">{{ data.label }}</tspan>
+<br>
+
+<tspan class="text description">{{ data.description }}</tspan>
+
+<br><br><br>
+<tspan class="text header">Cast</tspan>
+<br><br><br>
+<table>{% for a in data.cast %}
+    <tr> {% for b in a %}
+        <td style="width: 300px;padding-bottom: 30px;">
+            <tspan class="text role">{{b.role}}</tspan><br>
+            <tspan class="text link">{{b.link_text}}</tspan>
+        </td>
+        {% endfor %}
+        {% endfor %}
+    </tr>
+</table>
+
+<br><br><br>
+<tspan class="text header">Crew</tspan>
+<br><br><br>
+<table>{% for a in data.crew %}
+    <tr> {% for b in a %}
+        <td style="width: 300px;padding-bottom: 30px">
+            <tspan class="text role">{{b.role}}</tspan><br>
+            <tspan class="text link">{{b.link_text}}</tspan>
+        </td>
+        {% endfor %}
+        {% endfor %}
+    </tr>
+</table>
+
+<br><br><br>
+<tspan class="text header">Detail</tspan>
+<br><br><br>
+<table>{% for a in data.detail %}
+    <tr> {% for b in a %}
+        <td style="width: 300px;padding-bottom: 30px">
+            <tspan class="text role">{{b.role}}</tspan><br><br>
+            <tspan class="text link">{{b.link_text}}</tspan>
+        </td>
+        {% endfor %}
+        {% endfor %}
+    </tr>
+</table>
+
+<br><br><br><br>
+
+<tspan class="text role" style="padding-bottom: 30px">Have you found an error? Correct it here.{{ data.link }} </tspan>
+
+</div>
