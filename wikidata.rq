@@ -1,0 +1,127 @@
+construct {
+
+    ?film wdt:P31 ?type .
+    ?film rdfs:label ?filmLabel .
+
+    ?film wdt:P57 ?director .
+    ?director rdfs:label ?directorLabel .
+
+    ?film wdt:P58 ?writer .
+    ?writer rdfs:label ?writerLabel .
+
+    ?film wdt:P344 ?dop .
+    ?dop rdfs:label ?dopLabel .
+
+    ?film wdt:P1040 ?editor .
+    ?editor rdfs:label ?editorLabel .
+
+    ?film wdt:P86 ?composer .
+    ?composer rdfs:label ?composerLabel .
+
+    ?film wdt:P162 ?producer .
+    ?producer rdfs:label ?producerLabel .
+
+    ?film wdt:P161 ?cast .
+    ?cast rdfs:label ?castLabel .
+
+    ?film wdt:P136 ?genre .
+    ?genre rdfs:label ?genreLabel .
+
+    ?film wdt:P3156 ?rating .
+    ?rating rdfs:label ?ratingLabel .
+
+    ?film wdt:P462 ?colour .
+    ?colour rdfs:label ?colourLabel .
+
+    ?film wdt:P2061 ?aspect .
+    ?aspect rdfs:label ?aspectLabel .
+
+    ?film wdt:P2047 ?duration .
+    ?duration rdfs:label ?durationLabel .
+
+    ?film wdt:P577 ?publication .
+
+} where {
+
+    values ?film { wd:FILM }
+    ?film wdt:P31 ?type .
+    ?film rdfs:label ?filmLabel .
+    filter(lang(?filmLabel) = "en") .
+
+    optional {
+        ?film wdt:P57 ?director .
+        ?director rdfs:label ?directorLabel .
+        filter(lang(?directorLabel) = "en") .
+    }
+
+    optional {
+        ?film wdt:P58 ?writer .
+        ?writer rdfs:label ?writerLabel .
+        filter(lang(?writerLabel) = "en") .
+    }
+
+    optional {
+        ?film wdt:P344 ?dop .
+        ?dop rdfs:label ?dopLabel .
+        filter(lang(?dopLabel) = "en") .
+    }
+
+    optional {
+        ?film wdt:P1040 ?editor .
+        ?editor rdfs:label ?editorLabel .
+        filter(lang(?editorLabel) = "en") .
+    }
+
+    optional {
+        ?film wdt:P86 ?composer .
+        ?composer rdfs:label ?composerLabel .
+        filter(lang(?composerLabel) = "en") .
+    }
+
+    optional {
+        ?film wdt:P162 ?producer .
+        ?producer rdfs:label ?producerLabel .
+        filter(lang(?producerLabel) = "en") .
+    }
+
+    optional {
+        ?film wdt:P161 ?cast .
+        ?cast rdfs:label ?castLabel .
+        filter(lang(?castLabel) = "en") .
+    }
+
+    optional {
+        ?film wdt:P136 ?genre .
+        ?genre rdfs:label ?genreLabel .
+        filter(lang(?genreLabel) = "en") .
+    }
+
+    optional {
+        ?film wdt:P3156 ?rating .
+        ?rating rdfs:label ?ratingLabel .
+        filter(lang(?ratingLabel) = "en") .
+    }
+
+    optional {
+        ?film wdt:P462 ?colour .
+        ?colour rdfs:label ?colourLabel .
+        filter(lang(?colourLabel) = "en") .
+    }
+
+    optional {
+        ?film wdt:P2061 ?aspect .
+        ?aspect rdfs:label ?aspectLabel .
+        filter(lang(?aspectLabel) = "en") .
+    }
+
+    optional {
+        ?film wdt:P2047 ?duration .
+        ?duration rdfs:label ?durationLabel .
+        filter(lang(?durationLabel) = "en") .
+    }
+
+    optional {
+        ?film wdt:P577 ?publication .
+    }
+
+}
