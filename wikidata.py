@@ -11,7 +11,7 @@ import tqdm
 
 df = pandas.DataFrame()
 for dataset in ['pike-cooper', 'murray', 'stratton']:
-    url = f'https://raw.githubusercontent.com/paulduchesne/{dataset}/refs/heads/main/dataset.csv'
+    url = f'https://raw.githubusercontent.com/paulduchesne/{dataset}/refs/heads/develop/dataset.csv'
     df = pandas.concat([df, pandas.read_csv(url)])
 
 df = df.drop_duplicates(subset='wikidata', keep='first')
@@ -25,7 +25,7 @@ headers = {
     'Accept': 'application/json'
 }
 
-for wikidata_id in tqdm.tqdm(df.wikidata.unique()[:4]):
+for wikidata_id in tqdm.tqdm(df.wikidata.unique()[:10]):
     wikidata_id_hash = hashlib.md5(wikidata_id.encode()).hexdigest()
     json_path = pathlib.Path.cwd() / 'data' / f'{wikidata_id_hash}.json'
 

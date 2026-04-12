@@ -21,10 +21,11 @@ headers = {
 }
 
 query = '''
-    select distinct ?wikidata
+    select distinct ?wikidata ?wikidataLabel
     where {
         ?wikidata wdt:P31 wd:Q11424 .
         ?wikidata wdt:P495 wd:Q408 .
+        service wikibase:label { bd:serviceParam wikibase:language "en". }
     } '''
 
 r = requests.get('https://query.wikidata.org/sparql', params={'format': 'json', 'query': query}, headers=headers)
@@ -33,12 +34,15 @@ if r.status_code != 200:
 
 df2 = pandas.DataFrame(r.json()['results']['bindings'])
 df2['wikidata'] = df2['wikidata'].apply(lambda x: x['value'].split('/')[-1])
+df2['wikidataLabel'] = df2['wikidataLabel'].apply(lambda x: x['value'])
+df2 = df2.rename(columns={'wikidataLabel':'label'})
 df2 = df2.drop_duplicates(subset='wikidata', keep='first')
 if len(df2.loc[~df2.wikidata.str.contains('Q', na=False)]):
     raise Exception('Wikidata ID should contains a Q.')
 
 # report crossover, or not.
+# TODO: render this as wikidata.json.
 
-print(f'Entities present in both datasets: {len(df1.loc[df1.wikidata.isin(df2.wikidata)])}.')
-print(f'Entities present in first, but not second dataset: {len(df1.loc[~df1.wikidata.isin(df2.wikidata)])}.')
-print(f'Entities present in second, but not first dataset: {len(df2.loc[~df2.wikidata.isin(df1.wikidata)])}.')
+# print(f'Entities present in both datasets: {len(df1.loc[df1.wikidata.isin(df2.wikidata)])}.')
+# print(f'Entities present in first, but not second dataset: {len(df1.loc[~df1.wikidata.isin(df2.wikidata)])}.')
+# print(f'Entities present in second, but not first dataset: {len(df2.loc[~df2.wikidata.isin(df1.wikidata)])}.')
