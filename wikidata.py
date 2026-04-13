@@ -1,5 +1,7 @@
 
 import hashlib
+import io
+import json
 import pandas
 import pathlib
 import rdflib
@@ -12,7 +14,8 @@ import tqdm
 df = pandas.DataFrame()
 for dataset in ['pike-cooper', 'murray', 'stratton']:
     url = f'https://raw.githubusercontent.com/paulduchesne/{dataset}/refs/heads/develop/dataset.csv'
-    df = pandas.concat([df, pandas.read_csv(url)])
+    datum = requests.get(url).content
+    df = pandas.concat([df, pandas.read_csv(io.StringIO(datum.decode('utf-8')))])
 
 df = df.drop_duplicates(subset='wikidata', keep='first')
 if len(df.loc[~df.wikidata.str.contains('Q', na=False)]):
@@ -43,3 +46,18 @@ for wikidata_id in tqdm.tqdm(df.wikidata.unique()[:10]):
         json_path.parent.mkdir(exist_ok=True)
         g = rdflib.Graph().parse(data=r.text, format="xml")
         g.serialize(destination=json_path, format='json-ld')
+
+aggregated_file = list()
+for json_file in (pathlib.Path.cwd() / 'data').iterdir():
+    if json_file.suffix != '.json':
+        continue
+
+    with open(json_file) as json_data:
+        json_data = json.load(json_data)
+
+    aggregated_file += json_data
+    print(json_file.stem, len(json_data), type(json_data))
+    print(len(aggregated_file))
+
+with open(pathlib.Path.cwd() / 'wikidata.json', 'w') as aggregated_out:
+    json.dump(aggregated_file, aggregated_out, ensure_ascii=False, indent=4)

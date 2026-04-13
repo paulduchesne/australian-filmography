@@ -41,7 +41,7 @@ if len(df2.loc[~df2.wikidata.str.contains('Q', na=False)]):
     raise Exception('Wikidata ID should contains a Q.')
 
 # report crossover, or not.
-# TODO: render this as wikidata.json.
+# TODO: render this as filmography.json.
 
 # print(f'Entities present in both datasets: {len(df1.loc[df1.wikidata.isin(df2.wikidata)])}.')
 # print(f'Entities present in first, but not second dataset: {len(df1.loc[~df1.wikidata.isin(df2.wikidata)])}.')
