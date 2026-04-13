@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+   <title>Australian Filmography</title>
+   <link rel="stylesheet" type="text/css" href="{{ url_for('static', filename='style.css') }}">
+   <link href="https://fonts.googleapis.com/css?family=Raleway:100,200,300,400,500,600,700,800,900"
+   rel="stylesheet" />
+
+
+   <link href="https://fonts.googleapis.com/css2?family=Bebas+Neue&display=swap" rel="stylesheet">
+</head>
+
+<body style="margin: 0; padding: 0" class="background">
+
+   <div style="padding-top: 100px;   width: 500px; margin: 0 auto;text-align: left;">
+   <tspan class="header">{{ data.label.0.label }} ({{ data.year.0.year }})</tspan><br><br>
+
+      {% for sect in data.info %}
+      <br><br>
+
+      <table>
+
+      {% for row in sect.payload %}
+
+         {% for elem in row.data %}
+
+            <!-- <tr> -->
+               {% if loop.index == 1 %}<td style="width:100px"><tspan class="detail">{{row.attribute}}</tspan></td>{% else %}<td  style="width:100px"></td>{% endif %}
+               <td><a href="http://localhost:5000?filter={{ elem.link }}"><tspan class="detail-link">{{ elem.label }}</tspan></a></td>
+            </tr>
+            {% endfor %} {% endfor %}
+         </table>
+
+            {% endfor %}<br>
+   </div>
+</body>
+</html>
