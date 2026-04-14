@@ -140,6 +140,10 @@ def entity_page(entity):
 
     return render_template('entity.html', data=data)
 
+@app.route('/about', methods=['GET', 'POST'])
+def about_page():
+    return render_template('about.html')
+
 
 if __name__ == "__main__":
     app.run(debug=True, port=5000)

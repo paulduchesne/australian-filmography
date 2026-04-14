@@ -1,0 +1,133 @@
+[
+  {
+    "@id": "http://www.wikidata.org/entity/Q7004918",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Nevin Tait"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q7748580",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "The Lost Chord"
+      }
+    ],
+    "http://www.wikidata.org/prop/direct/P136": [
+      {
+        "@id": "http://www.wikidata.org/entity/Q226730"
+      }
+    ],
+    "http://www.wikidata.org/prop/direct/P162": [
+      {
+        "@id": "http://www.wikidata.org/entity/Q8009864"
+      },
+      {
+        "@id": "http://www.wikidata.org/entity/Q6858512"
+      },
+      {
+        "@id": "http://www.wikidata.org/entity/Q7004918"
+      },
+      {
+        "@id": "http://www.wikidata.org/entity/Q6260174"
+      }
+    ],
+    "http://www.wikidata.org/prop/direct/P31": [
+      {
+        "@id": "http://www.wikidata.org/entity/Q11424"
+      }
+    ],
+    "http://www.wikidata.org/prop/direct/P344": [
+      {
+        "@id": "http://www.wikidata.org/entity/Q7104078"
+      }
+    ],
+    "http://www.wikidata.org/prop/direct/P462": [
+      {
+        "@id": "http://www.wikidata.org/entity/Q838368"
+      }
+    ],
+    "http://www.wikidata.org/prop/direct/P57": [
+      {
+        "@id": "http://www.wikidata.org/entity/Q3564549"
+      }
+    ],
+    "http://www.wikidata.org/prop/direct/P577": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "1911-01-01T00:00:00+00:00"
+      }
+    ],
+    "http://www.wikidata.org/prop/direct/P58": [
+      {
+        "@id": "http://www.wikidata.org/entity/Q3564549"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q226730",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "silent film"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q7104078",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Orrie Perry"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q8009864",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "William Gibson"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q6858512",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Millard Johnson"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q3564549",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "W. J. Lincoln"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q6260174",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "John Tait"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q838368",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "black-and-white"
+      }
+    ]
+  }
+]

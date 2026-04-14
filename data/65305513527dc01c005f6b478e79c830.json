@@ -1,0 +1,126 @@
+[
+  {
+    "@id": "http://www.wikidata.org/entity/Q669045",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Harry Beaumont"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q226730",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "silent film"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q3758734",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Gaston Mervale"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q111700305",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "bushranging film"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q3602786",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "A Tale of the Australian Bush"
+      }
+    ],
+    "http://www.wikidata.org/prop/direct/P136": [
+      {
+        "@id": "http://www.wikidata.org/entity/Q111700305"
+      },
+      {
+        "@id": "http://www.wikidata.org/entity/Q226730"
+      }
+    ],
+    "http://www.wikidata.org/prop/direct/P161": [
+      {
+        "@id": "http://www.wikidata.org/entity/Q5576393"
+      },
+      {
+        "@id": "http://www.wikidata.org/entity/Q669045"
+      },
+      {
+        "@id": "http://www.wikidata.org/entity/Q3837650"
+      },
+      {
+        "@id": "http://www.wikidata.org/entity/Q3764195"
+      }
+    ],
+    "http://www.wikidata.org/prop/direct/P31": [
+      {
+        "@id": "http://www.wikidata.org/entity/Q24862"
+      }
+    ],
+    "http://www.wikidata.org/prop/direct/P462": [
+      {
+        "@id": "http://www.wikidata.org/entity/Q838368"
+      }
+    ],
+    "http://www.wikidata.org/prop/direct/P57": [
+      {
+        "@id": "http://www.wikidata.org/entity/Q3758734"
+      }
+    ],
+    "http://www.wikidata.org/prop/direct/P577": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "1911-01-01T00:00:00+00:00"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q5576393",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Godfrey Cass"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q3837650",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Louise Lovely"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q3764195",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Gilbert Emery"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q838368",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "black-and-white"
+      }
+    ]
+  }
+]

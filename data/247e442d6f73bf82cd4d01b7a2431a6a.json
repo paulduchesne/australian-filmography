@@ -1,0 +1,262 @@
+[
+  {
+    "@id": "http://www.wikidata.org/entity/Q226730",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "silent film"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q3021715",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Dell Henderson"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q2474062",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "W. Chrystie Miller"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q2011211",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Dorothy West"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q838368",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "black-and-white"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q738864",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Charles West"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q2710971",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Linda Arvidson"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q208821",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Guy Hedlund"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q2477748",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Wilfred Lucas"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q2461823",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Kate Bruce"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q329965",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Billy Bitzer"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q459580",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Claire McDowell"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q367073",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Donald Crisp"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q51123",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "D. W. Griffith"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q3101795",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "George Nichols"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q20970432",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "4:3"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q3750930",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Francis J. Grandon"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q1237612",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "William J. Butler"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q3797421",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "In the Days of '49"
+      }
+    ],
+    "http://www.wikidata.org/prop/direct/P136": [
+      {
+        "@id": "http://www.wikidata.org/entity/Q226730"
+      }
+    ],
+    "http://www.wikidata.org/prop/direct/P161": [
+      {
+        "@id": "http://www.wikidata.org/entity/Q208821"
+      },
+      {
+        "@id": "http://www.wikidata.org/entity/Q367073"
+      },
+      {
+        "@id": "http://www.wikidata.org/entity/Q629304"
+      },
+      {
+        "@id": "http://www.wikidata.org/entity/Q1237612"
+      },
+      {
+        "@id": "http://www.wikidata.org/entity/Q459580"
+      },
+      {
+        "@id": "http://www.wikidata.org/entity/Q2461823"
+      },
+      {
+        "@id": "http://www.wikidata.org/entity/Q2477748"
+      },
+      {
+        "@id": "http://www.wikidata.org/entity/Q2710971"
+      },
+      {
+        "@id": "http://www.wikidata.org/entity/Q3750930"
+      },
+      {
+        "@id": "http://www.wikidata.org/entity/Q2011211"
+      },
+      {
+        "@id": "http://www.wikidata.org/entity/Q2474062"
+      },
+      {
+        "@id": "http://www.wikidata.org/entity/Q738864"
+      },
+      {
+        "@id": "http://www.wikidata.org/entity/Q3021715"
+      },
+      {
+        "@id": "http://www.wikidata.org/entity/Q3101795"
+      }
+    ],
+    "http://www.wikidata.org/prop/direct/P2061": [
+      {
+        "@id": "http://www.wikidata.org/entity/Q20970432"
+      }
+    ],
+    "http://www.wikidata.org/prop/direct/P31": [
+      {
+        "@id": "http://www.wikidata.org/entity/Q24862"
+      }
+    ],
+    "http://www.wikidata.org/prop/direct/P344": [
+      {
+        "@id": "http://www.wikidata.org/entity/Q329965"
+      }
+    ],
+    "http://www.wikidata.org/prop/direct/P462": [
+      {
+        "@id": "http://www.wikidata.org/entity/Q838368"
+      }
+    ],
+    "http://www.wikidata.org/prop/direct/P57": [
+      {
+        "@id": "http://www.wikidata.org/entity/Q51123"
+      }
+    ],
+    "http://www.wikidata.org/prop/direct/P577": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "1911-01-01T00:00:00+00:00"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q629304",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Alfred Paget"
+      }
+    ]
+  }
+]

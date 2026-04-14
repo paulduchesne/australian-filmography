@@ -57,12 +57,12 @@
 
 a {
     color: black;
-    text-decoration: none;
+    text-decoration: None;
     text-decoration-color: black;
 }
 
 a:hover, a:focus, a:active {
-    color: black;
-    text-decoration: none;
+    color: #FF7043;
+    text-decoration: underline;
     text-decoration-color: black;
 }
