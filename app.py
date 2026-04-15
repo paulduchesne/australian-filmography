@@ -11,6 +11,7 @@ g = rdflib.Graph().parse('wikidata.json', format="json-ld")
 
 app = Flask(__name__)
 app.config['FREEZER_RELATIVE_URLS'] = True
+app.config['FREEZER_DESTINATION'] = 'docs'
 
 @app.route('/', methods=['GET', 'POST'])
 def home_page():
@@ -68,7 +69,7 @@ def home_page():
 
     return render_template('index.html', data=json.loads(json.dumps(submit_data)))
 
-@app.route('/film/<entity>', methods=['GET', 'POST'])
+@app.route('/film/<entity>/', methods=['GET', 'POST'])
 def entity_page(entity):
 
     query = '''
@@ -143,7 +144,7 @@ def entity_page(entity):
 
     return render_template('entity.html', data=data)
 
-@app.route('/about', methods=['GET', 'POST'])
+@app.route('/about/', methods=['GET', 'POST'])
 def about_page():
     return render_template('about.html')
 
