@@ -2,12 +2,15 @@
 
 import json
 import pandas
+import pathlib
 import rdflib
 from flask import Flask, render_template, request
+from flask_frozen import Freezer
 
 g = rdflib.Graph().parse('wikidata.json', format="json-ld")
 
 app = Flask(__name__)
+app.config['FREEZER_RELATIVE_URLS'] = True
 
 @app.route('/', methods=['GET', 'POST'])
 def home_page():
@@ -145,5 +148,40 @@ def about_page():
     return render_template('about.html')
 
 
+# if __name__ == "__main__":
+#     app.run(debug=True, port=5000)
+
+
+# Q4823509
+
+# # flask freezer.
+
+freezer = Freezer(app)
+
+# # render pages.
+
+
+@freezer.register_generator
+def resource_generator():
+
+
+    query = '''
+
+            prefix wd: <http://www.wikidata.org/entity/>
+            prefix wpd: <http://www.wikidata.org/prop/direct/>
+
+        select ?film where { ?film wpd:P31 wd:Q11424.
+
+
+           ?film rdfs:label ?filmLabel .
+           ?film wpd:P577 ?date .
+           ?film wpd:P57 ?director .
+           ?director rdfs:label ?directorLabel . }
+    '''
+
+    resources = g.query(query)
+    for x in resources:
+        yield 'entity_page', {'entity': str(x.film).split('/')[-1]}
+
 if __name__ == "__main__":
-    app.run(debug=True, port=5000)
+    freezer.freeze()

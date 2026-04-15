@@ -28,7 +28,7 @@ headers = {
     'Accept': 'application/json'
 }
 
-for wikidata_id in tqdm.tqdm(df.wikidata.unique()[:200]):
+for wikidata_id in tqdm.tqdm(df.wikidata.unique()[:300]):
     wikidata_id_hash = hashlib.md5(wikidata_id.encode()).hexdigest()
     json_path = pathlib.Path.cwd() / 'data' / f'{wikidata_id_hash}.json'
 
@@ -61,3 +61,5 @@ for json_file in (pathlib.Path.cwd() / 'data').iterdir():
 
 with open(pathlib.Path.cwd() / 'wikidata.json', 'w') as aggregated_out:
     json.dump(aggregated_file, aggregated_out, ensure_ascii=False, indent=4)
+
+# TODO: it would be good to add a survey of available data points for each record.
