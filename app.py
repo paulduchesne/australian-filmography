@@ -149,40 +149,40 @@ def about_page():
     return render_template('about.html')
 
 
-# if __name__ == "__main__":
-#     app.run(debug=True, port=5000)
+if __name__ == "__main__":
+    app.run(debug=True, port=5000)
 
 
 # Q4823509
 
 # # flask freezer.
 
-freezer = Freezer(app)
+# freezer = Freezer(app)
 
 # # render pages.
 
 
-@freezer.register_generator
-def resource_generator():
+# @freezer.register_generator
+# def resource_generator():
 
 
-    query = '''
+#     query = '''
 
-            prefix wd: <http://www.wikidata.org/entity/>
-            prefix wpd: <http://www.wikidata.org/prop/direct/>
+#             prefix wd: <http://www.wikidata.org/entity/>
+#             prefix wpd: <http://www.wikidata.org/prop/direct/>
 
-        select ?film where { ?film wpd:P31 wd:Q11424.
+#         select ?film where { ?film wpd:P31 wd:Q11424.
 
 
-           ?film rdfs:label ?filmLabel .
-           ?film wpd:P577 ?date .
-           ?film wpd:P57 ?director .
-           ?director rdfs:label ?directorLabel . }
-    '''
+#            ?film rdfs:label ?filmLabel .
+#            ?film wpd:P577 ?date .
+#            ?film wpd:P57 ?director .
+#            ?director rdfs:label ?directorLabel . }
+#     '''
 
-    resources = g.query(query)
-    for x in resources:
-        yield 'entity_page', {'entity': str(x.film).split('/')[-1]}
+#     resources = g.query(query)
+#     for x in resources:
+#         yield 'entity_page', {'entity': str(x.film).split('/')[-1]}
 
-if __name__ == "__main__":
-    freezer.freeze()
+# if __name__ == "__main__":
+#     freezer.freeze()
