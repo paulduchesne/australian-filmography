@@ -1,0 +1,64 @@
+[
+  {
+    "@id": "http://www.wikidata.org/entity/Q5457663",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Flashpoint"
+      }
+    ],
+    "http://www.wikidata.org/prop/direct/P161": [
+      {
+        "@id": "http://www.wikidata.org/entity/Q7453326"
+      }
+    ],
+    "http://www.wikidata.org/prop/direct/P162": [
+      {
+        "@id": "http://www.wikidata.org/entity/Q5560473"
+      }
+    ],
+    "http://www.wikidata.org/prop/direct/P31": [
+      {
+        "@id": "http://www.wikidata.org/entity/Q11424"
+      }
+    ],
+    "http://www.wikidata.org/prop/direct/P57": [
+      {
+        "@id": "http://www.wikidata.org/entity/Q2408644"
+      }
+    ],
+    "http://www.wikidata.org/prop/direct/P577": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "1972-01-01T00:00:00+00:00"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q7453326",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Serge Lazareff"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q2408644",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Brian Hannant"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q5560473",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Gil Brealey"
+      }
+    ]
+  }
+]

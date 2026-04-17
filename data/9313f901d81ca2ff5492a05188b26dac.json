@@ -1,0 +1,90 @@
+[
+  {
+    "@id": "http://www.wikidata.org/entity/Q7831792",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Tracy Mann"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q26708077",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "M"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q5686458",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Haydn Keenan"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q5577776",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Going Down"
+      }
+    ],
+    "http://www.wikidata.org/prop/direct/P136": [
+      {
+        "@id": "http://www.wikidata.org/entity/Q130232"
+      }
+    ],
+    "http://www.wikidata.org/prop/direct/P161": [
+      {
+        "@id": "http://www.wikidata.org/entity/Q5230834"
+      },
+      {
+        "@id": "http://www.wikidata.org/entity/Q7831792"
+      }
+    ],
+    "http://www.wikidata.org/prop/direct/P31": [
+      {
+        "@id": "http://www.wikidata.org/entity/Q11424"
+      }
+    ],
+    "http://www.wikidata.org/prop/direct/P3156": [
+      {
+        "@id": "http://www.wikidata.org/entity/Q26708077"
+      }
+    ],
+    "http://www.wikidata.org/prop/direct/P57": [
+      {
+        "@id": "http://www.wikidata.org/entity/Q5686458"
+      }
+    ],
+    "http://www.wikidata.org/prop/direct/P577": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "1983-01-01T00:00:00+00:00"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q130232",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "drama film"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q5230834",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "David Argue"
+      }
+    ]
+  }
+]

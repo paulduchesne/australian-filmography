@@ -1,0 +1,371 @@
+[
+  {
+    "@id": "http://www.wikidata.org/entity/Q1257078",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Mad Dog Morgan"
+      }
+    ],
+    "http://www.wikidata.org/prop/direct/P1040": [
+      {
+        "@id": "http://www.wikidata.org/entity/Q1701697"
+      }
+    ],
+    "http://www.wikidata.org/prop/direct/P136": [
+      {
+        "@id": "http://www.wikidata.org/entity/Q172980"
+      },
+      {
+        "@id": "http://www.wikidata.org/entity/Q130232"
+      },
+      {
+        "@id": "http://www.wikidata.org/entity/Q111700305"
+      },
+      {
+        "@id": "http://www.wikidata.org/entity/Q188473"
+      }
+    ],
+    "http://www.wikidata.org/prop/direct/P161": [
+      {
+        "@id": "http://www.wikidata.org/entity/Q704314"
+      },
+      {
+        "@id": "http://www.wikidata.org/entity/Q356383"
+      },
+      {
+        "@id": "http://www.wikidata.org/entity/Q928353"
+      },
+      {
+        "@id": "http://www.wikidata.org/entity/Q1885675"
+      },
+      {
+        "@id": "http://www.wikidata.org/entity/Q731111"
+      },
+      {
+        "@id": "http://www.wikidata.org/entity/Q1893466"
+      },
+      {
+        "@id": "http://www.wikidata.org/entity/Q1700377"
+      },
+      {
+        "@id": "http://www.wikidata.org/entity/Q862208"
+      },
+      {
+        "@id": "http://www.wikidata.org/entity/Q15443002"
+      },
+      {
+        "@id": "http://www.wikidata.org/entity/Q15627760"
+      },
+      {
+        "@id": "http://www.wikidata.org/entity/Q102711"
+      },
+      {
+        "@id": "http://www.wikidata.org/entity/Q327356"
+      },
+      {
+        "@id": "http://www.wikidata.org/entity/Q2065707"
+      }
+    ],
+    "http://www.wikidata.org/prop/direct/P162": [
+      {
+        "@id": "http://www.wikidata.org/entity/Q1365966"
+      }
+    ],
+    "http://www.wikidata.org/prop/direct/P2061": [
+      {
+        "@id": "http://www.wikidata.org/entity/Q21062414"
+      }
+    ],
+    "http://www.wikidata.org/prop/direct/P31": [
+      {
+        "@id": "http://www.wikidata.org/entity/Q11424"
+      }
+    ],
+    "http://www.wikidata.org/prop/direct/P3156": [
+      {
+        "@id": "http://www.wikidata.org/entity/Q26708077"
+      }
+    ],
+    "http://www.wikidata.org/prop/direct/P344": [
+      {
+        "@id": "http://www.wikidata.org/entity/Q25711752"
+      }
+    ],
+    "http://www.wikidata.org/prop/direct/P462": [
+      {
+        "@id": "http://www.wikidata.org/entity/Q22006653"
+      }
+    ],
+    "http://www.wikidata.org/prop/direct/P57": [
+      {
+        "@id": "http://www.wikidata.org/entity/Q6304164"
+      }
+    ],
+    "http://www.wikidata.org/prop/direct/P577": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "1976-07-09T00:00:00+00:00"
+      },
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "1976-09-22T00:00:00+00:00"
+      },
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "1977-01-28T00:00:00+00:00"
+      },
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "1977-04-21T00:00:00+00:00"
+      },
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "1979-01-19T00:00:00+00:00"
+      },
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "1978-04-14T00:00:00+00:00"
+      },
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "1981-01-22T00:00:00+00:00"
+      }
+    ],
+    "http://www.wikidata.org/prop/direct/P58": [
+      {
+        "@id": "http://www.wikidata.org/entity/Q6304164"
+      }
+    ],
+    "http://www.wikidata.org/prop/direct/P86": [
+      {
+        "@id": "http://www.wikidata.org/entity/Q7146510"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q1700377",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "John Hargreaves"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q327356",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Frank Thring"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q172980",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Western film"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q6304164",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Philippe Mora"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q111700305",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "bushranging film"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q15627760",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Steve Rackman"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q1893466",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Martin Harris"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q25711752",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Mike Molloy"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q862208",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Bill Hunter"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q188473",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "action film"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q22006653",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "color"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q731111",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "David Gulpilil"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q7146510",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Patrick Flynn"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q356383",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Jack Thompson"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q102711",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Dennis Hopper"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q704314",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Bruce Spence"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q15443002",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "John Derum"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q1701697",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "John Scott"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q21062414",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "2.35:1"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q2065707",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Hugh Keays-Byrne"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q1885675",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Reg Evans"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q1365966",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Jeremy Thomas"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q130232",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "drama film"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q26708077",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "M"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q928353",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Michael Pate"
+      }
+    ]
+  }
+]

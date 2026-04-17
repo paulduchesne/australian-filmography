@@ -1,0 +1,159 @@
+[
+  {
+    "@id": "http://www.wikidata.org/entity/Q6229433",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "John Dighton"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q315728",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "John Mills"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q228906",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Anne Baxter"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q157443",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "comedy film"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q102551",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Ernest Borgnine"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q838368",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "black-and-white"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q3012988",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Summer of the Seventeenth Doll"
+      }
+    ],
+    "http://www.wikidata.org/prop/direct/P136": [
+      {
+        "@id": "http://www.wikidata.org/entity/Q157443"
+      },
+      {
+        "@id": "http://www.wikidata.org/entity/Q130232"
+      }
+    ],
+    "http://www.wikidata.org/prop/direct/P161": [
+      {
+        "@id": "http://www.wikidata.org/entity/Q228906"
+      },
+      {
+        "@id": "http://www.wikidata.org/entity/Q206856"
+      },
+      {
+        "@id": "http://www.wikidata.org/entity/Q315728"
+      },
+      {
+        "@id": "http://www.wikidata.org/entity/Q102551"
+      }
+    ],
+    "http://www.wikidata.org/prop/direct/P162": [
+      {
+        "@id": "http://www.wikidata.org/entity/Q199327"
+      }
+    ],
+    "http://www.wikidata.org/prop/direct/P31": [
+      {
+        "@id": "http://www.wikidata.org/entity/Q11424"
+      }
+    ],
+    "http://www.wikidata.org/prop/direct/P462": [
+      {
+        "@id": "http://www.wikidata.org/entity/Q838368"
+      }
+    ],
+    "http://www.wikidata.org/prop/direct/P57": [
+      {
+        "@id": "http://www.wikidata.org/entity/Q199327"
+      }
+    ],
+    "http://www.wikidata.org/prop/direct/P577": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "1959-01-01T00:00:00+00:00"
+      }
+    ],
+    "http://www.wikidata.org/prop/direct/P58": [
+      {
+        "@id": "http://www.wikidata.org/entity/Q6229433"
+      }
+    ],
+    "http://www.wikidata.org/prop/direct/P86": [
+      {
+        "@id": "http://www.wikidata.org/entity/Q286856"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q199327",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Leslie Norman"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q206856",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Angela Lansbury"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q286856",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Benjamin Frankel"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q130232",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "drama film"
+      }
+    ]
+  }
+]

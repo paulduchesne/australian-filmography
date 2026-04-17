@@ -1,0 +1,172 @@
+[
+  {
+    "@id": "http://www.wikidata.org/entity/Q4738527",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Alwyn Kurts"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q546256",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Tim"
+      }
+    ],
+    "http://www.wikidata.org/prop/direct/P136": [
+      {
+        "@id": "http://www.wikidata.org/entity/Q130232"
+      },
+      {
+        "@id": "http://www.wikidata.org/entity/Q1054574"
+      }
+    ],
+    "http://www.wikidata.org/prop/direct/P161": [
+      {
+        "@id": "http://www.wikidata.org/entity/Q3846048"
+      },
+      {
+        "@id": "http://www.wikidata.org/entity/Q4738527"
+      },
+      {
+        "@id": "http://www.wikidata.org/entity/Q232282"
+      },
+      {
+        "@id": "http://www.wikidata.org/entity/Q77112"
+      },
+      {
+        "@id": "http://www.wikidata.org/entity/Q7143423"
+      },
+      {
+        "@id": "http://www.wikidata.org/entity/Q42229"
+      }
+    ],
+    "http://www.wikidata.org/prop/direct/P162": [
+      {
+        "@id": "http://www.wikidata.org/entity/Q928353"
+      }
+    ],
+    "http://www.wikidata.org/prop/direct/P31": [
+      {
+        "@id": "http://www.wikidata.org/entity/Q11424"
+      }
+    ],
+    "http://www.wikidata.org/prop/direct/P462": [
+      {
+        "@id": "http://www.wikidata.org/entity/Q22006653"
+      }
+    ],
+    "http://www.wikidata.org/prop/direct/P57": [
+      {
+        "@id": "http://www.wikidata.org/entity/Q928353"
+      }
+    ],
+    "http://www.wikidata.org/prop/direct/P577": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "1979-05-11T00:00:00+00:00"
+      },
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "1979-07-13T00:00:00+00:00"
+      },
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "1980-03-07T00:00:00+00:00"
+      },
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "1981-09-17T00:00:00+00:00"
+      }
+    ],
+    "http://www.wikidata.org/prop/direct/P58": [
+      {
+        "@id": "http://www.wikidata.org/entity/Q928353"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q1054574",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "romance film"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q77112",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "David Foster"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q130232",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "drama film"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q42229",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Mel Gibson"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q232282",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Piper Laurie"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q3846048",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Marco De Benedetti"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q22006653",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "color"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q928353",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Michael Pate"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q7143423",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Pat Evison"
+      }
+    ]
+  }
+]

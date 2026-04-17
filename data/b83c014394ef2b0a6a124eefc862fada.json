@@ -1,0 +1,137 @@
+[
+  {
+    "@id": "http://www.wikidata.org/entity/Q6205234",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Joan Long"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q449220",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Bruce Beresford"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q859369",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "comedy drama"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q1339864",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "sport film"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q19661120",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Jad Capelja"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q22006653",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "color"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q102429885",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "coming-of-age film"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q6529536",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Les Gock"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q3283835",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Puberty Blues"
+      }
+    ],
+    "http://www.wikidata.org/prop/direct/P136": [
+      {
+        "@id": "http://www.wikidata.org/entity/Q859369"
+      },
+      {
+        "@id": "http://www.wikidata.org/entity/Q102429885"
+      },
+      {
+        "@id": "http://www.wikidata.org/entity/Q1339864"
+      }
+    ],
+    "http://www.wikidata.org/prop/direct/P161": [
+      {
+        "@id": "http://www.wikidata.org/entity/Q449220"
+      },
+      {
+        "@id": "http://www.wikidata.org/entity/Q19661120"
+      }
+    ],
+    "http://www.wikidata.org/prop/direct/P162": [
+      {
+        "@id": "http://www.wikidata.org/entity/Q6205234"
+      }
+    ],
+    "http://www.wikidata.org/prop/direct/P31": [
+      {
+        "@id": "http://www.wikidata.org/entity/Q11424"
+      }
+    ],
+    "http://www.wikidata.org/prop/direct/P462": [
+      {
+        "@id": "http://www.wikidata.org/entity/Q22006653"
+      }
+    ],
+    "http://www.wikidata.org/prop/direct/P57": [
+      {
+        "@id": "http://www.wikidata.org/entity/Q449220"
+      }
+    ],
+    "http://www.wikidata.org/prop/direct/P577": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "1981-12-10T00:00:00+00:00"
+      },
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "1982-08-27T00:00:00+00:00"
+      }
+    ],
+    "http://www.wikidata.org/prop/direct/P86": [
+      {
+        "@id": "http://www.wikidata.org/entity/Q6529536"
+      }
+    ]
+  }
+]

@@ -1,0 +1,83 @@
+[
+  {
+    "@id": "http://www.wikidata.org/entity/Q1557469",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Guy Doleman"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q7369721",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Ross Wood"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q838368",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "black-and-white"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q4798890",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Arthur Greville Collins"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q7624500",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Strong Is the Seed"
+      }
+    ],
+    "http://www.wikidata.org/prop/direct/P161": [
+      {
+        "@id": "http://www.wikidata.org/entity/Q1557469"
+      }
+    ],
+    "http://www.wikidata.org/prop/direct/P162": [
+      {
+        "@id": "http://www.wikidata.org/entity/Q4798890"
+      }
+    ],
+    "http://www.wikidata.org/prop/direct/P31": [
+      {
+        "@id": "http://www.wikidata.org/entity/Q11424"
+      }
+    ],
+    "http://www.wikidata.org/prop/direct/P344": [
+      {
+        "@id": "http://www.wikidata.org/entity/Q7369721"
+      }
+    ],
+    "http://www.wikidata.org/prop/direct/P462": [
+      {
+        "@id": "http://www.wikidata.org/entity/Q838368"
+      }
+    ],
+    "http://www.wikidata.org/prop/direct/P57": [
+      {
+        "@id": "http://www.wikidata.org/entity/Q4798890"
+      }
+    ],
+    "http://www.wikidata.org/prop/direct/P577": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "1949-01-01T00:00:00+00:00"
+      }
+    ]
+  }
+]

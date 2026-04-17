@@ -1,0 +1,230 @@
+[
+  {
+    "@id": "http://www.wikidata.org/entity/Q16732922",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Vangelis Mourikis"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q5248211",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Deborah Conway"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q5234402",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "David Gribble"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q5593406",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Grahame Bond"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q7327853",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Richard Moir"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q110192646",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Gerry Sont"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q9311262",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Robin Ramsay"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q7163398",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Penne Hackforth-Jones"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q113471494",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "John Clark"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q7380038",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Running on Empty"
+      }
+    ],
+    "http://www.wikidata.org/prop/direct/P136": [
+      {
+        "@id": "http://www.wikidata.org/entity/Q102429885"
+      },
+      {
+        "@id": "http://www.wikidata.org/entity/Q188473"
+      }
+    ],
+    "http://www.wikidata.org/prop/direct/P161": [
+      {
+        "@id": "http://www.wikidata.org/entity/Q619445"
+      },
+      {
+        "@id": "http://www.wikidata.org/entity/Q7327853"
+      },
+      {
+        "@id": "http://www.wikidata.org/entity/Q5248211"
+      },
+      {
+        "@id": "http://www.wikidata.org/entity/Q16732922"
+      },
+      {
+        "@id": "http://www.wikidata.org/entity/Q9311262"
+      },
+      {
+        "@id": "http://www.wikidata.org/entity/Q7163398"
+      },
+      {
+        "@id": "http://www.wikidata.org/entity/Q27680846"
+      },
+      {
+        "@id": "http://www.wikidata.org/entity/Q5593406"
+      },
+      {
+        "@id": "http://www.wikidata.org/entity/Q110192646"
+      },
+      {
+        "@id": "http://www.wikidata.org/entity/Q6794685"
+      }
+    ],
+    "http://www.wikidata.org/prop/direct/P162": [
+      {
+        "@id": "http://www.wikidata.org/entity/Q7227175"
+      }
+    ],
+    "http://www.wikidata.org/prop/direct/P31": [
+      {
+        "@id": "http://www.wikidata.org/entity/Q11424"
+      }
+    ],
+    "http://www.wikidata.org/prop/direct/P344": [
+      {
+        "@id": "http://www.wikidata.org/entity/Q5234402"
+      }
+    ],
+    "http://www.wikidata.org/prop/direct/P462": [
+      {
+        "@id": "http://www.wikidata.org/entity/Q22006653"
+      }
+    ],
+    "http://www.wikidata.org/prop/direct/P57": [
+      {
+        "@id": "http://www.wikidata.org/entity/Q113471494"
+      }
+    ],
+    "http://www.wikidata.org/prop/direct/P577": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "1982-11-03T00:00:00+00:00"
+      },
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "1983-03-17T00:00:00+00:00"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q27680846",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Terry Serio"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q22006653",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "color"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q188473",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "action film"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q102429885",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "coming-of-age film"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q6794685",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Max Cullen"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q7227175",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Pom Oliver"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q619445",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Chris Haywood"
+      }
+    ]
+  }
+]

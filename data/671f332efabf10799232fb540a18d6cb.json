@@ -1,0 +1,152 @@
+[
+  {
+    "@id": "http://www.wikidata.org/entity/Q2777667",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Steve Bisley"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q13435404",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Kevin James Dobson"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q4706340",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Alan Cassell"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q462036",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "David Atkins"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q130232",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "drama film"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q6832305",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Michael Long"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q645928",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "biographical film"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q2926479",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Bruce Smeaton"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q241897",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Jacki Weaver"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q22006653",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "color"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q7582364",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Squizzy Taylor"
+      }
+    ],
+    "http://www.wikidata.org/prop/direct/P136": [
+      {
+        "@id": "http://www.wikidata.org/entity/Q130232"
+      },
+      {
+        "@id": "http://www.wikidata.org/entity/Q645928"
+      }
+    ],
+    "http://www.wikidata.org/prop/direct/P161": [
+      {
+        "@id": "http://www.wikidata.org/entity/Q4706340"
+      },
+      {
+        "@id": "http://www.wikidata.org/entity/Q6832305"
+      },
+      {
+        "@id": "http://www.wikidata.org/entity/Q462036"
+      },
+      {
+        "@id": "http://www.wikidata.org/entity/Q2777667"
+      },
+      {
+        "@id": "http://www.wikidata.org/entity/Q241897"
+      }
+    ],
+    "http://www.wikidata.org/prop/direct/P31": [
+      {
+        "@id": "http://www.wikidata.org/entity/Q11424"
+      }
+    ],
+    "http://www.wikidata.org/prop/direct/P462": [
+      {
+        "@id": "http://www.wikidata.org/entity/Q22006653"
+      }
+    ],
+    "http://www.wikidata.org/prop/direct/P57": [
+      {
+        "@id": "http://www.wikidata.org/entity/Q13435404"
+      }
+    ],
+    "http://www.wikidata.org/prop/direct/P577": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "1982-01-01T00:00:00+00:00"
+      }
+    ],
+    "http://www.wikidata.org/prop/direct/P86": [
+      {
+        "@id": "http://www.wikidata.org/entity/Q2926479"
+      }
+    ]
+  }
+]

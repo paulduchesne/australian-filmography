@@ -1,0 +1,260 @@
+[
+  {
+    "@id": "http://www.wikidata.org/entity/Q22006653",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "color"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q5146241",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Colleen Clifford"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q103871",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Beate Mainka-Jellinghaus"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q2907645",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Bob Ellis"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q87818",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Jörg Schmidt-Reitwein"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q2265591",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Where the Green Ants Dream"
+      }
+    ],
+    "http://www.wikidata.org/prop/direct/P1040": [
+      {
+        "@id": "http://www.wikidata.org/entity/Q103871"
+      }
+    ],
+    "http://www.wikidata.org/prop/direct/P136": [
+      {
+        "@id": "http://www.wikidata.org/entity/Q130232"
+      }
+    ],
+    "http://www.wikidata.org/prop/direct/P161": [
+      {
+        "@id": "http://www.wikidata.org/entity/Q5146241"
+      },
+      {
+        "@id": "http://www.wikidata.org/entity/Q729375"
+      },
+      {
+        "@id": "http://www.wikidata.org/entity/Q16611036"
+      },
+      {
+        "@id": "http://www.wikidata.org/entity/Q2065707"
+      },
+      {
+        "@id": "http://www.wikidata.org/entity/Q6142088"
+      },
+      {
+        "@id": "http://www.wikidata.org/entity/Q44131"
+      },
+      {
+        "@id": "http://www.wikidata.org/entity/Q2907645"
+      },
+      {
+        "@id": "http://www.wikidata.org/entity/Q704314"
+      },
+      {
+        "@id": "http://www.wikidata.org/entity/Q237268"
+      },
+      {
+        "@id": "http://www.wikidata.org/entity/Q1670787"
+      },
+      {
+        "@id": "http://www.wikidata.org/entity/Q142501"
+      }
+    ],
+    "http://www.wikidata.org/prop/direct/P162": [
+      {
+        "@id": "http://www.wikidata.org/entity/Q44131"
+      },
+      {
+        "@id": "http://www.wikidata.org/entity/Q3838983"
+      }
+    ],
+    "http://www.wikidata.org/prop/direct/P31": [
+      {
+        "@id": "http://www.wikidata.org/entity/Q11424"
+      }
+    ],
+    "http://www.wikidata.org/prop/direct/P344": [
+      {
+        "@id": "http://www.wikidata.org/entity/Q87818"
+      }
+    ],
+    "http://www.wikidata.org/prop/direct/P462": [
+      {
+        "@id": "http://www.wikidata.org/entity/Q22006653"
+      }
+    ],
+    "http://www.wikidata.org/prop/direct/P57": [
+      {
+        "@id": "http://www.wikidata.org/entity/Q44131"
+      }
+    ],
+    "http://www.wikidata.org/prop/direct/P577": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "1984-01-01T00:00:00+00:00"
+      },
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "1984-08-31T00:00:00+00:00"
+      }
+    ],
+    "http://www.wikidata.org/prop/direct/P58": [
+      {
+        "@id": "http://www.wikidata.org/entity/Q44131"
+      },
+      {
+        "@id": "http://www.wikidata.org/entity/Q2907645"
+      }
+    ],
+    "http://www.wikidata.org/prop/direct/P86": [
+      {
+        "@id": "http://www.wikidata.org/entity/Q7967264"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q142501",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Ray Barrett"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q237268",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Paul Cox"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q16611036",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Tony Llewelyn-Jones"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q2065707",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Hugh Keays-Byrne"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q44131",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Werner Herzog"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q704314",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Bruce Spence"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q1670787",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Norman Kaye"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q7967264",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Wandjuk Marika"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q130232",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "drama film"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q3838983",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Lucki Stipetić"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q6142088",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "James Ricketson"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q729375",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Christopher Cain"
+      }
+    ]
+  }
+]

@@ -1,0 +1,128 @@
+[
+  {
+    "@id": "http://www.wikidata.org/entity/Q3157245",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Jack Lee"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q7365062",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Ronald Lewis"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q1707323",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Joseph Janni"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q111700305",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "bushranging film"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q959790",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "crime film"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q294454",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Peter Finch"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q214123",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Mátyás Seiber"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q7340832",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Robbery Under Arms"
+      }
+    ],
+    "http://www.wikidata.org/prop/direct/P136": [
+      {
+        "@id": "http://www.wikidata.org/entity/Q959790"
+      },
+      {
+        "@id": "http://www.wikidata.org/entity/Q130232"
+      },
+      {
+        "@id": "http://www.wikidata.org/entity/Q111700305"
+      }
+    ],
+    "http://www.wikidata.org/prop/direct/P161": [
+      {
+        "@id": "http://www.wikidata.org/entity/Q7365062"
+      },
+      {
+        "@id": "http://www.wikidata.org/entity/Q294454"
+      }
+    ],
+    "http://www.wikidata.org/prop/direct/P162": [
+      {
+        "@id": "http://www.wikidata.org/entity/Q1707323"
+      }
+    ],
+    "http://www.wikidata.org/prop/direct/P31": [
+      {
+        "@id": "http://www.wikidata.org/entity/Q11424"
+      }
+    ],
+    "http://www.wikidata.org/prop/direct/P57": [
+      {
+        "@id": "http://www.wikidata.org/entity/Q3157245"
+      }
+    ],
+    "http://www.wikidata.org/prop/direct/P577": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "1957-01-01T00:00:00+00:00"
+      }
+    ],
+    "http://www.wikidata.org/prop/direct/P86": [
+      {
+        "@id": "http://www.wikidata.org/entity/Q214123"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q130232",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "drama film"
+      }
+    ]
+  }
+]

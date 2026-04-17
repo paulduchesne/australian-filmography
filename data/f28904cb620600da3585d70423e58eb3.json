@@ -1,0 +1,158 @@
+[
+  {
+    "@id": "http://www.wikidata.org/entity/Q1700377",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "John Hargreaves"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q4772172",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Anthony Buckley"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q3531818",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Tony Martin"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q612067",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Brian May"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q5294199",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Donald Crombie"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q26708077",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "M"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q7744384",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "The Killing of Angel Street"
+      }
+    ],
+    "http://www.wikidata.org/prop/direct/P136": [
+      {
+        "@id": "http://www.wikidata.org/entity/Q2484376"
+      }
+    ],
+    "http://www.wikidata.org/prop/direct/P161": [
+      {
+        "@id": "http://www.wikidata.org/entity/Q1700377"
+      },
+      {
+        "@id": "http://www.wikidata.org/entity/Q3531818"
+      },
+      {
+        "@id": "http://www.wikidata.org/entity/Q3027478"
+      }
+    ],
+    "http://www.wikidata.org/prop/direct/P162": [
+      {
+        "@id": "http://www.wikidata.org/entity/Q4772172"
+      }
+    ],
+    "http://www.wikidata.org/prop/direct/P31": [
+      {
+        "@id": "http://www.wikidata.org/entity/Q11424"
+      }
+    ],
+    "http://www.wikidata.org/prop/direct/P3156": [
+      {
+        "@id": "http://www.wikidata.org/entity/Q26708077"
+      }
+    ],
+    "http://www.wikidata.org/prop/direct/P462": [
+      {
+        "@id": "http://www.wikidata.org/entity/Q22006653"
+      }
+    ],
+    "http://www.wikidata.org/prop/direct/P57": [
+      {
+        "@id": "http://www.wikidata.org/entity/Q5294199"
+      }
+    ],
+    "http://www.wikidata.org/prop/direct/P577": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "1981-01-01T00:00:00+00:00"
+      }
+    ],
+    "http://www.wikidata.org/prop/direct/P58": [
+      {
+        "@id": "http://www.wikidata.org/entity/Q3735170"
+      }
+    ],
+    "http://www.wikidata.org/prop/direct/P86": [
+      {
+        "@id": "http://www.wikidata.org/entity/Q612067"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q3735170",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Evan Jones"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q2484376",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "thriller film"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q3027478",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Elizabeth Alexander"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q22006653",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "color"
+      }
+    ]
+  }
+]

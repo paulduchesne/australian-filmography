@@ -1,0 +1,116 @@
+[
+  {
+    "@id": "http://www.wikidata.org/entity/Q7582212",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Squeeze a Flower"
+      }
+    ],
+    "http://www.wikidata.org/prop/direct/P1040": [
+      {
+        "@id": "http://www.wikidata.org/entity/Q28159954"
+      }
+    ],
+    "http://www.wikidata.org/prop/direct/P136": [
+      {
+        "@id": "http://www.wikidata.org/entity/Q157443"
+      }
+    ],
+    "http://www.wikidata.org/prop/direct/P161": [
+      {
+        "@id": "http://www.wikidata.org/entity/Q7371910"
+      },
+      {
+        "@id": "http://www.wikidata.org/entity/Q344735"
+      },
+      {
+        "@id": "http://www.wikidata.org/entity/Q977975"
+      }
+    ],
+    "http://www.wikidata.org/prop/direct/P31": [
+      {
+        "@id": "http://www.wikidata.org/entity/Q11424"
+      }
+    ],
+    "http://www.wikidata.org/prop/direct/P57": [
+      {
+        "@id": "http://www.wikidata.org/entity/Q708343"
+      }
+    ],
+    "http://www.wikidata.org/prop/direct/P577": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "1970-01-01T00:00:00+00:00"
+      }
+    ],
+    "http://www.wikidata.org/prop/direct/P86": [
+      {
+        "@id": "http://www.wikidata.org/entity/Q7819626"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q7819626",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Tommy Leonetti"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q708343",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Marc Daniels"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q7371910",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Rowena Wallace"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q344735",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Jack Albertson"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q977975",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Walter Chiari"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q28159954",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Stanley Moore"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q157443",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "comedy film"
+      }
+    ]
+  }
+]

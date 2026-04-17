@@ -1,0 +1,374 @@
+[
+  {
+    "@id": "http://www.wikidata.org/entity/Q862208",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Bill Hunter"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q172980",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Western film"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q22006653",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "color"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q645928",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "biographical film"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q111700305",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "bushranging film"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q5271427",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Diane Craig"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q5981930",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Ian Jones"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q5127069",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Clarissa Kaye"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q128121",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Mick Jagger"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q5552725",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Gerry Duggan"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q6988716",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Neil Hartley"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q66685080",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Allen Bickford"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q16019045",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "James Elliott"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q60694598",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Bruce Barry"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q7177185",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Peter Sumner"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q6244211",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "John Laws"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q111383281",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Geoff Gilmour"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q3112204",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Ned Kelly"
+      }
+    ],
+    "http://www.wikidata.org/prop/direct/P136": [
+      {
+        "@id": "http://www.wikidata.org/entity/Q111700305"
+      },
+      {
+        "@id": "http://www.wikidata.org/entity/Q172980"
+      },
+      {
+        "@id": "http://www.wikidata.org/entity/Q645928"
+      },
+      {
+        "@id": "http://www.wikidata.org/entity/Q130232"
+      }
+    ],
+    "http://www.wikidata.org/prop/direct/P161": [
+      {
+        "@id": "http://www.wikidata.org/entity/Q111383281"
+      },
+      {
+        "@id": "http://www.wikidata.org/entity/Q128121"
+      },
+      {
+        "@id": "http://www.wikidata.org/entity/Q16019045"
+      },
+      {
+        "@id": "http://www.wikidata.org/entity/Q7177185"
+      },
+      {
+        "@id": "http://www.wikidata.org/entity/Q5552725"
+      },
+      {
+        "@id": "http://www.wikidata.org/entity/Q66685080"
+      },
+      {
+        "@id": "http://www.wikidata.org/entity/Q6244211"
+      },
+      {
+        "@id": "http://www.wikidata.org/entity/Q862208"
+      },
+      {
+        "@id": "http://www.wikidata.org/entity/Q6388484"
+      },
+      {
+        "@id": "http://www.wikidata.org/entity/Q5127069"
+      },
+      {
+        "@id": "http://www.wikidata.org/entity/Q5271427"
+      },
+      {
+        "@id": "http://www.wikidata.org/entity/Q60694598"
+      },
+      {
+        "@id": "http://www.wikidata.org/entity/Q111383333"
+      },
+      {
+        "@id": "http://www.wikidata.org/entity/Q327356"
+      },
+      {
+        "@id": "http://www.wikidata.org/entity/Q3294174"
+      },
+      {
+        "@id": "http://www.wikidata.org/entity/Q539895"
+      },
+      {
+        "@id": "http://www.wikidata.org/entity/Q7342468"
+      },
+      {
+        "@id": "http://www.wikidata.org/entity/Q7453326"
+      }
+    ],
+    "http://www.wikidata.org/prop/direct/P162": [
+      {
+        "@id": "http://www.wikidata.org/entity/Q6988716"
+      }
+    ],
+    "http://www.wikidata.org/prop/direct/P31": [
+      {
+        "@id": "http://www.wikidata.org/entity/Q11424"
+      }
+    ],
+    "http://www.wikidata.org/prop/direct/P344": [
+      {
+        "@id": "http://www.wikidata.org/entity/Q485770"
+      }
+    ],
+    "http://www.wikidata.org/prop/direct/P462": [
+      {
+        "@id": "http://www.wikidata.org/entity/Q22006653"
+      }
+    ],
+    "http://www.wikidata.org/prop/direct/P57": [
+      {
+        "@id": "http://www.wikidata.org/entity/Q52411"
+      }
+    ],
+    "http://www.wikidata.org/prop/direct/P577": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "1970-01-01T00:00:00+00:00"
+      }
+    ],
+    "http://www.wikidata.org/prop/direct/P58": [
+      {
+        "@id": "http://www.wikidata.org/entity/Q5981930"
+      }
+    ],
+    "http://www.wikidata.org/prop/direct/P86": [
+      {
+        "@id": "http://www.wikidata.org/entity/Q361257"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q7342468",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Robert Bruning"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q485770",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Gerry Fisher"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q130232",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "drama film"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q111383333",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Sue Lloyd"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q3294174",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Mark McManus"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q7453326",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Serge Lazareff"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q539895",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Martyn Sanderson"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q52411",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Tony Richardson"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q6388484",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Ken Shorter"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q327356",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Frank Thring"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q361257",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Shel Silverstein"
+      }
+    ]
+  }
+]

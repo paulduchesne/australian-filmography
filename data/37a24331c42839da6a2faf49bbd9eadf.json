@@ -1,0 +1,206 @@
+[
+  {
+    "@id": "http://www.wikidata.org/entity/Q6795099",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Max Phipps"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q5072610",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Chantal Contouri"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q2160854",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Rod Hardy"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q612067",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Brian May"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q4777214",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Antony I. Ginnane"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q7931560",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Vince Monton"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q26708077",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "M"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q7116678",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Ozploitation film"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q2137852",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "vampire film"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q310217",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "David Hemmings"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q4177861",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Thirst"
+      }
+    ],
+    "http://www.wikidata.org/prop/direct/P136": [
+      {
+        "@id": "http://www.wikidata.org/entity/Q7116678"
+      },
+      {
+        "@id": "http://www.wikidata.org/entity/Q200092"
+      },
+      {
+        "@id": "http://www.wikidata.org/entity/Q2137852"
+      }
+    ],
+    "http://www.wikidata.org/prop/direct/P161": [
+      {
+        "@id": "http://www.wikidata.org/entity/Q310217"
+      },
+      {
+        "@id": "http://www.wikidata.org/entity/Q1384373"
+      },
+      {
+        "@id": "http://www.wikidata.org/entity/Q5112879"
+      },
+      {
+        "@id": "http://www.wikidata.org/entity/Q5072610"
+      },
+      {
+        "@id": "http://www.wikidata.org/entity/Q6795099"
+      }
+    ],
+    "http://www.wikidata.org/prop/direct/P162": [
+      {
+        "@id": "http://www.wikidata.org/entity/Q4777214"
+      }
+    ],
+    "http://www.wikidata.org/prop/direct/P31": [
+      {
+        "@id": "http://www.wikidata.org/entity/Q11424"
+      }
+    ],
+    "http://www.wikidata.org/prop/direct/P3156": [
+      {
+        "@id": "http://www.wikidata.org/entity/Q26708077"
+      }
+    ],
+    "http://www.wikidata.org/prop/direct/P344": [
+      {
+        "@id": "http://www.wikidata.org/entity/Q7931560"
+      }
+    ],
+    "http://www.wikidata.org/prop/direct/P462": [
+      {
+        "@id": "http://www.wikidata.org/entity/Q22006653"
+      }
+    ],
+    "http://www.wikidata.org/prop/direct/P57": [
+      {
+        "@id": "http://www.wikidata.org/entity/Q2160854"
+      }
+    ],
+    "http://www.wikidata.org/prop/direct/P577": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "1979-01-01T00:00:00+00:00"
+      }
+    ],
+    "http://www.wikidata.org/prop/direct/P86": [
+      {
+        "@id": "http://www.wikidata.org/entity/Q612067"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q1384373",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Henry Silva"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q22006653",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "color"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q200092",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "horror film"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q5112879",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Christopher Milne"
+      }
+    ]
+  }
+]

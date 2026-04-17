@@ -1,0 +1,484 @@
+[
+  {
+    "@id": "http://www.wikidata.org/entity/Q71130",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Judah Friedlander"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q319221",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "adventure film"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q369482",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Aziz Ansari"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q2484376",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "thriller film"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q22006653",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "color"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q2003471",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "James V. Hart"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q15069821",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Emma Kenney"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q1146335",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "teen film"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q47537071",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Lori Forte"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q217004",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Josh Hutcherson"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q313266",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "John DiMaggio"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q14539",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Jason Sudeikis"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q2658535",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Selenis Leyva"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q4924324",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Blake Anderson"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q185655",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Chris Wedge"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q295034",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Johnny Knoxville"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q157443",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "comedy film"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q130232",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "drama film"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q189226",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Amanda Seyfried"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q172035",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Colin Farrell"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q157394",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "fantasy film"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q1361932",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "family film"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q193338",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Danny Elfman"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q2700629",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Epic"
+      }
+    ],
+    "http://www.wikidata.org/prop/direct/P136": [
+      {
+        "@id": "http://www.wikidata.org/entity/Q130232"
+      },
+      {
+        "@id": "http://www.wikidata.org/entity/Q1146335"
+      },
+      {
+        "@id": "http://www.wikidata.org/entity/Q319221"
+      },
+      {
+        "@id": "http://www.wikidata.org/entity/Q1361932"
+      },
+      {
+        "@id": "http://www.wikidata.org/entity/Q2678111"
+      },
+      {
+        "@id": "http://www.wikidata.org/entity/Q188473"
+      },
+      {
+        "@id": "http://www.wikidata.org/entity/Q157443"
+      },
+      {
+        "@id": "http://www.wikidata.org/entity/Q157394"
+      },
+      {
+        "@id": "http://www.wikidata.org/entity/Q2484376"
+      }
+    ],
+    "http://www.wikidata.org/prop/direct/P161": [
+      {
+        "@id": "http://www.wikidata.org/entity/Q217004"
+      },
+      {
+        "@id": "http://www.wikidata.org/entity/Q313266"
+      },
+      {
+        "@id": "http://www.wikidata.org/entity/Q369482"
+      },
+      {
+        "@id": "http://www.wikidata.org/entity/Q2658535"
+      },
+      {
+        "@id": "http://www.wikidata.org/entity/Q187844"
+      },
+      {
+        "@id": "http://www.wikidata.org/entity/Q71130"
+      },
+      {
+        "@id": "http://www.wikidata.org/entity/Q15069821"
+      },
+      {
+        "@id": "http://www.wikidata.org/entity/Q76819"
+      },
+      {
+        "@id": "http://www.wikidata.org/entity/Q933129"
+      },
+      {
+        "@id": "http://www.wikidata.org/entity/Q14539"
+      },
+      {
+        "@id": "http://www.wikidata.org/entity/Q16234071"
+      },
+      {
+        "@id": "http://www.wikidata.org/entity/Q4924324"
+      },
+      {
+        "@id": "http://www.wikidata.org/entity/Q189226"
+      },
+      {
+        "@id": "http://www.wikidata.org/entity/Q36153"
+      },
+      {
+        "@id": "http://www.wikidata.org/entity/Q172035"
+      },
+      {
+        "@id": "http://www.wikidata.org/entity/Q194045"
+      },
+      {
+        "@id": "http://www.wikidata.org/entity/Q295034"
+      }
+    ],
+    "http://www.wikidata.org/prop/direct/P162": [
+      {
+        "@id": "http://www.wikidata.org/entity/Q47537071"
+      }
+    ],
+    "http://www.wikidata.org/prop/direct/P2061": [
+      {
+        "@id": "http://www.wikidata.org/entity/Q21062414"
+      }
+    ],
+    "http://www.wikidata.org/prop/direct/P31": [
+      {
+        "@id": "http://www.wikidata.org/entity/Q11424"
+      }
+    ],
+    "http://www.wikidata.org/prop/direct/P3156": [
+      {
+        "@id": "http://www.wikidata.org/entity/Q26708076"
+      }
+    ],
+    "http://www.wikidata.org/prop/direct/P462": [
+      {
+        "@id": "http://www.wikidata.org/entity/Q22006653"
+      }
+    ],
+    "http://www.wikidata.org/prop/direct/P57": [
+      {
+        "@id": "http://www.wikidata.org/entity/Q185655"
+      }
+    ],
+    "http://www.wikidata.org/prop/direct/P577": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "2013-05-15T00:00:00+00:00"
+      },
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "2013-05-16T00:00:00+00:00"
+      },
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "2013-05-23T00:00:00+00:00"
+      },
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "2013-05-24T00:00:00+00:00"
+      }
+    ],
+    "http://www.wikidata.org/prop/direct/P58": [
+      {
+        "@id": "http://www.wikidata.org/entity/Q2003471"
+      },
+      {
+        "@id": "http://www.wikidata.org/entity/Q3530648"
+      },
+      {
+        "@id": "http://www.wikidata.org/entity/Q1385774"
+      },
+      {
+        "@id": "http://www.wikidata.org/entity/Q24951222"
+      }
+    ],
+    "http://www.wikidata.org/prop/direct/P86": [
+      {
+        "@id": "http://www.wikidata.org/entity/Q193338"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q187844",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Pitbull"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q3530648",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Tom Astle"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q2678111",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "action comedy film"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q194045",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Steven Tyler"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q26708076",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "PG"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q36153",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Beyoncé"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q16234071",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Eric Nelsen"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q76819",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Christoph Waltz"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q21062414",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "2.35:1"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q24951222",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Matt Ember"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q1385774",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "William Joyce"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q933129",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Chris O'Dowd"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q188473",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "action film"
+      }
+    ]
+  }
+]

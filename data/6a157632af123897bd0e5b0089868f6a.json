@@ -1,0 +1,50 @@
+[
+  {
+    "@id": "http://www.wikidata.org/entity/Q7815438",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Tom Cowan"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q7249802",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Promised Woman"
+      }
+    ],
+    "http://www.wikidata.org/prop/direct/P31": [
+      {
+        "@id": "http://www.wikidata.org/entity/Q11424"
+      }
+    ],
+    "http://www.wikidata.org/prop/direct/P3156": [
+      {
+        "@id": "http://www.wikidata.org/entity/Q26708076"
+      }
+    ],
+    "http://www.wikidata.org/prop/direct/P57": [
+      {
+        "@id": "http://www.wikidata.org/entity/Q7815438"
+      }
+    ],
+    "http://www.wikidata.org/prop/direct/P577": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "1975-01-01T00:00:00+00:00"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q26708076",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "PG"
+      }
+    ]
+  }
+]

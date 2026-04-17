@@ -1,0 +1,272 @@
+[
+  {
+    "@id": "http://www.wikidata.org/entity/Q1240097",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Donald McAlpine"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q27652873",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Jack Harris"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q27652861",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Maggie Doyle"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q7723514",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "The Club"
+      }
+    ],
+    "http://www.wikidata.org/prop/direct/P136": [
+      {
+        "@id": "http://www.wikidata.org/entity/Q1339864"
+      }
+    ],
+    "http://www.wikidata.org/prop/direct/P161": [
+      {
+        "@id": "http://www.wikidata.org/entity/Q7435478"
+      },
+      {
+        "@id": "http://www.wikidata.org/entity/Q27652873"
+      },
+      {
+        "@id": "http://www.wikidata.org/entity/Q27652884"
+      },
+      {
+        "@id": "http://www.wikidata.org/entity/Q27652875"
+      },
+      {
+        "@id": "http://www.wikidata.org/entity/Q27652881"
+      },
+      {
+        "@id": "http://www.wikidata.org/entity/Q27652861"
+      },
+      {
+        "@id": "http://www.wikidata.org/entity/Q27652868"
+      },
+      {
+        "@id": "http://www.wikidata.org/entity/Q4706340"
+      },
+      {
+        "@id": "http://www.wikidata.org/entity/Q5670833"
+      },
+      {
+        "@id": "http://www.wikidata.org/entity/Q356383"
+      },
+      {
+        "@id": "http://www.wikidata.org/entity/Q5525065"
+      },
+      {
+        "@id": "http://www.wikidata.org/entity/Q1709892"
+      },
+      {
+        "@id": "http://www.wikidata.org/entity/Q6380147"
+      },
+      {
+        "@id": "http://www.wikidata.org/entity/Q15499702"
+      },
+      {
+        "@id": "http://www.wikidata.org/entity/Q5490413"
+      },
+      {
+        "@id": "http://www.wikidata.org/entity/Q2111930"
+      }
+    ],
+    "http://www.wikidata.org/prop/direct/P31": [
+      {
+        "@id": "http://www.wikidata.org/entity/Q11424"
+      }
+    ],
+    "http://www.wikidata.org/prop/direct/P344": [
+      {
+        "@id": "http://www.wikidata.org/entity/Q1240097"
+      }
+    ],
+    "http://www.wikidata.org/prop/direct/P57": [
+      {
+        "@id": "http://www.wikidata.org/entity/Q449220"
+      }
+    ],
+    "http://www.wikidata.org/prop/direct/P577": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "1980-01-01T00:00:00+00:00"
+      }
+    ],
+    "http://www.wikidata.org/prop/direct/P58": [
+      {
+        "@id": "http://www.wikidata.org/entity/Q968980"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q1339864",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "sport film"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q5525065",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Gary Files"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q2111930",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Graham Kennedy"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q1709892",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Harold Hopkins"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q7435478",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Scot Palmer"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q968980",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "David Williamson"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q449220",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Bruce Beresford"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q15499702",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Lou Richards"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q5670833",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "John Howard"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q356383",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Jack Thompson"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q6380147",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Ron Carter"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q4706340",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Alan Cassell"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q27652884",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Ed Turley"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q27652881",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Jim Cain"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q5490413",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Frank Wilson"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q27652875",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Frank Raggatt"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q27652868",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Toni-Gay Shaw"
+      }
+    ]
+  }
+]

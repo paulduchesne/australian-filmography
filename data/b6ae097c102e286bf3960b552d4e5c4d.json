@@ -1,0 +1,30 @@
+[
+  {
+    "@id": "http://www.wikidata.org/entity/Q117456999",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Out Of It"
+      }
+    ],
+    "http://www.wikidata.org/prop/direct/P31": [
+      {
+        "@id": "http://www.wikidata.org/entity/Q11424"
+      }
+    ],
+    "http://www.wikidata.org/prop/direct/P57": [
+      {
+        "@id": "http://www.wikidata.org/entity/Q6387409"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q6387409",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Ken Cameron"
+      }
+    ]
+  }
+]

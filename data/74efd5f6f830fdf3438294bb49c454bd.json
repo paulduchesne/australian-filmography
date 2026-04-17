@@ -1,0 +1,76 @@
+[
+  {
+    "@id": "http://www.wikidata.org/entity/Q1935609",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "propaganda film"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q4769203",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Annie's Coming Out"
+      }
+    ],
+    "http://www.wikidata.org/prop/direct/P136": [
+      {
+        "@id": "http://www.wikidata.org/entity/Q459290"
+      },
+      {
+        "@id": "http://www.wikidata.org/entity/Q1935609"
+      }
+    ],
+    "http://www.wikidata.org/prop/direct/P31": [
+      {
+        "@id": "http://www.wikidata.org/entity/Q11424"
+      }
+    ],
+    "http://www.wikidata.org/prop/direct/P57": [
+      {
+        "@id": "http://www.wikidata.org/entity/Q5560473"
+      }
+    ],
+    "http://www.wikidata.org/prop/direct/P577": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "1984-01-01T00:00:00+00:00"
+      }
+    ],
+    "http://www.wikidata.org/prop/direct/P86": [
+      {
+        "@id": "http://www.wikidata.org/entity/Q7519970"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q5560473",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Gil Brealey"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q459290",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "independent film"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q7519970",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Simon Walker"
+      }
+    ]
+  }
+]

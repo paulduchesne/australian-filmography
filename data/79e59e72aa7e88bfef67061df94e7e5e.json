@@ -1,0 +1,380 @@
+[
+  {
+    "@id": "http://www.wikidata.org/entity/Q22006653",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "color"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q1664304",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Martin Vaughan"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q7173339",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Peter Collingwood"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q241897",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Jacki Weaver"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q2979051",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Cliff Green"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q328800",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Gheorghe Zamfir"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q4015651",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Vivean Gray"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q1200678",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "mystery film"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q8040183",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Wynn Roberts"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q26708075",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "G"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q3812974",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Karen Robson"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q3369120",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Patricia Lovell"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q6179383",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Jenny Lovell"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q16611036",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Tony Llewelyn-Jones"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q5524187",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Garry McDonald"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q1610584",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Helen Morse"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q55424",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Peter Weir"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q254828",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Rachel Roberts"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q592869",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "John Jarratt"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q3034857",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Dominic Guard"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q5640961",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Hal and Jim McElroy"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q3815617",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Kirsty Child"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q1421747",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Picnic at Hanging Rock"
+      }
+    ],
+    "http://www.wikidata.org/prop/direct/P136": [
+      {
+        "@id": "http://www.wikidata.org/entity/Q1200678"
+      },
+      {
+        "@id": "http://www.wikidata.org/entity/Q102429885"
+      },
+      {
+        "@id": "http://www.wikidata.org/entity/Q130232"
+      }
+    ],
+    "http://www.wikidata.org/prop/direct/P161": [
+      {
+        "@id": "http://www.wikidata.org/entity/Q241897"
+      },
+      {
+        "@id": "http://www.wikidata.org/entity/Q6179383"
+      },
+      {
+        "@id": "http://www.wikidata.org/entity/Q5524187"
+      },
+      {
+        "@id": "http://www.wikidata.org/entity/Q8040183"
+      },
+      {
+        "@id": "http://www.wikidata.org/entity/Q16611036"
+      },
+      {
+        "@id": "http://www.wikidata.org/entity/Q3034857"
+      },
+      {
+        "@id": "http://www.wikidata.org/entity/Q20684028"
+      },
+      {
+        "@id": "http://www.wikidata.org/entity/Q592869"
+      },
+      {
+        "@id": "http://www.wikidata.org/entity/Q254828"
+      },
+      {
+        "@id": "http://www.wikidata.org/entity/Q3812974"
+      },
+      {
+        "@id": "http://www.wikidata.org/entity/Q3815617"
+      },
+      {
+        "@id": "http://www.wikidata.org/entity/Q446063"
+      },
+      {
+        "@id": "http://www.wikidata.org/entity/Q1610584"
+      },
+      {
+        "@id": "http://www.wikidata.org/entity/Q4015651"
+      },
+      {
+        "@id": "http://www.wikidata.org/entity/Q6232878"
+      },
+      {
+        "@id": "http://www.wikidata.org/entity/Q7173339"
+      },
+      {
+        "@id": "http://www.wikidata.org/entity/Q1664304"
+      }
+    ],
+    "http://www.wikidata.org/prop/direct/P162": [
+      {
+        "@id": "http://www.wikidata.org/entity/Q5640961"
+      },
+      {
+        "@id": "http://www.wikidata.org/entity/Q3369120"
+      }
+    ],
+    "http://www.wikidata.org/prop/direct/P31": [
+      {
+        "@id": "http://www.wikidata.org/entity/Q11424"
+      }
+    ],
+    "http://www.wikidata.org/prop/direct/P3156": [
+      {
+        "@id": "http://www.wikidata.org/entity/Q26708075"
+      }
+    ],
+    "http://www.wikidata.org/prop/direct/P344": [
+      {
+        "@id": "http://www.wikidata.org/entity/Q260963"
+      }
+    ],
+    "http://www.wikidata.org/prop/direct/P462": [
+      {
+        "@id": "http://www.wikidata.org/entity/Q22006653"
+      }
+    ],
+    "http://www.wikidata.org/prop/direct/P57": [
+      {
+        "@id": "http://www.wikidata.org/entity/Q55424"
+      }
+    ],
+    "http://www.wikidata.org/prop/direct/P577": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "1975-08-08T00:00:00+00:00"
+      },
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "1976-10-31T00:00:00+00:00"
+      }
+    ],
+    "http://www.wikidata.org/prop/direct/P58": [
+      {
+        "@id": "http://www.wikidata.org/entity/Q2979051"
+      }
+    ],
+    "http://www.wikidata.org/prop/direct/P86": [
+      {
+        "@id": "http://www.wikidata.org/entity/Q328800"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q130232",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "drama film"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q6232878",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "John Fegan"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q20684028",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Olga Dickie"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q102429885",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "coming-of-age film"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q446063",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Anne-Louise Lambert"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q260963",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Russell Boyd"
+      }
+    ]
+  }
+]

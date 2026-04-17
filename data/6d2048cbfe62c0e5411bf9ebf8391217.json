@@ -1,0 +1,107 @@
+[
+  {
+    "@id": "http://www.wikidata.org/entity/Q5592208",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Graeme Blundell"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q7352804",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Robin Stewart"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q4706887",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Alan Hopgood"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q6228224",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "John D. Lamond"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q157443",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "comedy film"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q7122301",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Pacific Banana"
+      }
+    ],
+    "http://www.wikidata.org/prop/direct/P136": [
+      {
+        "@id": "http://www.wikidata.org/entity/Q157443"
+      }
+    ],
+    "http://www.wikidata.org/prop/direct/P161": [
+      {
+        "@id": "http://www.wikidata.org/entity/Q5592208"
+      },
+      {
+        "@id": "http://www.wikidata.org/entity/Q7352804"
+      },
+      {
+        "@id": "http://www.wikidata.org/entity/Q5248253"
+      }
+    ],
+    "http://www.wikidata.org/prop/direct/P162": [
+      {
+        "@id": "http://www.wikidata.org/entity/Q6228224"
+      }
+    ],
+    "http://www.wikidata.org/prop/direct/P31": [
+      {
+        "@id": "http://www.wikidata.org/entity/Q11424"
+      }
+    ],
+    "http://www.wikidata.org/prop/direct/P57": [
+      {
+        "@id": "http://www.wikidata.org/entity/Q6228224"
+      }
+    ],
+    "http://www.wikidata.org/prop/direct/P577": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "1981-02-04T00:00:00+00:00"
+      }
+    ],
+    "http://www.wikidata.org/prop/direct/P58": [
+      {
+        "@id": "http://www.wikidata.org/entity/Q4706887"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q5248253",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Deborah Gray"
+      }
+    ]
+  }
+]

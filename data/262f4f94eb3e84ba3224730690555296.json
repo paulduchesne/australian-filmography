@@ -1,0 +1,96 @@
+[
+  {
+    "@id": "http://www.wikidata.org/entity/Q319221",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "adventure film"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q1372500",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Sheldon Moldoff"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q28968511",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "traditionally animated film"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q1361932",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "family film"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q6757681",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Marco Polo Junior Versus the Red Dragon"
+      }
+    ],
+    "http://www.wikidata.org/prop/direct/P136": [
+      {
+        "@id": "http://www.wikidata.org/entity/Q319221"
+      },
+      {
+        "@id": "http://www.wikidata.org/entity/Q28968511"
+      },
+      {
+        "@id": "http://www.wikidata.org/entity/Q1361932"
+      }
+    ],
+    "http://www.wikidata.org/prop/direct/P31": [
+      {
+        "@id": "http://www.wikidata.org/entity/Q11424"
+      }
+    ],
+    "http://www.wikidata.org/prop/direct/P57": [
+      {
+        "@id": "http://www.wikidata.org/entity/Q5387293"
+      }
+    ],
+    "http://www.wikidata.org/prop/direct/P577": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "1972-12-01T00:00:00+00:00"
+      },
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "1973-04-12T00:00:00+00:00"
+      },
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "1974-04-04T00:00:00+00:00"
+      }
+    ],
+    "http://www.wikidata.org/prop/direct/P58": [
+      {
+        "@id": "http://www.wikidata.org/entity/Q1372500"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q5387293",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Eric Porter"
+      }
+    ]
+  }
+]

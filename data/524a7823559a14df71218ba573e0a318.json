@@ -1,0 +1,282 @@
+[
+  {
+    "@id": "http://www.wikidata.org/entity/Q5592208",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Graeme Blundell"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q3130016",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Phillip Adams"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q5291409",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Don's Party"
+      }
+    ],
+    "http://www.wikidata.org/prop/direct/P1040": [
+      {
+        "@id": "http://www.wikidata.org/entity/Q2577230"
+      }
+    ],
+    "http://www.wikidata.org/prop/direct/P136": [
+      {
+        "@id": "http://www.wikidata.org/entity/Q859369"
+      },
+      {
+        "@id": "http://www.wikidata.org/entity/Q599558"
+      }
+    ],
+    "http://www.wikidata.org/prop/direct/P161": [
+      {
+        "@id": "http://www.wikidata.org/entity/Q111456417"
+      },
+      {
+        "@id": "http://www.wikidata.org/entity/Q2111930"
+      },
+      {
+        "@id": "http://www.wikidata.org/entity/Q3807728"
+      },
+      {
+        "@id": "http://www.wikidata.org/entity/Q19874963"
+      },
+      {
+        "@id": "http://www.wikidata.org/entity/Q7143218"
+      },
+      {
+        "@id": "http://www.wikidata.org/entity/Q142501"
+      },
+      {
+        "@id": "http://www.wikidata.org/entity/Q1700377"
+      },
+      {
+        "@id": "http://www.wikidata.org/entity/Q5032125"
+      },
+      {
+        "@id": "http://www.wikidata.org/entity/Q76464745"
+      },
+      {
+        "@id": "http://www.wikidata.org/entity/Q1709892"
+      },
+      {
+        "@id": "http://www.wikidata.org/entity/Q5592208"
+      }
+    ],
+    "http://www.wikidata.org/prop/direct/P162": [
+      {
+        "@id": "http://www.wikidata.org/entity/Q3130016"
+      }
+    ],
+    "http://www.wikidata.org/prop/direct/P31": [
+      {
+        "@id": "http://www.wikidata.org/entity/Q11424"
+      }
+    ],
+    "http://www.wikidata.org/prop/direct/P344": [
+      {
+        "@id": "http://www.wikidata.org/entity/Q1240097"
+      }
+    ],
+    "http://www.wikidata.org/prop/direct/P462": [
+      {
+        "@id": "http://www.wikidata.org/entity/Q22006653"
+      }
+    ],
+    "http://www.wikidata.org/prop/direct/P57": [
+      {
+        "@id": "http://www.wikidata.org/entity/Q449220"
+      }
+    ],
+    "http://www.wikidata.org/prop/direct/P577": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "1980-01-17T00:00:00+00:00"
+      },
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "1976-11-10T00:00:00+00:00"
+      },
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "1977-06-01T00:00:00+00:00"
+      },
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "1978-03-23T00:00:00+00:00"
+      },
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "1982-05-27T00:00:00+00:00"
+      }
+    ],
+    "http://www.wikidata.org/prop/direct/P58": [
+      {
+        "@id": "http://www.wikidata.org/entity/Q968980"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q3807728",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Jeanie Drynan"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q7143218",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Pat Bishop"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q1700377",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "John Hargreaves"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q1709892",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Harold Hopkins"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q5032125",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Candy Raymond"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q859369",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "comedy drama"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q111456417",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Clare Binney"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q599558",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "erotic film"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q22006653",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "color"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q19874963",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Kit Taylor"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q76464745",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Veronica Lang"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q142501",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Ray Barrett"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q2577230",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "William M. Anderson"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q449220",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Bruce Beresford"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q1240097",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Donald McAlpine"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q2111930",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Graham Kennedy"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q968980",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "David Williamson"
+      }
+    ]
+  }
+]

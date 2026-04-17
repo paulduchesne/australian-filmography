@@ -1,0 +1,156 @@
+[
+  {
+    "@id": "http://www.wikidata.org/entity/Q2577230",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "William M. Anderson"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q449220",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Bruce Beresford"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q734221",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Barry Humphries"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q26708076",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "PG"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q1240097",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Donald McAlpine"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q276498",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Kerry Armstrong"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q7736240",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "The Getting of Wisdom"
+      }
+    ],
+    "http://www.wikidata.org/prop/direct/P1040": [
+      {
+        "@id": "http://www.wikidata.org/entity/Q2577230"
+      }
+    ],
+    "http://www.wikidata.org/prop/direct/P161": [
+      {
+        "@id": "http://www.wikidata.org/entity/Q7648721"
+      },
+      {
+        "@id": "http://www.wikidata.org/entity/Q3378602"
+      },
+      {
+        "@id": "http://www.wikidata.org/entity/Q276498"
+      },
+      {
+        "@id": "http://www.wikidata.org/entity/Q734221"
+      }
+    ],
+    "http://www.wikidata.org/prop/direct/P162": [
+      {
+        "@id": "http://www.wikidata.org/entity/Q3130016"
+      }
+    ],
+    "http://www.wikidata.org/prop/direct/P31": [
+      {
+        "@id": "http://www.wikidata.org/entity/Q11424"
+      }
+    ],
+    "http://www.wikidata.org/prop/direct/P3156": [
+      {
+        "@id": "http://www.wikidata.org/entity/Q26708076"
+      }
+    ],
+    "http://www.wikidata.org/prop/direct/P344": [
+      {
+        "@id": "http://www.wikidata.org/entity/Q1240097"
+      }
+    ],
+    "http://www.wikidata.org/prop/direct/P57": [
+      {
+        "@id": "http://www.wikidata.org/entity/Q449220"
+      }
+    ],
+    "http://www.wikidata.org/prop/direct/P577": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "1977-01-01T00:00:00+00:00"
+      }
+    ],
+    "http://www.wikidata.org/prop/direct/P58": [
+      {
+        "@id": "http://www.wikidata.org/entity/Q16089804"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q3130016",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Phillip Adams"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q7648721",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Susannah Fowle"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q3378602",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Sigrid Thornton"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q16089804",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Eleanor Witcombe"
+      }
+    ]
+  }
+]

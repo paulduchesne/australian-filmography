@@ -1,0 +1,116 @@
+[
+  {
+    "@id": "http://www.wikidata.org/entity/Q734221",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Barry Humphries"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q2926479",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Bruce Smeaton"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q1339864",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "sport film"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q592869",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "John Jarratt"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q7737838",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "The Great Macarthy"
+      }
+    ],
+    "http://www.wikidata.org/prop/direct/P136": [
+      {
+        "@id": "http://www.wikidata.org/entity/Q1339864"
+      }
+    ],
+    "http://www.wikidata.org/prop/direct/P161": [
+      {
+        "@id": "http://www.wikidata.org/entity/Q592869"
+      },
+      {
+        "@id": "http://www.wikidata.org/entity/Q734221"
+      },
+      {
+        "@id": "http://www.wikidata.org/entity/Q524821"
+      }
+    ],
+    "http://www.wikidata.org/prop/direct/P31": [
+      {
+        "@id": "http://www.wikidata.org/entity/Q11424"
+      }
+    ],
+    "http://www.wikidata.org/prop/direct/P3156": [
+      {
+        "@id": "http://www.wikidata.org/entity/Q26708077"
+      }
+    ],
+    "http://www.wikidata.org/prop/direct/P57": [
+      {
+        "@id": "http://www.wikidata.org/entity/Q106375199"
+      }
+    ],
+    "http://www.wikidata.org/prop/direct/P577": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "1975-01-01T00:00:00+00:00"
+      }
+    ],
+    "http://www.wikidata.org/prop/direct/P86": [
+      {
+        "@id": "http://www.wikidata.org/entity/Q2926479"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q106375199",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "David Baker"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q524821",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Judy Morris"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q26708077",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "M"
+      }
+    ]
+  }
+]

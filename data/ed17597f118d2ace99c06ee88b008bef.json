@@ -1,0 +1,183 @@
+[
+  {
+    "@id": "http://www.wikidata.org/entity/Q241222",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Martine Carol"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q235617",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Arletty"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q22006653",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "color"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q3225286",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "The Stowaway"
+      }
+    ],
+    "http://www.wikidata.org/prop/direct/P136": [
+      {
+        "@id": "http://www.wikidata.org/entity/Q130232"
+      }
+    ],
+    "http://www.wikidata.org/prop/direct/P161": [
+      {
+        "@id": "http://www.wikidata.org/entity/Q461111"
+      },
+      {
+        "@id": "http://www.wikidata.org/entity/Q78928"
+      },
+      {
+        "@id": "http://www.wikidata.org/entity/Q241222"
+      },
+      {
+        "@id": "http://www.wikidata.org/entity/Q490072"
+      },
+      {
+        "@id": "http://www.wikidata.org/entity/Q235617"
+      },
+      {
+        "@id": "http://www.wikidata.org/entity/Q2959772"
+      }
+    ],
+    "http://www.wikidata.org/prop/direct/P162": [
+      {
+        "@id": "http://www.wikidata.org/entity/Q3228926"
+      }
+    ],
+    "http://www.wikidata.org/prop/direct/P31": [
+      {
+        "@id": "http://www.wikidata.org/entity/Q11424"
+      }
+    ],
+    "http://www.wikidata.org/prop/direct/P344": [
+      {
+        "@id": "http://www.wikidata.org/entity/Q518140"
+      }
+    ],
+    "http://www.wikidata.org/prop/direct/P462": [
+      {
+        "@id": "http://www.wikidata.org/entity/Q22006653"
+      }
+    ],
+    "http://www.wikidata.org/prop/direct/P57": [
+      {
+        "@id": "http://www.wikidata.org/entity/Q3228926"
+      },
+      {
+        "@id": "http://www.wikidata.org/entity/Q2129634"
+      }
+    ],
+    "http://www.wikidata.org/prop/direct/P577": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "1958-01-01T00:00:00+00:00"
+      }
+    ],
+    "http://www.wikidata.org/prop/direct/P58": [
+      {
+        "@id": "http://www.wikidata.org/entity/Q3370481"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q78928",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Karlheinz Böhm"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q2129634",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Ralph Habib"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q2959772",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Charles Mauu"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q3370481",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Paul Andréota"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q490072",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Roger Livesey"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q3228926",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Lee Robinson"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q461111",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Serge Reggiani"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q518140",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Desmond Dickinson"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q130232",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "drama film"
+      }
+    ]
+  }
+]

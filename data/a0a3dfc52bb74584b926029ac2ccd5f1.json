@@ -1,0 +1,402 @@
+[
+  {
+    "@id": "http://www.wikidata.org/entity/Q17013749",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "historical film"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q14572976",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Paul Sonkkila"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q5230834",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "David Argue"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q369747",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "war film"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q42229",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Mel Gibson"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q5534258",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Geoff Parry"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q1934278",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Robert Stigwood"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q1077160",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Gallipoli"
+      }
+    ],
+    "http://www.wikidata.org/prop/direct/P1040": [
+      {
+        "@id": "http://www.wikidata.org/entity/Q2577230"
+      }
+    ],
+    "http://www.wikidata.org/prop/direct/P136": [
+      {
+        "@id": "http://www.wikidata.org/entity/Q17013749"
+      },
+      {
+        "@id": "http://www.wikidata.org/entity/Q369747"
+      }
+    ],
+    "http://www.wikidata.org/prop/direct/P161": [
+      {
+        "@id": "http://www.wikidata.org/entity/Q2053170"
+      },
+      {
+        "@id": "http://www.wikidata.org/entity/Q862208"
+      },
+      {
+        "@id": "http://www.wikidata.org/entity/Q1709892"
+      },
+      {
+        "@id": "http://www.wikidata.org/entity/Q6179383"
+      },
+      {
+        "@id": "http://www.wikidata.org/entity/Q7363844"
+      },
+      {
+        "@id": "http://www.wikidata.org/entity/Q6530758"
+      },
+      {
+        "@id": "http://www.wikidata.org/entity/Q5660005"
+      },
+      {
+        "@id": "http://www.wikidata.org/entity/Q2985403"
+      },
+      {
+        "@id": "http://www.wikidata.org/entity/Q968980"
+      },
+      {
+        "@id": "http://www.wikidata.org/entity/Q42229"
+      },
+      {
+        "@id": "http://www.wikidata.org/entity/Q5292195"
+      },
+      {
+        "@id": "http://www.wikidata.org/entity/Q1885675"
+      },
+      {
+        "@id": "http://www.wikidata.org/entity/Q5230834"
+      },
+      {
+        "@id": "http://www.wikidata.org/entity/Q5534258"
+      },
+      {
+        "@id": "http://www.wikidata.org/entity/Q4969363"
+      },
+      {
+        "@id": "http://www.wikidata.org/entity/Q14572976"
+      },
+      {
+        "@id": "http://www.wikidata.org/entity/Q4818807"
+      },
+      {
+        "@id": "http://www.wikidata.org/entity/Q1278743"
+      }
+    ],
+    "http://www.wikidata.org/prop/direct/P162": [
+      {
+        "@id": "http://www.wikidata.org/entity/Q3369120"
+      },
+      {
+        "@id": "http://www.wikidata.org/entity/Q1934278"
+      }
+    ],
+    "http://www.wikidata.org/prop/direct/P31": [
+      {
+        "@id": "http://www.wikidata.org/entity/Q11424"
+      }
+    ],
+    "http://www.wikidata.org/prop/direct/P344": [
+      {
+        "@id": "http://www.wikidata.org/entity/Q260963"
+      }
+    ],
+    "http://www.wikidata.org/prop/direct/P462": [
+      {
+        "@id": "http://www.wikidata.org/entity/Q22006653"
+      }
+    ],
+    "http://www.wikidata.org/prop/direct/P57": [
+      {
+        "@id": "http://www.wikidata.org/entity/Q55424"
+      }
+    ],
+    "http://www.wikidata.org/prop/direct/P577": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "1981-01-01T00:00:00+00:00"
+      },
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "1981-08-07T00:00:00+00:00"
+      },
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "1981-08-13T00:00:00+00:00"
+      },
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "1981-08-28T00:00:00+00:00"
+      },
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "1981-12-10T00:00:00+00:00"
+      },
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "1982-03-05T00:00:00+00:00"
+      }
+    ],
+    "http://www.wikidata.org/prop/direct/P58": [
+      {
+        "@id": "http://www.wikidata.org/entity/Q5393723"
+      },
+      {
+        "@id": "http://www.wikidata.org/entity/Q968980"
+      },
+      {
+        "@id": "http://www.wikidata.org/entity/Q55424"
+      }
+    ],
+    "http://www.wikidata.org/prop/direct/P86": [
+      {
+        "@id": "http://www.wikidata.org/entity/Q612067"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q22006653",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "color"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q2577230",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "William M. Anderson"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q2985403",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Steve Dodd"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q4969363",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Gerda Nicolson"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q4818807",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Bill Kerr"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q6530758",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Leslie Dayman"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q1709892",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Harold Hopkins"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q55424",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Peter Weir"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q862208",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Bill Hunter"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q968980",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "David Williamson"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q6179383",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Jenny Lovell"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q5660005",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Harold Baigent"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q5292195",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Don Barker"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q1885675",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Reg Evans"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q2053170",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Robert Grubb"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q5393723",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Ernest Raymond"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q1278743",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Mark Lee"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q612067",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Brian May"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q7363844",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Ron Graham"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q260963",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Russell Boyd"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q3369120",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Patricia Lovell"
+      }
+    ]
+  }
+]

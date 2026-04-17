@@ -1,0 +1,93 @@
+[
+  {
+    "@id": "http://www.wikidata.org/entity/Q7610796",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Stephen Wallace"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q458784",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Gia Carides"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q7748932",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "The Love Letters from Teralba Road"
+      }
+    ],
+    "http://www.wikidata.org/prop/direct/P161": [
+      {
+        "@id": "http://www.wikidata.org/entity/Q363659"
+      },
+      {
+        "@id": "http://www.wikidata.org/entity/Q458784"
+      },
+      {
+        "@id": "http://www.wikidata.org/entity/Q4966762"
+      }
+    ],
+    "http://www.wikidata.org/prop/direct/P31": [
+      {
+        "@id": "http://www.wikidata.org/entity/Q24862"
+      }
+    ],
+    "http://www.wikidata.org/prop/direct/P344": [
+      {
+        "@id": "http://www.wikidata.org/entity/Q7815438"
+      }
+    ],
+    "http://www.wikidata.org/prop/direct/P57": [
+      {
+        "@id": "http://www.wikidata.org/entity/Q7610796"
+      }
+    ],
+    "http://www.wikidata.org/prop/direct/P577": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "1977-07-26T00:00:00+00:00"
+      }
+    ],
+    "http://www.wikidata.org/prop/direct/P58": [
+      {
+        "@id": "http://www.wikidata.org/entity/Q7610796"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q7815438",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Tom Cowan"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q363659",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Bryan Brown"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q4966762",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Kris McQuade"
+      }
+    ]
+  }
+]

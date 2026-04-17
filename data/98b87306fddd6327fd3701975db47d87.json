@@ -1,0 +1,323 @@
+[
+  {
+    "@id": "http://www.wikidata.org/entity/Q105487",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Maurice Jarre"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q22006653",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "color"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q260963",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Russell Boyd"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q2577230",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "William M. Anderson"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q2591143",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Kuh Ledesma"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q968980",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "David Williamson"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q1054574",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "romance film"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q5640961",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Hal and Jim McElroy"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q7046938",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Noel Ferrier"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q14572976",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Paul Sonkkila"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q232874",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Linda Hunt"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q369747",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "war film"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q130232",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "drama film"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q16070589",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "William Anderson"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q6213668",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Joel Lamangan"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q42229",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Mel Gibson"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q505148",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "The Year of Living Dangerously"
+      }
+    ],
+    "http://www.wikidata.org/prop/direct/P1040": [
+      {
+        "@id": "http://www.wikidata.org/entity/Q2577230"
+      },
+      {
+        "@id": "http://www.wikidata.org/entity/Q16070589"
+      }
+    ],
+    "http://www.wikidata.org/prop/direct/P136": [
+      {
+        "@id": "http://www.wikidata.org/entity/Q1054574"
+      },
+      {
+        "@id": "http://www.wikidata.org/entity/Q130232"
+      },
+      {
+        "@id": "http://www.wikidata.org/entity/Q369747"
+      }
+    ],
+    "http://www.wikidata.org/prop/direct/P161": [
+      {
+        "@id": "http://www.wikidata.org/entity/Q2591143"
+      },
+      {
+        "@id": "http://www.wikidata.org/entity/Q232874"
+      },
+      {
+        "@id": "http://www.wikidata.org/entity/Q4818807"
+      },
+      {
+        "@id": "http://www.wikidata.org/entity/Q6213668"
+      },
+      {
+        "@id": "http://www.wikidata.org/entity/Q492789"
+      },
+      {
+        "@id": "http://www.wikidata.org/entity/Q4885074"
+      },
+      {
+        "@id": "http://www.wikidata.org/entity/Q42229"
+      },
+      {
+        "@id": "http://www.wikidata.org/entity/Q111608155"
+      },
+      {
+        "@id": "http://www.wikidata.org/entity/Q7046938"
+      },
+      {
+        "@id": "http://www.wikidata.org/entity/Q102124"
+      },
+      {
+        "@id": "http://www.wikidata.org/entity/Q14572976"
+      }
+    ],
+    "http://www.wikidata.org/prop/direct/P162": [
+      {
+        "@id": "http://www.wikidata.org/entity/Q5640961"
+      }
+    ],
+    "http://www.wikidata.org/prop/direct/P31": [
+      {
+        "@id": "http://www.wikidata.org/entity/Q11424"
+      }
+    ],
+    "http://www.wikidata.org/prop/direct/P344": [
+      {
+        "@id": "http://www.wikidata.org/entity/Q260963"
+      }
+    ],
+    "http://www.wikidata.org/prop/direct/P462": [
+      {
+        "@id": "http://www.wikidata.org/entity/Q22006653"
+      }
+    ],
+    "http://www.wikidata.org/prop/direct/P57": [
+      {
+        "@id": "http://www.wikidata.org/entity/Q55424"
+      }
+    ],
+    "http://www.wikidata.org/prop/direct/P577": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "1982-12-16T00:00:00+00:00"
+      },
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "1983-05-27T00:00:00+00:00"
+      }
+    ],
+    "http://www.wikidata.org/prop/direct/P58": [
+      {
+        "@id": "http://www.wikidata.org/entity/Q1086776"
+      },
+      {
+        "@id": "http://www.wikidata.org/entity/Q968980"
+      },
+      {
+        "@id": "http://www.wikidata.org/entity/Q55424"
+      }
+    ],
+    "http://www.wikidata.org/prop/direct/P86": [
+      {
+        "@id": "http://www.wikidata.org/entity/Q105487"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q102124",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Sigourney Weaver"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q4818807",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Bill Kerr"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q111608155",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Mike Emperio"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q1086776",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Christopher Koch"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q55424",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Peter Weir"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q492789",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Michael Murphy"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q4885074",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Bembol Roco"
+      }
+    ]
+  }
+]

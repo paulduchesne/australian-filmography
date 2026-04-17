@@ -1,0 +1,90 @@
+[
+  {
+    "@id": "http://www.wikidata.org/entity/Q2150058",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Richard Lane"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q7371910",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Rowena Wallace"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q24191411",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "David Cahill"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q6388484",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Ken Shorter"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q8057049",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "You Can't See 'round Corners"
+      }
+    ],
+    "http://www.wikidata.org/prop/direct/P161": [
+      {
+        "@id": "http://www.wikidata.org/entity/Q7371910"
+      },
+      {
+        "@id": "http://www.wikidata.org/entity/Q6388484"
+      }
+    ],
+    "http://www.wikidata.org/prop/direct/P31": [
+      {
+        "@id": "http://www.wikidata.org/entity/Q11424"
+      }
+    ],
+    "http://www.wikidata.org/prop/direct/P57": [
+      {
+        "@id": "http://www.wikidata.org/entity/Q24191411"
+      }
+    ],
+    "http://www.wikidata.org/prop/direct/P577": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "1969-01-01T00:00:00+00:00"
+      }
+    ],
+    "http://www.wikidata.org/prop/direct/P58": [
+      {
+        "@id": "http://www.wikidata.org/entity/Q2150058"
+      }
+    ],
+    "http://www.wikidata.org/prop/direct/P86": [
+      {
+        "@id": "http://www.wikidata.org/entity/Q7819959"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q7819959",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Tommy Tycho"
+      }
+    ]
+  }
+]

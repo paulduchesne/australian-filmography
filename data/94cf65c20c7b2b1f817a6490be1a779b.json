@@ -1,0 +1,198 @@
+[
+  {
+    "@id": "http://www.wikidata.org/entity/Q2644733",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Race for the Yankee Zephyr"
+      }
+    ],
+    "http://www.wikidata.org/prop/direct/P136": [
+      {
+        "@id": "http://www.wikidata.org/entity/Q22981906"
+      },
+      {
+        "@id": "http://www.wikidata.org/entity/Q188473"
+      }
+    ],
+    "http://www.wikidata.org/prop/direct/P161": [
+      {
+        "@id": "http://www.wikidata.org/entity/Q1334766"
+      },
+      {
+        "@id": "http://www.wikidata.org/entity/Q314914"
+      },
+      {
+        "@id": "http://www.wikidata.org/entity/Q237214"
+      },
+      {
+        "@id": "http://www.wikidata.org/entity/Q993459"
+      },
+      {
+        "@id": "http://www.wikidata.org/entity/Q36980"
+      }
+    ],
+    "http://www.wikidata.org/prop/direct/P162": [
+      {
+        "@id": "http://www.wikidata.org/entity/Q4992209"
+      }
+    ],
+    "http://www.wikidata.org/prop/direct/P2061": [
+      {
+        "@id": "http://www.wikidata.org/entity/Q21062414"
+      }
+    ],
+    "http://www.wikidata.org/prop/direct/P31": [
+      {
+        "@id": "http://www.wikidata.org/entity/Q11424"
+      }
+    ],
+    "http://www.wikidata.org/prop/direct/P462": [
+      {
+        "@id": "http://www.wikidata.org/entity/Q22006653"
+      }
+    ],
+    "http://www.wikidata.org/prop/direct/P57": [
+      {
+        "@id": "http://www.wikidata.org/entity/Q310217"
+      }
+    ],
+    "http://www.wikidata.org/prop/direct/P577": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "1981-01-01T00:00:00+00:00"
+      },
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "1982-10-29T00:00:00+00:00"
+      }
+    ],
+    "http://www.wikidata.org/prop/direct/P58": [
+      {
+        "@id": "http://www.wikidata.org/entity/Q5416997"
+      }
+    ],
+    "http://www.wikidata.org/prop/direct/P86": [
+      {
+        "@id": "http://www.wikidata.org/entity/Q15873"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q4992209",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "John Barnett"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q15873",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Brian May"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q36980",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "George Peppard"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q993459",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Bruno Lawrence"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q1334766",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Ken Wahl"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q310217",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "David Hemmings"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q188473",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "action film"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q22981906",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "treasure hunt film"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q22006653",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "color"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q314914",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Donald Pleasence"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q237214",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Lesley Ann Warren"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q5416997",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Everett De Roche"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q21062414",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "2.35:1"
+      }
+    ]
+  }
+]

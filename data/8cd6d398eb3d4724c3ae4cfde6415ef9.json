@@ -1,0 +1,203 @@
+[
+  {
+    "@id": "http://www.wikidata.org/entity/Q6220063",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "John B. Murray"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q703727",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Fred Schepisi"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q5181209",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Craig McGregor"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q6542266",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Libido"
+      }
+    ],
+    "http://www.wikidata.org/prop/direct/P161": [
+      {
+        "@id": "http://www.wikidata.org/entity/Q6794794"
+      },
+      {
+        "@id": "http://www.wikidata.org/entity/Q7353620"
+      },
+      {
+        "@id": "http://www.wikidata.org/entity/Q6192828"
+      },
+      {
+        "@id": "http://www.wikidata.org/entity/Q356383"
+      },
+      {
+        "@id": "http://www.wikidata.org/entity/Q524821"
+      },
+      {
+        "@id": "http://www.wikidata.org/entity/Q110124"
+      }
+    ],
+    "http://www.wikidata.org/prop/direct/P162": [
+      {
+        "@id": "http://www.wikidata.org/entity/Q6220063"
+      }
+    ],
+    "http://www.wikidata.org/prop/direct/P31": [
+      {
+        "@id": "http://www.wikidata.org/entity/Q11424"
+      }
+    ],
+    "http://www.wikidata.org/prop/direct/P3156": [
+      {
+        "@id": "http://www.wikidata.org/entity/Q26708079"
+      }
+    ],
+    "http://www.wikidata.org/prop/direct/P57": [
+      {
+        "@id": "http://www.wikidata.org/entity/Q7803256"
+      },
+      {
+        "@id": "http://www.wikidata.org/entity/Q6220063"
+      },
+      {
+        "@id": "http://www.wikidata.org/entity/Q703727"
+      }
+    ],
+    "http://www.wikidata.org/prop/direct/P577": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "1973-04-06T00:00:00+00:00"
+      }
+    ],
+    "http://www.wikidata.org/prop/direct/P58": [
+      {
+        "@id": "http://www.wikidata.org/entity/Q5640891"
+      },
+      {
+        "@id": "http://www.wikidata.org/entity/Q968980"
+      },
+      {
+        "@id": "http://www.wikidata.org/entity/Q5181209"
+      },
+      {
+        "@id": "http://www.wikidata.org/entity/Q298334"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q5640891",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Hal Porter"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q298334",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Thomas Keneally"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q6794794",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Max Gillies"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q356383",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Jack Thompson"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q7353620",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Robyn Nevin"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q524821",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Judy Morris"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q110124",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Elke Neidhardt"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q968980",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "David Williamson"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q7803256",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Tim Burstall"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q6192828",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Jill Forster"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q26708079",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "R 18+"
+      }
+    ]
+  }
+]

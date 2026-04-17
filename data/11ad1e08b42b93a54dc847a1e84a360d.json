@@ -1,0 +1,244 @@
+[
+  {
+    "@id": "http://www.wikidata.org/entity/Q6095648",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Iva Davies"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q5670833",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "John Howard"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q2861579",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Arkie Whiteley"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q2577230",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "William M. Anderson"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q5416997",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Everett De Roche"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q524821",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Judy Morris"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q26708077",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "M"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q1545359",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Gregory Harrison"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q4818807",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Bill Kerr"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q648611",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Dean Semler"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q200092",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "horror film"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q15524878",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "John Ewart"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q619445",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Chris Haywood"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q5230834",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "David Argue"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q3421387",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Razorback"
+      }
+    ],
+    "http://www.wikidata.org/prop/direct/P1040": [
+      {
+        "@id": "http://www.wikidata.org/entity/Q2577230"
+      }
+    ],
+    "http://www.wikidata.org/prop/direct/P136": [
+      {
+        "@id": "http://www.wikidata.org/entity/Q188473"
+      },
+      {
+        "@id": "http://www.wikidata.org/entity/Q200092"
+      }
+    ],
+    "http://www.wikidata.org/prop/direct/P161": [
+      {
+        "@id": "http://www.wikidata.org/entity/Q2861579"
+      },
+      {
+        "@id": "http://www.wikidata.org/entity/Q5230834"
+      },
+      {
+        "@id": "http://www.wikidata.org/entity/Q4818807"
+      },
+      {
+        "@id": "http://www.wikidata.org/entity/Q524821"
+      },
+      {
+        "@id": "http://www.wikidata.org/entity/Q15524878"
+      },
+      {
+        "@id": "http://www.wikidata.org/entity/Q619445"
+      },
+      {
+        "@id": "http://www.wikidata.org/entity/Q1545359"
+      },
+      {
+        "@id": "http://www.wikidata.org/entity/Q5670833"
+      }
+    ],
+    "http://www.wikidata.org/prop/direct/P162": [
+      {
+        "@id": "http://www.wikidata.org/entity/Q5640961"
+      }
+    ],
+    "http://www.wikidata.org/prop/direct/P31": [
+      {
+        "@id": "http://www.wikidata.org/entity/Q11424"
+      }
+    ],
+    "http://www.wikidata.org/prop/direct/P3156": [
+      {
+        "@id": "http://www.wikidata.org/entity/Q26708077"
+      }
+    ],
+    "http://www.wikidata.org/prop/direct/P344": [
+      {
+        "@id": "http://www.wikidata.org/entity/Q648611"
+      }
+    ],
+    "http://www.wikidata.org/prop/direct/P57": [
+      {
+        "@id": "http://www.wikidata.org/entity/Q436829"
+      }
+    ],
+    "http://www.wikidata.org/prop/direct/P577": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "1984-01-01T00:00:00+00:00"
+      }
+    ],
+    "http://www.wikidata.org/prop/direct/P58": [
+      {
+        "@id": "http://www.wikidata.org/entity/Q5416997"
+      }
+    ],
+    "http://www.wikidata.org/prop/direct/P86": [
+      {
+        "@id": "http://www.wikidata.org/entity/Q6095648"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q5640961",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Hal and Jim McElroy"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q436829",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Russell Mulcahy"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q188473",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "action film"
+      }
+    ]
+  }
+]

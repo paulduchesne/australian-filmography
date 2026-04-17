@@ -28,7 +28,7 @@ headers = {
     'Accept': 'application/json'
 }
 
-for wikidata_id in tqdm.tqdm(df.wikidata.unique()[:300]):
+for wikidata_id in tqdm.tqdm(df.wikidata.unique()):
     wikidata_id_hash = hashlib.md5(wikidata_id.encode()).hexdigest()
     json_path = pathlib.Path.cwd() / 'data' / f'{wikidata_id_hash}.json'
 

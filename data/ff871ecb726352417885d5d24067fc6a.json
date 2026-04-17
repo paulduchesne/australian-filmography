@@ -1,0 +1,260 @@
+[
+  {
+    "@id": "http://www.wikidata.org/entity/Q369747",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "war film"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q42229",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Mel Gibson"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q22006653",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "color"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q1339933",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "John Phillip Law"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q214309",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Sam Neill"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q3182039",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "John McCallum"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q3056303",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Eric Jupp"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q8272479",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Ko Chun-hsiung"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q3228926",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Lee Robinson"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q363876",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "John Waters"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q26708077",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "M"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q619445",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Chris Haywood"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q292693",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Sylvia Chang"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q19502152",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "David Stiven"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q703153",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Jimmy Wang Yu"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q7803256",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Tim Burstall"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q7358591",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Roger Marshall"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q188473",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "action film"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q463579",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Attack Force Z"
+      }
+    ],
+    "http://www.wikidata.org/prop/direct/P1040": [
+      {
+        "@id": "http://www.wikidata.org/entity/Q19502152"
+      }
+    ],
+    "http://www.wikidata.org/prop/direct/P136": [
+      {
+        "@id": "http://www.wikidata.org/entity/Q369747"
+      },
+      {
+        "@id": "http://www.wikidata.org/entity/Q188473"
+      }
+    ],
+    "http://www.wikidata.org/prop/direct/P161": [
+      {
+        "@id": "http://www.wikidata.org/entity/Q363876"
+      },
+      {
+        "@id": "http://www.wikidata.org/entity/Q42229"
+      },
+      {
+        "@id": "http://www.wikidata.org/entity/Q8272479"
+      },
+      {
+        "@id": "http://www.wikidata.org/entity/Q619445"
+      },
+      {
+        "@id": "http://www.wikidata.org/entity/Q292693"
+      },
+      {
+        "@id": "http://www.wikidata.org/entity/Q214309"
+      },
+      {
+        "@id": "http://www.wikidata.org/entity/Q703153"
+      },
+      {
+        "@id": "http://www.wikidata.org/entity/Q1339933"
+      }
+    ],
+    "http://www.wikidata.org/prop/direct/P162": [
+      {
+        "@id": "http://www.wikidata.org/entity/Q3228926"
+      },
+      {
+        "@id": "http://www.wikidata.org/entity/Q3182039"
+      }
+    ],
+    "http://www.wikidata.org/prop/direct/P31": [
+      {
+        "@id": "http://www.wikidata.org/entity/Q11424"
+      }
+    ],
+    "http://www.wikidata.org/prop/direct/P3156": [
+      {
+        "@id": "http://www.wikidata.org/entity/Q26708077"
+      }
+    ],
+    "http://www.wikidata.org/prop/direct/P462": [
+      {
+        "@id": "http://www.wikidata.org/entity/Q22006653"
+      }
+    ],
+    "http://www.wikidata.org/prop/direct/P57": [
+      {
+        "@id": "http://www.wikidata.org/entity/Q7803256"
+      }
+    ],
+    "http://www.wikidata.org/prop/direct/P577": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "1982-01-01T00:00:00+00:00"
+      },
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "1982-02-05T00:00:00+00:00"
+      }
+    ],
+    "http://www.wikidata.org/prop/direct/P58": [
+      {
+        "@id": "http://www.wikidata.org/entity/Q7358591"
+      }
+    ],
+    "http://www.wikidata.org/prop/direct/P86": [
+      {
+        "@id": "http://www.wikidata.org/entity/Q3056303"
+      }
+    ]
+  }
+]

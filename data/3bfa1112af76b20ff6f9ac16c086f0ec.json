@@ -1,0 +1,289 @@
+[
+  {
+    "@id": "http://www.wikidata.org/entity/Q1469774",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "On the Beach"
+      }
+    ],
+    "http://www.wikidata.org/prop/direct/P1040": [
+      {
+        "@id": "http://www.wikidata.org/entity/Q1452725"
+      }
+    ],
+    "http://www.wikidata.org/prop/direct/P136": [
+      {
+        "@id": "http://www.wikidata.org/entity/Q471839"
+      },
+      {
+        "@id": "http://www.wikidata.org/entity/Q846544"
+      },
+      {
+        "@id": "http://www.wikidata.org/entity/Q1341051"
+      },
+      {
+        "@id": "http://www.wikidata.org/entity/Q130232"
+      },
+      {
+        "@id": "http://www.wikidata.org/entity/Q20443008"
+      }
+    ],
+    "http://www.wikidata.org/prop/direct/P161": [
+      {
+        "@id": "http://www.wikidata.org/entity/Q100937"
+      },
+      {
+        "@id": "http://www.wikidata.org/entity/Q193146"
+      },
+      {
+        "@id": "http://www.wikidata.org/entity/Q28542059"
+      },
+      {
+        "@id": "http://www.wikidata.org/entity/Q441661"
+      },
+      {
+        "@id": "http://www.wikidata.org/entity/Q108366"
+      },
+      {
+        "@id": "http://www.wikidata.org/entity/Q164487"
+      }
+    ],
+    "http://www.wikidata.org/prop/direct/P162": [
+      {
+        "@id": "http://www.wikidata.org/entity/Q73136"
+      }
+    ],
+    "http://www.wikidata.org/prop/direct/P2061": [
+      {
+        "@id": "http://www.wikidata.org/entity/Q10397024"
+      }
+    ],
+    "http://www.wikidata.org/prop/direct/P31": [
+      {
+        "@id": "http://www.wikidata.org/entity/Q11424"
+      }
+    ],
+    "http://www.wikidata.org/prop/direct/P344": [
+      {
+        "@id": "http://www.wikidata.org/entity/Q462027"
+      },
+      {
+        "@id": "http://www.wikidata.org/entity/Q1347338"
+      }
+    ],
+    "http://www.wikidata.org/prop/direct/P462": [
+      {
+        "@id": "http://www.wikidata.org/entity/Q838368"
+      }
+    ],
+    "http://www.wikidata.org/prop/direct/P57": [
+      {
+        "@id": "http://www.wikidata.org/entity/Q73136"
+      }
+    ],
+    "http://www.wikidata.org/prop/direct/P577": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "1959-01-01T00:00:00+00:00"
+      },
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "1959-12-17T00:00:00+00:00"
+      }
+    ],
+    "http://www.wikidata.org/prop/direct/P58": [
+      {
+        "@id": "http://www.wikidata.org/entity/Q354295"
+      },
+      {
+        "@id": "http://www.wikidata.org/entity/Q356639"
+      }
+    ],
+    "http://www.wikidata.org/prop/direct/P86": [
+      {
+        "@id": "http://www.wikidata.org/entity/Q215753"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q471839",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "science fiction film"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q846544",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "disaster film"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q1347338",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Giuseppe Rotunno"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q193146",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Anthony Perkins"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q462027",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Daniel L. Fapp"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q1341051",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "post-apocalyptic film"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q100937",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Fred Astaire"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q215753",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Ernest Gold"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q73136",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Stanley Kramer"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q10397024",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "1.66:1"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q28542059",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "John Tate"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q356639",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Nevil Shute"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q354295",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "John Paxton"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q441661",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "John Meillon"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q164487",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Ava Gardner"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q130232",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "drama film"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q1452725",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Frederic Knudtson"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q838368",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "black-and-white"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q20443008",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "dystopian film"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q108366",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Gregory Peck"
+      }
+    ]
+  }
+]

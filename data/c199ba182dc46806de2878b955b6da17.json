@@ -1,0 +1,234 @@
+[
+  {
+    "@id": "http://www.wikidata.org/entity/Q328660",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "George T. Miller"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q26708076",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "PG"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q3531696",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Tony Bonner"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q2439562",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Tom Burlinson"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q619445",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Chris Haywood"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q104027",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Kirk Douglas"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q1368884",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Simon Wincer"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q356383",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Jack Thompson"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q172980",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Western film"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q6804274",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Australian Western"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q1272131",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Bruce Rowland"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q319221",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "adventure film"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q2259533",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "The Man from Snowy River"
+      }
+    ],
+    "http://www.wikidata.org/prop/direct/P136": [
+      {
+        "@id": "http://www.wikidata.org/entity/Q172980"
+      },
+      {
+        "@id": "http://www.wikidata.org/entity/Q6804274"
+      },
+      {
+        "@id": "http://www.wikidata.org/entity/Q319221"
+      }
+    ],
+    "http://www.wikidata.org/prop/direct/P161": [
+      {
+        "@id": "http://www.wikidata.org/entity/Q104027"
+      },
+      {
+        "@id": "http://www.wikidata.org/entity/Q356383"
+      },
+      {
+        "@id": "http://www.wikidata.org/entity/Q619445"
+      },
+      {
+        "@id": "http://www.wikidata.org/entity/Q2439562"
+      },
+      {
+        "@id": "http://www.wikidata.org/entity/Q3378602"
+      },
+      {
+        "@id": "http://www.wikidata.org/entity/Q3531696"
+      }
+    ],
+    "http://www.wikidata.org/prop/direct/P162": [
+      {
+        "@id": "http://www.wikidata.org/entity/Q5534071"
+      },
+      {
+        "@id": "http://www.wikidata.org/entity/Q1368884"
+      }
+    ],
+    "http://www.wikidata.org/prop/direct/P31": [
+      {
+        "@id": "http://www.wikidata.org/entity/Q11424"
+      }
+    ],
+    "http://www.wikidata.org/prop/direct/P3156": [
+      {
+        "@id": "http://www.wikidata.org/entity/Q26708076"
+      }
+    ],
+    "http://www.wikidata.org/prop/direct/P462": [
+      {
+        "@id": "http://www.wikidata.org/entity/Q22006653"
+      }
+    ],
+    "http://www.wikidata.org/prop/direct/P57": [
+      {
+        "@id": "http://www.wikidata.org/entity/Q328660"
+      }
+    ],
+    "http://www.wikidata.org/prop/direct/P577": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "1982-01-01T00:00:00+00:00"
+      },
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "1984-05-04T00:00:00+00:00"
+      }
+    ],
+    "http://www.wikidata.org/prop/direct/P58": [
+      {
+        "@id": "http://www.wikidata.org/entity/Q6229518"
+      }
+    ],
+    "http://www.wikidata.org/prop/direct/P86": [
+      {
+        "@id": "http://www.wikidata.org/entity/Q1272131"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q22006653",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "color"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q3378602",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Sigrid Thornton"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q5534071",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Geoff Burrowes"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q6229518",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "John Dixon"
+      }
+    ]
+  }
+]

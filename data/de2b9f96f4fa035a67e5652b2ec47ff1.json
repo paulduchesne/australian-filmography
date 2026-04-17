@@ -1,0 +1,214 @@
+[
+  {
+    "@id": "http://www.wikidata.org/entity/Q4777214",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Antony I. Ginnane"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q7356310",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Rod Mullinar"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q1240097",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Donald McAlpine"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q3369170",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Patrick"
+      }
+    ],
+    "http://www.wikidata.org/prop/direct/P136": [
+      {
+        "@id": "http://www.wikidata.org/entity/Q200092"
+      }
+    ],
+    "http://www.wikidata.org/prop/direct/P161": [
+      {
+        "@id": "http://www.wikidata.org/entity/Q5416997"
+      },
+      {
+        "@id": "http://www.wikidata.org/entity/Q931528"
+      },
+      {
+        "@id": "http://www.wikidata.org/entity/Q3436399"
+      },
+      {
+        "@id": "http://www.wikidata.org/entity/Q6761429"
+      },
+      {
+        "@id": "http://www.wikidata.org/entity/Q7356310"
+      },
+      {
+        "@id": "http://www.wikidata.org/entity/Q7648277"
+      }
+    ],
+    "http://www.wikidata.org/prop/direct/P162": [
+      {
+        "@id": "http://www.wikidata.org/entity/Q726445"
+      },
+      {
+        "@id": "http://www.wikidata.org/entity/Q4777214"
+      }
+    ],
+    "http://www.wikidata.org/prop/direct/P31": [
+      {
+        "@id": "http://www.wikidata.org/entity/Q11424"
+      }
+    ],
+    "http://www.wikidata.org/prop/direct/P3156": [
+      {
+        "@id": "http://www.wikidata.org/entity/Q26708077"
+      }
+    ],
+    "http://www.wikidata.org/prop/direct/P344": [
+      {
+        "@id": "http://www.wikidata.org/entity/Q1240097"
+      }
+    ],
+    "http://www.wikidata.org/prop/direct/P462": [
+      {
+        "@id": "http://www.wikidata.org/entity/Q22006653"
+      }
+    ],
+    "http://www.wikidata.org/prop/direct/P57": [
+      {
+        "@id": "http://www.wikidata.org/entity/Q726445"
+      }
+    ],
+    "http://www.wikidata.org/prop/direct/P577": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "1980-09-19T00:00:00+00:00"
+      },
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "1978-10-01T00:00:00+00:00"
+      },
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "1979-05-09T00:00:00+00:00"
+      },
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "1979-09-07T00:00:00+00:00"
+      }
+    ],
+    "http://www.wikidata.org/prop/direct/P58": [
+      {
+        "@id": "http://www.wikidata.org/entity/Q5416997"
+      }
+    ],
+    "http://www.wikidata.org/prop/direct/P86": [
+      {
+        "@id": "http://www.wikidata.org/entity/Q612067"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q200092",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "horror film"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q931528",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Robert Helpmann"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q26708077",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "M"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q612067",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Brian May"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q726445",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Richard Franklin"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q3436399",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Robert E Thompson"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q7648277",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Susan Penhaligon"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q5416997",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Everett De Roche"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q22006653",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "color"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q6761429",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Maria Mercedes"
+      }
+    ]
+  }
+]

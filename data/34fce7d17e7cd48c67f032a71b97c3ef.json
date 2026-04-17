@@ -1,0 +1,76 @@
+[
+  {
+    "@id": "http://www.wikidata.org/entity/Q3047161",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Ed Devereaux"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q1343692",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Howard Koch"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q117883732",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "James Trainor"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q12125270",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Journey Out of Darkness"
+      }
+    ],
+    "http://www.wikidata.org/prop/direct/P161": [
+      {
+        "@id": "http://www.wikidata.org/entity/Q3047161"
+      },
+      {
+        "@id": "http://www.wikidata.org/entity/Q2885132"
+      }
+    ],
+    "http://www.wikidata.org/prop/direct/P31": [
+      {
+        "@id": "http://www.wikidata.org/entity/Q11424"
+      }
+    ],
+    "http://www.wikidata.org/prop/direct/P57": [
+      {
+        "@id": "http://www.wikidata.org/entity/Q117883732"
+      }
+    ],
+    "http://www.wikidata.org/prop/direct/P577": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "1967-01-01T00:00:00+00:00"
+      }
+    ],
+    "http://www.wikidata.org/prop/direct/P58": [
+      {
+        "@id": "http://www.wikidata.org/entity/Q1343692"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q2885132",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Kamahl"
+      }
+    ]
+  }
+]

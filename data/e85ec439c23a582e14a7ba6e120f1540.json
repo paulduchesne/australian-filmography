@@ -1,0 +1,104 @@
+[
+  {
+    "@id": "http://www.wikidata.org/entity/Q363659",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Bryan Brown"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q7617526",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Stir"
+      }
+    ],
+    "http://www.wikidata.org/prop/direct/P136": [
+      {
+        "@id": "http://www.wikidata.org/entity/Q586250"
+      }
+    ],
+    "http://www.wikidata.org/prop/direct/P161": [
+      {
+        "@id": "http://www.wikidata.org/entity/Q6795099"
+      },
+      {
+        "@id": "http://www.wikidata.org/entity/Q363659"
+      }
+    ],
+    "http://www.wikidata.org/prop/direct/P162": [
+      {
+        "@id": "http://www.wikidata.org/entity/Q7324323"
+      }
+    ],
+    "http://www.wikidata.org/prop/direct/P31": [
+      {
+        "@id": "http://www.wikidata.org/entity/Q11424"
+      }
+    ],
+    "http://www.wikidata.org/prop/direct/P57": [
+      {
+        "@id": "http://www.wikidata.org/entity/Q7610796"
+      }
+    ],
+    "http://www.wikidata.org/prop/direct/P577": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "1980-01-01T00:00:00+00:00"
+      }
+    ],
+    "http://www.wikidata.org/prop/direct/P86": [
+      {
+        "@id": "http://www.wikidata.org/entity/Q1028668"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q6795099",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Max Phipps"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q1028668",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Cameron Allan"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q7610796",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Stephen Wallace"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q586250",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "prison film"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q7324323",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Richard Brennan"
+      }
+    ]
+  }
+]

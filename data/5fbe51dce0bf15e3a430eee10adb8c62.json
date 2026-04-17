@@ -1,0 +1,238 @@
+[
+  {
+    "@id": "http://www.wikidata.org/entity/Q7931660",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Vincent Ball"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q4997820",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Bunney Brooke"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q3147246",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Ian Coughlan"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q1664304",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Martin Vaughan"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q7353593",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Robyn Gibbes"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q524882",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Alain Oulman"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q7116678",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Ozploitation film"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q11347485",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Ralph Cotterill"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q310217",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "David Hemmings"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q4727001",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Alison's Birthday"
+      }
+    ],
+    "http://www.wikidata.org/prop/direct/P136": [
+      {
+        "@id": "http://www.wikidata.org/entity/Q200092"
+      },
+      {
+        "@id": "http://www.wikidata.org/entity/Q7116678"
+      }
+    ],
+    "http://www.wikidata.org/prop/direct/P161": [
+      {
+        "@id": "http://www.wikidata.org/entity/Q1664304"
+      },
+      {
+        "@id": "http://www.wikidata.org/entity/Q7353593"
+      },
+      {
+        "@id": "http://www.wikidata.org/entity/Q7931660"
+      },
+      {
+        "@id": "http://www.wikidata.org/entity/Q3147246"
+      },
+      {
+        "@id": "http://www.wikidata.org/entity/Q5387211"
+      },
+      {
+        "@id": "http://www.wikidata.org/entity/Q7367255"
+      },
+      {
+        "@id": "http://www.wikidata.org/entity/Q1699357"
+      },
+      {
+        "@id": "http://www.wikidata.org/entity/Q4997820"
+      },
+      {
+        "@id": "http://www.wikidata.org/entity/Q543496"
+      },
+      {
+        "@id": "http://www.wikidata.org/entity/Q11347485"
+      }
+    ],
+    "http://www.wikidata.org/prop/direct/P162": [
+      {
+        "@id": "http://www.wikidata.org/entity/Q5234706"
+      },
+      {
+        "@id": "http://www.wikidata.org/entity/Q310217"
+      }
+    ],
+    "http://www.wikidata.org/prop/direct/P31": [
+      {
+        "@id": "http://www.wikidata.org/entity/Q11424"
+      }
+    ],
+    "http://www.wikidata.org/prop/direct/P462": [
+      {
+        "@id": "http://www.wikidata.org/entity/Q22006653"
+      }
+    ],
+    "http://www.wikidata.org/prop/direct/P57": [
+      {
+        "@id": "http://www.wikidata.org/entity/Q3147246"
+      }
+    ],
+    "http://www.wikidata.org/prop/direct/P577": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "1981-05-01T00:00:00+00:00"
+      },
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "1981-12-26T00:00:00+00:00"
+      }
+    ],
+    "http://www.wikidata.org/prop/direct/P58": [
+      {
+        "@id": "http://www.wikidata.org/entity/Q3147246"
+      }
+    ],
+    "http://www.wikidata.org/prop/direct/P86": [
+      {
+        "@id": "http://www.wikidata.org/entity/Q524882"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q5387211",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Eric Oldfield"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q22006653",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "color"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q7367255",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Rosalind Speirs"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q5234706",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "David Hannay"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q543496",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Joanne Samuel"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q200092",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "horror film"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q1699357",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "John Bluthal"
+      }
+    ]
+  }
+]

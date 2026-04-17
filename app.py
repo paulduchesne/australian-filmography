@@ -66,8 +66,67 @@ def home_page():
 
     submit_data = sorted(submit_data, key=lambda x: x["year"])
 
+    return render_template('index.html', data=json.loads(json.dumps(submit_data)))
+
+
+@app.route('/filter/<entity>/', methods=['GET', 'POST'])
+def filter_page(entity):
+
+    # filter_id = 'Q115057988'
+    # incoming_filter = request.args.get('filter')
+    # if incoming_filter:
+    #     filter_id = incoming_filter
+
+    filter_id = entity
+
+    query = '''
+        prefix au: <http://ausfilmography/>
+        prefix wd: <http://www.wikidata.org/entity/>
+        prefix wpd: <http://www.wikidata.org/prop/direct/>
+        construct {
+            ?film rdfs:label ?filmLabel .
+            ?film au:director ?directorLabel .
+            ?film au:year ?year .
+            ?film au:filter ?filter .
+            }
+        where {
+            ?film wpd:P31 wd:Q11424.
+            ?film rdfs:label ?filmLabel .
+            ?film wpd:P57 ?director .
+            ?director rdfs:label ?directorLabel .
+            ?film wpd:P577 ?date .
+            optional {
+                ?film ?prop wd:'''+filter_id+''' .
+                bind(?film as ?response)
+            }
+            bind(year(?date) AS ?year)
+            bind(if(bound(?response), "true", "false") AS ?filter)
+    }
+    '''
+
+    res = rdflib.Graph()
+    res += g.query(query)
+
+    submit_data = list()
+    data = json.loads(res.serialize(format="json-ld", indent=4))
+
+    for x in data:
+        label_string = x["http://www.w3.org/2000/01/rdf-schema#label"][0]['@value']
+        director_str = ', '.join(sorted([y['@value'] for y in x["http://ausfilmography/director"]]))
+        year_str = min([y['@value'] for y in x["http://ausfilmography/year"]])
+
+        new_dict = dict()
+        new_dict['id'] = x['@id'].split('/')[-1]
+        new_dict['year'] = int(year_str)
+        new_dict['label'] = f'{label_string} ({year_str}, dir. {director_str})'.replace('"','')
+        new_dict['filter'] = x["http://ausfilmography/filter"][0]['@value'].title()
+        submit_data.append(new_dict)
+
+    submit_data = sorted(submit_data, key=lambda x: x["year"])
 
     return render_template('index.html', data=json.loads(json.dumps(submit_data)))
+
+
 
 @app.route('/film/<entity>/', methods=['GET', 'POST'])
 def entity_page(entity):
@@ -149,40 +208,40 @@ def about_page():
     return render_template('about.html')
 
 
-if __name__ == "__main__":
-    app.run(debug=True, port=5000)
+# if __name__ == "__main__":
+#     app.run(debug=True, port=5000)
 
 
 # Q4823509
 
 # # flask freezer.
 
-# freezer = Freezer(app)
+freezer = Freezer(app)
 
 # # render pages.
 
 
-# @freezer.register_generator
-# def resource_generator():
+@freezer.register_generator
+def resource_generator():
 
 
-#     query = '''
+    query = '''
 
-#             prefix wd: <http://www.wikidata.org/entity/>
-#             prefix wpd: <http://www.wikidata.org/prop/direct/>
+            prefix wd: <http://www.wikidata.org/entity/>
+            prefix wpd: <http://www.wikidata.org/prop/direct/>
 
-#         select ?film where { ?film wpd:P31 wd:Q11424.
+        select ?film where { ?film wpd:P31 wd:Q11424.
 
 
-#            ?film rdfs:label ?filmLabel .
-#            ?film wpd:P577 ?date .
-#            ?film wpd:P57 ?director .
-#            ?director rdfs:label ?directorLabel . }
-#     '''
+           ?film rdfs:label ?filmLabel .
+           ?film wpd:P577 ?date .
+           ?film wpd:P57 ?director .
+           ?director rdfs:label ?directorLabel . }
+    '''
 
-#     resources = g.query(query)
-#     for x in resources:
-#         yield 'entity_page', {'entity': str(x.film).split('/')[-1]}
+    resources = g.query(query)
+    for x in resources:
+        yield 'entity_page', {'entity': str(x.film).split('/')[-1]}
 
-# if __name__ == "__main__":
-#     freezer.freeze()
+if __name__ == "__main__":
+    freezer.freeze()

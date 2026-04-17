@@ -1,0 +1,182 @@
+[
+  {
+    "@id": "http://www.wikidata.org/entity/Q172980",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Western film"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q1557469",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Guy Doleman"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q1231073",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Sol Kaplan"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q345517",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Peter Lawford"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q22006653",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "color"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q285928",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Lewis Milestone"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q1391088",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Finlay Currie"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q229276",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Maureen O'Hara"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q1277018",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Richard Boone"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q1431010",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Robert Bassler"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q282246",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Harry Kleiner"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q1064479",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Charles G. Clarke"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q3210106",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Kangaroo"
+      }
+    ],
+    "http://www.wikidata.org/prop/direct/P136": [
+      {
+        "@id": "http://www.wikidata.org/entity/Q172980"
+      }
+    ],
+    "http://www.wikidata.org/prop/direct/P161": [
+      {
+        "@id": "http://www.wikidata.org/entity/Q1557469"
+      },
+      {
+        "@id": "http://www.wikidata.org/entity/Q229276"
+      },
+      {
+        "@id": "http://www.wikidata.org/entity/Q1277018"
+      },
+      {
+        "@id": "http://www.wikidata.org/entity/Q345517"
+      },
+      {
+        "@id": "http://www.wikidata.org/entity/Q1391088"
+      }
+    ],
+    "http://www.wikidata.org/prop/direct/P162": [
+      {
+        "@id": "http://www.wikidata.org/entity/Q1431010"
+      }
+    ],
+    "http://www.wikidata.org/prop/direct/P31": [
+      {
+        "@id": "http://www.wikidata.org/entity/Q11424"
+      }
+    ],
+    "http://www.wikidata.org/prop/direct/P344": [
+      {
+        "@id": "http://www.wikidata.org/entity/Q1064479"
+      }
+    ],
+    "http://www.wikidata.org/prop/direct/P462": [
+      {
+        "@id": "http://www.wikidata.org/entity/Q22006653"
+      }
+    ],
+    "http://www.wikidata.org/prop/direct/P57": [
+      {
+        "@id": "http://www.wikidata.org/entity/Q285928"
+      }
+    ],
+    "http://www.wikidata.org/prop/direct/P577": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "1952-01-01T00:00:00+00:00"
+      }
+    ],
+    "http://www.wikidata.org/prop/direct/P58": [
+      {
+        "@id": "http://www.wikidata.org/entity/Q282246"
+      }
+    ],
+    "http://www.wikidata.org/prop/direct/P86": [
+      {
+        "@id": "http://www.wikidata.org/entity/Q1231073"
+      }
+    ]
+  }
+]

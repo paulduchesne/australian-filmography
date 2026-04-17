@@ -1,0 +1,232 @@
+[
+  {
+    "@id": "http://www.wikidata.org/entity/Q1700377",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "John Hargreaves"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q307882",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Judy Davis"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q5897662",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Hoodwink"
+      }
+    ],
+    "http://www.wikidata.org/prop/direct/P136": [
+      {
+        "@id": "http://www.wikidata.org/entity/Q2484376"
+      }
+    ],
+    "http://www.wikidata.org/prop/direct/P161": [
+      {
+        "@id": "http://www.wikidata.org/entity/Q307882"
+      },
+      {
+        "@id": "http://www.wikidata.org/entity/Q276365"
+      },
+      {
+        "@id": "http://www.wikidata.org/entity/Q5258739"
+      },
+      {
+        "@id": "http://www.wikidata.org/entity/Q3308100"
+      },
+      {
+        "@id": "http://www.wikidata.org/entity/Q166272"
+      },
+      {
+        "@id": "http://www.wikidata.org/entity/Q5208579"
+      },
+      {
+        "@id": "http://www.wikidata.org/entity/Q1700377"
+      },
+      {
+        "@id": "http://www.wikidata.org/entity/Q1108476"
+      }
+    ],
+    "http://www.wikidata.org/prop/direct/P162": [
+      {
+        "@id": "http://www.wikidata.org/entity/Q7227175"
+      }
+    ],
+    "http://www.wikidata.org/prop/direct/P31": [
+      {
+        "@id": "http://www.wikidata.org/entity/Q11424"
+      }
+    ],
+    "http://www.wikidata.org/prop/direct/P3156": [
+      {
+        "@id": "http://www.wikidata.org/entity/Q26708077"
+      }
+    ],
+    "http://www.wikidata.org/prop/direct/P344": [
+      {
+        "@id": "http://www.wikidata.org/entity/Q648611"
+      }
+    ],
+    "http://www.wikidata.org/prop/direct/P462": [
+      {
+        "@id": "http://www.wikidata.org/entity/Q22006653"
+      }
+    ],
+    "http://www.wikidata.org/prop/direct/P57": [
+      {
+        "@id": "http://www.wikidata.org/entity/Q1097219"
+      }
+    ],
+    "http://www.wikidata.org/prop/direct/P577": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "1981-01-01T00:00:00+00:00"
+      }
+    ],
+    "http://www.wikidata.org/prop/direct/P58": [
+      {
+        "@id": "http://www.wikidata.org/entity/Q6388331"
+      }
+    ],
+    "http://www.wikidata.org/prop/direct/P86": [
+      {
+        "@id": "http://www.wikidata.org/entity/Q1028668"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q6388331",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Ken Quinnell"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q1028668",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Cameron Allan"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q5208579",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Dagmar Bláhová"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q5258739",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Dennis Miller"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q1108476",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Colin Friels"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q26708077",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "M"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q3308100",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Michael Caton"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q648611",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Dean Semler"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q1097219",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Claude Whatham"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q2484376",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "thriller film"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q22006653",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "color"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q276365",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Wendy Hughes"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q166272",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Geoffrey Rush"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q7227175",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Pom Oliver"
+      }
+    ]
+  }
+]

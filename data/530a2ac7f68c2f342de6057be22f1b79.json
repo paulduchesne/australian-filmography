@@ -1,0 +1,262 @@
+[
+  {
+    "@id": "http://www.wikidata.org/entity/Q504982",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Robert Powell"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q7177185",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Peter Sumner"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q310217",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "David Hemmings"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q22006653",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "color"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q21062414",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "2.35:1"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q3488530",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "The Survivor"
+      }
+    ],
+    "http://www.wikidata.org/prop/direct/P136": [
+      {
+        "@id": "http://www.wikidata.org/entity/Q200092"
+      },
+      {
+        "@id": "http://www.wikidata.org/entity/Q2484376"
+      }
+    ],
+    "http://www.wikidata.org/prop/direct/P161": [
+      {
+        "@id": "http://www.wikidata.org/entity/Q504982"
+      },
+      {
+        "@id": "http://www.wikidata.org/entity/Q298295"
+      },
+      {
+        "@id": "http://www.wikidata.org/entity/Q95148"
+      },
+      {
+        "@id": "http://www.wikidata.org/entity/Q234883"
+      },
+      {
+        "@id": "http://www.wikidata.org/entity/Q7177185"
+      },
+      {
+        "@id": "http://www.wikidata.org/entity/Q4685444"
+      },
+      {
+        "@id": "http://www.wikidata.org/entity/Q533201"
+      },
+      {
+        "@id": "http://www.wikidata.org/entity/Q16193212"
+      }
+    ],
+    "http://www.wikidata.org/prop/direct/P162": [
+      {
+        "@id": "http://www.wikidata.org/entity/Q4777214"
+      }
+    ],
+    "http://www.wikidata.org/prop/direct/P2061": [
+      {
+        "@id": "http://www.wikidata.org/entity/Q21062414"
+      }
+    ],
+    "http://www.wikidata.org/prop/direct/P31": [
+      {
+        "@id": "http://www.wikidata.org/entity/Q11424"
+      }
+    ],
+    "http://www.wikidata.org/prop/direct/P3156": [
+      {
+        "@id": "http://www.wikidata.org/entity/Q26708077"
+      }
+    ],
+    "http://www.wikidata.org/prop/direct/P344": [
+      {
+        "@id": "http://www.wikidata.org/entity/Q918558"
+      }
+    ],
+    "http://www.wikidata.org/prop/direct/P462": [
+      {
+        "@id": "http://www.wikidata.org/entity/Q22006653"
+      }
+    ],
+    "http://www.wikidata.org/prop/direct/P57": [
+      {
+        "@id": "http://www.wikidata.org/entity/Q310217"
+      }
+    ],
+    "http://www.wikidata.org/prop/direct/P577": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "1981-01-01T00:00:00+00:00"
+      },
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "1981-07-10T00:00:00+00:00"
+      }
+    ],
+    "http://www.wikidata.org/prop/direct/P58": [
+      {
+        "@id": "http://www.wikidata.org/entity/Q1173565"
+      }
+    ],
+    "http://www.wikidata.org/prop/direct/P86": [
+      {
+        "@id": "http://www.wikidata.org/entity/Q612067"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q234883",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Jenny Agutter"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q26708077",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "M"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q298295",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Tim Rice"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q4777214",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Antony I. Ginnane"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q95148",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Joseph Cotten"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q1173565",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "David Ambrose"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q918558",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "John Seale"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q533201",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Angela Punch McGregor"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q4685444",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Adrian Wright"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q612067",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Brian May"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q2484376",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "thriller film"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q200092",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "horror film"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q16193212",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Lorna Lesley"
+      }
+    ]
+  }
+]

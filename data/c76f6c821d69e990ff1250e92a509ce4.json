@@ -1,0 +1,36 @@
+[
+  {
+    "@id": "http://www.wikidata.org/entity/Q5715671",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Henri Safran"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q6646428",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Listen to the Lion"
+      }
+    ],
+    "http://www.wikidata.org/prop/direct/P31": [
+      {
+        "@id": "http://www.wikidata.org/entity/Q24862"
+      }
+    ],
+    "http://www.wikidata.org/prop/direct/P57": [
+      {
+        "@id": "http://www.wikidata.org/entity/Q5715671"
+      }
+    ],
+    "http://www.wikidata.org/prop/direct/P577": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "1977-09-05T00:00:00+00:00"
+      }
+    ]
+  }
+]

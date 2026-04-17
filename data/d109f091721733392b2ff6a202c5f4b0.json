@@ -1,0 +1,133 @@
+[
+  {
+    "@id": "http://www.wikidata.org/entity/Q7046938",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Noel Ferrier"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q343037",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Trevor Howard"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q1189596",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "John Castle"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q225509",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Susannah York"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q5362135",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Eliza Fraser"
+      }
+    ],
+    "http://www.wikidata.org/prop/direct/P161": [
+      {
+        "@id": "http://www.wikidata.org/entity/Q1189596"
+      },
+      {
+        "@id": "http://www.wikidata.org/entity/Q225509"
+      },
+      {
+        "@id": "http://www.wikidata.org/entity/Q7046938"
+      },
+      {
+        "@id": "http://www.wikidata.org/entity/Q343037"
+      }
+    ],
+    "http://www.wikidata.org/prop/direct/P162": [
+      {
+        "@id": "http://www.wikidata.org/entity/Q7803256"
+      }
+    ],
+    "http://www.wikidata.org/prop/direct/P31": [
+      {
+        "@id": "http://www.wikidata.org/entity/Q11424"
+      }
+    ],
+    "http://www.wikidata.org/prop/direct/P344": [
+      {
+        "@id": "http://www.wikidata.org/entity/Q7352335"
+      }
+    ],
+    "http://www.wikidata.org/prop/direct/P57": [
+      {
+        "@id": "http://www.wikidata.org/entity/Q7803256"
+      }
+    ],
+    "http://www.wikidata.org/prop/direct/P577": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "1976-01-01T00:00:00+00:00"
+      }
+    ],
+    "http://www.wikidata.org/prop/direct/P58": [
+      {
+        "@id": "http://www.wikidata.org/entity/Q968980"
+      }
+    ],
+    "http://www.wikidata.org/prop/direct/P86": [
+      {
+        "@id": "http://www.wikidata.org/entity/Q2926479"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q7352335",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Robin Copping"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q968980",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "David Williamson"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q7803256",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Tim Burstall"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q2926479",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Bruce Smeaton"
+      }
+    ]
+  }
+]

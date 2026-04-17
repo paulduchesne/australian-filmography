@@ -1,0 +1,336 @@
+[
+  {
+    "@id": "http://www.wikidata.org/entity/Q446960",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "George Miller"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q2777667",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Steve Bisley"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q3087612",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Jonathan Hardy"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q4910185",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Bill Miller"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q42229",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Mel Gibson"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q523976",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Byron Kennedy"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q2065707",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Hugh Keays-Byrne"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q22006653",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "color"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q543496",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Joanne Samuel"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q248775",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Mad Max"
+      }
+    ],
+    "http://www.wikidata.org/prop/direct/P1040": [
+      {
+        "@id": "http://www.wikidata.org/entity/Q59662116"
+      }
+    ],
+    "http://www.wikidata.org/prop/direct/P136": [
+      {
+        "@id": "http://www.wikidata.org/entity/Q2642760"
+      },
+      {
+        "@id": "http://www.wikidata.org/entity/Q188473"
+      },
+      {
+        "@id": "http://www.wikidata.org/entity/Q2484376"
+      },
+      {
+        "@id": "http://www.wikidata.org/entity/Q20443008"
+      }
+    ],
+    "http://www.wikidata.org/prop/direct/P161": [
+      {
+        "@id": "http://www.wikidata.org/entity/Q2065707"
+      },
+      {
+        "@id": "http://www.wikidata.org/entity/Q3087612"
+      },
+      {
+        "@id": "http://www.wikidata.org/entity/Q2526597"
+      },
+      {
+        "@id": "http://www.wikidata.org/entity/Q2161934"
+      },
+      {
+        "@id": "http://www.wikidata.org/entity/Q1370741"
+      },
+      {
+        "@id": "http://www.wikidata.org/entity/Q2777667"
+      },
+      {
+        "@id": "http://www.wikidata.org/entity/Q3528602"
+      },
+      {
+        "@id": "http://www.wikidata.org/entity/Q1885675"
+      },
+      {
+        "@id": "http://www.wikidata.org/entity/Q3371541"
+      },
+      {
+        "@id": "http://www.wikidata.org/entity/Q42229"
+      },
+      {
+        "@id": "http://www.wikidata.org/entity/Q543496"
+      }
+    ],
+    "http://www.wikidata.org/prop/direct/P162": [
+      {
+        "@id": "http://www.wikidata.org/entity/Q523976"
+      },
+      {
+        "@id": "http://www.wikidata.org/entity/Q4910185"
+      }
+    ],
+    "http://www.wikidata.org/prop/direct/P2061": [
+      {
+        "@id": "http://www.wikidata.org/entity/Q21062414"
+      }
+    ],
+    "http://www.wikidata.org/prop/direct/P31": [
+      {
+        "@id": "http://www.wikidata.org/entity/Q11424"
+      }
+    ],
+    "http://www.wikidata.org/prop/direct/P344": [
+      {
+        "@id": "http://www.wikidata.org/entity/Q1174309"
+      }
+    ],
+    "http://www.wikidata.org/prop/direct/P462": [
+      {
+        "@id": "http://www.wikidata.org/entity/Q22006653"
+      }
+    ],
+    "http://www.wikidata.org/prop/direct/P57": [
+      {
+        "@id": "http://www.wikidata.org/entity/Q446960"
+      }
+    ],
+    "http://www.wikidata.org/prop/direct/P577": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "1979-01-01T00:00:00+00:00"
+      },
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "1979-04-12T00:00:00+00:00"
+      },
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "1980-02-29T00:00:00+00:00"
+      },
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "1980-03-21T00:00:00+00:00"
+      }
+    ],
+    "http://www.wikidata.org/prop/direct/P58": [
+      {
+        "@id": "http://www.wikidata.org/entity/Q523976"
+      },
+      {
+        "@id": "http://www.wikidata.org/entity/Q446960"
+      }
+    ],
+    "http://www.wikidata.org/prop/direct/P86": [
+      {
+        "@id": "http://www.wikidata.org/entity/Q612067"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q1370741",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Steve Clark"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q21062414",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "2.35:1"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q20443008",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "dystopian film"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q3371541",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Paul Johnstone"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q1174309",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "David Eggby"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q3528602",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Tim Burns"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q2642760",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "vigilante film"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q2161934",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Roger Ward"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q1885675",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Reg Evans"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q2526597",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Vincent Gil"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q612067",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Brian May"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q59662116",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Clifford Hayes"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q2484376",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "thriller film"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q188473",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "action film"
+      }
+    ]
+  }
+]

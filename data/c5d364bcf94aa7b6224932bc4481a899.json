@@ -1,0 +1,62 @@
+[
+  {
+    "@id": "http://www.wikidata.org/entity/Q7052974",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Norman Yemm"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q7704133",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Terry Bourke"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q5092770",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Cheryl Rixon"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q7205267",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Plugg"
+      }
+    ],
+    "http://www.wikidata.org/prop/direct/P161": [
+      {
+        "@id": "http://www.wikidata.org/entity/Q5092770"
+      },
+      {
+        "@id": "http://www.wikidata.org/entity/Q7052974"
+      }
+    ],
+    "http://www.wikidata.org/prop/direct/P31": [
+      {
+        "@id": "http://www.wikidata.org/entity/Q11424"
+      }
+    ],
+    "http://www.wikidata.org/prop/direct/P57": [
+      {
+        "@id": "http://www.wikidata.org/entity/Q7704133"
+      }
+    ],
+    "http://www.wikidata.org/prop/direct/P577": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "1975-10-03T00:00:00+00:00"
+      }
+    ]
+  }
+]

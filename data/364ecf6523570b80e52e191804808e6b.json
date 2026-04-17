@@ -1,0 +1,154 @@
+[
+  {
+    "@id": "http://www.wikidata.org/entity/Q363659",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Bryan Brown"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q5053373",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Cathy's Child"
+      }
+    ],
+    "http://www.wikidata.org/prop/direct/P161": [
+      {
+        "@id": "http://www.wikidata.org/entity/Q8021500"
+      },
+      {
+        "@id": "http://www.wikidata.org/entity/Q6836745"
+      },
+      {
+        "@id": "http://www.wikidata.org/entity/Q363659"
+      },
+      {
+        "@id": "http://www.wikidata.org/entity/Q4706340"
+      },
+      {
+        "@id": "http://www.wikidata.org/entity/Q4798462"
+      }
+    ],
+    "http://www.wikidata.org/prop/direct/P162": [
+      {
+        "@id": "http://www.wikidata.org/entity/Q7227175"
+      }
+    ],
+    "http://www.wikidata.org/prop/direct/P31": [
+      {
+        "@id": "http://www.wikidata.org/entity/Q11424"
+      }
+    ],
+    "http://www.wikidata.org/prop/direct/P3156": [
+      {
+        "@id": "http://www.wikidata.org/entity/Q26708076"
+      }
+    ],
+    "http://www.wikidata.org/prop/direct/P57": [
+      {
+        "@id": "http://www.wikidata.org/entity/Q5294199"
+      }
+    ],
+    "http://www.wikidata.org/prop/direct/P577": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "1979-01-01T00:00:00+00:00"
+      }
+    ],
+    "http://www.wikidata.org/prop/direct/P58": [
+      {
+        "@id": "http://www.wikidata.org/entity/Q6388331"
+      }
+    ],
+    "http://www.wikidata.org/prop/direct/P86": [
+      {
+        "@id": "http://www.wikidata.org/entity/Q15715224"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q6388331",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Ken Quinnell"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q26708076",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "PG"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q4706340",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Alan Cassell"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q8021500",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Willie Fennell"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q5294199",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Donald Crombie"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q15715224",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "William Motzing"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q6836745",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Michele Fawdon"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q4798462",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Arthur Dignam"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q7227175",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Pom Oliver"
+      }
+    ]
+  }
+]

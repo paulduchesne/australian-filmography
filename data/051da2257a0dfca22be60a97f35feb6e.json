@@ -1,0 +1,271 @@
+[
+  {
+    "@id": "http://www.wikidata.org/entity/Q22006653",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "color"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q55473",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Luigi Zampa"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q957569",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Aldo Tonti"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q107006",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Claudia Cardinale"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q4898906",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Betty Lucas"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q50003",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Alberto Sordi"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q3940000",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Rodolfo Sonego"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q1040908",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Mario Brega"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q973621",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Riccardo Garrone"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q1135233",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Corrado Olmi"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q5558194",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Gianni Hecht Lucari"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q983069",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Tano Cimarosa"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q1665575",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Piero Piccioni"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q376261",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Angelo Infanti"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q3845240",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Mara Carisi"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q838368",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "black-and-white"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q7046938",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Noel Ferrier"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q3848844",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Mario Morra"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q860626",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "romantic comedy"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q2894960",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "A Girl in Australia"
+      }
+    ],
+    "http://www.wikidata.org/prop/direct/P1040": [
+      {
+        "@id": "http://www.wikidata.org/entity/Q3848844"
+      }
+    ],
+    "http://www.wikidata.org/prop/direct/P136": [
+      {
+        "@id": "http://www.wikidata.org/entity/Q860626"
+      }
+    ],
+    "http://www.wikidata.org/prop/direct/P161": [
+      {
+        "@id": "http://www.wikidata.org/entity/Q3845240"
+      },
+      {
+        "@id": "http://www.wikidata.org/entity/Q7046938"
+      },
+      {
+        "@id": "http://www.wikidata.org/entity/Q4898906"
+      },
+      {
+        "@id": "http://www.wikidata.org/entity/Q50003"
+      },
+      {
+        "@id": "http://www.wikidata.org/entity/Q107006"
+      },
+      {
+        "@id": "http://www.wikidata.org/entity/Q973621"
+      },
+      {
+        "@id": "http://www.wikidata.org/entity/Q1040908"
+      },
+      {
+        "@id": "http://www.wikidata.org/entity/Q376261"
+      },
+      {
+        "@id": "http://www.wikidata.org/entity/Q983069"
+      },
+      {
+        "@id": "http://www.wikidata.org/entity/Q1135233"
+      }
+    ],
+    "http://www.wikidata.org/prop/direct/P162": [
+      {
+        "@id": "http://www.wikidata.org/entity/Q5558194"
+      }
+    ],
+    "http://www.wikidata.org/prop/direct/P31": [
+      {
+        "@id": "http://www.wikidata.org/entity/Q11424"
+      }
+    ],
+    "http://www.wikidata.org/prop/direct/P344": [
+      {
+        "@id": "http://www.wikidata.org/entity/Q957569"
+      }
+    ],
+    "http://www.wikidata.org/prop/direct/P462": [
+      {
+        "@id": "http://www.wikidata.org/entity/Q838368"
+      },
+      {
+        "@id": "http://www.wikidata.org/entity/Q22006653"
+      }
+    ],
+    "http://www.wikidata.org/prop/direct/P57": [
+      {
+        "@id": "http://www.wikidata.org/entity/Q55473"
+      }
+    ],
+    "http://www.wikidata.org/prop/direct/P577": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "1971-01-01T00:00:00+00:00"
+      }
+    ],
+    "http://www.wikidata.org/prop/direct/P58": [
+      {
+        "@id": "http://www.wikidata.org/entity/Q55473"
+      },
+      {
+        "@id": "http://www.wikidata.org/entity/Q3940000"
+      }
+    ],
+    "http://www.wikidata.org/prop/direct/P86": [
+      {
+        "@id": "http://www.wikidata.org/entity/Q1665575"
+      }
+    ]
+  }
+]
