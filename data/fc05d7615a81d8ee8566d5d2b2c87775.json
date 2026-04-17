@@ -1,0 +1,69 @@
+[
+  {
+    "@id": "http://www.wikidata.org/entity/Q54855",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Yoram Gross"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q7356222",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Rod Hay"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q5622296",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Guy Gross"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q5299400",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Dot and the Whale"
+      }
+    ],
+    "http://www.wikidata.org/prop/direct/P1040": [
+      {
+        "@id": "http://www.wikidata.org/entity/Q7356222"
+      }
+    ],
+    "http://www.wikidata.org/prop/direct/P162": [
+      {
+        "@id": "http://www.wikidata.org/entity/Q54855"
+      }
+    ],
+    "http://www.wikidata.org/prop/direct/P31": [
+      {
+        "@id": "http://www.wikidata.org/entity/Q202866"
+      }
+    ],
+    "http://www.wikidata.org/prop/direct/P57": [
+      {
+        "@id": "http://www.wikidata.org/entity/Q54855"
+      }
+    ],
+    "http://www.wikidata.org/prop/direct/P577": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "1986-01-01T00:00:00+00:00"
+      }
+    ],
+    "http://www.wikidata.org/prop/direct/P86": [
+      {
+        "@id": "http://www.wikidata.org/entity/Q5622296"
+      }
+    ]
+  }
+]

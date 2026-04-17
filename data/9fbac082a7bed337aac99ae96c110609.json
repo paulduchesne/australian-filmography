@@ -1,0 +1,144 @@
+[
+  {
+    "@id": "http://www.wikidata.org/entity/Q972991",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Vernon Wells"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q22006653",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "color"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q1174048",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "David Connell"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q5472705",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Fortress"
+      }
+    ],
+    "http://www.wikidata.org/prop/direct/P136": [
+      {
+        "@id": "http://www.wikidata.org/entity/Q130232"
+      },
+      {
+        "@id": "http://www.wikidata.org/entity/Q959790"
+      }
+    ],
+    "http://www.wikidata.org/prop/direct/P161": [
+      {
+        "@id": "http://www.wikidata.org/entity/Q972991"
+      },
+      {
+        "@id": "http://www.wikidata.org/entity/Q271948"
+      }
+    ],
+    "http://www.wikidata.org/prop/direct/P162": [
+      {
+        "@id": "http://www.wikidata.org/entity/Q7299016"
+      }
+    ],
+    "http://www.wikidata.org/prop/direct/P31": [
+      {
+        "@id": "http://www.wikidata.org/entity/Q11424"
+      }
+    ],
+    "http://www.wikidata.org/prop/direct/P344": [
+      {
+        "@id": "http://www.wikidata.org/entity/Q1174048"
+      }
+    ],
+    "http://www.wikidata.org/prop/direct/P462": [
+      {
+        "@id": "http://www.wikidata.org/entity/Q22006653"
+      }
+    ],
+    "http://www.wikidata.org/prop/direct/P57": [
+      {
+        "@id": "http://www.wikidata.org/entity/Q4785317"
+      }
+    ],
+    "http://www.wikidata.org/prop/direct/P577": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "1986-01-01T00:00:00+00:00"
+      }
+    ],
+    "http://www.wikidata.org/prop/direct/P58": [
+      {
+        "@id": "http://www.wikidata.org/entity/Q5416997"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q4785317",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Arch Nicholson"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q5416997",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Everett De Roche"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q130232",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "drama film"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q959790",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "crime film"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q271948",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Rachel Ward"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q7299016",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Raymond Menmuir"
+      }
+    ]
+  }
+]

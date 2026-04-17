@@ -1,0 +1,154 @@
+[
+  {
+    "@id": "http://www.wikidata.org/entity/Q22006653",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "color"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q449220",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Bruce Beresford"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q3057304",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Ernie Dingo"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q26708076",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "PG"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q869751",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "George Dreyfus"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q7735329",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "The Fringe Dwellers"
+      }
+    ],
+    "http://www.wikidata.org/prop/direct/P136": [
+      {
+        "@id": "http://www.wikidata.org/entity/Q130232"
+      }
+    ],
+    "http://www.wikidata.org/prop/direct/P161": [
+      {
+        "@id": "http://www.wikidata.org/entity/Q3057304"
+      },
+      {
+        "@id": "http://www.wikidata.org/entity/Q6451591"
+      },
+      {
+        "@id": "http://www.wikidata.org/entity/Q449220"
+      }
+    ],
+    "http://www.wikidata.org/prop/direct/P162": [
+      {
+        "@id": "http://www.wikidata.org/entity/Q23020159"
+      }
+    ],
+    "http://www.wikidata.org/prop/direct/P31": [
+      {
+        "@id": "http://www.wikidata.org/entity/Q11424"
+      }
+    ],
+    "http://www.wikidata.org/prop/direct/P3156": [
+      {
+        "@id": "http://www.wikidata.org/entity/Q26708076"
+      }
+    ],
+    "http://www.wikidata.org/prop/direct/P344": [
+      {
+        "@id": "http://www.wikidata.org/entity/Q1240097"
+      }
+    ],
+    "http://www.wikidata.org/prop/direct/P462": [
+      {
+        "@id": "http://www.wikidata.org/entity/Q22006653"
+      }
+    ],
+    "http://www.wikidata.org/prop/direct/P57": [
+      {
+        "@id": "http://www.wikidata.org/entity/Q449220"
+      }
+    ],
+    "http://www.wikidata.org/prop/direct/P577": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "1986-01-01T00:00:00+00:00"
+      }
+    ],
+    "http://www.wikidata.org/prop/direct/P58": [
+      {
+        "@id": "http://www.wikidata.org/entity/Q449220"
+      }
+    ],
+    "http://www.wikidata.org/prop/direct/P86": [
+      {
+        "@id": "http://www.wikidata.org/entity/Q869751"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q23020159",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Sue Milliken"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q130232",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "drama film"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q6451591",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Kylie Belling"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q1240097",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Donald McAlpine"
+      }
+    ]
+  }
+]
