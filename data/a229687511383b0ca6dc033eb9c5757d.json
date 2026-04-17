@@ -1,0 +1,162 @@
+[
+  {
+    "@id": "http://www.wikidata.org/entity/Q20443008",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "dystopian film"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q20656232",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "science fiction action film"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q2924600",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Brett Climo"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q7176988",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Peter Smalley"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q1341051",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "post-apocalyptic film"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q6986037",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Ned Manning"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q7177693",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Peter Whitford"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q8000249",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Wilbur Wilde"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q6939225",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Murray Fahey"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q188473",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "action film"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q5245167",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Dead End Drive-In"
+      }
+    ],
+    "http://www.wikidata.org/prop/direct/P136": [
+      {
+        "@id": "http://www.wikidata.org/entity/Q20656232"
+      },
+      {
+        "@id": "http://www.wikidata.org/entity/Q1341051"
+      },
+      {
+        "@id": "http://www.wikidata.org/entity/Q188473"
+      },
+      {
+        "@id": "http://www.wikidata.org/entity/Q20443008"
+      }
+    ],
+    "http://www.wikidata.org/prop/direct/P161": [
+      {
+        "@id": "http://www.wikidata.org/entity/Q7177693"
+      },
+      {
+        "@id": "http://www.wikidata.org/entity/Q2924600"
+      },
+      {
+        "@id": "http://www.wikidata.org/entity/Q8000249"
+      },
+      {
+        "@id": "http://www.wikidata.org/entity/Q6986037"
+      },
+      {
+        "@id": "http://www.wikidata.org/entity/Q6939225"
+      }
+    ],
+    "http://www.wikidata.org/prop/direct/P31": [
+      {
+        "@id": "http://www.wikidata.org/entity/Q11424"
+      }
+    ],
+    "http://www.wikidata.org/prop/direct/P57": [
+      {
+        "@id": "http://www.wikidata.org/entity/Q913154"
+      }
+    ],
+    "http://www.wikidata.org/prop/direct/P577": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "1986-01-01T00:00:00+00:00"
+      }
+    ],
+    "http://www.wikidata.org/prop/direct/P58": [
+      {
+        "@id": "http://www.wikidata.org/entity/Q7176988"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q913154",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Brian Trenchard-Smith"
+      }
+    ]
+  }
+]

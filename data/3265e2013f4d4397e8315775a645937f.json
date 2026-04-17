@@ -1,0 +1,350 @@
+[
+  {
+    "@id": "http://www.wikidata.org/entity/Q235100",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Linda Kozlowski"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q319221",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "adventure film"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q22006653",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "color"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q19502152",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "David Stiven"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q260963",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Russell Boyd"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q7173921",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Peter Faiman"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q615254",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Crocodile Dundee"
+      }
+    ],
+    "http://www.wikidata.org/prop/direct/P1040": [
+      {
+        "@id": "http://www.wikidata.org/entity/Q19502152"
+      }
+    ],
+    "http://www.wikidata.org/prop/direct/P136": [
+      {
+        "@id": "http://www.wikidata.org/entity/Q118612349"
+      },
+      {
+        "@id": "http://www.wikidata.org/entity/Q319221"
+      }
+    ],
+    "http://www.wikidata.org/prop/direct/P161": [
+      {
+        "@id": "http://www.wikidata.org/entity/Q731111"
+      },
+      {
+        "@id": "http://www.wikidata.org/entity/Q235100"
+      },
+      {
+        "@id": "http://www.wikidata.org/entity/Q1868688"
+      },
+      {
+        "@id": "http://www.wikidata.org/entity/Q470153"
+      },
+      {
+        "@id": "http://www.wikidata.org/entity/Q296641"
+      },
+      {
+        "@id": "http://www.wikidata.org/entity/Q441661"
+      }
+    ],
+    "http://www.wikidata.org/prop/direct/P162": [
+      {
+        "@id": "http://www.wikidata.org/entity/Q153379"
+      }
+    ],
+    "http://www.wikidata.org/prop/direct/P2061": [
+      {
+        "@id": "http://www.wikidata.org/entity/Q21062414"
+      }
+    ],
+    "http://www.wikidata.org/prop/direct/P31": [
+      {
+        "@id": "http://www.wikidata.org/entity/Q11424"
+      }
+    ],
+    "http://www.wikidata.org/prop/direct/P3156": [
+      {
+        "@id": "http://www.wikidata.org/entity/Q26708077"
+      }
+    ],
+    "http://www.wikidata.org/prop/direct/P344": [
+      {
+        "@id": "http://www.wikidata.org/entity/Q260963"
+      }
+    ],
+    "http://www.wikidata.org/prop/direct/P462": [
+      {
+        "@id": "http://www.wikidata.org/entity/Q22006653"
+      }
+    ],
+    "http://www.wikidata.org/prop/direct/P57": [
+      {
+        "@id": "http://www.wikidata.org/entity/Q7173921"
+      }
+    ],
+    "http://www.wikidata.org/prop/direct/P577": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "1986-04-24T00:00:00+00:00"
+      },
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "1986-09-26T00:00:00+00:00"
+      },
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "1986-11-27T00:00:00+00:00"
+      },
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "1986-12-11T00:00:00+00:00"
+      },
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "1986-12-12T00:00:00+00:00"
+      },
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "1986-12-19T00:00:00+00:00"
+      },
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "1987-01-15T00:00:00+00:00"
+      },
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "1987-01-22T00:00:00+00:00"
+      },
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "1987-01-30T00:00:00+00:00"
+      },
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "1987-02-04T00:00:00+00:00"
+      },
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "1987-02-05T00:00:00+00:00"
+      },
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "1987-02-13T00:00:00+00:00"
+      },
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "1987-02-20T00:00:00+00:00"
+      },
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "1987-02-21T00:00:00+00:00"
+      },
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "1987-02-26T00:00:00+00:00"
+      },
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "1987-03-13T00:00:00+00:00"
+      },
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "1987-03-20T00:00:00+00:00"
+      },
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "1987-05-02T00:00:00+00:00"
+      },
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "1987-04-16T00:00:00+00:00"
+      },
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "1987-08-19T00:00:00+00:00"
+      },
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "1988-01-01T00:00:00+00:00"
+      },
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "1987-03-27T00:00:00+00:00"
+      },
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "1987-04-10T00:00:00+00:00"
+      },
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "1988-12-20T00:00:00+00:00"
+      },
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "1988-03-01T00:00:00+00:00"
+      }
+    ],
+    "http://www.wikidata.org/prop/direct/P58": [
+      {
+        "@id": "http://www.wikidata.org/entity/Q3195086"
+      },
+      {
+        "@id": "http://www.wikidata.org/entity/Q153379"
+      },
+      {
+        "@id": "http://www.wikidata.org/entity/Q296641"
+      }
+    ],
+    "http://www.wikidata.org/prop/direct/P86": [
+      {
+        "@id": "http://www.wikidata.org/entity/Q7172812"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q441661",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "John Meillon"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q26708077",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "M"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q296641",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Paul Hogan"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q21062414",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "2.35:1"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q731111",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "David Gulpilil"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q3195086",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Ken Shadie"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q153379",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "John Cornell"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q470153",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Reginald VelJohnson"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q7172812",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Peter Best"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q118612349",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "romantic comedy film"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q1868688",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Mark Blum"
+      }
+    ]
+  }
+]
