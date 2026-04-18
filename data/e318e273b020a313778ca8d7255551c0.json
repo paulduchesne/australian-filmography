@@ -1,0 +1,328 @@
+[
+  {
+    "@id": "http://www.wikidata.org/entity/Q3309607",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Novella Nelson"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q76364",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Hans Zimmer"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q232985",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Bebe Neuwirth"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q325070",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Simon Jones"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q352748",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "John Spencer"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q2558129",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Ann Dowd"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q208558",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Andie MacDowell"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q2096412",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Rick Aviles"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q19517850",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Conrad Roberts"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q26708077",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "M"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q22006653",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "color"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q505135",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Green Card"
+      }
+    ],
+    "http://www.wikidata.org/prop/direct/P1040": [
+      {
+        "@id": "http://www.wikidata.org/entity/Q2577230"
+      }
+    ],
+    "http://www.wikidata.org/prop/direct/P136": [
+      {
+        "@id": "http://www.wikidata.org/entity/Q860626"
+      }
+    ],
+    "http://www.wikidata.org/prop/direct/P161": [
+      {
+        "@id": "http://www.wikidata.org/entity/Q2096412"
+      },
+      {
+        "@id": "http://www.wikidata.org/entity/Q87336"
+      },
+      {
+        "@id": "http://www.wikidata.org/entity/Q435475"
+      },
+      {
+        "@id": "http://www.wikidata.org/entity/Q19517850"
+      },
+      {
+        "@id": "http://www.wikidata.org/entity/Q208558"
+      },
+      {
+        "@id": "http://www.wikidata.org/entity/Q352748"
+      },
+      {
+        "@id": "http://www.wikidata.org/entity/Q232985"
+      },
+      {
+        "@id": "http://www.wikidata.org/entity/Q258246"
+      },
+      {
+        "@id": "http://www.wikidata.org/entity/Q2233929"
+      },
+      {
+        "@id": "http://www.wikidata.org/entity/Q325070"
+      },
+      {
+        "@id": "http://www.wikidata.org/entity/Q3309607"
+      },
+      {
+        "@id": "http://www.wikidata.org/entity/Q1312282"
+      },
+      {
+        "@id": "http://www.wikidata.org/entity/Q3177697"
+      },
+      {
+        "@id": "http://www.wikidata.org/entity/Q2558129"
+      },
+      {
+        "@id": "http://www.wikidata.org/entity/Q16935140"
+      },
+      {
+        "@id": "http://www.wikidata.org/entity/Q106508"
+      }
+    ],
+    "http://www.wikidata.org/prop/direct/P162": [
+      {
+        "@id": "http://www.wikidata.org/entity/Q55424"
+      }
+    ],
+    "http://www.wikidata.org/prop/direct/P31": [
+      {
+        "@id": "http://www.wikidata.org/entity/Q11424"
+      }
+    ],
+    "http://www.wikidata.org/prop/direct/P3156": [
+      {
+        "@id": "http://www.wikidata.org/entity/Q26708077"
+      }
+    ],
+    "http://www.wikidata.org/prop/direct/P344": [
+      {
+        "@id": "http://www.wikidata.org/entity/Q3105259"
+      }
+    ],
+    "http://www.wikidata.org/prop/direct/P462": [
+      {
+        "@id": "http://www.wikidata.org/entity/Q22006653"
+      }
+    ],
+    "http://www.wikidata.org/prop/direct/P57": [
+      {
+        "@id": "http://www.wikidata.org/entity/Q55424"
+      }
+    ],
+    "http://www.wikidata.org/prop/direct/P577": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "1990-01-01T00:00:00+00:00"
+      },
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "1991-03-07T00:00:00+00:00"
+      }
+    ],
+    "http://www.wikidata.org/prop/direct/P58": [
+      {
+        "@id": "http://www.wikidata.org/entity/Q55424"
+      }
+    ],
+    "http://www.wikidata.org/prop/direct/P86": [
+      {
+        "@id": "http://www.wikidata.org/entity/Q76364"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q3177697",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Jessie Keosian"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q55424",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Peter Weir"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q2577230",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "William M. Anderson"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q3105259",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Geoffrey Simpson"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q87336",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Stefan Schnabel"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q258246",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Lois Smith"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q16935140",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Abdoulaye N'Gom"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q1312282",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Robert Prosky"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q2233929",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Ronald Guttman"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q860626",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "romantic comedy"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q106508",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Gérard Depardieu"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q435475",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Ethan Phillips"
+      }
+    ]
+  }
+]
