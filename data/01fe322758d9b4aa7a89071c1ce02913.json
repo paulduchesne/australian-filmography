@@ -1,0 +1,250 @@
+[
+  {
+    "@id": "http://www.wikidata.org/entity/Q130232",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "drama film"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q180137",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Jan Kiesser"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q807672",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Barbara Turner"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q354031",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Tom Bower"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q433520",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Ted Levine"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q1689472",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Jimmy Witherspoon"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q235189",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Mare Winningham"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q1222922",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Dieter Thomas Kuhn"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q904400",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Michael Shapiro"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q232902",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Jennifer Jason Leigh"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q22006653",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "color"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q953683",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Ulu Grosbard"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q842256",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "musical film"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q1509291",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Georgia"
+      }
+    ],
+    "http://www.wikidata.org/prop/direct/P136": [
+      {
+        "@id": "http://www.wikidata.org/entity/Q842256"
+      },
+      {
+        "@id": "http://www.wikidata.org/entity/Q130232"
+      }
+    ],
+    "http://www.wikidata.org/prop/direct/P161": [
+      {
+        "@id": "http://www.wikidata.org/entity/Q354031"
+      },
+      {
+        "@id": "http://www.wikidata.org/entity/Q282197"
+      },
+      {
+        "@id": "http://www.wikidata.org/entity/Q223110"
+      },
+      {
+        "@id": "http://www.wikidata.org/entity/Q433520"
+      },
+      {
+        "@id": "http://www.wikidata.org/entity/Q3181360"
+      },
+      {
+        "@id": "http://www.wikidata.org/entity/Q232902"
+      },
+      {
+        "@id": "http://www.wikidata.org/entity/Q1222922"
+      },
+      {
+        "@id": "http://www.wikidata.org/entity/Q904400"
+      },
+      {
+        "@id": "http://www.wikidata.org/entity/Q235189"
+      },
+      {
+        "@id": "http://www.wikidata.org/entity/Q330762"
+      },
+      {
+        "@id": "http://www.wikidata.org/entity/Q1689472"
+      }
+    ],
+    "http://www.wikidata.org/prop/direct/P162": [
+      {
+        "@id": "http://www.wikidata.org/entity/Q232902"
+      },
+      {
+        "@id": "http://www.wikidata.org/entity/Q807672"
+      }
+    ],
+    "http://www.wikidata.org/prop/direct/P31": [
+      {
+        "@id": "http://www.wikidata.org/entity/Q11424"
+      }
+    ],
+    "http://www.wikidata.org/prop/direct/P344": [
+      {
+        "@id": "http://www.wikidata.org/entity/Q180137"
+      }
+    ],
+    "http://www.wikidata.org/prop/direct/P462": [
+      {
+        "@id": "http://www.wikidata.org/entity/Q22006653"
+      }
+    ],
+    "http://www.wikidata.org/prop/direct/P57": [
+      {
+        "@id": "http://www.wikidata.org/entity/Q953683"
+      }
+    ],
+    "http://www.wikidata.org/prop/direct/P577": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "1996-09-19T00:00:00+00:00"
+      },
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "1995-01-01T00:00:00+00:00"
+      }
+    ],
+    "http://www.wikidata.org/prop/direct/P58": [
+      {
+        "@id": "http://www.wikidata.org/entity/Q807672"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q282197",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Jason Carter"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q223110",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "John C. Reilly"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q330762",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Max Perlich"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q3181360",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "John Doe"
+      }
+    ]
+  }
+]

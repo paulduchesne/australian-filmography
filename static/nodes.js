@@ -40,7 +40,7 @@ async function drawNodes(nodes) {
 
         })
         .on('click', function(k, d) {
-            window.location.href = 'film/'+d['id'];
+            window.location.href = 'https://paulduchesne.github.io/australian-filmography/film/'+d['id'];
         })
 
     d3.select('#canvas')
