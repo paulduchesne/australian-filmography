@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html>
+   <head>
+      <title>Australian Filmography</title>
+      <link rel="stylesheet" type="text/css" href="{{ url_for('static', filename='style.css') }}">
+
+      <link href="https://fonts.googleapis.com/css?family=Raleway:100,200,300,400,500,600,700,800,900"
+      rel="stylesheet" />
+
+      <link href="https://fonts.googleapis.com/css?family=Merriweather:100,200,300,400,500,600,700,800,900"
+      rel="stylesheet" />
+
+      <link href="https://fonts.googleapis.com/css2?family=Bebas+Neue&display=swap" rel="stylesheet">
+
+   </head>
+   <body style="margin: 0; padding: 0; background-color: #FFE5B4;">
+<div style="padding: 40px;padding-top: 100px;">
+<tspan style="  padding-top: 40px;font-family: Raleway;
+color: black;
+font-size: 96px;
+font-family: 'Bebas Neue', sans-serif;
+  font-weight: 400;
+  font-style: normal;
+
+font-weight: 100;">Australian Filmography</tspan>
+      <div id="paper" style="padding: 0px;padding-top: 100px;"></div>
+<a href="../../about" style="text-decoration: none;">
+      <tspan style="
+      color: black;
+      font-size: 48px;
+      font-family: 'Bebas Neue', sans-serif;
+        font-weight: 400;
+        font-style: normal;
+        text-decoration: None;
+
+      font-weight: 100;">+</tspan></a>
+
+
+      <script src="https://d3js.org/d3.v7.min.js"></script>
+      <script>let nodes_data = JSON.parse('{{ data|tojson|safe }}');</script>
+      <script src="../../static/nodes_filter.js"></script>
+
+
+
+
+   </div>
+   </body>
+</html>

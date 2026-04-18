@@ -78,7 +78,6 @@ def filter_page(entity):
     #     filter_id = incoming_filter
 
     filter_id = entity
-
     query = '''
         prefix au: <http://ausfilmography/>
         prefix wd: <http://www.wikidata.org/entity/>
@@ -124,7 +123,7 @@ def filter_page(entity):
 
     submit_data = sorted(submit_data, key=lambda x: x["year"])
 
-    return render_template('index.html', data=json.loads(json.dumps(submit_data)))
+    return render_template('filter.html', data=json.loads(json.dumps(submit_data)))
 
 
 
@@ -198,8 +197,8 @@ def entity_page(entity):
 
     data['info'].append({'section':'technical', 'payload':crew_array})
 
-    print(json.dumps(crew_array, indent=4))
-    print(json.dumps(data, indent=4))
+    # print(json.dumps(crew_array, indent=4))
+    # print(json.dumps(data, indent=4))
 
     return render_template('entity.html', data=data)
 
@@ -218,30 +217,54 @@ def about_page():
 
 freezer = Freezer(app)
 
-# # render pages.
-
-
 @freezer.register_generator
 def resource_generator():
-
-
     query = '''
-
-            prefix wd: <http://www.wikidata.org/entity/>
-            prefix wpd: <http://www.wikidata.org/prop/direct/>
-
-        select ?film where { ?film wpd:P31 wd:Q11424.
-
-
-           ?film rdfs:label ?filmLabel .
-           ?film wpd:P577 ?date .
-           ?film wpd:P57 ?director .
-           ?director rdfs:label ?directorLabel . }
-    '''
+        prefix wd: <http://www.wikidata.org/entity/>
+        prefix wpd: <http://www.wikidata.org/prop/direct/>
+        select ?film where {
+            ?film wpd:P31 wd:Q11424 .
+            ?film rdfs:label ?filmLabel .
+            ?film wpd:P577 ?date .
+            ?film wpd:P57 ?director .
+            ?director rdfs:label ?directorLabel .
+            }
+        '''
 
     resources = g.query(query)
     for x in resources:
         yield 'entity_page', {'entity': str(x.film).split('/')[-1]}
+
+
+@freezer.register_generator
+def filter_generator():
+    # You need a list of entities (e.g., Wikidata QIDs) that you want to filter by.
+    # This might be a fixed list or a query that finds all available filters.
+    # query = '''
+    #     SELECT DISTINCT ?filter_id WHERE {
+    #         # Logic to find all valid filter entities used in your app
+    #         ?film ?prop ?filter_id .
+    #     }
+    # '''
+    # # Fetch IDs from your rdflib graph 'g'
+    # entities = g.query(query)
+
+    # for x in entities:
+    #     # Yield the dictionary where the key matches the <variable> in your route
+    #     yield {'entity': str(x.filter_id).split('/')[-1]}
+
+    for s,p,o in g.triples((None, None, None)):
+        yield 'filter_page', {'entity': str(s).split('/')[-1]}
+
+
+
+
+
+
+
+
+
+
 
 if __name__ == "__main__":
     freezer.freeze()
