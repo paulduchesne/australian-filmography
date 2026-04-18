@@ -9,6 +9,7 @@ dependencies = [
     "frozen-flask>=1.0.2",
     "numpy>=2.4.4",
     "pandas>=3.0.2",
+    "pydash>=8.0.6",
     "rdflib>=7.6.0",
     "requests>=2.33.1",
     "tqdm>=4.67.3",

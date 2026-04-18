@@ -3,15 +3,23 @@
 import json
 import pandas
 import pathlib
+import pydash
 import rdflib
+import tqdm
 from flask import Flask, render_template, request
 from flask_frozen import Freezer
 
+# load rdf source.
+
 g = rdflib.Graph().parse('wikidata.json', format="json-ld")
+
+# define flask web app.
 
 app = Flask(__name__)
 app.config['FREEZER_RELATIVE_URLS'] = True
 app.config['FREEZER_DESTINATION'] = 'docs'
+
+# index page render.
 
 @app.route('/', methods=['GET', 'POST'])
 def home_page():
@@ -68,6 +76,7 @@ def home_page():
 
     return render_template('index.html', data=json.loads(json.dumps(submit_data)))
 
+# filter page render.
 
 @app.route('/filter/<entity>/', methods=['GET', 'POST'])
 def filter_page(entity):
@@ -123,9 +132,9 @@ def filter_page(entity):
 
     submit_data = sorted(submit_data, key=lambda x: x["year"])
 
-    return render_template('filter.html', data=json.loads(json.dumps(submit_data)))
+    return render_template('index.html', data=json.loads(json.dumps(submit_data)))
 
-
+# film page render.
 
 @app.route('/film/<entity>/', methods=['GET', 'POST'])
 def entity_page(entity):
@@ -197,23 +206,15 @@ def entity_page(entity):
 
     data['info'].append({'section':'technical', 'payload':crew_array})
 
-    # print(json.dumps(crew_array, indent=4))
-    # print(json.dumps(data, indent=4))
-
     return render_template('entity.html', data=data)
+
+# about page render
 
 @app.route('/about/', methods=['GET', 'POST'])
 def about_page():
     return render_template('about.html')
 
-
-# if __name__ == "__main__":
-#     app.run(debug=True, port=5000)
-
-
-# Q4823509
-
-# # flask freezer.
+# flask freeze functions.
 
 freezer = Freezer(app)
 
@@ -232,39 +233,14 @@ def resource_generator():
         '''
 
     resources = g.query(query)
-    for x in resources:
+    for x in tqdm.tqdm(resources, desc='film'):
         yield 'entity_page', {'entity': str(x.film).split('/')[-1]}
-
 
 @freezer.register_generator
 def filter_generator():
-    # You need a list of entities (e.g., Wikidata QIDs) that you want to filter by.
-    # This might be a fixed list or a query that finds all available filters.
-    # query = '''
-    #     SELECT DISTINCT ?filter_id WHERE {
-    #         # Logic to find all valid filter entities used in your app
-    #         ?film ?prop ?filter_id .
-    #     }
-    # '''
-    # # Fetch IDs from your rdflib graph 'g'
-    # entities = g.query(query)
-
-    # for x in entities:
-    #     # Yield the dictionary where the key matches the <variable> in your route
-    #     yield {'entity': str(x.filter_id).split('/')[-1]}
-
-    for s,p,o in g.triples((None, None, None)):
-        yield 'filter_page', {'entity': str(s).split('/')[-1]}
-
-
-
-
-
-
-
-
-
-
+    filters = pydash.uniq([s for s,p,o in g.triples((None, None, None))])
+    for f in tqdm.tqdm(filters, desc='filter'):
+        yield 'filter_page', {'entity': str(f).split('/')[-1]}
 
 if __name__ == "__main__":
     freezer.freeze()
