@@ -1,0 +1,159 @@
+[
+  {
+    "@id": "http://www.wikidata.org/entity/Q4920204",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Black & White & Sex"
+      }
+    ],
+    "http://www.wikidata.org/prop/direct/P136": [
+      {
+        "@id": "http://www.wikidata.org/entity/Q130232"
+      }
+    ],
+    "http://www.wikidata.org/prop/direct/P161": [
+      {
+        "@id": "http://www.wikidata.org/entity/Q4778199"
+      },
+      {
+        "@id": "http://www.wikidata.org/entity/Q7372346"
+      },
+      {
+        "@id": "http://www.wikidata.org/entity/Q272112"
+      },
+      {
+        "@id": "http://www.wikidata.org/entity/Q5277858"
+      },
+      {
+        "@id": "http://www.wikidata.org/entity/Q6593181"
+      }
+    ],
+    "http://www.wikidata.org/prop/direct/P162": [
+      {
+        "@id": "http://www.wikidata.org/entity/Q1400892"
+      }
+    ],
+    "http://www.wikidata.org/prop/direct/P31": [
+      {
+        "@id": "http://www.wikidata.org/entity/Q11424"
+      }
+    ],
+    "http://www.wikidata.org/prop/direct/P462": [
+      {
+        "@id": "http://www.wikidata.org/entity/Q838368"
+      }
+    ],
+    "http://www.wikidata.org/prop/direct/P57": [
+      {
+        "@id": "http://www.wikidata.org/entity/Q16187371"
+      }
+    ],
+    "http://www.wikidata.org/prop/direct/P577": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "2011-01-01T00:00:00+00:00"
+      }
+    ],
+    "http://www.wikidata.org/prop/direct/P58": [
+      {
+        "@id": "http://www.wikidata.org/entity/Q16187371"
+      }
+    ],
+    "http://www.wikidata.org/prop/direct/P86": [
+      {
+        "@id": "http://www.wikidata.org/entity/Q5017927"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q6593181",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "list of Out of the Blue characters"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q1400892",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Feed"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q272112",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Saskia Burmeister"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q7372346",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Roxane Wilson"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q16187371",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "John Winter"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q5017927",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Caitlin Yeo"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q5277858",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Dina Panozzo"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q4778199",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Anya Beyersdorf"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q130232",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "drama film"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q838368",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "black-and-white"
+      }
+    ]
+  }
+]

@@ -1,0 +1,194 @@
+[
+  {
+    "@id": "http://www.wikidata.org/entity/Q3414343",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Black and White"
+      }
+    ],
+    "http://www.wikidata.org/prop/direct/P1040": [
+      {
+        "@id": "http://www.wikidata.org/entity/Q1811998"
+      }
+    ],
+    "http://www.wikidata.org/prop/direct/P136": [
+      {
+        "@id": "http://www.wikidata.org/entity/Q130232"
+      }
+    ],
+    "http://www.wikidata.org/prop/direct/P161": [
+      {
+        "@id": "http://www.wikidata.org/entity/Q816565"
+      },
+      {
+        "@id": "http://www.wikidata.org/entity/Q1108476"
+      },
+      {
+        "@id": "http://www.wikidata.org/entity/Q309690"
+      },
+      {
+        "@id": "http://www.wikidata.org/entity/Q207307"
+      },
+      {
+        "@id": "http://www.wikidata.org/entity/Q261531"
+      },
+      {
+        "@id": "http://www.wikidata.org/entity/Q3018539"
+      }
+    ],
+    "http://www.wikidata.org/prop/direct/P162": [
+      {
+        "@id": "http://www.wikidata.org/entity/Q7034649"
+      }
+    ],
+    "http://www.wikidata.org/prop/direct/P31": [
+      {
+        "@id": "http://www.wikidata.org/entity/Q11424"
+      }
+    ],
+    "http://www.wikidata.org/prop/direct/P462": [
+      {
+        "@id": "http://www.wikidata.org/entity/Q22006653"
+      }
+    ],
+    "http://www.wikidata.org/prop/direct/P57": [
+      {
+        "@id": "http://www.wikidata.org/entity/Q5181140"
+      }
+    ],
+    "http://www.wikidata.org/prop/direct/P577": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "2002-01-01T00:00:00+00:00"
+      }
+    ],
+    "http://www.wikidata.org/prop/direct/P58": [
+      {
+        "@id": "http://www.wikidata.org/entity/Q15506268"
+      }
+    ],
+    "http://www.wikidata.org/prop/direct/P86": [
+      {
+        "@id": "http://www.wikidata.org/entity/Q1058054"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q3018539",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "David Ngoombujarra"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q15506268",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Louis Nowra"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q261531",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Kerry Fox"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q816565",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Ben Mendelsohn"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q7034649",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Nik Powell"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q5181140",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Craig Lahiff"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q309690",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Charles Dance"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q1058054",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Cezary Skubiszewski"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q1811998",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Lee Smith"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q207307",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Robert Carlyle"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q22006653",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "color"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q130232",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "drama film"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q1108476",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Colin Friels"
+      }
+    ]
+  }
+]

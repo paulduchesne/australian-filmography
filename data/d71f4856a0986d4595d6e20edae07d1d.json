@@ -1,0 +1,261 @@
+[
+  {
+    "@id": "http://www.wikidata.org/entity/Q129817",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Russell Crowe"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q4766717",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Ann Turner"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q2645045",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Alethea McGrath"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q130232",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "drama film"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q102429885",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "coming-of-age film"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q1054574",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "romance film"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q234679",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Charlotte Rampling"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q15497455",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Frankie J. Holden"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q4885699",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Ben Gannon"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q26708077",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "M"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q676244",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Wayne Pigram"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q645928",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "biographical film"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q3181924",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "John Lee"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q4717587",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Alex Outhred"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q47015396",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Frank Gallacher"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q22006653",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "color"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q4739607",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Amanda Douge"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q3545539",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Hammers Over the Anvil"
+      }
+    ],
+    "http://www.wikidata.org/prop/direct/P1040": [
+      {
+        "@id": "http://www.wikidata.org/entity/Q65920875"
+      }
+    ],
+    "http://www.wikidata.org/prop/direct/P136": [
+      {
+        "@id": "http://www.wikidata.org/entity/Q102429885"
+      },
+      {
+        "@id": "http://www.wikidata.org/entity/Q1054574"
+      },
+      {
+        "@id": "http://www.wikidata.org/entity/Q645928"
+      },
+      {
+        "@id": "http://www.wikidata.org/entity/Q130232"
+      }
+    ],
+    "http://www.wikidata.org/prop/direct/P161": [
+      {
+        "@id": "http://www.wikidata.org/entity/Q47015396"
+      },
+      {
+        "@id": "http://www.wikidata.org/entity/Q2645045"
+      },
+      {
+        "@id": "http://www.wikidata.org/entity/Q676244"
+      },
+      {
+        "@id": "http://www.wikidata.org/entity/Q4739607"
+      },
+      {
+        "@id": "http://www.wikidata.org/entity/Q4717587"
+      },
+      {
+        "@id": "http://www.wikidata.org/entity/Q3181924"
+      },
+      {
+        "@id": "http://www.wikidata.org/entity/Q15497455"
+      },
+      {
+        "@id": "http://www.wikidata.org/entity/Q234679"
+      },
+      {
+        "@id": "http://www.wikidata.org/entity/Q129817"
+      }
+    ],
+    "http://www.wikidata.org/prop/direct/P162": [
+      {
+        "@id": "http://www.wikidata.org/entity/Q4885699"
+      }
+    ],
+    "http://www.wikidata.org/prop/direct/P31": [
+      {
+        "@id": "http://www.wikidata.org/entity/Q11424"
+      }
+    ],
+    "http://www.wikidata.org/prop/direct/P3156": [
+      {
+        "@id": "http://www.wikidata.org/entity/Q26708077"
+      }
+    ],
+    "http://www.wikidata.org/prop/direct/P462": [
+      {
+        "@id": "http://www.wikidata.org/entity/Q22006653"
+      }
+    ],
+    "http://www.wikidata.org/prop/direct/P57": [
+      {
+        "@id": "http://www.wikidata.org/entity/Q4766717"
+      }
+    ],
+    "http://www.wikidata.org/prop/direct/P577": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "1993-02-19T00:00:00+00:00"
+      },
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "1994-07-22T00:00:00+00:00"
+      }
+    ],
+    "http://www.wikidata.org/prop/direct/P58": [
+      {
+        "@id": "http://www.wikidata.org/entity/Q4766717"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q65920875",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Ken Sallows"
+      }
+    ]
+  }
+]

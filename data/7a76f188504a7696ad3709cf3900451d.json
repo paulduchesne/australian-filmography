@@ -1,0 +1,655 @@
+[
+  {
+    "@id": "http://www.wikidata.org/entity/Q105825",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "William Hurt"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q214813",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Amália Rodrigues"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q920963",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Graeme Revell"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q69705",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Rüdiger Vogler"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q464857",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Michael Winters"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q130232",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "drama film"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q1354460",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Erika Rabau"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q336640",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "David Byrne"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q932204",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Allen Garfield"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q11355110",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Kuniko Miyake"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q3047356",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Eddy Mitchell"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q1226838",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Diogo Dória"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q214309",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Sam Neill"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q541368",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Michael Almereyda"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q471839",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "science fiction film"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q106099",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Jeanne Moreau"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q274599",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Carmen Chaplin"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q1083730",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Christine Oesterlein"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q2963378",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Chick Ortega"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q384784",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Robby Müller"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q174526",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "cyberpunk"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q313254",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Peter Carey"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q5683731",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Paul Livingston"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q3029200",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Miwako Fujitani"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q22006653",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "color"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q230681",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Jean Seberg"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q55411",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Wim Wenders"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q571053",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Until the End of the World"
+      }
+    ],
+    "http://www.wikidata.org/prop/direct/P1040": [
+      {
+        "@id": "http://www.wikidata.org/entity/Q91260"
+      }
+    ],
+    "http://www.wikidata.org/prop/direct/P136": [
+      {
+        "@id": "http://www.wikidata.org/entity/Q130232"
+      },
+      {
+        "@id": "http://www.wikidata.org/entity/Q174526"
+      },
+      {
+        "@id": "http://www.wikidata.org/entity/Q471839"
+      },
+      {
+        "@id": "http://www.wikidata.org/entity/Q1341051"
+      }
+    ],
+    "http://www.wikidata.org/prop/direct/P161": [
+      {
+        "@id": "http://www.wikidata.org/entity/Q3029200"
+      },
+      {
+        "@id": "http://www.wikidata.org/entity/Q932204"
+      },
+      {
+        "@id": "http://www.wikidata.org/entity/Q238327"
+      },
+      {
+        "@id": "http://www.wikidata.org/entity/Q3034272"
+      },
+      {
+        "@id": "http://www.wikidata.org/entity/Q731111"
+      },
+      {
+        "@id": "http://www.wikidata.org/entity/Q4865129"
+      },
+      {
+        "@id": "http://www.wikidata.org/entity/Q1354460"
+      },
+      {
+        "@id": "http://www.wikidata.org/entity/Q1154179"
+      },
+      {
+        "@id": "http://www.wikidata.org/entity/Q4382473"
+      },
+      {
+        "@id": "http://www.wikidata.org/entity/Q4682002"
+      },
+      {
+        "@id": "http://www.wikidata.org/entity/Q965584"
+      },
+      {
+        "@id": "http://www.wikidata.org/entity/Q464857"
+      },
+      {
+        "@id": "http://www.wikidata.org/entity/Q4723095"
+      },
+      {
+        "@id": "http://www.wikidata.org/entity/Q2252671"
+      },
+      {
+        "@id": "http://www.wikidata.org/entity/Q3057304"
+      },
+      {
+        "@id": "http://www.wikidata.org/entity/Q274599"
+      },
+      {
+        "@id": "http://www.wikidata.org/entity/Q11355110"
+      },
+      {
+        "@id": "http://www.wikidata.org/entity/Q2963378"
+      },
+      {
+        "@id": "http://www.wikidata.org/entity/Q6451591"
+      },
+      {
+        "@id": "http://www.wikidata.org/entity/Q3494784"
+      },
+      {
+        "@id": "http://www.wikidata.org/entity/Q958714"
+      },
+      {
+        "@id": "http://www.wikidata.org/entity/Q4714178"
+      },
+      {
+        "@id": "http://www.wikidata.org/entity/Q3047356"
+      },
+      {
+        "@id": "http://www.wikidata.org/entity/Q5683731"
+      },
+      {
+        "@id": "http://www.wikidata.org/entity/Q1226838"
+      },
+      {
+        "@id": "http://www.wikidata.org/entity/Q1083730"
+      },
+      {
+        "@id": "http://www.wikidata.org/entity/Q106099"
+      },
+      {
+        "@id": "http://www.wikidata.org/entity/Q436978"
+      },
+      {
+        "@id": "http://www.wikidata.org/entity/Q32439"
+      },
+      {
+        "@id": "http://www.wikidata.org/entity/Q214813"
+      },
+      {
+        "@id": "http://www.wikidata.org/entity/Q91260"
+      },
+      {
+        "@id": "http://www.wikidata.org/entity/Q336640"
+      },
+      {
+        "@id": "http://www.wikidata.org/entity/Q69705"
+      },
+      {
+        "@id": "http://www.wikidata.org/entity/Q105825"
+      },
+      {
+        "@id": "http://www.wikidata.org/entity/Q214309"
+      },
+      {
+        "@id": "http://www.wikidata.org/entity/Q230681"
+      },
+      {
+        "@id": "http://www.wikidata.org/entity/Q184805"
+      },
+      {
+        "@id": "http://www.wikidata.org/entity/Q203215"
+      }
+    ],
+    "http://www.wikidata.org/prop/direct/P162": [
+      {
+        "@id": "http://www.wikidata.org/entity/Q259593"
+      }
+    ],
+    "http://www.wikidata.org/prop/direct/P31": [
+      {
+        "@id": "http://www.wikidata.org/entity/Q11424"
+      }
+    ],
+    "http://www.wikidata.org/prop/direct/P3156": [
+      {
+        "@id": "http://www.wikidata.org/entity/Q26708076"
+      }
+    ],
+    "http://www.wikidata.org/prop/direct/P344": [
+      {
+        "@id": "http://www.wikidata.org/entity/Q384784"
+      }
+    ],
+    "http://www.wikidata.org/prop/direct/P462": [
+      {
+        "@id": "http://www.wikidata.org/entity/Q22006653"
+      }
+    ],
+    "http://www.wikidata.org/prop/direct/P57": [
+      {
+        "@id": "http://www.wikidata.org/entity/Q55411"
+      }
+    ],
+    "http://www.wikidata.org/prop/direct/P577": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "1991-01-01T00:00:00+00:00"
+      },
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "1991-09-12T00:00:00+00:00"
+      }
+    ],
+    "http://www.wikidata.org/prop/direct/P58": [
+      {
+        "@id": "http://www.wikidata.org/entity/Q55411"
+      },
+      {
+        "@id": "http://www.wikidata.org/entity/Q436978"
+      },
+      {
+        "@id": "http://www.wikidata.org/entity/Q313254"
+      },
+      {
+        "@id": "http://www.wikidata.org/entity/Q541368"
+      }
+    ],
+    "http://www.wikidata.org/prop/direct/P86": [
+      {
+        "@id": "http://www.wikidata.org/entity/Q920963"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q3034272",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Dolores Chaplin"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q32439",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Stéphane Audran"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q1341051",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "post-apocalyptic film"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q4714178",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Alec Jason"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q1154179",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Naoto Takenaka"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q91260",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Peter Przygodda"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q26708076",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "PG"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q4723095",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Alfred Lynch"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q6451591",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Kylie Belling"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q4682002",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Adelle Lutz"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q731111",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "David Gulpilil"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q4382473",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Yelena Prudnikova"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q3494784",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Jimmy Little"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q958714",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Chishū Ryū"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q203215",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Max von Sydow"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q4865129",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Bart Willoughby"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q184805",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Tom Waits"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q2252671",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Justine Saunders"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q436978",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Solveig Dommartin"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q3057304",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Ernie Dingo"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q965584",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Maurice Ronet"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q259593",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Paulo Branco"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q238327",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Lois Chiles"
+      }
+    ]
+  }
+]

@@ -1,0 +1,258 @@
+[
+  {
+    "@id": "http://www.wikidata.org/entity/Q163286",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Hugh Grant"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q214309",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Sam Neill"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q272174",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Tara Fitzgerald"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q23020159",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Sue Milliken"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q261314",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Rachel Portman"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q358804",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "John Duigan"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q164131",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "John Polson"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q816565",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Ben Mendelsohn"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q5941371",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Humphrey Dixon"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q215366",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Portia de Rossi"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q26708078",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "MA 15+"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q224097",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Elle Macpherson"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q22006653",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "color"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q3309259",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Kate Fischer"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q130232",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "drama film"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q1542458",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Sirens"
+      }
+    ],
+    "http://www.wikidata.org/prop/direct/P1040": [
+      {
+        "@id": "http://www.wikidata.org/entity/Q5941371"
+      }
+    ],
+    "http://www.wikidata.org/prop/direct/P136": [
+      {
+        "@id": "http://www.wikidata.org/entity/Q130232"
+      },
+      {
+        "@id": "http://www.wikidata.org/entity/Q859369"
+      },
+      {
+        "@id": "http://www.wikidata.org/entity/Q157443"
+      }
+    ],
+    "http://www.wikidata.org/prop/direct/P161": [
+      {
+        "@id": "http://www.wikidata.org/entity/Q358804"
+      },
+      {
+        "@id": "http://www.wikidata.org/entity/Q215366"
+      },
+      {
+        "@id": "http://www.wikidata.org/entity/Q3309259"
+      },
+      {
+        "@id": "http://www.wikidata.org/entity/Q163286"
+      },
+      {
+        "@id": "http://www.wikidata.org/entity/Q224097"
+      },
+      {
+        "@id": "http://www.wikidata.org/entity/Q816565"
+      },
+      {
+        "@id": "http://www.wikidata.org/entity/Q164131"
+      },
+      {
+        "@id": "http://www.wikidata.org/entity/Q272174"
+      },
+      {
+        "@id": "http://www.wikidata.org/entity/Q214309"
+      }
+    ],
+    "http://www.wikidata.org/prop/direct/P162": [
+      {
+        "@id": "http://www.wikidata.org/entity/Q23020159"
+      }
+    ],
+    "http://www.wikidata.org/prop/direct/P31": [
+      {
+        "@id": "http://www.wikidata.org/entity/Q11424"
+      }
+    ],
+    "http://www.wikidata.org/prop/direct/P3156": [
+      {
+        "@id": "http://www.wikidata.org/entity/Q26708078"
+      }
+    ],
+    "http://www.wikidata.org/prop/direct/P462": [
+      {
+        "@id": "http://www.wikidata.org/entity/Q22006653"
+      }
+    ],
+    "http://www.wikidata.org/prop/direct/P57": [
+      {
+        "@id": "http://www.wikidata.org/entity/Q358804"
+      }
+    ],
+    "http://www.wikidata.org/prop/direct/P577": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "1994-01-01T00:00:00+00:00"
+      },
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "1994-04-28T00:00:00+00:00"
+      },
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "1994-09-15T00:00:00+00:00"
+      }
+    ],
+    "http://www.wikidata.org/prop/direct/P58": [
+      {
+        "@id": "http://www.wikidata.org/entity/Q358804"
+      }
+    ],
+    "http://www.wikidata.org/prop/direct/P86": [
+      {
+        "@id": "http://www.wikidata.org/entity/Q261314"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q157443",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "comedy film"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q859369",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "comedy drama"
+      }
+    ]
+  }
+]

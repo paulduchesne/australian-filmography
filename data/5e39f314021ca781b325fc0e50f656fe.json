@@ -1,0 +1,170 @@
+[
+  {
+    "@id": "http://www.wikidata.org/entity/Q1067324",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "exploitation film"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q112501747",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Martin McGrath"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q2905586",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Blackrock"
+      }
+    ],
+    "http://www.wikidata.org/prop/direct/P136": [
+      {
+        "@id": "http://www.wikidata.org/entity/Q1067324"
+      },
+      {
+        "@id": "http://www.wikidata.org/entity/Q1146335"
+      }
+    ],
+    "http://www.wikidata.org/prop/direct/P161": [
+      {
+        "@id": "http://www.wikidata.org/entity/Q40572"
+      },
+      {
+        "@id": "http://www.wikidata.org/entity/Q457905"
+      },
+      {
+        "@id": "http://www.wikidata.org/entity/Q6551505"
+      }
+    ],
+    "http://www.wikidata.org/prop/direct/P162": [
+      {
+        "@id": "http://www.wikidata.org/entity/Q5233328"
+      }
+    ],
+    "http://www.wikidata.org/prop/direct/P31": [
+      {
+        "@id": "http://www.wikidata.org/entity/Q11424"
+      }
+    ],
+    "http://www.wikidata.org/prop/direct/P344": [
+      {
+        "@id": "http://www.wikidata.org/entity/Q112501747"
+      }
+    ],
+    "http://www.wikidata.org/prop/direct/P462": [
+      {
+        "@id": "http://www.wikidata.org/entity/Q22006653"
+      }
+    ],
+    "http://www.wikidata.org/prop/direct/P57": [
+      {
+        "@id": "http://www.wikidata.org/entity/Q7615350"
+      }
+    ],
+    "http://www.wikidata.org/prop/direct/P577": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "1997-01-01T00:00:00+00:00"
+      }
+    ],
+    "http://www.wikidata.org/prop/direct/P58": [
+      {
+        "@id": "http://www.wikidata.org/entity/Q3339739"
+      }
+    ],
+    "http://www.wikidata.org/prop/direct/P86": [
+      {
+        "@id": "http://www.wikidata.org/entity/Q205834"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q457905",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Bojana Novaković"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q40572",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Heath Ledger"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q3339739",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Nick Enright"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q5233328",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "David Elfick"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q1146335",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "teen film"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q6551505",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Linda Cropper"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q7615350",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Steven Vidler"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q205834",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Steve Kilbey"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q22006653",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "color"
+      }
+    ]
+  }
+]

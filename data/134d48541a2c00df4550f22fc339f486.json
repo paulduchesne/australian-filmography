@@ -1,0 +1,306 @@
+[
+  {
+    "@id": "http://www.wikidata.org/entity/Q1945226",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Don Henderson"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q471839",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "science fiction film"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q269895",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Gale Anne Hurd"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q721195",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Kevin J. O'Connor"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q1421228",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "No Escape"
+      }
+    ],
+    "http://www.wikidata.org/prop/direct/P1040": [
+      {
+        "@id": "http://www.wikidata.org/entity/Q541143"
+      }
+    ],
+    "http://www.wikidata.org/prop/direct/P136": [
+      {
+        "@id": "http://www.wikidata.org/entity/Q471839"
+      },
+      {
+        "@id": "http://www.wikidata.org/entity/Q586250"
+      },
+      {
+        "@id": "http://www.wikidata.org/entity/Q188473"
+      }
+    ],
+    "http://www.wikidata.org/prop/direct/P161": [
+      {
+        "@id": "http://www.wikidata.org/entity/Q1655608"
+      },
+      {
+        "@id": "http://www.wikidata.org/entity/Q517405"
+      },
+      {
+        "@id": "http://www.wikidata.org/entity/Q1032023"
+      },
+      {
+        "@id": "http://www.wikidata.org/entity/Q296328"
+      },
+      {
+        "@id": "http://www.wikidata.org/entity/Q1945226"
+      },
+      {
+        "@id": "http://www.wikidata.org/entity/Q721195"
+      },
+      {
+        "@id": "http://www.wikidata.org/entity/Q5230834"
+      },
+      {
+        "@id": "http://www.wikidata.org/entity/Q471018"
+      },
+      {
+        "@id": "http://www.wikidata.org/entity/Q527303"
+      },
+      {
+        "@id": "http://www.wikidata.org/entity/Q211280"
+      },
+      {
+        "@id": "http://www.wikidata.org/entity/Q312077"
+      },
+      {
+        "@id": "http://www.wikidata.org/entity/Q1949101"
+      }
+    ],
+    "http://www.wikidata.org/prop/direct/P162": [
+      {
+        "@id": "http://www.wikidata.org/entity/Q269895"
+      },
+      {
+        "@id": "http://www.wikidata.org/entity/Q373861"
+      }
+    ],
+    "http://www.wikidata.org/prop/direct/P31": [
+      {
+        "@id": "http://www.wikidata.org/entity/Q11424"
+      }
+    ],
+    "http://www.wikidata.org/prop/direct/P344": [
+      {
+        "@id": "http://www.wikidata.org/entity/Q718742"
+      }
+    ],
+    "http://www.wikidata.org/prop/direct/P462": [
+      {
+        "@id": "http://www.wikidata.org/entity/Q22006653"
+      }
+    ],
+    "http://www.wikidata.org/prop/direct/P57": [
+      {
+        "@id": "http://www.wikidata.org/entity/Q282033"
+      }
+    ],
+    "http://www.wikidata.org/prop/direct/P577": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "1994-07-14T00:00:00+00:00"
+      },
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "1994-01-01T00:00:00+00:00"
+      }
+    ],
+    "http://www.wikidata.org/prop/direct/P86": [
+      {
+        "@id": "http://www.wikidata.org/entity/Q920963"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q1949101",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Jack Shepherd"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q920963",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Graeme Revell"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q188473",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "action film"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q1032023",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Stuart Wilson"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q296328",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "David Wenham"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q312077",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Lance Henriksen"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q373861",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Jake Eberts"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q541143",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Terry Rawlings"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q471018",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Ernie Hudson"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q1655608",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Ian McNeice"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q5230834",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "David Argue"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q527303",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Michael Lerner"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q282033",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Martin Campbell"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q718742",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Phil Méheux"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q517405",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Kevin Dillon"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q211280",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Ray Liotta"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q586250",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "prison film"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q22006653",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "color"
+      }
+    ]
+  }
+]

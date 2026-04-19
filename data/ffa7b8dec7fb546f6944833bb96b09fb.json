@@ -1,0 +1,192 @@
+[
+  {
+    "@id": "http://www.wikidata.org/entity/Q229291",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Toni Collette"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q164131",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "John Polson"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q6247327",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "John Maynard"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q959790",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "crime film"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q1531070",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "The Necks"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q7343062",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Robert Connolly"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q296328",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "David Wenham"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q4772688",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Anthony Hayes"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q22006653",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "color"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q130232",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "drama film"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q7610503",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Stephen Sewell"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q6708816",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Lynette Curran"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q7719728",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "The Boys"
+      }
+    ],
+    "http://www.wikidata.org/prop/direct/P136": [
+      {
+        "@id": "http://www.wikidata.org/entity/Q959790"
+      },
+      {
+        "@id": "http://www.wikidata.org/entity/Q130232"
+      }
+    ],
+    "http://www.wikidata.org/prop/direct/P161": [
+      {
+        "@id": "http://www.wikidata.org/entity/Q296328"
+      },
+      {
+        "@id": "http://www.wikidata.org/entity/Q229291"
+      },
+      {
+        "@id": "http://www.wikidata.org/entity/Q6708816"
+      },
+      {
+        "@id": "http://www.wikidata.org/entity/Q4772688"
+      },
+      {
+        "@id": "http://www.wikidata.org/entity/Q164131"
+      }
+    ],
+    "http://www.wikidata.org/prop/direct/P162": [
+      {
+        "@id": "http://www.wikidata.org/entity/Q7343062"
+      },
+      {
+        "@id": "http://www.wikidata.org/entity/Q6247327"
+      }
+    ],
+    "http://www.wikidata.org/prop/direct/P31": [
+      {
+        "@id": "http://www.wikidata.org/entity/Q11424"
+      }
+    ],
+    "http://www.wikidata.org/prop/direct/P462": [
+      {
+        "@id": "http://www.wikidata.org/entity/Q22006653"
+      }
+    ],
+    "http://www.wikidata.org/prop/direct/P57": [
+      {
+        "@id": "http://www.wikidata.org/entity/Q3129929"
+      }
+    ],
+    "http://www.wikidata.org/prop/direct/P577": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "1998-01-01T00:00:00+00:00"
+      }
+    ],
+    "http://www.wikidata.org/prop/direct/P58": [
+      {
+        "@id": "http://www.wikidata.org/entity/Q7610503"
+      }
+    ],
+    "http://www.wikidata.org/prop/direct/P86": [
+      {
+        "@id": "http://www.wikidata.org/entity/Q1531070"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q3129929",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Rowan Woods"
+      }
+    ]
+  }
+]

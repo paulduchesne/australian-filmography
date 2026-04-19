@@ -1,0 +1,224 @@
+[
+  {
+    "@id": "http://www.wikidata.org/entity/Q608299",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Gyton Grantley"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q2986009",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Beneath Hill 60"
+      }
+    ],
+    "http://www.wikidata.org/prop/direct/P1040": [
+      {
+        "@id": "http://www.wikidata.org/entity/Q16728382"
+      }
+    ],
+    "http://www.wikidata.org/prop/direct/P136": [
+      {
+        "@id": "http://www.wikidata.org/entity/Q130232"
+      },
+      {
+        "@id": "http://www.wikidata.org/entity/Q369747"
+      }
+    ],
+    "http://www.wikidata.org/prop/direct/P161": [
+      {
+        "@id": "http://www.wikidata.org/entity/Q7613125"
+      },
+      {
+        "@id": "http://www.wikidata.org/entity/Q4772688"
+      },
+      {
+        "@id": "http://www.wikidata.org/entity/Q608299"
+      },
+      {
+        "@id": "http://www.wikidata.org/entity/Q892605"
+      },
+      {
+        "@id": "http://www.wikidata.org/entity/Q454149"
+      },
+      {
+        "@id": "http://www.wikidata.org/entity/Q4682184"
+      },
+      {
+        "@id": "http://www.wikidata.org/entity/Q45743"
+      },
+      {
+        "@id": "http://www.wikidata.org/entity/Q15222785"
+      },
+      {
+        "@id": "http://www.wikidata.org/entity/Q253358"
+      },
+      {
+        "@id": "http://www.wikidata.org/entity/Q16663136"
+      },
+      {
+        "@id": "http://www.wikidata.org/entity/Q4960851"
+      }
+    ],
+    "http://www.wikidata.org/prop/direct/P31": [
+      {
+        "@id": "http://www.wikidata.org/entity/Q11424"
+      }
+    ],
+    "http://www.wikidata.org/prop/direct/P57": [
+      {
+        "@id": "http://www.wikidata.org/entity/Q6181881"
+      }
+    ],
+    "http://www.wikidata.org/prop/direct/P577": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "2010-01-01T00:00:00+00:00"
+      }
+    ],
+    "http://www.wikidata.org/prop/direct/P86": [
+      {
+        "@id": "http://www.wikidata.org/entity/Q1058054"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q7613125",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Steve Le Marquand"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q892605",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Alex Thomson"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q4960851",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Brendan Cowell"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q454149",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Alan Dukes"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q15222785",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Harrison Sloan Gilbertson"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q369747",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "war film"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q1058054",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Cezary Skubiszewski"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q4772688",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Anthony Hayes"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q16663136",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Mark Coles Smith"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q45743",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Bella Heathcote"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q130232",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "drama film"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q4682184",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Aden Young"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q16728382",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Dany Cooper"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q253358",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Jacqueline McKenzie"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q6181881",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Jeremy Sims"
+      }
+    ]
+  }
+]

@@ -1,0 +1,170 @@
+[
+  {
+    "@id": "http://www.wikidata.org/entity/Q3505686",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Susie Porter"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q131520007",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Jane Moran"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q7407909",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Sam Merwin, Jr."
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q842256",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "musical film"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q82085",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Sam Worthington"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q349488",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Adam Garcia"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q1058054",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Cezary Skubiszewski"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q5252449",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Dein Perry"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q22006653",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "color"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q959879",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Sophie Lee"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q2634003",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Bootmen"
+      }
+    ],
+    "http://www.wikidata.org/prop/direct/P1040": [
+      {
+        "@id": "http://www.wikidata.org/entity/Q131520007"
+      }
+    ],
+    "http://www.wikidata.org/prop/direct/P136": [
+      {
+        "@id": "http://www.wikidata.org/entity/Q842256"
+      },
+      {
+        "@id": "http://www.wikidata.org/entity/Q859369"
+      }
+    ],
+    "http://www.wikidata.org/prop/direct/P161": [
+      {
+        "@id": "http://www.wikidata.org/entity/Q349488"
+      },
+      {
+        "@id": "http://www.wikidata.org/entity/Q3505686"
+      },
+      {
+        "@id": "http://www.wikidata.org/entity/Q7407909"
+      },
+      {
+        "@id": "http://www.wikidata.org/entity/Q82085"
+      },
+      {
+        "@id": "http://www.wikidata.org/entity/Q959879"
+      }
+    ],
+    "http://www.wikidata.org/prop/direct/P31": [
+      {
+        "@id": "http://www.wikidata.org/entity/Q11424"
+      }
+    ],
+    "http://www.wikidata.org/prop/direct/P462": [
+      {
+        "@id": "http://www.wikidata.org/entity/Q22006653"
+      }
+    ],
+    "http://www.wikidata.org/prop/direct/P57": [
+      {
+        "@id": "http://www.wikidata.org/entity/Q5252449"
+      }
+    ],
+    "http://www.wikidata.org/prop/direct/P577": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "2000-01-01T00:00:00+00:00"
+      },
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "2001-07-12T00:00:00+00:00"
+      }
+    ],
+    "http://www.wikidata.org/prop/direct/P86": [
+      {
+        "@id": "http://www.wikidata.org/entity/Q1058054"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q859369",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "comedy drama"
+      }
+    ]
+  }
+]

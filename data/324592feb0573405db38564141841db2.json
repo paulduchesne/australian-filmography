@@ -1,0 +1,142 @@
+[
+  {
+    "@id": "http://www.wikidata.org/entity/Q3195711",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Kevin Harrington"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q2059818",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Paul Goldman"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q166565",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Mick Harvey"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q1339864",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "sport film"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q4990110",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Mandy Walker"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q6701865",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Luke Carroll"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q6048404",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Nathan Phillips"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q139417958",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Mark Lazarus"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q6557977",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Lisa Flanagan"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q4824629",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Australian Rules"
+      }
+    ],
+    "http://www.wikidata.org/prop/direct/P136": [
+      {
+        "@id": "http://www.wikidata.org/entity/Q1339864"
+      }
+    ],
+    "http://www.wikidata.org/prop/direct/P161": [
+      {
+        "@id": "http://www.wikidata.org/entity/Q6701865"
+      },
+      {
+        "@id": "http://www.wikidata.org/entity/Q6048404"
+      },
+      {
+        "@id": "http://www.wikidata.org/entity/Q3195711"
+      },
+      {
+        "@id": "http://www.wikidata.org/entity/Q6557977"
+      }
+    ],
+    "http://www.wikidata.org/prop/direct/P162": [
+      {
+        "@id": "http://www.wikidata.org/entity/Q139417958"
+      }
+    ],
+    "http://www.wikidata.org/prop/direct/P31": [
+      {
+        "@id": "http://www.wikidata.org/entity/Q11424"
+      }
+    ],
+    "http://www.wikidata.org/prop/direct/P344": [
+      {
+        "@id": "http://www.wikidata.org/entity/Q4990110"
+      }
+    ],
+    "http://www.wikidata.org/prop/direct/P57": [
+      {
+        "@id": "http://www.wikidata.org/entity/Q2059818"
+      }
+    ],
+    "http://www.wikidata.org/prop/direct/P577": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "2002-01-01T00:00:00+00:00"
+      }
+    ],
+    "http://www.wikidata.org/prop/direct/P86": [
+      {
+        "@id": "http://www.wikidata.org/entity/Q166565"
+      }
+    ]
+  }
+]

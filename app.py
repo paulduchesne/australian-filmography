@@ -187,7 +187,6 @@ def entity_page(entity):
         'info':[]
     }
 
-
     crew_array = list()
     for x in ['cast']:
         crew_array.append({'attribute':x, 'data': df[[x, f'{x}Label']].rename(columns={x:'link',f'{x}Label':'label'}).drop_duplicates().to_dict('records')})

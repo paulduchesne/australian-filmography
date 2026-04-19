@@ -1,0 +1,224 @@
+[
+  {
+    "@id": "http://www.wikidata.org/entity/Q4706252",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Alan Brough"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q6838341",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Mick Molloy"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q5228860",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Dave Graney"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q914432",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Marshall Napier"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q862208",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Bill Hunter"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q4932463",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Bob Franklin"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q6303539",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Judith Lucy"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q3776714",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Shaun Micallef"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q4962403",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Brett Swain"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q7615350",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Steven Vidler"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q1939403",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Bad Eggs"
+      }
+    ],
+    "http://www.wikidata.org/prop/direct/P136": [
+      {
+        "@id": "http://www.wikidata.org/entity/Q157443"
+      }
+    ],
+    "http://www.wikidata.org/prop/direct/P161": [
+      {
+        "@id": "http://www.wikidata.org/entity/Q7615350"
+      },
+      {
+        "@id": "http://www.wikidata.org/entity/Q6838341"
+      },
+      {
+        "@id": "http://www.wikidata.org/entity/Q4706252"
+      },
+      {
+        "@id": "http://www.wikidata.org/entity/Q4932463"
+      },
+      {
+        "@id": "http://www.wikidata.org/entity/Q3776714"
+      },
+      {
+        "@id": "http://www.wikidata.org/entity/Q4962403"
+      },
+      {
+        "@id": "http://www.wikidata.org/entity/Q7025047"
+      },
+      {
+        "@id": "http://www.wikidata.org/entity/Q7353620"
+      },
+      {
+        "@id": "http://www.wikidata.org/entity/Q862208"
+      },
+      {
+        "@id": "http://www.wikidata.org/entity/Q7172263"
+      },
+      {
+        "@id": "http://www.wikidata.org/entity/Q914432"
+      },
+      {
+        "@id": "http://www.wikidata.org/entity/Q6303539"
+      }
+    ],
+    "http://www.wikidata.org/prop/direct/P31": [
+      {
+        "@id": "http://www.wikidata.org/entity/Q11424"
+      }
+    ],
+    "http://www.wikidata.org/prop/direct/P462": [
+      {
+        "@id": "http://www.wikidata.org/entity/Q22006653"
+      }
+    ],
+    "http://www.wikidata.org/prop/direct/P57": [
+      {
+        "@id": "http://www.wikidata.org/entity/Q7822887"
+      }
+    ],
+    "http://www.wikidata.org/prop/direct/P577": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "2003-01-01T00:00:00+00:00"
+      }
+    ],
+    "http://www.wikidata.org/prop/direct/P86": [
+      {
+        "@id": "http://www.wikidata.org/entity/Q5228860"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q22006653",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "color"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q7172263",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Pete Smith"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q7025047",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Nicholas Bell"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q7353620",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Robyn Nevin"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q7822887",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Tony Martin"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q157443",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "comedy film"
+      }
+    ]
+  }
+]

@@ -1,0 +1,221 @@
+[
+  {
+    "@id": "http://www.wikidata.org/entity/Q1644578",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Alex Dimitriades"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q4857425",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Bao Quach"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q5398504",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Esme Melville"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q5394518",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "William McInnes"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q26708077",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "M"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q271926",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Claudia Karvan"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q7739216",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "The Heartbreak Kid"
+      }
+    ],
+    "http://www.wikidata.org/prop/direct/P136": [
+      {
+        "@id": "http://www.wikidata.org/entity/Q860626"
+      }
+    ],
+    "http://www.wikidata.org/prop/direct/P161": [
+      {
+        "@id": "http://www.wikidata.org/entity/Q5394518"
+      },
+      {
+        "@id": "http://www.wikidata.org/entity/Q4857425"
+      },
+      {
+        "@id": "http://www.wikidata.org/entity/Q2796668"
+      },
+      {
+        "@id": "http://www.wikidata.org/entity/Q6134233"
+      },
+      {
+        "@id": "http://www.wikidata.org/entity/Q7028802"
+      },
+      {
+        "@id": "http://www.wikidata.org/entity/Q1644578"
+      },
+      {
+        "@id": "http://www.wikidata.org/entity/Q5398504"
+      },
+      {
+        "@id": "http://www.wikidata.org/entity/Q271926"
+      },
+      {
+        "@id": "http://www.wikidata.org/entity/Q981039"
+      }
+    ],
+    "http://www.wikidata.org/prop/direct/P162": [
+      {
+        "@id": "http://www.wikidata.org/entity/Q4885699"
+      }
+    ],
+    "http://www.wikidata.org/prop/direct/P31": [
+      {
+        "@id": "http://www.wikidata.org/entity/Q11424"
+      }
+    ],
+    "http://www.wikidata.org/prop/direct/P3156": [
+      {
+        "@id": "http://www.wikidata.org/entity/Q26708077"
+      }
+    ],
+    "http://www.wikidata.org/prop/direct/P462": [
+      {
+        "@id": "http://www.wikidata.org/entity/Q22006653"
+      }
+    ],
+    "http://www.wikidata.org/prop/direct/P57": [
+      {
+        "@id": "http://www.wikidata.org/entity/Q16107356"
+      }
+    ],
+    "http://www.wikidata.org/prop/direct/P577": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "1993-01-01T00:00:00+00:00"
+      }
+    ],
+    "http://www.wikidata.org/prop/direct/P58": [
+      {
+        "@id": "http://www.wikidata.org/entity/Q16107356"
+      }
+    ],
+    "http://www.wikidata.org/prop/direct/P86": [
+      {
+        "@id": "http://www.wikidata.org/entity/Q54612794"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q981039",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Louis Mandylor"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q54612794",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "John Clifford White"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q22006653",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "color"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q2796668",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Scott Major"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q6134233",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Steve Bastoni"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q16107356",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Michael Jenkins"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q7028802",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Nico Lathouris"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q4885699",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Ben Gannon"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q860626",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "romantic comedy"
+      }
+    ]
+  }
+]

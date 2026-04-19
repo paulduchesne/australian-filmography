@@ -1,0 +1,266 @@
+[
+  {
+    "@id": "http://www.wikidata.org/entity/Q720724",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Babe"
+      }
+    ],
+    "http://www.wikidata.org/prop/direct/P1040": [
+      {
+        "@id": "http://www.wikidata.org/entity/Q6758117"
+      }
+    ],
+    "http://www.wikidata.org/prop/direct/P136": [
+      {
+        "@id": "http://www.wikidata.org/entity/Q130232"
+      },
+      {
+        "@id": "http://www.wikidata.org/entity/Q157443"
+      }
+    ],
+    "http://www.wikidata.org/prop/direct/P161": [
+      {
+        "@id": "http://www.wikidata.org/entity/Q1320792"
+      },
+      {
+        "@id": "http://www.wikidata.org/entity/Q235599"
+      },
+      {
+        "@id": "http://www.wikidata.org/entity/Q3391203"
+      },
+      {
+        "@id": "http://www.wikidata.org/entity/Q542810"
+      },
+      {
+        "@id": "http://www.wikidata.org/entity/Q299483"
+      },
+      {
+        "@id": "http://www.wikidata.org/entity/Q24680582"
+      },
+      {
+        "@id": "http://www.wikidata.org/entity/Q2628916"
+      },
+      {
+        "@id": "http://www.wikidata.org/entity/Q2482522"
+      },
+      {
+        "@id": "http://www.wikidata.org/entity/Q914432"
+      }
+    ],
+    "http://www.wikidata.org/prop/direct/P162": [
+      {
+        "@id": "http://www.wikidata.org/entity/Q4910185"
+      },
+      {
+        "@id": "http://www.wikidata.org/entity/Q446960"
+      }
+    ],
+    "http://www.wikidata.org/prop/direct/P31": [
+      {
+        "@id": "http://www.wikidata.org/entity/Q11424"
+      }
+    ],
+    "http://www.wikidata.org/prop/direct/P344": [
+      {
+        "@id": "http://www.wikidata.org/entity/Q505940"
+      }
+    ],
+    "http://www.wikidata.org/prop/direct/P462": [
+      {
+        "@id": "http://www.wikidata.org/entity/Q22006653"
+      }
+    ],
+    "http://www.wikidata.org/prop/direct/P57": [
+      {
+        "@id": "http://www.wikidata.org/entity/Q185846"
+      }
+    ],
+    "http://www.wikidata.org/prop/direct/P577": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "1995-12-07T00:00:00+00:00"
+      },
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "1995-01-01T00:00:00+00:00"
+      }
+    ],
+    "http://www.wikidata.org/prop/direct/P58": [
+      {
+        "@id": "http://www.wikidata.org/entity/Q185846"
+      },
+      {
+        "@id": "http://www.wikidata.org/entity/Q446960"
+      }
+    ],
+    "http://www.wikidata.org/prop/direct/P86": [
+      {
+        "@id": "http://www.wikidata.org/entity/Q16192988"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q4910185",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Bill Miller"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q130232",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "drama film"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q157443",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "comedy film"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q299483",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "James Cromwell"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q2628916",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Tina Lifford"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q446960",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "George Miller"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q2482522",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Magda Szubanski"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q24680582",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Rosanna Huffman"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q505940",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Andrew Lesnie"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q3391203",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Paul Goddard"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q16192988",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Nigel Westlake"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q542810",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Patrika Darbo"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q1320792",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Ross Bagley"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q914432",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Marshall Napier"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q22006653",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "color"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q235599",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Brittany Byrnes"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q185846",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Chris Noonan"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q6758117",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Marcus D'Arcy"
+      }
+    ]
+  }
+]

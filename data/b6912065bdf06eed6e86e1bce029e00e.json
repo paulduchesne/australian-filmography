@@ -1,0 +1,155 @@
+[
+  {
+    "@id": "http://www.wikidata.org/entity/Q200092",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "horror film"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q5767410",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Christian Clark"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q630863",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Chris Egan"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q5372897",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Emma Lung"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q5190184",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Crush"
+      }
+    ],
+    "http://www.wikidata.org/prop/direct/P136": [
+      {
+        "@id": "http://www.wikidata.org/entity/Q200092"
+      },
+      {
+        "@id": "http://www.wikidata.org/entity/Q599558"
+      },
+      {
+        "@id": "http://www.wikidata.org/entity/Q31888058"
+      },
+      {
+        "@id": "http://www.wikidata.org/entity/Q2439025"
+      }
+    ],
+    "http://www.wikidata.org/prop/direct/P161": [
+      {
+        "@id": "http://www.wikidata.org/entity/Q5372897"
+      },
+      {
+        "@id": "http://www.wikidata.org/entity/Q5767410"
+      },
+      {
+        "@id": "http://www.wikidata.org/entity/Q630863"
+      },
+      {
+        "@id": "http://www.wikidata.org/entity/Q2747213"
+      }
+    ],
+    "http://www.wikidata.org/prop/direct/P31": [
+      {
+        "@id": "http://www.wikidata.org/entity/Q11424"
+      }
+    ],
+    "http://www.wikidata.org/prop/direct/P57": [
+      {
+        "@id": "http://www.wikidata.org/entity/Q6261681"
+      }
+    ],
+    "http://www.wikidata.org/prop/direct/P577": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "2009-01-01T00:00:00+00:00"
+      }
+    ],
+    "http://www.wikidata.org/prop/direct/P58": [
+      {
+        "@id": "http://www.wikidata.org/entity/Q6261681"
+      }
+    ],
+    "http://www.wikidata.org/prop/direct/P86": [
+      {
+        "@id": "http://www.wikidata.org/entity/Q1061316"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q599558",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "erotic film"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q2747213",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Brooke Harman"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q2439025",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "erotic thriller"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q6261681",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "John V. Soto"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q31888058",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "ghost film"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q1061316",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Jamie Blanks"
+      }
+    ]
+  }
+]

@@ -1,0 +1,288 @@
+[
+  {
+    "@id": "http://www.wikidata.org/entity/Q3127834",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Harry Hill"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q26708077",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "M"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q816565",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Ben Mendelsohn"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q32424",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Map of the Human Heart"
+      }
+    ],
+    "http://www.wikidata.org/prop/direct/P1040": [
+      {
+        "@id": "http://www.wikidata.org/entity/Q1701697"
+      }
+    ],
+    "http://www.wikidata.org/prop/direct/P136": [
+      {
+        "@id": "http://www.wikidata.org/entity/Q130232"
+      }
+    ],
+    "http://www.wikidata.org/prop/direct/P161": [
+      {
+        "@id": "http://www.wikidata.org/entity/Q335226"
+      },
+      {
+        "@id": "http://www.wikidata.org/entity/Q816565"
+      },
+      {
+        "@id": "http://www.wikidata.org/entity/Q106099"
+      },
+      {
+        "@id": "http://www.wikidata.org/entity/Q3023197"
+      },
+      {
+        "@id": "http://www.wikidata.org/entity/Q3320929"
+      },
+      {
+        "@id": "http://www.wikidata.org/entity/Q705780"
+      },
+      {
+        "@id": "http://www.wikidata.org/entity/Q3177502"
+      },
+      {
+        "@id": "http://www.wikidata.org/entity/Q565692"
+      },
+      {
+        "@id": "http://www.wikidata.org/entity/Q106175"
+      },
+      {
+        "@id": "http://www.wikidata.org/entity/Q531183"
+      },
+      {
+        "@id": "http://www.wikidata.org/entity/Q443516"
+      },
+      {
+        "@id": "http://www.wikidata.org/entity/Q3127834"
+      }
+    ],
+    "http://www.wikidata.org/prop/direct/P162": [
+      {
+        "@id": "http://www.wikidata.org/entity/Q1473065"
+      },
+      {
+        "@id": "http://www.wikidata.org/entity/Q726024"
+      }
+    ],
+    "http://www.wikidata.org/prop/direct/P31": [
+      {
+        "@id": "http://www.wikidata.org/entity/Q11424"
+      }
+    ],
+    "http://www.wikidata.org/prop/direct/P3156": [
+      {
+        "@id": "http://www.wikidata.org/entity/Q26708077"
+      }
+    ],
+    "http://www.wikidata.org/prop/direct/P344": [
+      {
+        "@id": "http://www.wikidata.org/entity/Q707484"
+      }
+    ],
+    "http://www.wikidata.org/prop/direct/P462": [
+      {
+        "@id": "http://www.wikidata.org/entity/Q22006653"
+      }
+    ],
+    "http://www.wikidata.org/prop/direct/P57": [
+      {
+        "@id": "http://www.wikidata.org/entity/Q726024"
+      }
+    ],
+    "http://www.wikidata.org/prop/direct/P577": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "1992-01-01T00:00:00+00:00"
+      }
+    ],
+    "http://www.wikidata.org/prop/direct/P58": [
+      {
+        "@id": "http://www.wikidata.org/entity/Q726024"
+      }
+    ],
+    "http://www.wikidata.org/prop/direct/P86": [
+      {
+        "@id": "http://www.wikidata.org/entity/Q502957"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q531183",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Matt Holland"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q335226",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Jason Scott Lee"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q1701697",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "John Scott"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q565692",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Anne Parillaud"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q3177502",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Jerry Snell"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q443516",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Clotilde Courau"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q707484",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Eduardo Serra"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q705780",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Patrick Bergin"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q130232",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "drama film"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q1473065",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Tim Bevan"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q3320929",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Monique Spaziani"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q726024",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Vincent Ward"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q502957",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Gabriel Yared"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q106099",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Jeanne Moreau"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q3023197",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Dennis St John"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q22006653",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "color"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q106175",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "John Cusack"
+      }
+    ]
+  }
+]

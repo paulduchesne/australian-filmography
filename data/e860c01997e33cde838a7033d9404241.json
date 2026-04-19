@@ -1,0 +1,267 @@
+[
+  {
+    "@id": "http://www.wikidata.org/entity/Q26436586",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Mark Bradshaw"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q20745693",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "The Daughter"
+      }
+    ],
+    "http://www.wikidata.org/prop/direct/P1040": [
+      {
+        "@id": "http://www.wikidata.org/entity/Q6486430"
+      }
+    ],
+    "http://www.wikidata.org/prop/direct/P136": [
+      {
+        "@id": "http://www.wikidata.org/entity/Q130232"
+      }
+    ],
+    "http://www.wikidata.org/prop/direct/P161": [
+      {
+        "@id": "http://www.wikidata.org/entity/Q5418987"
+      },
+      {
+        "@id": "http://www.wikidata.org/entity/Q214309"
+      },
+      {
+        "@id": "http://www.wikidata.org/entity/Q1375823"
+      },
+      {
+        "@id": "http://www.wikidata.org/entity/Q166272"
+      },
+      {
+        "@id": "http://www.wikidata.org/entity/Q11991305"
+      },
+      {
+        "@id": "http://www.wikidata.org/entity/Q294975"
+      },
+      {
+        "@id": "http://www.wikidata.org/entity/Q25999316"
+      },
+      {
+        "@id": "http://www.wikidata.org/entity/Q65718360"
+      },
+      {
+        "@id": "http://www.wikidata.org/entity/Q223445"
+      }
+    ],
+    "http://www.wikidata.org/prop/direct/P162": [
+      {
+        "@id": "http://www.wikidata.org/entity/Q3161628"
+      }
+    ],
+    "http://www.wikidata.org/prop/direct/P31": [
+      {
+        "@id": "http://www.wikidata.org/entity/Q11424"
+      }
+    ],
+    "http://www.wikidata.org/prop/direct/P344": [
+      {
+        "@id": "http://www.wikidata.org/entity/Q85505690"
+      }
+    ],
+    "http://www.wikidata.org/prop/direct/P462": [
+      {
+        "@id": "http://www.wikidata.org/entity/Q22006653"
+      }
+    ],
+    "http://www.wikidata.org/prop/direct/P57": [
+      {
+        "@id": "http://www.wikidata.org/entity/Q7519836"
+      }
+    ],
+    "http://www.wikidata.org/prop/direct/P577": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "2015-06-04T00:00:00+00:00"
+      },
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "2015-09-11T00:00:00+00:00"
+      },
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "2016-01-29T00:00:00+00:00"
+      },
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "2016-03-17T00:00:00+00:00"
+      },
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "2016-03-18T00:00:00+00:00"
+      },
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "2016-04-21T00:00:00+00:00"
+      },
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "2016-05-05T00:00:00+00:00"
+      },
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "2016-05-20T00:00:00+00:00"
+      },
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "2016-10-27T00:00:00+00:00"
+      }
+    ],
+    "http://www.wikidata.org/prop/direct/P58": [
+      {
+        "@id": "http://www.wikidata.org/entity/Q7519836"
+      }
+    ],
+    "http://www.wikidata.org/prop/direct/P86": [
+      {
+        "@id": "http://www.wikidata.org/entity/Q26436586"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q214309",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Sam Neill"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q3161628",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Jan Chapman"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q294975",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Miranda Otto"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q1375823",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Paul Schneider"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q166272",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Geoffrey Rush"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q7519836",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Simon Stone"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q5418987",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Ewen Leslie"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q85505690",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Andrew Commis"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q223445",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Anna Torv"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q25999316",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Odessa Young"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q65718360",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Kate Box"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q130232",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "drama film"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q22006653",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "color"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q11991305",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Nicholas Hope"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q6486430",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Veronika Jenet"
+      }
+    ]
+  }
+]

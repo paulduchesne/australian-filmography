@@ -1,0 +1,136 @@
+[
+  {
+    "@id": "http://www.wikidata.org/entity/Q927052",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Erik Thomson"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q2893302",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Beautiful"
+      }
+    ],
+    "http://www.wikidata.org/prop/direct/P136": [
+      {
+        "@id": "http://www.wikidata.org/entity/Q130232"
+      }
+    ],
+    "http://www.wikidata.org/prop/direct/P161": [
+      {
+        "@id": "http://www.wikidata.org/entity/Q745086"
+      },
+      {
+        "@id": "http://www.wikidata.org/entity/Q6122787"
+      },
+      {
+        "@id": "http://www.wikidata.org/entity/Q927052"
+      },
+      {
+        "@id": "http://www.wikidata.org/entity/Q4804842"
+      },
+      {
+        "@id": "http://www.wikidata.org/entity/Q254075"
+      },
+      {
+        "@id": "http://www.wikidata.org/entity/Q302175"
+      },
+      {
+        "@id": "http://www.wikidata.org/entity/Q447694"
+      }
+    ],
+    "http://www.wikidata.org/prop/direct/P31": [
+      {
+        "@id": "http://www.wikidata.org/entity/Q11424"
+      }
+    ],
+    "http://www.wikidata.org/prop/direct/P57": [
+      {
+        "@id": "http://www.wikidata.org/entity/Q114774897"
+      }
+    ],
+    "http://www.wikidata.org/prop/direct/P577": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "2009-02-08T00:00:00+00:00"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q302175",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Aaron Jeffery"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q114774897",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Dean O'Flaherty"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q447694",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Deborra-Lee Furness"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q4804842",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Asher Keddie"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q254075",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Tahyna Tozzi"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q130232",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "drama film"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q745086",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Peta Wilson"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q6122787",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Sebastian Gregory"
+      }
+    ]
+  }
+]

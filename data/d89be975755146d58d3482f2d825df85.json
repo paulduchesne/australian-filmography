@@ -1,0 +1,432 @@
+[
+  {
+    "@id": "http://www.wikidata.org/entity/Q465204",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Cariba Heine"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q471839",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "science fiction film"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q130232",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "drama film"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q2484376",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "thriller film"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q4685264",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Adrian Pang"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q436829",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Russell Mulcahy"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q5212436",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Damien Garvey"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q970746",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Bait 3D"
+      }
+    ],
+    "http://www.wikidata.org/prop/direct/P1040": [
+      {
+        "@id": "http://www.wikidata.org/entity/Q21290622"
+      }
+    ],
+    "http://www.wikidata.org/prop/direct/P136": [
+      {
+        "@id": "http://www.wikidata.org/entity/Q200092"
+      },
+      {
+        "@id": "http://www.wikidata.org/entity/Q319221"
+      },
+      {
+        "@id": "http://www.wikidata.org/entity/Q188473"
+      },
+      {
+        "@id": "http://www.wikidata.org/entity/Q130232"
+      },
+      {
+        "@id": "http://www.wikidata.org/entity/Q10663882"
+      },
+      {
+        "@id": "http://www.wikidata.org/entity/Q471839"
+      },
+      {
+        "@id": "http://www.wikidata.org/entity/Q846544"
+      },
+      {
+        "@id": "http://www.wikidata.org/entity/Q2484376"
+      }
+    ],
+    "http://www.wikidata.org/prop/direct/P161": [
+      {
+        "@id": "http://www.wikidata.org/entity/Q2833025"
+      },
+      {
+        "@id": "http://www.wikidata.org/entity/Q4345375"
+      },
+      {
+        "@id": "http://www.wikidata.org/entity/Q350732"
+      },
+      {
+        "@id": "http://www.wikidata.org/entity/Q271065"
+      },
+      {
+        "@id": "http://www.wikidata.org/entity/Q286745"
+      },
+      {
+        "@id": "http://www.wikidata.org/entity/Q5212436"
+      },
+      {
+        "@id": "http://www.wikidata.org/entity/Q465204"
+      },
+      {
+        "@id": "http://www.wikidata.org/entity/Q185723"
+      },
+      {
+        "@id": "http://www.wikidata.org/entity/Q4223"
+      },
+      {
+        "@id": "http://www.wikidata.org/entity/Q6087806"
+      },
+      {
+        "@id": "http://www.wikidata.org/entity/Q1394456"
+      },
+      {
+        "@id": "http://www.wikidata.org/entity/Q2113573"
+      },
+      {
+        "@id": "http://www.wikidata.org/entity/Q4685264"
+      },
+      {
+        "@id": "http://www.wikidata.org/entity/Q3306578"
+      },
+      {
+        "@id": "http://www.wikidata.org/entity/Q5219133"
+      }
+    ],
+    "http://www.wikidata.org/prop/direct/P162": [
+      {
+        "@id": "http://www.wikidata.org/entity/Q21290522"
+      }
+    ],
+    "http://www.wikidata.org/prop/direct/P31": [
+      {
+        "@id": "http://www.wikidata.org/entity/Q11424"
+      }
+    ],
+    "http://www.wikidata.org/prop/direct/P344": [
+      {
+        "@id": "http://www.wikidata.org/entity/Q21280742"
+      }
+    ],
+    "http://www.wikidata.org/prop/direct/P462": [
+      {
+        "@id": "http://www.wikidata.org/entity/Q22006653"
+      }
+    ],
+    "http://www.wikidata.org/prop/direct/P57": [
+      {
+        "@id": "http://www.wikidata.org/entity/Q6410007"
+      }
+    ],
+    "http://www.wikidata.org/prop/direct/P577": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "2012-09-01T00:00:00+00:00"
+      },
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "2012-09-09T00:00:00+00:00"
+      },
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "2012-09-20T00:00:00+00:00"
+      },
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "2012-10-25T00:00:00+00:00"
+      },
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "2012-11-07T00:00:00+00:00"
+      },
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "2013-04-11T00:00:00+00:00"
+      }
+    ],
+    "http://www.wikidata.org/prop/direct/P58": [
+      {
+        "@id": "http://www.wikidata.org/entity/Q436829"
+      }
+    ],
+    "http://www.wikidata.org/prop/direct/P86": [
+      {
+        "@id": "http://www.wikidata.org/entity/Q21290544"
+      },
+      {
+        "@id": "http://www.wikidata.org/entity/Q21290606"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q4223",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Julian McMahon"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q188473",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "action film"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q286745",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Dustin Milligan"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q6410007",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Kimble Rendall"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q10663882",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "science fiction horror film"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q350732",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Xavier Samuel"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q4345375",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Alice Parkinson"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q3306578",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Qi Yuwu"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q271065",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Sharni Vinson"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q846544",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "disaster film"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q21290544",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Joe Ng"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q21290606",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Alex Oh"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q21280742",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Ross Emery"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q5219133",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Daniel Wyllie"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q21290622",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Rodrigo Balart"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q2113573",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Richard Brancatisano"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q200092",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "horror film"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q6087806",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Martin Sacks"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q185723",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Phoebe Tonkin"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q1394456",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Lincoln Lewis"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q2833025",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Alex Russell"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q319221",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "adventure film"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q22006653",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "color"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q21290522",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Gary Hamilton"
+      }
+    ]
+  }
+]

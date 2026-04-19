@@ -1,0 +1,194 @@
+[
+  {
+    "@id": "http://www.wikidata.org/entity/Q978522",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Cut"
+      }
+    ],
+    "http://www.wikidata.org/prop/direct/P136": [
+      {
+        "@id": "http://www.wikidata.org/entity/Q909586"
+      },
+      {
+        "@id": "http://www.wikidata.org/entity/Q853630"
+      },
+      {
+        "@id": "http://www.wikidata.org/entity/Q157443"
+      },
+      {
+        "@id": "http://www.wikidata.org/entity/Q224700"
+      }
+    ],
+    "http://www.wikidata.org/prop/direct/P161": [
+      {
+        "@id": "http://www.wikidata.org/entity/Q231460"
+      },
+      {
+        "@id": "http://www.wikidata.org/entity/Q7809218"
+      },
+      {
+        "@id": "http://www.wikidata.org/entity/Q11998"
+      }
+    ],
+    "http://www.wikidata.org/prop/direct/P162": [
+      {
+        "@id": "http://www.wikidata.org/entity/Q4908103"
+      }
+    ],
+    "http://www.wikidata.org/prop/direct/P31": [
+      {
+        "@id": "http://www.wikidata.org/entity/Q11424"
+      }
+    ],
+    "http://www.wikidata.org/prop/direct/P344": [
+      {
+        "@id": "http://www.wikidata.org/entity/Q5233747"
+      }
+    ],
+    "http://www.wikidata.org/prop/direct/P462": [
+      {
+        "@id": "http://www.wikidata.org/entity/Q22006653"
+      }
+    ],
+    "http://www.wikidata.org/prop/direct/P57": [
+      {
+        "@id": "http://www.wikidata.org/entity/Q6410007"
+      }
+    ],
+    "http://www.wikidata.org/prop/direct/P577": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "2000-01-01T00:00:00+00:00"
+      }
+    ],
+    "http://www.wikidata.org/prop/direct/P58": [
+      {
+        "@id": "http://www.wikidata.org/entity/Q5230070"
+      }
+    ],
+    "http://www.wikidata.org/prop/direct/P86": [
+      {
+        "@id": "http://www.wikidata.org/entity/Q1408996"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q5230070",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Dave Warner"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q4908103",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Bill Bennett"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q6410007",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Kimble Rendall"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q5233747",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "David Foreman"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q224700",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "comedy horror"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q22006653",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "color"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q1408996",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Guy Gross"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q157443",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "comedy film"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q11998",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Kylie Minogue"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q231460",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Molly Ringwald"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q909586",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "splatter film"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q7809218",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Tiriel Mora"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q853630",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "slasher film"
+      }
+    ]
+  }
+]

@@ -1,0 +1,396 @@
+[
+  {
+    "@id": "http://www.wikidata.org/entity/Q1086790",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Christopher Kirby"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q471839",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "science fiction film"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q2966583",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Christopher Gordon"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q1128499",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Daybreakers"
+      }
+    ],
+    "http://www.wikidata.org/prop/direct/P1040": [
+      {
+        "@id": "http://www.wikidata.org/entity/Q19662954"
+      }
+    ],
+    "http://www.wikidata.org/prop/direct/P136": [
+      {
+        "@id": "http://www.wikidata.org/entity/Q188473"
+      },
+      {
+        "@id": "http://www.wikidata.org/entity/Q200092"
+      },
+      {
+        "@id": "http://www.wikidata.org/entity/Q20443008"
+      },
+      {
+        "@id": "http://www.wikidata.org/entity/Q2137852"
+      },
+      {
+        "@id": "http://www.wikidata.org/entity/Q471839"
+      },
+      {
+        "@id": "http://www.wikidata.org/entity/Q319221"
+      }
+    ],
+    "http://www.wikidata.org/prop/direct/P161": [
+      {
+        "@id": "http://www.wikidata.org/entity/Q3324210"
+      },
+      {
+        "@id": "http://www.wikidata.org/entity/Q6111369"
+      },
+      {
+        "@id": "http://www.wikidata.org/entity/Q5212436"
+      },
+      {
+        "@id": "http://www.wikidata.org/entity/Q1175017"
+      },
+      {
+        "@id": "http://www.wikidata.org/entity/Q229416"
+      },
+      {
+        "@id": "http://www.wikidata.org/entity/Q14572976"
+      },
+      {
+        "@id": "http://www.wikidata.org/entity/Q7312374"
+      },
+      {
+        "@id": "http://www.wikidata.org/entity/Q6936033"
+      },
+      {
+        "@id": "http://www.wikidata.org/entity/Q484615"
+      },
+      {
+        "@id": "http://www.wikidata.org/entity/Q214309"
+      },
+      {
+        "@id": "http://www.wikidata.org/entity/Q7931468"
+      },
+      {
+        "@id": "http://www.wikidata.org/entity/Q271926"
+      },
+      {
+        "@id": "http://www.wikidata.org/entity/Q17306176"
+      },
+      {
+        "@id": "http://www.wikidata.org/entity/Q188772"
+      },
+      {
+        "@id": "http://www.wikidata.org/entity/Q3308158"
+      },
+      {
+        "@id": "http://www.wikidata.org/entity/Q1771416"
+      },
+      {
+        "@id": "http://www.wikidata.org/entity/Q1086790"
+      }
+    ],
+    "http://www.wikidata.org/prop/direct/P2061": [
+      {
+        "@id": "http://www.wikidata.org/entity/Q21062414"
+      }
+    ],
+    "http://www.wikidata.org/prop/direct/P31": [
+      {
+        "@id": "http://www.wikidata.org/entity/Q11424"
+      }
+    ],
+    "http://www.wikidata.org/prop/direct/P462": [
+      {
+        "@id": "http://www.wikidata.org/entity/Q22006653"
+      }
+    ],
+    "http://www.wikidata.org/prop/direct/P57": [
+      {
+        "@id": "http://www.wikidata.org/entity/Q23836181"
+      },
+      {
+        "@id": "http://www.wikidata.org/entity/Q23836180"
+      }
+    ],
+    "http://www.wikidata.org/prop/direct/P577": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "2009-09-11T00:00:00+00:00"
+      },
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "2010-04-01T00:00:00+00:00"
+      }
+    ],
+    "http://www.wikidata.org/prop/direct/P58": [
+      {
+        "@id": "http://www.wikidata.org/entity/Q23836180"
+      },
+      {
+        "@id": "http://www.wikidata.org/entity/Q23836181"
+      }
+    ],
+    "http://www.wikidata.org/prop/direct/P86": [
+      {
+        "@id": "http://www.wikidata.org/entity/Q2966583"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q21062414",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "2.35:1"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q5212436",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Damien Garvey"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q23836181",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Peter Spierig"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q3308158",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Michael Dorman"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q214309",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Sam Neill"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q188473",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "action film"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q23836180",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Michael Spierig"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q188772",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Willem Dafoe"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q19662954",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Matt Villa"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q271926",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Claudia Karvan"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q6111369",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Jack Bradford"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q3324210",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Jay Laga'aia"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q20443008",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "dystopian film"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q1175017",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "David Knijnenburg"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q7931468",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Vince Colosimo"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q17306176",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Tiffany Lamb"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q200092",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "horror film"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q14572976",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Paul Sonkkila"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q1771416",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Robyn Moore"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q6936033",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Mungo McKay"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q7312374",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Renai Caruso"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q2137852",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "vampire film"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q229416",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Isabel Lucas"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q484615",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Ethan Hawke"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q319221",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "adventure film"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q22006653",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "color"
+      }
+    ]
+  }
+]

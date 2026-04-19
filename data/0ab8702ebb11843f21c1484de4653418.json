@@ -1,0 +1,102 @@
+[
+  {
+    "@id": "http://www.wikidata.org/entity/Q7407733",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Sam Kekovich"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q4685052",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Adrian Gleeson"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q18637425",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Richard Gray"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q1339864",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "sport film"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q5568672",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Glenn Archer"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q3350643",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Oliver Ackland"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q4926690",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Blinder"
+      }
+    ],
+    "http://www.wikidata.org/prop/direct/P136": [
+      {
+        "@id": "http://www.wikidata.org/entity/Q1339864"
+      }
+    ],
+    "http://www.wikidata.org/prop/direct/P161": [
+      {
+        "@id": "http://www.wikidata.org/entity/Q3350643"
+      }
+    ],
+    "http://www.wikidata.org/prop/direct/P162": [
+      {
+        "@id": "http://www.wikidata.org/entity/Q5568672"
+      },
+      {
+        "@id": "http://www.wikidata.org/entity/Q7407733"
+      },
+      {
+        "@id": "http://www.wikidata.org/entity/Q4685052"
+      }
+    ],
+    "http://www.wikidata.org/prop/direct/P31": [
+      {
+        "@id": "http://www.wikidata.org/entity/Q11424"
+      }
+    ],
+    "http://www.wikidata.org/prop/direct/P57": [
+      {
+        "@id": "http://www.wikidata.org/entity/Q18637425"
+      }
+    ],
+    "http://www.wikidata.org/prop/direct/P577": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "2013-01-01T00:00:00+00:00"
+      }
+    ]
+  }
+]

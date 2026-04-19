@@ -1,0 +1,388 @@
+[
+  {
+    "@id": "http://www.wikidata.org/entity/Q3018539",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "David Ngoombujarra"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q1351191",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Richard Flanagan"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q142501",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Ray Barrett"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q21062414",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "2.35:1"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q706668",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Ronald Harwood"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q130232",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "drama film"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q356383",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Jack Thompson"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q1054574",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "romance film"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q898204",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Brandon Walters"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q363659",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Bryan Brown"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q37459",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Nicole Kidman"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q2719725",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Stuart Beattie"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q1676929",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Jacek Koman"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q296328",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "David Wenham"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q250545",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Baz Luhrmann"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q704314",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Bruce Spence"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q592869",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "John Jarratt"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q809080",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Barry Otto"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q816565",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Ben Mendelsohn"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q862208",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Bill Hunter"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q275180",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Australia"
+      }
+    ],
+    "http://www.wikidata.org/prop/direct/P1040": [
+      {
+        "@id": "http://www.wikidata.org/entity/Q511083"
+      }
+    ],
+    "http://www.wikidata.org/prop/direct/P136": [
+      {
+        "@id": "http://www.wikidata.org/entity/Q130232"
+      },
+      {
+        "@id": "http://www.wikidata.org/entity/Q1054574"
+      },
+      {
+        "@id": "http://www.wikidata.org/entity/Q369747"
+      }
+    ],
+    "http://www.wikidata.org/prop/direct/P161": [
+      {
+        "@id": "http://www.wikidata.org/entity/Q7821843"
+      },
+      {
+        "@id": "http://www.wikidata.org/entity/Q816565"
+      },
+      {
+        "@id": "http://www.wikidata.org/entity/Q3018539"
+      },
+      {
+        "@id": "http://www.wikidata.org/entity/Q731111"
+      },
+      {
+        "@id": "http://www.wikidata.org/entity/Q1676929"
+      },
+      {
+        "@id": "http://www.wikidata.org/entity/Q862208"
+      },
+      {
+        "@id": "http://www.wikidata.org/entity/Q898204"
+      },
+      {
+        "@id": "http://www.wikidata.org/entity/Q363659"
+      },
+      {
+        "@id": "http://www.wikidata.org/entity/Q356383"
+      },
+      {
+        "@id": "http://www.wikidata.org/entity/Q809080"
+      },
+      {
+        "@id": "http://www.wikidata.org/entity/Q142501"
+      },
+      {
+        "@id": "http://www.wikidata.org/entity/Q37459"
+      },
+      {
+        "@id": "http://www.wikidata.org/entity/Q592869"
+      },
+      {
+        "@id": "http://www.wikidata.org/entity/Q704314"
+      },
+      {
+        "@id": "http://www.wikidata.org/entity/Q447717"
+      },
+      {
+        "@id": "http://www.wikidata.org/entity/Q296328"
+      }
+    ],
+    "http://www.wikidata.org/prop/direct/P162": [
+      {
+        "@id": "http://www.wikidata.org/entity/Q250545"
+      }
+    ],
+    "http://www.wikidata.org/prop/direct/P2061": [
+      {
+        "@id": "http://www.wikidata.org/entity/Q21062414"
+      }
+    ],
+    "http://www.wikidata.org/prop/direct/P31": [
+      {
+        "@id": "http://www.wikidata.org/entity/Q11424"
+      }
+    ],
+    "http://www.wikidata.org/prop/direct/P344": [
+      {
+        "@id": "http://www.wikidata.org/entity/Q4990110"
+      }
+    ],
+    "http://www.wikidata.org/prop/direct/P462": [
+      {
+        "@id": "http://www.wikidata.org/entity/Q22006653"
+      }
+    ],
+    "http://www.wikidata.org/prop/direct/P57": [
+      {
+        "@id": "http://www.wikidata.org/entity/Q250545"
+      }
+    ],
+    "http://www.wikidata.org/prop/direct/P577": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "2008-11-26T00:00:00+00:00"
+      },
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "2008-12-25T00:00:00+00:00"
+      }
+    ],
+    "http://www.wikidata.org/prop/direct/P58": [
+      {
+        "@id": "http://www.wikidata.org/entity/Q250545"
+      },
+      {
+        "@id": "http://www.wikidata.org/entity/Q706668"
+      },
+      {
+        "@id": "http://www.wikidata.org/entity/Q2719725"
+      },
+      {
+        "@id": "http://www.wikidata.org/entity/Q1351191"
+      }
+    ],
+    "http://www.wikidata.org/prop/direct/P86": [
+      {
+        "@id": "http://www.wikidata.org/entity/Q1174736"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q447717",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Essie Davis"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q7821843",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Tony Barry"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q369747",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "war film"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q4990110",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Mandy Walker"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q731111",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "David Gulpilil"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q1174736",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "David Hirschfelder"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q22006653",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "color"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q511083",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Dody Dorn"
+      }
+    ]
+  }
+]

@@ -1,0 +1,160 @@
+[
+  {
+    "@id": "http://www.wikidata.org/entity/Q105549438",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Chris Peckover"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q21554779",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Dacre Montgomery"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q343564",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Patrick Warburton"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q127738900",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "teen horror film"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q20973942",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Olivia DeJonge"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q28768860",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Better Watch Out"
+      }
+    ],
+    "http://www.wikidata.org/prop/direct/P136": [
+      {
+        "@id": "http://www.wikidata.org/entity/Q224700"
+      },
+      {
+        "@id": "http://www.wikidata.org/entity/Q28026639"
+      },
+      {
+        "@id": "http://www.wikidata.org/entity/Q127738900"
+      },
+      {
+        "@id": "http://www.wikidata.org/entity/Q157443"
+      }
+    ],
+    "http://www.wikidata.org/prop/direct/P161": [
+      {
+        "@id": "http://www.wikidata.org/entity/Q20973942"
+      },
+      {
+        "@id": "http://www.wikidata.org/entity/Q343564"
+      },
+      {
+        "@id": "http://www.wikidata.org/entity/Q21554779"
+      },
+      {
+        "@id": "http://www.wikidata.org/entity/Q18581761"
+      },
+      {
+        "@id": "http://www.wikidata.org/entity/Q229784"
+      },
+      {
+        "@id": "http://www.wikidata.org/entity/Q18391895"
+      }
+    ],
+    "http://www.wikidata.org/prop/direct/P31": [
+      {
+        "@id": "http://www.wikidata.org/entity/Q11424"
+      }
+    ],
+    "http://www.wikidata.org/prop/direct/P57": [
+      {
+        "@id": "http://www.wikidata.org/entity/Q105549438"
+      }
+    ],
+    "http://www.wikidata.org/prop/direct/P577": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "2016-01-01T00:00:00+00:00"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q18391895",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Ed Oxenbould"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q18581761",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Levi Miller"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q224700",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "comedy horror"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q157443",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "comedy film"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q28026639",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Christmas film"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q229784",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Virginia Madsen"
+      }
+    ]
+  }
+]

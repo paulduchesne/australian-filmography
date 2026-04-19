@@ -1,0 +1,184 @@
+[
+  {
+    "@id": "http://www.wikidata.org/entity/Q7347796",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Robert Morgan"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q2442472",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Tony Ayres"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q18164602",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Cut Snake"
+      }
+    ],
+    "http://www.wikidata.org/prop/direct/P136": [
+      {
+        "@id": "http://www.wikidata.org/entity/Q20442589"
+      },
+      {
+        "@id": "http://www.wikidata.org/entity/Q2484376"
+      }
+    ],
+    "http://www.wikidata.org/prop/direct/P161": [
+      {
+        "@id": "http://www.wikidata.org/entity/Q4962403"
+      },
+      {
+        "@id": "http://www.wikidata.org/entity/Q7347796"
+      },
+      {
+        "@id": "http://www.wikidata.org/entity/Q16267452"
+      },
+      {
+        "@id": "http://www.wikidata.org/entity/Q6197915"
+      },
+      {
+        "@id": "http://www.wikidata.org/entity/Q7636430"
+      },
+      {
+        "@id": "http://www.wikidata.org/entity/Q9011545"
+      },
+      {
+        "@id": "http://www.wikidata.org/entity/Q2833025"
+      }
+    ],
+    "http://www.wikidata.org/prop/direct/P31": [
+      {
+        "@id": "http://www.wikidata.org/entity/Q11424"
+      }
+    ],
+    "http://www.wikidata.org/prop/direct/P462": [
+      {
+        "@id": "http://www.wikidata.org/entity/Q22006653"
+      }
+    ],
+    "http://www.wikidata.org/prop/direct/P57": [
+      {
+        "@id": "http://www.wikidata.org/entity/Q2442472"
+      }
+    ],
+    "http://www.wikidata.org/prop/direct/P577": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "2014-08-09T00:00:00+00:00"
+      },
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "2014-09-05T00:00:00+00:00"
+      },
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "2015-10-15T00:00:00+00:00"
+      }
+    ],
+    "http://www.wikidata.org/prop/direct/P58": [
+      {
+        "@id": "http://www.wikidata.org/entity/Q128472415"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q2833025",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Alex Russell"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q128472415",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Blake Ayshford"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q4962403",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Brett Swain"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q20442589",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "LGBTQ-related film"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q22006653",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "color"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q16267452",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Kerry Walker"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q2484376",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "thriller film"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q6197915",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Jim Russell"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q7636430",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Sullivan Stapleton"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q9011545",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Jessica De Gouw"
+      }
+    ]
+  }
+]

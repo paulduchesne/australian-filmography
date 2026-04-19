@@ -1,0 +1,190 @@
+[
+  {
+    "@id": "http://www.wikidata.org/entity/Q200092",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "horror film"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q42399740",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Dani Scharf"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q1283072",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Gerard Kennedy"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q1278728",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Body Melt"
+      }
+    ],
+    "http://www.wikidata.org/prop/direct/P136": [
+      {
+        "@id": "http://www.wikidata.org/entity/Q1077883"
+      },
+      {
+        "@id": "http://www.wikidata.org/entity/Q200092"
+      }
+    ],
+    "http://www.wikidata.org/prop/direct/P161": [
+      {
+        "@id": "http://www.wikidata.org/entity/Q2128520"
+      },
+      {
+        "@id": "http://www.wikidata.org/entity/Q3236670"
+      },
+      {
+        "@id": "http://www.wikidata.org/entity/Q1283072"
+      },
+      {
+        "@id": "http://www.wikidata.org/entity/Q4756756"
+      },
+      {
+        "@id": "http://www.wikidata.org/entity/Q2924600"
+      }
+    ],
+    "http://www.wikidata.org/prop/direct/P162": [
+      {
+        "@id": "http://www.wikidata.org/entity/Q42399740"
+      }
+    ],
+    "http://www.wikidata.org/prop/direct/P31": [
+      {
+        "@id": "http://www.wikidata.org/entity/Q11424"
+      }
+    ],
+    "http://www.wikidata.org/prop/direct/P3156": [
+      {
+        "@id": "http://www.wikidata.org/entity/Q26708078"
+      }
+    ],
+    "http://www.wikidata.org/prop/direct/P344": [
+      {
+        "@id": "http://www.wikidata.org/entity/Q53414693"
+      }
+    ],
+    "http://www.wikidata.org/prop/direct/P462": [
+      {
+        "@id": "http://www.wikidata.org/entity/Q22006653"
+      }
+    ],
+    "http://www.wikidata.org/prop/direct/P57": [
+      {
+        "@id": "http://www.wikidata.org/entity/Q3378977"
+      }
+    ],
+    "http://www.wikidata.org/prop/direct/P577": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "1993-01-01T00:00:00+00:00"
+      }
+    ],
+    "http://www.wikidata.org/prop/direct/P58": [
+      {
+        "@id": "http://www.wikidata.org/entity/Q3378977"
+      }
+    ],
+    "http://www.wikidata.org/prop/direct/P86": [
+      {
+        "@id": "http://www.wikidata.org/entity/Q3378977"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q2128520",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Jillian Murray"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q1077883",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "biopunk"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q53414693",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Ray Argall"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q22006653",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "color"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q4756756",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Andrew Daddo"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q26708078",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "MA 15+"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q2924600",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Brett Climo"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q3378977",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Philip Brophy"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q3236670",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Lesley Baker"
+      }
+    ]
+  }
+]

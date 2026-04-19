@@ -1,0 +1,193 @@
+[
+  {
+    "@id": "http://www.wikidata.org/entity/Q317337",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Matthew Goode"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q16730387",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Jonathan Teplitzky"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q261531",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Kerry Fox"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q447938",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Kate Beahan"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q457905",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Bojana Novaković"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q458784",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Gia Carides"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q6774110",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Marta Dusseldorp"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q40580",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Lisa Gerrard"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q181140",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Rachel Griffiths"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q447717",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Essie Davis"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q130232",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "drama film"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q4761147",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Andy Paterson"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q3829330",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Lech Mackiewicz"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q4999868",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Burning Man"
+      }
+    ],
+    "http://www.wikidata.org/prop/direct/P136": [
+      {
+        "@id": "http://www.wikidata.org/entity/Q130232"
+      }
+    ],
+    "http://www.wikidata.org/prop/direct/P161": [
+      {
+        "@id": "http://www.wikidata.org/entity/Q317337"
+      },
+      {
+        "@id": "http://www.wikidata.org/entity/Q457905"
+      },
+      {
+        "@id": "http://www.wikidata.org/entity/Q3829330"
+      },
+      {
+        "@id": "http://www.wikidata.org/entity/Q447717"
+      },
+      {
+        "@id": "http://www.wikidata.org/entity/Q6774110"
+      },
+      {
+        "@id": "http://www.wikidata.org/entity/Q447938"
+      },
+      {
+        "@id": "http://www.wikidata.org/entity/Q181140"
+      },
+      {
+        "@id": "http://www.wikidata.org/entity/Q261531"
+      },
+      {
+        "@id": "http://www.wikidata.org/entity/Q458784"
+      }
+    ],
+    "http://www.wikidata.org/prop/direct/P162": [
+      {
+        "@id": "http://www.wikidata.org/entity/Q4761147"
+      }
+    ],
+    "http://www.wikidata.org/prop/direct/P31": [
+      {
+        "@id": "http://www.wikidata.org/entity/Q11424"
+      }
+    ],
+    "http://www.wikidata.org/prop/direct/P57": [
+      {
+        "@id": "http://www.wikidata.org/entity/Q16730387"
+      }
+    ],
+    "http://www.wikidata.org/prop/direct/P577": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "2011-01-01T00:00:00+00:00"
+      }
+    ],
+    "http://www.wikidata.org/prop/direct/P58": [
+      {
+        "@id": "http://www.wikidata.org/entity/Q16730387"
+      }
+    ],
+    "http://www.wikidata.org/prop/direct/P86": [
+      {
+        "@id": "http://www.wikidata.org/entity/Q40580"
+      }
+    ]
+  }
+]

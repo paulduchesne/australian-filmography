@@ -1,0 +1,232 @@
+[
+  {
+    "@id": "http://www.wikidata.org/entity/Q22006653",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "color"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q645928",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "biographical film"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q103876",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Peter O'Toole"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q3557356",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Victor Haïm"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q6078224",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Isabelle Eberhardt"
+      }
+    ],
+    "http://www.wikidata.org/prop/direct/P1040": [
+      {
+        "@id": "http://www.wikidata.org/entity/Q65920875"
+      }
+    ],
+    "http://www.wikidata.org/prop/direct/P136": [
+      {
+        "@id": "http://www.wikidata.org/entity/Q645928"
+      },
+      {
+        "@id": "http://www.wikidata.org/entity/Q130232"
+      }
+    ],
+    "http://www.wikidata.org/prop/direct/P161": [
+      {
+        "@id": "http://www.wikidata.org/entity/Q103876"
+      },
+      {
+        "@id": "http://www.wikidata.org/entity/Q317704"
+      },
+      {
+        "@id": "http://www.wikidata.org/entity/Q3557356"
+      },
+      {
+        "@id": "http://www.wikidata.org/entity/Q2980619"
+      },
+      {
+        "@id": "http://www.wikidata.org/entity/Q259193"
+      },
+      {
+        "@id": "http://www.wikidata.org/entity/Q2728330"
+      },
+      {
+        "@id": "http://www.wikidata.org/entity/Q2821516"
+      },
+      {
+        "@id": "http://www.wikidata.org/entity/Q18343361"
+      }
+    ],
+    "http://www.wikidata.org/prop/direct/P31": [
+      {
+        "@id": "http://www.wikidata.org/entity/Q11424"
+      }
+    ],
+    "http://www.wikidata.org/prop/direct/P462": [
+      {
+        "@id": "http://www.wikidata.org/entity/Q22006653"
+      }
+    ],
+    "http://www.wikidata.org/prop/direct/P57": [
+      {
+        "@id": "http://www.wikidata.org/entity/Q5982634"
+      }
+    ],
+    "http://www.wikidata.org/prop/direct/P577": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "1991-06-08T00:00:00+00:00"
+      },
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "1991-11-21T00:00:00+00:00"
+      },
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "1992-05-09T00:00:00+00:00"
+      },
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "1992-09-18T00:00:00+00:00"
+      },
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "1992-10-28T00:00:00+00:00"
+      }
+    ],
+    "http://www.wikidata.org/prop/direct/P58": [
+      {
+        "@id": "http://www.wikidata.org/entity/Q7610503"
+      }
+    ],
+    "http://www.wikidata.org/prop/direct/P86": [
+      {
+        "@id": "http://www.wikidata.org/entity/Q7153495"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q65920875",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Ken Sallows"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q130232",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "drama film"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q259193",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Mathilda May"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q7610503",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Stephen Sewell"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q18343361",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "René Schoenenberger"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q2980619",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Clément Harari"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q317704",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Tchéky Karyo"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q2821516",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Abel Jafri"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q7153495",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Paul Schütze"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q5982634",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Ian Pringle"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q2728330",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Françoise Brion"
+      }
+    ]
+  }
+]

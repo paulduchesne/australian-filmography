@@ -1,0 +1,319 @@
+[
+  {
+    "@id": "http://www.wikidata.org/entity/Q191132",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Harvey Keitel"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q3161628",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Jan Chapman"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q7853043",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Tungia Baker"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q105660",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Holly Hunter"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q16267452",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Kerry Walker"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q130232",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "drama film"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q26708078",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "MA 15+"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q1054574",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "romance film"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q199884",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Anna Paquin"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q272773",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Rose McIver"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q214309",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Sam Neill"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q7610191",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Stephen Papps"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q230448",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Jane Campion"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q5533077",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Genevieve Lemon"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q1374692",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Stuart Dryburgh"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q359325",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Cliff Curtis"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q924155",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Bruce Allpress"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q117315",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "The Piano"
+      }
+    ],
+    "http://www.wikidata.org/prop/direct/P1040": [
+      {
+        "@id": "http://www.wikidata.org/entity/Q6486430"
+      }
+    ],
+    "http://www.wikidata.org/prop/direct/P136": [
+      {
+        "@id": "http://www.wikidata.org/entity/Q130232"
+      },
+      {
+        "@id": "http://www.wikidata.org/entity/Q1054574"
+      }
+    ],
+    "http://www.wikidata.org/prop/direct/P161": [
+      {
+        "@id": "http://www.wikidata.org/entity/Q272773"
+      },
+      {
+        "@id": "http://www.wikidata.org/entity/Q16267452"
+      },
+      {
+        "@id": "http://www.wikidata.org/entity/Q52625901"
+      },
+      {
+        "@id": "http://www.wikidata.org/entity/Q5533077"
+      },
+      {
+        "@id": "http://www.wikidata.org/entity/Q1591204"
+      },
+      {
+        "@id": "http://www.wikidata.org/entity/Q7853043"
+      },
+      {
+        "@id": "http://www.wikidata.org/entity/Q191132"
+      },
+      {
+        "@id": "http://www.wikidata.org/entity/Q214309"
+      },
+      {
+        "@id": "http://www.wikidata.org/entity/Q199884"
+      },
+      {
+        "@id": "http://www.wikidata.org/entity/Q105660"
+      },
+      {
+        "@id": "http://www.wikidata.org/entity/Q924155"
+      },
+      {
+        "@id": "http://www.wikidata.org/entity/Q359325"
+      },
+      {
+        "@id": "http://www.wikidata.org/entity/Q7610191"
+      },
+      {
+        "@id": "http://www.wikidata.org/entity/Q1655613"
+      }
+    ],
+    "http://www.wikidata.org/prop/direct/P162": [
+      {
+        "@id": "http://www.wikidata.org/entity/Q3161628"
+      }
+    ],
+    "http://www.wikidata.org/prop/direct/P31": [
+      {
+        "@id": "http://www.wikidata.org/entity/Q11424"
+      }
+    ],
+    "http://www.wikidata.org/prop/direct/P3156": [
+      {
+        "@id": "http://www.wikidata.org/entity/Q26708078"
+      }
+    ],
+    "http://www.wikidata.org/prop/direct/P344": [
+      {
+        "@id": "http://www.wikidata.org/entity/Q1374692"
+      }
+    ],
+    "http://www.wikidata.org/prop/direct/P462": [
+      {
+        "@id": "http://www.wikidata.org/entity/Q22006653"
+      }
+    ],
+    "http://www.wikidata.org/prop/direct/P57": [
+      {
+        "@id": "http://www.wikidata.org/entity/Q230448"
+      }
+    ],
+    "http://www.wikidata.org/prop/direct/P577": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "1993-05-15T00:00:00+00:00"
+      },
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "1993-05-19T00:00:00+00:00"
+      },
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "1993-08-05T00:00:00+00:00"
+      },
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "1993-08-12T00:00:00+00:00"
+      }
+    ],
+    "http://www.wikidata.org/prop/direct/P58": [
+      {
+        "@id": "http://www.wikidata.org/entity/Q230448"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q1591204",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Pete Smith"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q52625901",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Mere Boynton"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q1655613",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Ian Mune"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q22006653",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "color"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q6486430",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Veronika Jenet"
+      }
+    ]
+  }
+]

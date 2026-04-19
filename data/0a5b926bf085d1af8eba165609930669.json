@@ -1,0 +1,320 @@
+[
+  {
+    "@id": "http://www.wikidata.org/entity/Q763772",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "August Schellenberg"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q435034",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Georges Delerue"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q187545",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Tantoo Cardinal"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q3171003",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Jean Brousseau"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q468600",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Sandrine Holt"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q5490413",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Frank Wilson"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q449220",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Bruce Beresford"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q130232",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "drama film"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q880515",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Black Robe"
+      }
+    ],
+    "http://www.wikidata.org/prop/direct/P136": [
+      {
+        "@id": "http://www.wikidata.org/entity/Q130232"
+      }
+    ],
+    "http://www.wikidata.org/prop/direct/P161": [
+      {
+        "@id": "http://www.wikidata.org/entity/Q4682184"
+      },
+      {
+        "@id": "http://www.wikidata.org/entity/Q5490413"
+      },
+      {
+        "@id": "http://www.wikidata.org/entity/Q468600"
+      },
+      {
+        "@id": "http://www.wikidata.org/entity/Q349643"
+      },
+      {
+        "@id": "http://www.wikidata.org/entity/Q6554484"
+      },
+      {
+        "@id": "http://www.wikidata.org/entity/Q3171003"
+      },
+      {
+        "@id": "http://www.wikidata.org/entity/Q22278233"
+      },
+      {
+        "@id": "http://www.wikidata.org/entity/Q187545"
+      },
+      {
+        "@id": "http://www.wikidata.org/entity/Q763772"
+      },
+      {
+        "@id": "http://www.wikidata.org/entity/Q4913409"
+      },
+      {
+        "@id": "http://www.wikidata.org/entity/Q3085888"
+      },
+      {
+        "@id": "http://www.wikidata.org/entity/Q948844"
+      },
+      {
+        "@id": "http://www.wikidata.org/entity/Q975652"
+      },
+      {
+        "@id": "http://www.wikidata.org/entity/Q2817192"
+      },
+      {
+        "@id": "http://www.wikidata.org/entity/Q1319846"
+      }
+    ],
+    "http://www.wikidata.org/prop/direct/P162": [
+      {
+        "@id": "http://www.wikidata.org/entity/Q847366"
+      }
+    ],
+    "http://www.wikidata.org/prop/direct/P31": [
+      {
+        "@id": "http://www.wikidata.org/entity/Q11424"
+      }
+    ],
+    "http://www.wikidata.org/prop/direct/P3156": [
+      {
+        "@id": "http://www.wikidata.org/entity/Q26708077"
+      }
+    ],
+    "http://www.wikidata.org/prop/direct/P344": [
+      {
+        "@id": "http://www.wikidata.org/entity/Q2076005"
+      }
+    ],
+    "http://www.wikidata.org/prop/direct/P462": [
+      {
+        "@id": "http://www.wikidata.org/entity/Q22006653"
+      }
+    ],
+    "http://www.wikidata.org/prop/direct/P57": [
+      {
+        "@id": "http://www.wikidata.org/entity/Q449220"
+      }
+    ],
+    "http://www.wikidata.org/prop/direct/P577": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "1991-01-01T00:00:00+00:00"
+      },
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "1992-05-28T00:00:00+00:00"
+      }
+    ],
+    "http://www.wikidata.org/prop/direct/P58": [
+      {
+        "@id": "http://www.wikidata.org/entity/Q912791"
+      }
+    ],
+    "http://www.wikidata.org/prop/direct/P86": [
+      {
+        "@id": "http://www.wikidata.org/entity/Q435034"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q4913409",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Billy Two Rivers"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q4682184",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Aden Young"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q22278233",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Zoe Leigh Hopkins"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q847366",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Robert Lantos"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q22006653",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "color"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q349643",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Lawrence Bayne"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q948844",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Lothaire Bluteau"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q26708077",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "M"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q912791",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Brian Moore"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q2076005",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Peter James"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q975652",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Gordon Tootoosis"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q6554484",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "LinLyn Lue"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q3085888",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "François Tassé"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q1319846",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Raoul Trujillo"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q2817192",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Claude Préfontaine"
+      }
+    ]
+  }
+]

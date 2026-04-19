@@ -1,0 +1,337 @@
+[
+  {
+    "@id": "http://www.wikidata.org/entity/Q3161628",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Jan Chapman"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q7088396",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Olly Alexander"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q740202",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Roger Ashton-Griffiths"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q1190988",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Bright Star"
+      }
+    ],
+    "http://www.wikidata.org/prop/direct/P136": [
+      {
+        "@id": "http://www.wikidata.org/entity/Q130232"
+      },
+      {
+        "@id": "http://www.wikidata.org/entity/Q645928"
+      },
+      {
+        "@id": "http://www.wikidata.org/entity/Q1054574"
+      }
+    ],
+    "http://www.wikidata.org/prop/direct/P161": [
+      {
+        "@id": "http://www.wikidata.org/entity/Q261531"
+      },
+      {
+        "@id": "http://www.wikidata.org/entity/Q6272441"
+      },
+      {
+        "@id": "http://www.wikidata.org/entity/Q312531"
+      },
+      {
+        "@id": "http://www.wikidata.org/entity/Q740202"
+      },
+      {
+        "@id": "http://www.wikidata.org/entity/Q453921"
+      },
+      {
+        "@id": "http://www.wikidata.org/entity/Q736794"
+      },
+      {
+        "@id": "http://www.wikidata.org/entity/Q598304"
+      },
+      {
+        "@id": "http://www.wikidata.org/entity/Q16239194"
+      },
+      {
+        "@id": "http://www.wikidata.org/entity/Q1375823"
+      },
+      {
+        "@id": "http://www.wikidata.org/entity/Q3476863"
+      },
+      {
+        "@id": "http://www.wikidata.org/entity/Q236097"
+      },
+      {
+        "@id": "http://www.wikidata.org/entity/Q4685338"
+      },
+      {
+        "@id": "http://www.wikidata.org/entity/Q531099"
+      },
+      {
+        "@id": "http://www.wikidata.org/entity/Q7088396"
+      },
+      {
+        "@id": "http://www.wikidata.org/entity/Q342617"
+      },
+      {
+        "@id": "http://www.wikidata.org/entity/Q3946647"
+      }
+    ],
+    "http://www.wikidata.org/prop/direct/P162": [
+      {
+        "@id": "http://www.wikidata.org/entity/Q3161628"
+      }
+    ],
+    "http://www.wikidata.org/prop/direct/P31": [
+      {
+        "@id": "http://www.wikidata.org/entity/Q11424"
+      }
+    ],
+    "http://www.wikidata.org/prop/direct/P344": [
+      {
+        "@id": "http://www.wikidata.org/entity/Q17715100"
+      }
+    ],
+    "http://www.wikidata.org/prop/direct/P462": [
+      {
+        "@id": "http://www.wikidata.org/entity/Q22006653"
+      }
+    ],
+    "http://www.wikidata.org/prop/direct/P57": [
+      {
+        "@id": "http://www.wikidata.org/entity/Q230448"
+      }
+    ],
+    "http://www.wikidata.org/prop/direct/P577": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "2009-01-01T00:00:00+00:00"
+      },
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "2009-12-24T00:00:00+00:00"
+      },
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "2010-12-23T00:00:00+00:00"
+      }
+    ],
+    "http://www.wikidata.org/prop/direct/P58": [
+      {
+        "@id": "http://www.wikidata.org/entity/Q230448"
+      }
+    ],
+    "http://www.wikidata.org/prop/direct/P86": [
+      {
+        "@id": "http://www.wikidata.org/entity/Q26436586"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q130232",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "drama film"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q1054574",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "romance film"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q26436586",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Mark Bradshaw"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q16239194",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Gerard Monaco"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q3476863",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Sebastian Armesto"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q230448",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Jane Campion"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q4685338",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Adrian Schiller"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q645928",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "biographical film"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q342617",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Ben Whishaw"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q531099",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Claudie Blakley"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q17715100",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Greig Fraser"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q736794",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Samuel Barnett"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q1375823",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Paul Schneider"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q312531",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Thomas Brodie-Sangster"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q6272441",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Jonathan Aris"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q453921",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Amanda Hale"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q236097",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Abbie Cornish"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q261531",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Kerry Fox"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q3946647",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Samuel Roukin"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q598304",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Antonia Campbell-Hughes"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q22006653",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "color"
+      }
+    ]
+  }
+]

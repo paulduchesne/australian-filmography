@@ -1,0 +1,114 @@
+[
+  {
+    "@id": "http://www.wikidata.org/entity/Q7182055",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Phil Judd"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q816565",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Ben Mendelsohn"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q532307",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Nadia Tass"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q5238384",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "David Parker"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q181140",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Rachel Griffiths"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q55441082",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Alana De Roma"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q7026742",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Nick Barker"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q4749060",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Amy"
+      }
+    ],
+    "http://www.wikidata.org/prop/direct/P161": [
+      {
+        "@id": "http://www.wikidata.org/entity/Q181140"
+      },
+      {
+        "@id": "http://www.wikidata.org/entity/Q7026742"
+      },
+      {
+        "@id": "http://www.wikidata.org/entity/Q55441082"
+      },
+      {
+        "@id": "http://www.wikidata.org/entity/Q816565"
+      }
+    ],
+    "http://www.wikidata.org/prop/direct/P162": [
+      {
+        "@id": "http://www.wikidata.org/entity/Q5238384"
+      }
+    ],
+    "http://www.wikidata.org/prop/direct/P31": [
+      {
+        "@id": "http://www.wikidata.org/entity/Q11424"
+      }
+    ],
+    "http://www.wikidata.org/prop/direct/P57": [
+      {
+        "@id": "http://www.wikidata.org/entity/Q532307"
+      }
+    ],
+    "http://www.wikidata.org/prop/direct/P577": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "1997-01-01T00:00:00+00:00"
+      }
+    ],
+    "http://www.wikidata.org/prop/direct/P86": [
+      {
+        "@id": "http://www.wikidata.org/entity/Q7182055"
+      }
+    ]
+  }
+]

@@ -1,0 +1,224 @@
+[
+  {
+    "@id": "http://www.wikidata.org/entity/Q749526",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Gary Sweet"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q438905",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Sonia Todd"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q7310672",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Rel Hunt"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q5248502",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Debra Oswald"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q4882872",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Belinda Cotterill"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q188473",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "action film"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q6181192",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Jeremy Callaghan"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q8073259",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Zoe Carides"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q80966",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Cate Blanchett"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q6181881",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Jeremy Sims"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q26708076",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "PG"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q6134233",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Steve Bastoni"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q2321734",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "police procedural"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q2388845",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Michael Carson"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q6226289",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "John Clayton"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q49907029",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Police Rescue"
+      }
+    ],
+    "http://www.wikidata.org/prop/direct/P136": [
+      {
+        "@id": "http://www.wikidata.org/entity/Q188473"
+      },
+      {
+        "@id": "http://www.wikidata.org/entity/Q2321734"
+      }
+    ],
+    "http://www.wikidata.org/prop/direct/P161": [
+      {
+        "@id": "http://www.wikidata.org/entity/Q6181192"
+      },
+      {
+        "@id": "http://www.wikidata.org/entity/Q8073259"
+      },
+      {
+        "@id": "http://www.wikidata.org/entity/Q7310672"
+      },
+      {
+        "@id": "http://www.wikidata.org/entity/Q6134233"
+      },
+      {
+        "@id": "http://www.wikidata.org/entity/Q6226289"
+      },
+      {
+        "@id": "http://www.wikidata.org/entity/Q4882872"
+      },
+      {
+        "@id": "http://www.wikidata.org/entity/Q438905"
+      },
+      {
+        "@id": "http://www.wikidata.org/entity/Q749526"
+      },
+      {
+        "@id": "http://www.wikidata.org/entity/Q6181881"
+      },
+      {
+        "@id": "http://www.wikidata.org/entity/Q80966"
+      },
+      {
+        "@id": "http://www.wikidata.org/entity/Q7681602"
+      }
+    ],
+    "http://www.wikidata.org/prop/direct/P31": [
+      {
+        "@id": "http://www.wikidata.org/entity/Q11424"
+      }
+    ],
+    "http://www.wikidata.org/prop/direct/P3156": [
+      {
+        "@id": "http://www.wikidata.org/entity/Q26708076"
+      }
+    ],
+    "http://www.wikidata.org/prop/direct/P57": [
+      {
+        "@id": "http://www.wikidata.org/entity/Q2388845"
+      }
+    ],
+    "http://www.wikidata.org/prop/direct/P577": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "1994-01-01T00:00:00+00:00"
+      }
+    ],
+    "http://www.wikidata.org/prop/direct/P58": [
+      {
+        "@id": "http://www.wikidata.org/entity/Q5248502"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q7681602",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Tammy MacIntosh"
+      }
+    ]
+  }
+]

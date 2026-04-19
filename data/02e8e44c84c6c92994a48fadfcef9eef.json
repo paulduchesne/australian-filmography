@@ -1,0 +1,191 @@
+[
+  {
+    "@id": "http://www.wikidata.org/entity/Q7330024",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Richard Wilson"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q3901473",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Philip Quast"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q7381475",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Russell Dykstra"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q15497455",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Frankie J. Holden"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q469877",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Rebecca Gibney"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q1520747",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Khan Chittenden"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q5372739",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Emma Booth"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q5091950",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Cherie Nowlan"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q1745723",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Clubland"
+      }
+    ],
+    "http://www.wikidata.org/prop/direct/P136": [
+      {
+        "@id": "http://www.wikidata.org/entity/Q157443"
+      },
+      {
+        "@id": "http://www.wikidata.org/entity/Q102429885"
+      }
+    ],
+    "http://www.wikidata.org/prop/direct/P161": [
+      {
+        "@id": "http://www.wikidata.org/entity/Q6377579"
+      },
+      {
+        "@id": "http://www.wikidata.org/entity/Q7330024"
+      },
+      {
+        "@id": "http://www.wikidata.org/entity/Q7381475"
+      },
+      {
+        "@id": "http://www.wikidata.org/entity/Q5372739"
+      },
+      {
+        "@id": "http://www.wikidata.org/entity/Q229952"
+      },
+      {
+        "@id": "http://www.wikidata.org/entity/Q469877"
+      },
+      {
+        "@id": "http://www.wikidata.org/entity/Q3901473"
+      },
+      {
+        "@id": "http://www.wikidata.org/entity/Q1520747"
+      },
+      {
+        "@id": "http://www.wikidata.org/entity/Q15497455"
+      }
+    ],
+    "http://www.wikidata.org/prop/direct/P31": [
+      {
+        "@id": "http://www.wikidata.org/entity/Q11424"
+      }
+    ],
+    "http://www.wikidata.org/prop/direct/P462": [
+      {
+        "@id": "http://www.wikidata.org/entity/Q22006653"
+      }
+    ],
+    "http://www.wikidata.org/prop/direct/P57": [
+      {
+        "@id": "http://www.wikidata.org/entity/Q5091950"
+      }
+    ],
+    "http://www.wikidata.org/prop/direct/P577": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "2007-06-28T00:00:00+00:00"
+      }
+    ],
+    "http://www.wikidata.org/prop/direct/P58": [
+      {
+        "@id": "http://www.wikidata.org/entity/Q229952"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q6377579",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Katie Wall"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q229952",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Brenda Blethyn"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q102429885",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "coming-of-age film"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q22006653",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "color"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q157443",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "comedy film"
+      }
+    ]
+  }
+]

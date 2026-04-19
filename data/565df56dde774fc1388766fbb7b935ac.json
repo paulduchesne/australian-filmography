@@ -1,0 +1,328 @@
+[
+  {
+    "@id": "http://www.wikidata.org/entity/Q2966583",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Christopher Gordon"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q132616",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Naomi Watts"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q21062414",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "2.35:1"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q130232",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "drama film"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q3379502",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Philippe Carcassonne"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q6796743",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Maya Stange"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q749526",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Gary Sweet"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q346102",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Dominique Besnehard"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q350732",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Xavier Samuel"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q2036280",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "James Frecheville"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q515274",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Christopher Hampton"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q1872918",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Luc Barnier"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q272972",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Robin Wright"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q816565",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Ben Mendelsohn"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q3233052",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Two Mothers"
+      }
+    ],
+    "http://www.wikidata.org/prop/direct/P1040": [
+      {
+        "@id": "http://www.wikidata.org/entity/Q1872918"
+      }
+    ],
+    "http://www.wikidata.org/prop/direct/P136": [
+      {
+        "@id": "http://www.wikidata.org/entity/Q130232"
+      }
+    ],
+    "http://www.wikidata.org/prop/direct/P161": [
+      {
+        "@id": "http://www.wikidata.org/entity/Q6187527"
+      },
+      {
+        "@id": "http://www.wikidata.org/entity/Q749526"
+      },
+      {
+        "@id": "http://www.wikidata.org/entity/Q816565"
+      },
+      {
+        "@id": "http://www.wikidata.org/entity/Q6796743"
+      },
+      {
+        "@id": "http://www.wikidata.org/entity/Q7563029"
+      },
+      {
+        "@id": "http://www.wikidata.org/entity/Q2036280"
+      },
+      {
+        "@id": "http://www.wikidata.org/entity/Q6108647"
+      },
+      {
+        "@id": "http://www.wikidata.org/entity/Q132616"
+      },
+      {
+        "@id": "http://www.wikidata.org/entity/Q350732"
+      },
+      {
+        "@id": "http://www.wikidata.org/entity/Q272972"
+      }
+    ],
+    "http://www.wikidata.org/prop/direct/P162": [
+      {
+        "@id": "http://www.wikidata.org/entity/Q346102"
+      },
+      {
+        "@id": "http://www.wikidata.org/entity/Q3379502"
+      },
+      {
+        "@id": "http://www.wikidata.org/entity/Q19630656"
+      },
+      {
+        "@id": "http://www.wikidata.org/entity/Q132616"
+      },
+      {
+        "@id": "http://www.wikidata.org/entity/Q15142194"
+      }
+    ],
+    "http://www.wikidata.org/prop/direct/P2061": [
+      {
+        "@id": "http://www.wikidata.org/entity/Q21062414"
+      }
+    ],
+    "http://www.wikidata.org/prop/direct/P31": [
+      {
+        "@id": "http://www.wikidata.org/entity/Q11424"
+      }
+    ],
+    "http://www.wikidata.org/prop/direct/P344": [
+      {
+        "@id": "http://www.wikidata.org/entity/Q937733"
+      }
+    ],
+    "http://www.wikidata.org/prop/direct/P462": [
+      {
+        "@id": "http://www.wikidata.org/entity/Q22006653"
+      }
+    ],
+    "http://www.wikidata.org/prop/direct/P57": [
+      {
+        "@id": "http://www.wikidata.org/entity/Q291205"
+      }
+    ],
+    "http://www.wikidata.org/prop/direct/P577": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "2013-01-18T00:00:00+00:00"
+      },
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "2013-11-28T00:00:00+00:00"
+      }
+    ],
+    "http://www.wikidata.org/prop/direct/P58": [
+      {
+        "@id": "http://www.wikidata.org/entity/Q40874"
+      },
+      {
+        "@id": "http://www.wikidata.org/entity/Q291205"
+      },
+      {
+        "@id": "http://www.wikidata.org/entity/Q515274"
+      }
+    ],
+    "http://www.wikidata.org/prop/direct/P86": [
+      {
+        "@id": "http://www.wikidata.org/entity/Q2966583"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q19630656",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Sidonie Dumas"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q15142194",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Michel Feller"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q937733",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Christophe Beaucarne"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q40874",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Doris Lessing"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q6108647",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Richard Huggett"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q7563029",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Sophie Lowe"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q6187527",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Jessica Tovey"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q22006653",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "color"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q291205",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Anne Fontaine"
+      }
+    ]
+  }
+]

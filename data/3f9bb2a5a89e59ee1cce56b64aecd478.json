@@ -1,0 +1,145 @@
+[
+  {
+    "@id": "http://www.wikidata.org/entity/Q608299",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Gyton Grantley"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q5085970",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Charlotte Gregg"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q4729104",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "All My Friends Are Leaving Brisbane"
+      }
+    ],
+    "http://www.wikidata.org/prop/direct/P136": [
+      {
+        "@id": "http://www.wikidata.org/entity/Q860626"
+      }
+    ],
+    "http://www.wikidata.org/prop/direct/P161": [
+      {
+        "@id": "http://www.wikidata.org/entity/Q608299"
+      },
+      {
+        "@id": "http://www.wikidata.org/entity/Q7422480"
+      },
+      {
+        "@id": "http://www.wikidata.org/entity/Q9071492"
+      },
+      {
+        "@id": "http://www.wikidata.org/entity/Q5085970"
+      },
+      {
+        "@id": "http://www.wikidata.org/entity/Q5120573"
+      }
+    ],
+    "http://www.wikidata.org/prop/direct/P162": [
+      {
+        "@id": "http://www.wikidata.org/entity/Q6688609"
+      }
+    ],
+    "http://www.wikidata.org/prop/direct/P31": [
+      {
+        "@id": "http://www.wikidata.org/entity/Q11424"
+      }
+    ],
+    "http://www.wikidata.org/prop/direct/P57": [
+      {
+        "@id": "http://www.wikidata.org/entity/Q6688609"
+      }
+    ],
+    "http://www.wikidata.org/prop/direct/P577": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "2007-01-01T00:00:00+00:00"
+      }
+    ],
+    "http://www.wikidata.org/prop/direct/P58": [
+      {
+        "@id": "http://www.wikidata.org/entity/Q7610740"
+      }
+    ],
+    "http://www.wikidata.org/prop/direct/P86": [
+      {
+        "@id": "http://www.wikidata.org/entity/Q5017927"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q5017927",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Caitlin Yeo"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q7422480",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Sarah Kennedy"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q6688609",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Louise Alston"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q9071492",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Ryan Johnson"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q7610740",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Stephen Vagg"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q860626",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "romantic comedy"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q5120573",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Cindy Nelson"
+      }
+    ]
+  }
+]
