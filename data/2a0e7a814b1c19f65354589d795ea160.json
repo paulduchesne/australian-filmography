@@ -1,0 +1,16 @@
+[
+  {
+    "@id": "http://www.wikidata.org/entity/Q122912812",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Fell"
+      }
+    ],
+    "http://www.wikidata.org/prop/direct/P31": [
+      {
+        "@id": "http://www.wikidata.org/entity/Q11424"
+      }
+    ]
+  }
+]

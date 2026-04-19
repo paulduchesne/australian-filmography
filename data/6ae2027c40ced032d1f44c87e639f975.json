@@ -1,0 +1,114 @@
+[
+  {
+    "@id": "http://www.wikidata.org/entity/Q1146335",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "teen film"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q7330024",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Richard Wilson"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q1339864",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "sport film"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q22115024",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Steve Pasvolsky"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q5249264",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Deck Dogz"
+      }
+    ],
+    "http://www.wikidata.org/prop/direct/P136": [
+      {
+        "@id": "http://www.wikidata.org/entity/Q102429885"
+      },
+      {
+        "@id": "http://www.wikidata.org/entity/Q1339864"
+      },
+      {
+        "@id": "http://www.wikidata.org/entity/Q1146335"
+      }
+    ],
+    "http://www.wikidata.org/prop/direct/P161": [
+      {
+        "@id": "http://www.wikidata.org/entity/Q7330024"
+      },
+      {
+        "@id": "http://www.wikidata.org/entity/Q295020"
+      }
+    ],
+    "http://www.wikidata.org/prop/direct/P31": [
+      {
+        "@id": "http://www.wikidata.org/entity/Q11424"
+      }
+    ],
+    "http://www.wikidata.org/prop/direct/P57": [
+      {
+        "@id": "http://www.wikidata.org/entity/Q22115024"
+      }
+    ],
+    "http://www.wikidata.org/prop/direct/P577": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "2005-01-06T00:00:00+00:00"
+      }
+    ],
+    "http://www.wikidata.org/prop/direct/P86": [
+      {
+        "@id": "http://www.wikidata.org/entity/Q879456"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q295020",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Tony Hawk"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q879456",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Reinhold Heil"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q102429885",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "coming-of-age film"
+      }
+    ]
+  }
+]

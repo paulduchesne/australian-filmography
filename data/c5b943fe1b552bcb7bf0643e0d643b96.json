@@ -1,0 +1,258 @@
+[
+  {
+    "@id": "http://www.wikidata.org/entity/Q22006653",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "color"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q1750712",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Scott Cooper"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q1340950",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Eriq Ebouaney"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q172261",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "John Malkovich"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q24191393",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Antony Partos"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q7154634",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Paula Arundell"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q15808023",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Emile Sherman"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q130232",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "drama film"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q524636",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Jessica Haines"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q2850555",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Anna Maria Monticelli"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q5982743",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Ian Roberts"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q5232923",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "David Dennis"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q43293",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "J. M. Coetzee"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q4864630",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Barry Quin"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q281830",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Disgrace"
+      }
+    ],
+    "http://www.wikidata.org/prop/direct/P136": [
+      {
+        "@id": "http://www.wikidata.org/entity/Q130232"
+      }
+    ],
+    "http://www.wikidata.org/prop/direct/P161": [
+      {
+        "@id": "http://www.wikidata.org/entity/Q5232923"
+      },
+      {
+        "@id": "http://www.wikidata.org/entity/Q524636"
+      },
+      {
+        "@id": "http://www.wikidata.org/entity/Q5982743"
+      },
+      {
+        "@id": "http://www.wikidata.org/entity/Q1340950"
+      },
+      {
+        "@id": "http://www.wikidata.org/entity/Q172261"
+      },
+      {
+        "@id": "http://www.wikidata.org/entity/Q7154634"
+      },
+      {
+        "@id": "http://www.wikidata.org/entity/Q16243654"
+      },
+      {
+        "@id": "http://www.wikidata.org/entity/Q1750712"
+      },
+      {
+        "@id": "http://www.wikidata.org/entity/Q4864630"
+      },
+      {
+        "@id": "http://www.wikidata.org/entity/Q4768558"
+      }
+    ],
+    "http://www.wikidata.org/prop/direct/P162": [
+      {
+        "@id": "http://www.wikidata.org/entity/Q15808023"
+      }
+    ],
+    "http://www.wikidata.org/prop/direct/P31": [
+      {
+        "@id": "http://www.wikidata.org/entity/Q11424"
+      }
+    ],
+    "http://www.wikidata.org/prop/direct/P344": [
+      {
+        "@id": "http://www.wikidata.org/entity/Q29862854"
+      }
+    ],
+    "http://www.wikidata.org/prop/direct/P462": [
+      {
+        "@id": "http://www.wikidata.org/entity/Q22006653"
+      }
+    ],
+    "http://www.wikidata.org/prop/direct/P57": [
+      {
+        "@id": "http://www.wikidata.org/entity/Q3498963"
+      }
+    ],
+    "http://www.wikidata.org/prop/direct/P577": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "2008-01-01T00:00:00+00:00"
+      },
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "2009-09-17T00:00:00+00:00"
+      }
+    ],
+    "http://www.wikidata.org/prop/direct/P58": [
+      {
+        "@id": "http://www.wikidata.org/entity/Q43293"
+      },
+      {
+        "@id": "http://www.wikidata.org/entity/Q2850555"
+      }
+    ],
+    "http://www.wikidata.org/prop/direct/P86": [
+      {
+        "@id": "http://www.wikidata.org/entity/Q24191393"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q4768558",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Anne Looby"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q3498963",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Steve Jacobs"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q29862854",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Steve Arnold"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q16243654",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Natalie Becker"
+      }
+    ]
+  }
+]

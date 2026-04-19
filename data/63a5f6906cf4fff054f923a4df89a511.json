@@ -1,0 +1,16 @@
+[
+  {
+    "@id": "http://www.wikidata.org/entity/Q108030463",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Disclosure"
+      }
+    ],
+    "http://www.wikidata.org/prop/direct/P31": [
+      {
+        "@id": "http://www.wikidata.org/entity/Q11424"
+      }
+    ]
+  }
+]

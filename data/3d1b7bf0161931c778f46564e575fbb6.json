@@ -1,0 +1,149 @@
+[
+  {
+    "@id": "http://www.wikidata.org/entity/Q6110025",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Jabba"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q5437219",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Fat Pizza"
+      }
+    ],
+    "http://www.wikidata.org/prop/direct/P136": [
+      {
+        "@id": "http://www.wikidata.org/entity/Q157443"
+      }
+    ],
+    "http://www.wikidata.org/prop/direct/P161": [
+      {
+        "@id": "http://www.wikidata.org/entity/Q519321"
+      },
+      {
+        "@id": "http://www.wikidata.org/entity/Q7150609"
+      },
+      {
+        "@id": "http://www.wikidata.org/entity/Q442897"
+      },
+      {
+        "@id": "http://www.wikidata.org/entity/Q6110025"
+      },
+      {
+        "@id": "http://www.wikidata.org/entity/Q16215446"
+      },
+      {
+        "@id": "http://www.wikidata.org/entity/Q6222734"
+      },
+      {
+        "@id": "http://www.wikidata.org/entity/Q7675494"
+      }
+    ],
+    "http://www.wikidata.org/prop/direct/P162": [
+      {
+        "@id": "http://www.wikidata.org/entity/Q6174727"
+      }
+    ],
+    "http://www.wikidata.org/prop/direct/P31": [
+      {
+        "@id": "http://www.wikidata.org/entity/Q11424"
+      }
+    ],
+    "http://www.wikidata.org/prop/direct/P57": [
+      {
+        "@id": "http://www.wikidata.org/entity/Q7150609"
+      }
+    ],
+    "http://www.wikidata.org/prop/direct/P577": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "2003-01-01T00:00:00+00:00"
+      }
+    ],
+    "http://www.wikidata.org/prop/direct/P58": [
+      {
+        "@id": "http://www.wikidata.org/entity/Q7675494"
+      },
+      {
+        "@id": "http://www.wikidata.org/entity/Q7150609"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q6222734",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "John Boxer"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q7150609",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Paul Fenech"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q16215446",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Paul Nakad"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q519321",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Michael Craig"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q7675494",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Tahir Bilgiç"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q442897",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Rebel Wilson"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q157443",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "comedy film"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q6174727",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Jeff Purser"
+      }
+    ]
+  }
+]

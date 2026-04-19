@@ -1,0 +1,116 @@
+[
+  {
+    "@id": "http://www.wikidata.org/entity/Q435577",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Clara Law"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q130232",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "drama film"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q26708078",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "MA 15+"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q4769116",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Annette Shun Wah"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q1226913",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Dion Beebe"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q574160",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Anthony Wong"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q5058001",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Celia Ireland"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q5459878",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Floating Life"
+      }
+    ],
+    "http://www.wikidata.org/prop/direct/P136": [
+      {
+        "@id": "http://www.wikidata.org/entity/Q130232"
+      }
+    ],
+    "http://www.wikidata.org/prop/direct/P161": [
+      {
+        "@id": "http://www.wikidata.org/entity/Q5058001"
+      },
+      {
+        "@id": "http://www.wikidata.org/entity/Q4769116"
+      },
+      {
+        "@id": "http://www.wikidata.org/entity/Q574160"
+      }
+    ],
+    "http://www.wikidata.org/prop/direct/P31": [
+      {
+        "@id": "http://www.wikidata.org/entity/Q11424"
+      }
+    ],
+    "http://www.wikidata.org/prop/direct/P3156": [
+      {
+        "@id": "http://www.wikidata.org/entity/Q26708078"
+      }
+    ],
+    "http://www.wikidata.org/prop/direct/P344": [
+      {
+        "@id": "http://www.wikidata.org/entity/Q1226913"
+      }
+    ],
+    "http://www.wikidata.org/prop/direct/P57": [
+      {
+        "@id": "http://www.wikidata.org/entity/Q435577"
+      }
+    ],
+    "http://www.wikidata.org/prop/direct/P577": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "1996-01-01T00:00:00+00:00"
+      }
+    ]
+  }
+]

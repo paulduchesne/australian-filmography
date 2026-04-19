@@ -1,0 +1,166 @@
+[
+  {
+    "@id": "http://www.wikidata.org/entity/Q471839",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "science fiction film"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q1177114",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "David Peoples"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q460646",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Darlanne Fluegel"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q64080421",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Leslie Rosenthal"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q2221933",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Derren Nesbitt"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q4380063",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Fatal Sky"
+      }
+    ],
+    "http://www.wikidata.org/prop/direct/P1040": [
+      {
+        "@id": "http://www.wikidata.org/entity/Q64080421"
+      }
+    ],
+    "http://www.wikidata.org/prop/direct/P136": [
+      {
+        "@id": "http://www.wikidata.org/entity/Q2484376"
+      },
+      {
+        "@id": "http://www.wikidata.org/entity/Q471839"
+      }
+    ],
+    "http://www.wikidata.org/prop/direct/P161": [
+      {
+        "@id": "http://www.wikidata.org/entity/Q329784"
+      },
+      {
+        "@id": "http://www.wikidata.org/entity/Q712670"
+      },
+      {
+        "@id": "http://www.wikidata.org/entity/Q460646"
+      },
+      {
+        "@id": "http://www.wikidata.org/entity/Q2221933"
+      },
+      {
+        "@id": "http://www.wikidata.org/entity/Q1306100"
+      }
+    ],
+    "http://www.wikidata.org/prop/direct/P162": [
+      {
+        "@id": "http://www.wikidata.org/entity/Q4777214"
+      }
+    ],
+    "http://www.wikidata.org/prop/direct/P31": [
+      {
+        "@id": "http://www.wikidata.org/entity/Q11424"
+      }
+    ],
+    "http://www.wikidata.org/prop/direct/P57": [
+      {
+        "@id": "http://www.wikidata.org/entity/Q5489550"
+      }
+    ],
+    "http://www.wikidata.org/prop/direct/P577": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "1990-01-01T00:00:00+00:00"
+      }
+    ],
+    "http://www.wikidata.org/prop/direct/P58": [
+      {
+        "@id": "http://www.wikidata.org/entity/Q1177114"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q1306100",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Maxwell Caulfield"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q5489550",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Frank Shields"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q712670",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Michael Nouri"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q329784",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Charles Durning"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q2484376",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "thriller film"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q4777214",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Antony I. Ginnane"
+      }
+    ]
+  }
+]

@@ -1,0 +1,98 @@
+[
+  {
+    "@id": "http://www.wikidata.org/entity/Q1359752",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Jason Shaw"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q7358601",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Roger Mason"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q725650",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Scott Cohen"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q7176794",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Peter Scarf"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q132636563",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Fortune"
+      }
+    ],
+    "http://www.wikidata.org/prop/direct/P161": [
+      {
+        "@id": "http://www.wikidata.org/entity/Q692979"
+      },
+      {
+        "@id": "http://www.wikidata.org/entity/Q725650"
+      },
+      {
+        "@id": "http://www.wikidata.org/entity/Q1359752"
+      }
+    ],
+    "http://www.wikidata.org/prop/direct/P162": [
+      {
+        "@id": "http://www.wikidata.org/entity/Q7176794"
+      }
+    ],
+    "http://www.wikidata.org/prop/direct/P31": [
+      {
+        "@id": "http://www.wikidata.org/entity/Q11424"
+      }
+    ],
+    "http://www.wikidata.org/prop/direct/P57": [
+      {
+        "@id": "http://www.wikidata.org/entity/Q7176794"
+      }
+    ],
+    "http://www.wikidata.org/prop/direct/P577": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "2009-01-01T00:00:00+00:00"
+      }
+    ],
+    "http://www.wikidata.org/prop/direct/P58": [
+      {
+        "@id": "http://www.wikidata.org/entity/Q7176794"
+      }
+    ],
+    "http://www.wikidata.org/prop/direct/P86": [
+      {
+        "@id": "http://www.wikidata.org/entity/Q7358601"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q692979",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Keir Dullea"
+      }
+    ]
+  }
+]

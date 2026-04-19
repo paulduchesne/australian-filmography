@@ -1,0 +1,455 @@
+[
+  {
+    "@id": "http://www.wikidata.org/entity/Q22006653",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "color"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q20442589",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "LGBTQ-related film"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q7488108",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Shane Jacobson"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q101084895",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Sue Maslin"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q3808611",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Jocelyn Moorhouse"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q201976",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Caroline Goodall"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q47658535",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Mark Leonard Winter"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q16223245",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "James Mackay"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q1240097",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Donald McAlpine"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q21062414",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "2.35:1"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q18389586",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "The Dressmaker"
+      }
+    ],
+    "http://www.wikidata.org/prop/direct/P1040": [
+      {
+        "@id": "http://www.wikidata.org/entity/Q280870"
+      }
+    ],
+    "http://www.wikidata.org/prop/direct/P136": [
+      {
+        "@id": "http://www.wikidata.org/entity/Q2642760"
+      },
+      {
+        "@id": "http://www.wikidata.org/entity/Q20442589"
+      },
+      {
+        "@id": "http://www.wikidata.org/entity/Q859369"
+      }
+    ],
+    "http://www.wikidata.org/prop/direct/P161": [
+      {
+        "@id": "http://www.wikidata.org/entity/Q6306213"
+      },
+      {
+        "@id": "http://www.wikidata.org/entity/Q28805405"
+      },
+      {
+        "@id": "http://www.wikidata.org/entity/Q7396653"
+      },
+      {
+        "@id": "http://www.wikidata.org/entity/Q809080"
+      },
+      {
+        "@id": "http://www.wikidata.org/entity/Q7704856"
+      },
+      {
+        "@id": "http://www.wikidata.org/entity/Q469877"
+      },
+      {
+        "@id": "http://www.wikidata.org/entity/Q7831748"
+      },
+      {
+        "@id": "http://www.wikidata.org/entity/Q7488108"
+      },
+      {
+        "@id": "http://www.wikidata.org/entity/Q47658535"
+      },
+      {
+        "@id": "http://www.wikidata.org/entity/Q16223245"
+      },
+      {
+        "@id": "http://www.wikidata.org/entity/Q608299"
+      },
+      {
+        "@id": "http://www.wikidata.org/entity/Q7487988"
+      },
+      {
+        "@id": "http://www.wikidata.org/entity/Q7422787"
+      },
+      {
+        "@id": "http://www.wikidata.org/entity/Q4727215"
+      },
+      {
+        "@id": "http://www.wikidata.org/entity/Q5533077"
+      },
+      {
+        "@id": "http://www.wikidata.org/entity/Q202765"
+      },
+      {
+        "@id": "http://www.wikidata.org/entity/Q307882"
+      },
+      {
+        "@id": "http://www.wikidata.org/entity/Q261531"
+      },
+      {
+        "@id": "http://www.wikidata.org/entity/Q201976"
+      },
+      {
+        "@id": "http://www.wikidata.org/entity/Q32045"
+      },
+      {
+        "@id": "http://www.wikidata.org/entity/Q42204"
+      }
+    ],
+    "http://www.wikidata.org/prop/direct/P162": [
+      {
+        "@id": "http://www.wikidata.org/entity/Q101084895"
+      }
+    ],
+    "http://www.wikidata.org/prop/direct/P2061": [
+      {
+        "@id": "http://www.wikidata.org/entity/Q21062414"
+      }
+    ],
+    "http://www.wikidata.org/prop/direct/P31": [
+      {
+        "@id": "http://www.wikidata.org/entity/Q11424"
+      }
+    ],
+    "http://www.wikidata.org/prop/direct/P3156": [
+      {
+        "@id": "http://www.wikidata.org/entity/Q26708077"
+      }
+    ],
+    "http://www.wikidata.org/prop/direct/P344": [
+      {
+        "@id": "http://www.wikidata.org/entity/Q1240097"
+      }
+    ],
+    "http://www.wikidata.org/prop/direct/P462": [
+      {
+        "@id": "http://www.wikidata.org/entity/Q22006653"
+      }
+    ],
+    "http://www.wikidata.org/prop/direct/P57": [
+      {
+        "@id": "http://www.wikidata.org/entity/Q3808611"
+      }
+    ],
+    "http://www.wikidata.org/prop/direct/P577": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "2015-09-14T00:00:00+00:00"
+      },
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "2016-09-23T00:00:00+00:00"
+      },
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "2016-03-10T00:00:00+00:00"
+      },
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "2016-04-29T00:00:00+00:00"
+      }
+    ],
+    "http://www.wikidata.org/prop/direct/P58": [
+      {
+        "@id": "http://www.wikidata.org/entity/Q3808611"
+      },
+      {
+        "@id": "http://www.wikidata.org/entity/Q2011694"
+      }
+    ],
+    "http://www.wikidata.org/prop/direct/P86": [
+      {
+        "@id": "http://www.wikidata.org/entity/Q1174736"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q32045",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Liam Hemsworth"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q469877",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Rebecca Gibney"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q2642760",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "vigilante film"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q7704856",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Terry Norris"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q809080",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Barry Otto"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q7831748",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Tracy Harvey"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q608299",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Gyton Grantley"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q202765",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Kate Winslet"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q2011694",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "P. J. Hogan"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q42204",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Hugo Weaving"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q6306213",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Julia Blake"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q4727215",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Alison Whyte"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q7422787",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Sarah Snook"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q5533077",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Genevieve Lemon"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q7487988",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Shane Bourne"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q26708077",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "M"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q28805405",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Darcey Wilson"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q280870",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Jill Bilcock"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q307882",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Judy Davis"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q1174736",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "David Hirschfelder"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q7396653",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Sacha Horler"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q859369",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "comedy drama"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q261531",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Kerry Fox"
+      }
+    ]
+  }
+]

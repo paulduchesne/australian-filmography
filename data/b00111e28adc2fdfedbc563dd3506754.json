@@ -1,0 +1,78 @@
+[
+  {
+    "@id": "http://www.wikidata.org/entity/Q65920875",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Ken Sallows"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q4990110",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Mandy Walker"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q4763216",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Angie Milliken"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q53414693",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Ray Argall"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q5348951",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Eight Ball"
+      }
+    ],
+    "http://www.wikidata.org/prop/direct/P1040": [
+      {
+        "@id": "http://www.wikidata.org/entity/Q65920875"
+      }
+    ],
+    "http://www.wikidata.org/prop/direct/P161": [
+      {
+        "@id": "http://www.wikidata.org/entity/Q4763216"
+      }
+    ],
+    "http://www.wikidata.org/prop/direct/P31": [
+      {
+        "@id": "http://www.wikidata.org/entity/Q11424"
+      }
+    ],
+    "http://www.wikidata.org/prop/direct/P344": [
+      {
+        "@id": "http://www.wikidata.org/entity/Q4990110"
+      }
+    ],
+    "http://www.wikidata.org/prop/direct/P57": [
+      {
+        "@id": "http://www.wikidata.org/entity/Q53414693"
+      }
+    ],
+    "http://www.wikidata.org/prop/direct/P577": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "1992-01-01T00:00:00+00:00"
+      }
+    ]
+  }
+]

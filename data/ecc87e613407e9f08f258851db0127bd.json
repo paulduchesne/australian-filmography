@@ -1,0 +1,147 @@
+[
+  {
+    "@id": "http://www.wikidata.org/entity/Q7149380",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Paul Bishop"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q102429885",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "coming-of-age film"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q7330024",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Richard Wilson"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q4638652",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "48 Shades"
+      }
+    ],
+    "http://www.wikidata.org/prop/direct/P136": [
+      {
+        "@id": "http://www.wikidata.org/entity/Q102429885"
+      },
+      {
+        "@id": "http://www.wikidata.org/entity/Q157443"
+      }
+    ],
+    "http://www.wikidata.org/prop/direct/P161": [
+      {
+        "@id": "http://www.wikidata.org/entity/Q7149380"
+      },
+      {
+        "@id": "http://www.wikidata.org/entity/Q7927077"
+      },
+      {
+        "@id": "http://www.wikidata.org/entity/Q7330024"
+      },
+      {
+        "@id": "http://www.wikidata.org/entity/Q5372897"
+      },
+      {
+        "@id": "http://www.wikidata.org/entity/Q4275835"
+      }
+    ],
+    "http://www.wikidata.org/prop/direct/P31": [
+      {
+        "@id": "http://www.wikidata.org/entity/Q11424"
+      }
+    ],
+    "http://www.wikidata.org/prop/direct/P57": [
+      {
+        "@id": "http://www.wikidata.org/entity/Q369113"
+      }
+    ],
+    "http://www.wikidata.org/prop/direct/P577": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "2006-08-01T00:00:00+00:00"
+      },
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "2006-08-31T00:00:00+00:00"
+      }
+    ],
+    "http://www.wikidata.org/prop/direct/P58": [
+      {
+        "@id": "http://www.wikidata.org/entity/Q369113"
+      }
+    ],
+    "http://www.wikidata.org/prop/direct/P86": [
+      {
+        "@id": "http://www.wikidata.org/entity/Q6317718"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q5372897",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Emma Lung"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q6317718",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Justin Hunter"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q7927077",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Victoria Thaine"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q157443",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "comedy film"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q4275835",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Robin McLeavy"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q369113",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Daniel Lapaine"
+      }
+    ]
+  }
+]

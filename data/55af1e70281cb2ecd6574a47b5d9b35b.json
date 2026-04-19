@@ -1,0 +1,166 @@
+[
+  {
+    "@id": "http://www.wikidata.org/entity/Q7353620",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Robyn Nevin"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q234679",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Charlotte Rampling"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q703727",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Fred Schepisi"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q1610584",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Helen Morse"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q26708078",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "MA 15+"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q307882",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Judy Davis"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q524821",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Judy Morris"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q1379286",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Paul Grabowsky"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q3520813",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "The Eye of the Storm"
+      }
+    ],
+    "http://www.wikidata.org/prop/direct/P161": [
+      {
+        "@id": "http://www.wikidata.org/entity/Q657080"
+      },
+      {
+        "@id": "http://www.wikidata.org/entity/Q1610584"
+      },
+      {
+        "@id": "http://www.wikidata.org/entity/Q166272"
+      },
+      {
+        "@id": "http://www.wikidata.org/entity/Q234679"
+      },
+      {
+        "@id": "http://www.wikidata.org/entity/Q7353620"
+      },
+      {
+        "@id": "http://www.wikidata.org/entity/Q307882"
+      }
+    ],
+    "http://www.wikidata.org/prop/direct/P162": [
+      {
+        "@id": "http://www.wikidata.org/entity/Q5606993"
+      }
+    ],
+    "http://www.wikidata.org/prop/direct/P31": [
+      {
+        "@id": "http://www.wikidata.org/entity/Q11424"
+      }
+    ],
+    "http://www.wikidata.org/prop/direct/P3156": [
+      {
+        "@id": "http://www.wikidata.org/entity/Q26708078"
+      }
+    ],
+    "http://www.wikidata.org/prop/direct/P57": [
+      {
+        "@id": "http://www.wikidata.org/entity/Q703727"
+      }
+    ],
+    "http://www.wikidata.org/prop/direct/P577": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "2011-01-01T00:00:00+00:00"
+      }
+    ],
+    "http://www.wikidata.org/prop/direct/P58": [
+      {
+        "@id": "http://www.wikidata.org/entity/Q524821"
+      }
+    ],
+    "http://www.wikidata.org/prop/direct/P86": [
+      {
+        "@id": "http://www.wikidata.org/entity/Q1379286"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q166272",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Geoffrey Rush"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q657080",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Dustin Clare"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q5606993",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Gregory J. Read"
+      }
+    ]
+  }
+]
