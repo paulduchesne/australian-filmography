@@ -18,7 +18,7 @@ uv run wikidata.py
 
 ### Deploy
 
-This project makes use of [Frozen Flask](https://frozen-flask.readthedocs.io) to render all of the pages to a static site, for deployment via [GitHub Pages](https://docs.github.com/en/pages). The static site components are build using the following command
+This project makes use of [Frozen Flask](https://frozen-flask.readthedocs.io) to render all of the pages to a static site for deployment via [GitHub Pages](https://docs.github.com/en/pages). Static site components are build using the following command
 
 ```sh
 uv run app.py
@@ -30,4 +30,4 @@ If you wish you run a dev copy locally, use the following command from within th
 python3 -m http.server 8642
 ```
 
-The service should be available at http://localhost:8642/.
+The service should then be available at http://localhost:8642/.
