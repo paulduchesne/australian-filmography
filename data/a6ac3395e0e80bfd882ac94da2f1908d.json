@@ -1,0 +1,152 @@
+[
+  {
+    "@id": "http://www.wikidata.org/entity/Q17558064",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "My Mistress"
+      }
+    ],
+    "http://www.wikidata.org/prop/direct/P136": [
+      {
+        "@id": "http://www.wikidata.org/entity/Q599558"
+      },
+      {
+        "@id": "http://www.wikidata.org/entity/Q102429885"
+      }
+    ],
+    "http://www.wikidata.org/prop/direct/P161": [
+      {
+        "@id": "http://www.wikidata.org/entity/Q106458"
+      },
+      {
+        "@id": "http://www.wikidata.org/entity/Q1810579"
+      },
+      {
+        "@id": "http://www.wikidata.org/entity/Q276114"
+      },
+      {
+        "@id": "http://www.wikidata.org/entity/Q15222785"
+      },
+      {
+        "@id": "http://www.wikidata.org/entity/Q16574217"
+      }
+    ],
+    "http://www.wikidata.org/prop/direct/P31": [
+      {
+        "@id": "http://www.wikidata.org/entity/Q11424"
+      }
+    ],
+    "http://www.wikidata.org/prop/direct/P462": [
+      {
+        "@id": "http://www.wikidata.org/entity/Q22006653"
+      }
+    ],
+    "http://www.wikidata.org/prop/direct/P57": [
+      {
+        "@id": "http://www.wikidata.org/entity/Q114946184"
+      }
+    ],
+    "http://www.wikidata.org/prop/direct/P577": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "2014-01-01T00:00:00+00:00"
+      }
+    ],
+    "http://www.wikidata.org/prop/direct/P58": [
+      {
+        "@id": "http://www.wikidata.org/entity/Q5550058"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q16574217",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Malcolm Kennard"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q276114",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Rachael Blake"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q106458",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Emmanuelle Béart"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q114946184",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Stephen Lance"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q5550058",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Gerard Lee"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q102429885",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "coming-of-age film"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q599558",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "erotic film"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q15222785",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Harrison Sloan Gilbertson"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q22006653",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "color"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q1810579",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Leah Purcell"
+      }
+    ]
+  }
+]

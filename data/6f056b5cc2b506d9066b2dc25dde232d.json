@@ -1,0 +1,440 @@
+[
+  {
+    "@id": "http://www.wikidata.org/entity/Q22006653",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "color"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q6006485",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Matthew Nable"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q4302005",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Luke Bracey"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q107730",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Vince Vaughn"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q48975",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "John Debney"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q16223245",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "James Mackay"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q234516",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Teresa Palmer"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q181140",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Rachel Griffiths"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q42229",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Mel Gibson"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q29735",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Nathaniel Buzolic"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q23891",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Andrew Garfield"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q82085",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Sam Worthington"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q8293",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "John Gilbert"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q130232",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "drama film"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q21010856",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Hacksaw Ridge"
+      }
+    ],
+    "http://www.wikidata.org/prop/direct/P1040": [
+      {
+        "@id": "http://www.wikidata.org/entity/Q8293"
+      }
+    ],
+    "http://www.wikidata.org/prop/direct/P136": [
+      {
+        "@id": "http://www.wikidata.org/entity/Q130232"
+      },
+      {
+        "@id": "http://www.wikidata.org/entity/Q645928"
+      },
+      {
+        "@id": "http://www.wikidata.org/entity/Q369747"
+      }
+    ],
+    "http://www.wikidata.org/prop/direct/P161": [
+      {
+        "@id": "http://www.wikidata.org/entity/Q65235288"
+      },
+      {
+        "@id": "http://www.wikidata.org/entity/Q2035268"
+      },
+      {
+        "@id": "http://www.wikidata.org/entity/Q23891"
+      },
+      {
+        "@id": "http://www.wikidata.org/entity/Q111303454"
+      },
+      {
+        "@id": "http://www.wikidata.org/entity/Q16223245"
+      },
+      {
+        "@id": "http://www.wikidata.org/entity/Q361630"
+      },
+      {
+        "@id": "http://www.wikidata.org/entity/Q181140"
+      },
+      {
+        "@id": "http://www.wikidata.org/entity/Q82085"
+      },
+      {
+        "@id": "http://www.wikidata.org/entity/Q42204"
+      },
+      {
+        "@id": "http://www.wikidata.org/entity/Q58613040"
+      },
+      {
+        "@id": "http://www.wikidata.org/entity/Q4302005"
+      },
+      {
+        "@id": "http://www.wikidata.org/entity/Q16537178"
+      },
+      {
+        "@id": "http://www.wikidata.org/entity/Q6006485"
+      },
+      {
+        "@id": "http://www.wikidata.org/entity/Q29735"
+      },
+      {
+        "@id": "http://www.wikidata.org/entity/Q107730"
+      },
+      {
+        "@id": "http://www.wikidata.org/entity/Q7328542"
+      },
+      {
+        "@id": "http://www.wikidata.org/entity/Q5212523"
+      },
+      {
+        "@id": "http://www.wikidata.org/entity/Q3267102"
+      },
+      {
+        "@id": "http://www.wikidata.org/entity/Q3072767"
+      },
+      {
+        "@id": "http://www.wikidata.org/entity/Q234516"
+      }
+    ],
+    "http://www.wikidata.org/prop/direct/P162": [
+      {
+        "@id": "http://www.wikidata.org/entity/Q7150070"
+      }
+    ],
+    "http://www.wikidata.org/prop/direct/P31": [
+      {
+        "@id": "http://www.wikidata.org/entity/Q11424"
+      }
+    ],
+    "http://www.wikidata.org/prop/direct/P344": [
+      {
+        "@id": "http://www.wikidata.org/entity/Q2287450"
+      }
+    ],
+    "http://www.wikidata.org/prop/direct/P462": [
+      {
+        "@id": "http://www.wikidata.org/entity/Q22006653"
+      }
+    ],
+    "http://www.wikidata.org/prop/direct/P57": [
+      {
+        "@id": "http://www.wikidata.org/entity/Q42229"
+      }
+    ],
+    "http://www.wikidata.org/prop/direct/P577": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "2016-09-04T00:00:00+00:00"
+      },
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "2016-11-03T00:00:00+00:00"
+      },
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "2016-11-04T00:00:00+00:00"
+      },
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "2016-12-15T00:00:00+00:00"
+      },
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "2017-01-26T00:00:00+00:00"
+      }
+    ],
+    "http://www.wikidata.org/prop/direct/P58": [
+      {
+        "@id": "http://www.wikidata.org/entity/Q19609585"
+      },
+      {
+        "@id": "http://www.wikidata.org/entity/Q2158716"
+      }
+    ],
+    "http://www.wikidata.org/prop/direct/P86": [
+      {
+        "@id": "http://www.wikidata.org/entity/Q48975"
+      },
+      {
+        "@id": "http://www.wikidata.org/entity/Q932744"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q42204",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Hugo Weaving"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q5212523",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Damien Thomlinson"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q3072767",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Firass Dirani"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q3267102",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Luke Pegler"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q2158716",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Robert Schenkkan"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q19609585",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Andrew Knight"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q2287450",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Simon Duggan"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q932744",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Rupert Gregson-Williams"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q7328542",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Richard Pyros"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q7150070",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Paul Currie"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q16537178",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Ben Mingay"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q2035268",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Ryan Corr"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q361630",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Richard Roxburgh"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q645928",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "biographical film"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q111303454",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Ben O'Toole"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q65235288",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Michael Sheasby"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q369747",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "war film"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q58613040",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Milo Gibson"
+      }
+    ]
+  }
+]

@@ -1,0 +1,153 @@
+[
+  {
+    "@id": "http://www.wikidata.org/entity/Q515430",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Danielle Horvat"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q15856438",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Adam Bakri"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q11991305",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Nicholas Hope"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q276114",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Rachael Blake"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q3016120",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Darina Al Joundi"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q5239108",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "David Roberts"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q435315",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Olivia Brown"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q57975276",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Slam"
+      }
+    ],
+    "http://www.wikidata.org/prop/direct/P136": [
+      {
+        "@id": "http://www.wikidata.org/entity/Q130232"
+      }
+    ],
+    "http://www.wikidata.org/prop/direct/P161": [
+      {
+        "@id": "http://www.wikidata.org/entity/Q435315"
+      },
+      {
+        "@id": "http://www.wikidata.org/entity/Q3016120"
+      },
+      {
+        "@id": "http://www.wikidata.org/entity/Q15856438"
+      },
+      {
+        "@id": "http://www.wikidata.org/entity/Q11991305"
+      },
+      {
+        "@id": "http://www.wikidata.org/entity/Q276114"
+      },
+      {
+        "@id": "http://www.wikidata.org/entity/Q452805"
+      },
+      {
+        "@id": "http://www.wikidata.org/entity/Q5239108"
+      },
+      {
+        "@id": "http://www.wikidata.org/entity/Q515430"
+      }
+    ],
+    "http://www.wikidata.org/prop/direct/P31": [
+      {
+        "@id": "http://www.wikidata.org/entity/Q11424"
+      }
+    ],
+    "http://www.wikidata.org/prop/direct/P57": [
+      {
+        "@id": "http://www.wikidata.org/entity/Q7140270"
+      }
+    ],
+    "http://www.wikidata.org/prop/direct/P577": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "2018-01-01T00:00:00+00:00"
+      }
+    ],
+    "http://www.wikidata.org/prop/direct/P58": [
+      {
+        "@id": "http://www.wikidata.org/entity/Q7140270"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q452805",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Rebecca Breeds"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q130232",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "drama film"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q7140270",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Partho Sen-Gupta"
+      }
+    ]
+  }
+]

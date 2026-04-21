@@ -1,0 +1,30 @@
+[
+  {
+    "@id": "http://www.wikidata.org/entity/Q13444656",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Paul Ireland"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q116055825",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Measure for Measure"
+      }
+    ],
+    "http://www.wikidata.org/prop/direct/P31": [
+      {
+        "@id": "http://www.wikidata.org/entity/Q11424"
+      }
+    ],
+    "http://www.wikidata.org/prop/direct/P57": [
+      {
+        "@id": "http://www.wikidata.org/entity/Q13444656"
+      }
+    ]
+  }
+]

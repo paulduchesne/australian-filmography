@@ -1,0 +1,450 @@
+[
+  {
+    "@id": "http://www.wikidata.org/entity/Q1054574",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "romance film"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q185079",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Jim Broadbent"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q1676929",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Jacek Koman"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q1027551",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Nash Edgerton"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q1240097",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Donald McAlpine"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q1919632",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "melodrama"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q14954988",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Kiruna Stamell"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q3072043",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "dance film"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q22162556",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Martin Brown"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q16267452",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Kerry Walker"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q13522449",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Fred Baron"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q5045176",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Caroline O'Connor"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q2686633",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "DeObia Oparei"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q528580",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Tara Morice"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q838368",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "black-and-white"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q539155",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Marius de Vries"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q296328",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "David Wenham"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q280870",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Jill Bilcock"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q3002053",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Craig Pearce"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q22006653",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "color"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q193573",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Moulin Rouge!"
+      }
+    ],
+    "http://www.wikidata.org/prop/direct/P1040": [
+      {
+        "@id": "http://www.wikidata.org/entity/Q280870"
+      }
+    ],
+    "http://www.wikidata.org/prop/direct/P136": [
+      {
+        "@id": "http://www.wikidata.org/entity/Q130232"
+      },
+      {
+        "@id": "http://www.wikidata.org/entity/Q1054574"
+      },
+      {
+        "@id": "http://www.wikidata.org/entity/Q1919632"
+      },
+      {
+        "@id": "http://www.wikidata.org/entity/Q3072043"
+      },
+      {
+        "@id": "http://www.wikidata.org/entity/Q842256"
+      }
+    ],
+    "http://www.wikidata.org/prop/direct/P161": [
+      {
+        "@id": "http://www.wikidata.org/entity/Q528580"
+      },
+      {
+        "@id": "http://www.wikidata.org/entity/Q2686633"
+      },
+      {
+        "@id": "http://www.wikidata.org/entity/Q1676929"
+      },
+      {
+        "@id": "http://www.wikidata.org/entity/Q16267452"
+      },
+      {
+        "@id": "http://www.wikidata.org/entity/Q14954988"
+      },
+      {
+        "@id": "http://www.wikidata.org/entity/Q1027551"
+      },
+      {
+        "@id": "http://www.wikidata.org/entity/Q461751"
+      },
+      {
+        "@id": "http://www.wikidata.org/entity/Q361630"
+      },
+      {
+        "@id": "http://www.wikidata.org/entity/Q296328"
+      },
+      {
+        "@id": "http://www.wikidata.org/entity/Q5045176"
+      },
+      {
+        "@id": "http://www.wikidata.org/entity/Q130853"
+      },
+      {
+        "@id": "http://www.wikidata.org/entity/Q185079"
+      },
+      {
+        "@id": "http://www.wikidata.org/entity/Q165518"
+      },
+      {
+        "@id": "http://www.wikidata.org/entity/Q295233"
+      },
+      {
+        "@id": "http://www.wikidata.org/entity/Q37459"
+      },
+      {
+        "@id": "http://www.wikidata.org/entity/Q11998"
+      }
+    ],
+    "http://www.wikidata.org/prop/direct/P162": [
+      {
+        "@id": "http://www.wikidata.org/entity/Q22162556"
+      },
+      {
+        "@id": "http://www.wikidata.org/entity/Q13522449"
+      },
+      {
+        "@id": "http://www.wikidata.org/entity/Q250545"
+      }
+    ],
+    "http://www.wikidata.org/prop/direct/P31": [
+      {
+        "@id": "http://www.wikidata.org/entity/Q11424"
+      }
+    ],
+    "http://www.wikidata.org/prop/direct/P344": [
+      {
+        "@id": "http://www.wikidata.org/entity/Q1240097"
+      }
+    ],
+    "http://www.wikidata.org/prop/direct/P462": [
+      {
+        "@id": "http://www.wikidata.org/entity/Q838368"
+      },
+      {
+        "@id": "http://www.wikidata.org/entity/Q22006653"
+      }
+    ],
+    "http://www.wikidata.org/prop/direct/P57": [
+      {
+        "@id": "http://www.wikidata.org/entity/Q250545"
+      }
+    ],
+    "http://www.wikidata.org/prop/direct/P577": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "2001-05-09T00:00:00+00:00"
+      },
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "2001-05-16T00:00:00+00:00"
+      },
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "2001-05-24T00:00:00+00:00"
+      },
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "2001-05-31T00:00:00+00:00"
+      },
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "2001-06-01T00:00:00+00:00"
+      },
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "2001-10-18T00:00:00+00:00"
+      }
+    ],
+    "http://www.wikidata.org/prop/direct/P58": [
+      {
+        "@id": "http://www.wikidata.org/entity/Q3002053"
+      },
+      {
+        "@id": "http://www.wikidata.org/entity/Q250545"
+      }
+    ],
+    "http://www.wikidata.org/prop/direct/P86": [
+      {
+        "@id": "http://www.wikidata.org/entity/Q539155"
+      },
+      {
+        "@id": "http://www.wikidata.org/entity/Q674456"
+      },
+      {
+        "@id": "http://www.wikidata.org/entity/Q709857"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q842256",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "musical film"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q295233",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "John Leguizamo"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q130232",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "drama film"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q461751",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Natalie Mendoza"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q709857",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Jack Nitzsche"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q165518",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Ewan McGregor"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q37459",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Nicole Kidman"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q250545",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Baz Luhrmann"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q11998",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Kylie Minogue"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q361630",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Richard Roxburgh"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q130853",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Plácido Domingo"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q674456",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Craig Armstrong"
+      }
+    ]
+  }
+]

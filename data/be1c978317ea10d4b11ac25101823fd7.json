@@ -1,0 +1,243 @@
+[
+  {
+    "@id": "http://www.wikidata.org/entity/Q3484578",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Simone Kessell"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q21062414",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "2.35:1"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q381807",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Bruce Davey"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q2262485",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Michiel Huisman"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q2484376",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "thriller film"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q6504182",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Lawrence Inglee"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q374273",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Armie Hammer"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q5523916",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Garrett Kelleher"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q3026032",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "dialogue writer"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q1174309",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "David Eggby"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q7150070",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Paul Currie"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q1762842",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Maeve Dermody"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q40580",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Lisa Gerrard"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q16735479",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Sam Reid"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q4633009",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "2:22"
+      }
+    ],
+    "http://www.wikidata.org/prop/direct/P136": [
+      {
+        "@id": "http://www.wikidata.org/entity/Q471839"
+      },
+      {
+        "@id": "http://www.wikidata.org/entity/Q2484376"
+      }
+    ],
+    "http://www.wikidata.org/prop/direct/P161": [
+      {
+        "@id": "http://www.wikidata.org/entity/Q2262485"
+      },
+      {
+        "@id": "http://www.wikidata.org/entity/Q16735479"
+      },
+      {
+        "@id": "http://www.wikidata.org/entity/Q706364"
+      },
+      {
+        "@id": "http://www.wikidata.org/entity/Q3026032"
+      },
+      {
+        "@id": "http://www.wikidata.org/entity/Q374273"
+      },
+      {
+        "@id": "http://www.wikidata.org/entity/Q1762842"
+      },
+      {
+        "@id": "http://www.wikidata.org/entity/Q234516"
+      },
+      {
+        "@id": "http://www.wikidata.org/entity/Q3484578"
+      }
+    ],
+    "http://www.wikidata.org/prop/direct/P162": [
+      {
+        "@id": "http://www.wikidata.org/entity/Q7150070"
+      },
+      {
+        "@id": "http://www.wikidata.org/entity/Q5523916"
+      },
+      {
+        "@id": "http://www.wikidata.org/entity/Q6504182"
+      },
+      {
+        "@id": "http://www.wikidata.org/entity/Q381807"
+      }
+    ],
+    "http://www.wikidata.org/prop/direct/P2061": [
+      {
+        "@id": "http://www.wikidata.org/entity/Q21062414"
+      }
+    ],
+    "http://www.wikidata.org/prop/direct/P31": [
+      {
+        "@id": "http://www.wikidata.org/entity/Q11424"
+      }
+    ],
+    "http://www.wikidata.org/prop/direct/P344": [
+      {
+        "@id": "http://www.wikidata.org/entity/Q1174309"
+      }
+    ],
+    "http://www.wikidata.org/prop/direct/P57": [
+      {
+        "@id": "http://www.wikidata.org/entity/Q7150070"
+      }
+    ],
+    "http://www.wikidata.org/prop/direct/P577": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "2017-01-01T00:00:00+00:00"
+      }
+    ],
+    "http://www.wikidata.org/prop/direct/P86": [
+      {
+        "@id": "http://www.wikidata.org/entity/Q40580"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q706364",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "art director"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q234516",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Teresa Palmer"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q471839",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "science fiction film"
+      }
+    ]
+  }
+]

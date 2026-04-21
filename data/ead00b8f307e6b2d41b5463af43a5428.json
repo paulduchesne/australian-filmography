@@ -1,0 +1,182 @@
+[
+  {
+    "@id": "http://www.wikidata.org/entity/Q312399",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "John Noble"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q5548256",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Georgina Haig"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q25338400",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Lasarus Ratuere"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q546940",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Noni Hazlehurst"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q959790",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "crime film"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q4764239",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Angus Sampson"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q18611453",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "The Mule"
+      }
+    ],
+    "http://www.wikidata.org/prop/direct/P136": [
+      {
+        "@id": "http://www.wikidata.org/entity/Q959790"
+      }
+    ],
+    "http://www.wikidata.org/prop/direct/P161": [
+      {
+        "@id": "http://www.wikidata.org/entity/Q25338400"
+      },
+      {
+        "@id": "http://www.wikidata.org/entity/Q471215"
+      },
+      {
+        "@id": "http://www.wikidata.org/entity/Q312399"
+      },
+      {
+        "@id": "http://www.wikidata.org/entity/Q42204"
+      },
+      {
+        "@id": "http://www.wikidata.org/entity/Q5548256"
+      },
+      {
+        "@id": "http://www.wikidata.org/entity/Q20685076"
+      },
+      {
+        "@id": "http://www.wikidata.org/entity/Q546940"
+      },
+      {
+        "@id": "http://www.wikidata.org/entity/Q5418987"
+      },
+      {
+        "@id": "http://www.wikidata.org/entity/Q4764239"
+      }
+    ],
+    "http://www.wikidata.org/prop/direct/P31": [
+      {
+        "@id": "http://www.wikidata.org/entity/Q11424"
+      }
+    ],
+    "http://www.wikidata.org/prop/direct/P462": [
+      {
+        "@id": "http://www.wikidata.org/entity/Q22006653"
+      }
+    ],
+    "http://www.wikidata.org/prop/direct/P57": [
+      {
+        "@id": "http://www.wikidata.org/entity/Q4764239"
+      },
+      {
+        "@id": "http://www.wikidata.org/entity/Q35438529"
+      }
+    ],
+    "http://www.wikidata.org/prop/direct/P577": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "2014-11-21T00:00:00+00:00"
+      }
+    ],
+    "http://www.wikidata.org/prop/direct/P58": [
+      {
+        "@id": "http://www.wikidata.org/entity/Q471215"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q5418987",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Ewen Leslie"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q42204",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Hugo Weaving"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q35438529",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Tony Mahony"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q20685076",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Chris Pang"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q471215",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Leigh Whannell"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q22006653",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "color"
+      }
+    ]
+  }
+]

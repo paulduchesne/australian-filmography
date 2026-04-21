@@ -1,0 +1,200 @@
+[
+  {
+    "@id": "http://www.wikidata.org/entity/Q7173307",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Peter Clifton"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q4327809",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "The Night We Called It a Day"
+      }
+    ],
+    "http://www.wikidata.org/prop/direct/P136": [
+      {
+        "@id": "http://www.wikidata.org/entity/Q859369"
+      }
+    ],
+    "http://www.wikidata.org/prop/direct/P161": [
+      {
+        "@id": "http://www.wikidata.org/entity/Q7821843"
+      },
+      {
+        "@id": "http://www.wikidata.org/entity/Q5525013"
+      },
+      {
+        "@id": "http://www.wikidata.org/entity/Q228717"
+      },
+      {
+        "@id": "http://www.wikidata.org/entity/Q102711"
+      },
+      {
+        "@id": "http://www.wikidata.org/entity/Q14902479"
+      },
+      {
+        "@id": "http://www.wikidata.org/entity/Q215366"
+      },
+      {
+        "@id": "http://www.wikidata.org/entity/Q381768"
+      },
+      {
+        "@id": "http://www.wikidata.org/entity/Q310217"
+      },
+      {
+        "@id": "http://www.wikidata.org/entity/Q4666385"
+      },
+      {
+        "@id": "http://www.wikidata.org/entity/Q176455"
+      }
+    ],
+    "http://www.wikidata.org/prop/direct/P31": [
+      {
+        "@id": "http://www.wikidata.org/entity/Q11424"
+      }
+    ],
+    "http://www.wikidata.org/prop/direct/P57": [
+      {
+        "@id": "http://www.wikidata.org/entity/Q2059818"
+      }
+    ],
+    "http://www.wikidata.org/prop/direct/P577": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "2003-01-01T00:00:00+00:00"
+      }
+    ],
+    "http://www.wikidata.org/prop/direct/P58": [
+      {
+        "@id": "http://www.wikidata.org/entity/Q7173307"
+      }
+    ],
+    "http://www.wikidata.org/prop/direct/P86": [
+      {
+        "@id": "http://www.wikidata.org/entity/Q932744"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q310217",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "David Hemmings"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q4666385",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Abe Forsythe"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q381768",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Joel Edgerton"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q102711",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Dennis Hopper"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q228717",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Rose Byrne"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q176455",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Melanie Griffith"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q215366",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Portia de Rossi"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q932744",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Rupert Gregson-Williams"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q14902479",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "David Field"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q7821843",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Tony Barry"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q5525013",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Gary Eck"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q859369",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "comedy drama"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q2059818",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Paul Goldman"
+      }
+    ]
+  }
+]

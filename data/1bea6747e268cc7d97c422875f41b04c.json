@@ -1,0 +1,376 @@
+[
+  {
+    "@id": "http://www.wikidata.org/entity/Q7609189",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Stephen Fewell"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q19877770",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Timothée Chalamet"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q16207201",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Steven Elder"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q4757263",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Andrew Havill"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q3018459",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "David Michôd"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q54801155",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "The King"
+      }
+    ],
+    "http://www.wikidata.org/prop/direct/P1040": [
+      {
+        "@id": "http://www.wikidata.org/entity/Q109937606"
+      }
+    ],
+    "http://www.wikidata.org/prop/direct/P136": [
+      {
+        "@id": "http://www.wikidata.org/entity/Q130232"
+      },
+      {
+        "@id": "http://www.wikidata.org/entity/Q17013749"
+      },
+      {
+        "@id": "http://www.wikidata.org/entity/Q3327002"
+      }
+    ],
+    "http://www.wikidata.org/prop/direct/P161": [
+      {
+        "@id": "http://www.wikidata.org/entity/Q28935124"
+      },
+      {
+        "@id": "http://www.wikidata.org/entity/Q33133445"
+      },
+      {
+        "@id": "http://www.wikidata.org/entity/Q16713577"
+      },
+      {
+        "@id": "http://www.wikidata.org/entity/Q6096599"
+      },
+      {
+        "@id": "http://www.wikidata.org/entity/Q816565"
+      },
+      {
+        "@id": "http://www.wikidata.org/entity/Q4757263"
+      },
+      {
+        "@id": "http://www.wikidata.org/entity/Q3524049"
+      },
+      {
+        "@id": "http://www.wikidata.org/entity/Q1406801"
+      },
+      {
+        "@id": "http://www.wikidata.org/entity/Q16207201"
+      },
+      {
+        "@id": "http://www.wikidata.org/entity/Q19877770"
+      },
+      {
+        "@id": "http://www.wikidata.org/entity/Q7609189"
+      },
+      {
+        "@id": "http://www.wikidata.org/entity/Q20670730"
+      },
+      {
+        "@id": "http://www.wikidata.org/entity/Q1271614"
+      },
+      {
+        "@id": "http://www.wikidata.org/entity/Q36767"
+      },
+      {
+        "@id": "http://www.wikidata.org/entity/Q381768"
+      },
+      {
+        "@id": "http://www.wikidata.org/entity/Q272174"
+      }
+    ],
+    "http://www.wikidata.org/prop/direct/P162": [
+      {
+        "@id": "http://www.wikidata.org/entity/Q35332"
+      },
+      {
+        "@id": "http://www.wikidata.org/entity/Q381768"
+      },
+      {
+        "@id": "http://www.wikidata.org/entity/Q3018459"
+      },
+      {
+        "@id": "http://www.wikidata.org/entity/Q5249738"
+      }
+    ],
+    "http://www.wikidata.org/prop/direct/P31": [
+      {
+        "@id": "http://www.wikidata.org/entity/Q11424"
+      }
+    ],
+    "http://www.wikidata.org/prop/direct/P344": [
+      {
+        "@id": "http://www.wikidata.org/entity/Q16039199"
+      }
+    ],
+    "http://www.wikidata.org/prop/direct/P462": [
+      {
+        "@id": "http://www.wikidata.org/entity/Q22006653"
+      }
+    ],
+    "http://www.wikidata.org/prop/direct/P57": [
+      {
+        "@id": "http://www.wikidata.org/entity/Q3018459"
+      }
+    ],
+    "http://www.wikidata.org/prop/direct/P577": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "2019-10-03T00:00:00+00:00"
+      },
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "2019-10-11T00:00:00+00:00"
+      },
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "2019-10-17T00:00:00+00:00"
+      },
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "2019-11-01T00:00:00+00:00"
+      }
+    ],
+    "http://www.wikidata.org/prop/direct/P58": [
+      {
+        "@id": "http://www.wikidata.org/entity/Q3018459"
+      },
+      {
+        "@id": "http://www.wikidata.org/entity/Q381768"
+      }
+    ],
+    "http://www.wikidata.org/prop/direct/P86": [
+      {
+        "@id": "http://www.wikidata.org/entity/Q15429514"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q3327002",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "medieval film"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q5249738",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Dede Gardner"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q816565",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Ben Mendelsohn"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q36767",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Robert Pattinson"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q28935124",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Thomasin McKenzie"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q33133445",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Tom Glynn-Carney"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q17013749",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "historical film"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q1406801",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Tom Fisher"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q22006653",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "color"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q35332",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Brad Pitt"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q16039199",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Adam Arkapaw"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q3524049",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Thibault de Montalembert"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q16713577",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Dean-Charles Chapman"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q15429514",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Nicholas Britell"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q381768",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Joel Edgerton"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q6096599",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Ivan Kaye"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q20670730",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Lily-Rose Depp"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q130232",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "drama film"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q1271614",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Sean Harris"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q272174",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Tara Fitzgerald"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q109937606",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Peter Sciberras"
+      }
+    ]
+  }
+]

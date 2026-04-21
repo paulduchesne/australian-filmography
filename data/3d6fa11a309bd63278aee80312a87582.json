@@ -1,0 +1,188 @@
+[
+  {
+    "@id": "http://www.wikidata.org/entity/Q59491321",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Natasha Wanganeen"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q275182",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Leeanna Walsman"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q47009776",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "apocalyptic film"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q112695324",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Sana'a Shaik"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q716251",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Kodi Smit-McPhee"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q1341051",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "post-apocalyptic film"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q106466280",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Seth Larney"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q382257",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Ryan Kwanten"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q568179",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Deborah Mailman"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q2948641",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Damian Walshe-Howling"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q99751860",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "2067"
+      }
+    ],
+    "http://www.wikidata.org/prop/direct/P136": [
+      {
+        "@id": "http://www.wikidata.org/entity/Q104765957"
+      },
+      {
+        "@id": "http://www.wikidata.org/entity/Q47009776"
+      },
+      {
+        "@id": "http://www.wikidata.org/entity/Q1341051"
+      },
+      {
+        "@id": "http://www.wikidata.org/entity/Q471839"
+      }
+    ],
+    "http://www.wikidata.org/prop/direct/P161": [
+      {
+        "@id": "http://www.wikidata.org/entity/Q59491321"
+      },
+      {
+        "@id": "http://www.wikidata.org/entity/Q2948641"
+      },
+      {
+        "@id": "http://www.wikidata.org/entity/Q716251"
+      },
+      {
+        "@id": "http://www.wikidata.org/entity/Q568179"
+      },
+      {
+        "@id": "http://www.wikidata.org/entity/Q382257"
+      },
+      {
+        "@id": "http://www.wikidata.org/entity/Q275182"
+      },
+      {
+        "@id": "http://www.wikidata.org/entity/Q63301003"
+      },
+      {
+        "@id": "http://www.wikidata.org/entity/Q112695324"
+      }
+    ],
+    "http://www.wikidata.org/prop/direct/P31": [
+      {
+        "@id": "http://www.wikidata.org/entity/Q11424"
+      }
+    ],
+    "http://www.wikidata.org/prop/direct/P57": [
+      {
+        "@id": "http://www.wikidata.org/entity/Q106466280"
+      }
+    ],
+    "http://www.wikidata.org/prop/direct/P577": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "2020-01-01T00:00:00+00:00"
+      },
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "2021-05-13T00:00:00+00:00"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q104765957",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "time-travel film"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q471839",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "science fiction film"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q63301003",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Finn Little"
+      }
+    ]
+  }
+]

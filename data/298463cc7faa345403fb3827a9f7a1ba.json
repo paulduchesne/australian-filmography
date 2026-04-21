@@ -1,0 +1,164 @@
+[
+  {
+    "@id": "http://www.wikidata.org/entity/Q23836180",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Michael Spierig"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q5441798",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Felicity Mason"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q6936033",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Mungo McKay"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q22006653",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "color"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q23836181",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Peter Spierig"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q99680627",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Jesús Navarro"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q224700",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "comedy horror"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q1747837",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "zombie comedy"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q1810314",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Undead"
+      }
+    ],
+    "http://www.wikidata.org/prop/direct/P1040": [
+      {
+        "@id": "http://www.wikidata.org/entity/Q23836181"
+      },
+      {
+        "@id": "http://www.wikidata.org/entity/Q23836180"
+      }
+    ],
+    "http://www.wikidata.org/prop/direct/P136": [
+      {
+        "@id": "http://www.wikidata.org/entity/Q1747837"
+      },
+      {
+        "@id": "http://www.wikidata.org/entity/Q224700"
+      }
+    ],
+    "http://www.wikidata.org/prop/direct/P161": [
+      {
+        "@id": "http://www.wikidata.org/entity/Q6936033"
+      },
+      {
+        "@id": "http://www.wikidata.org/entity/Q5441798"
+      }
+    ],
+    "http://www.wikidata.org/prop/direct/P162": [
+      {
+        "@id": "http://www.wikidata.org/entity/Q23836180"
+      },
+      {
+        "@id": "http://www.wikidata.org/entity/Q23836181"
+      }
+    ],
+    "http://www.wikidata.org/prop/direct/P31": [
+      {
+        "@id": "http://www.wikidata.org/entity/Q11424"
+      }
+    ],
+    "http://www.wikidata.org/prop/direct/P462": [
+      {
+        "@id": "http://www.wikidata.org/entity/Q22006653"
+      }
+    ],
+    "http://www.wikidata.org/prop/direct/P57": [
+      {
+        "@id": "http://www.wikidata.org/entity/Q23836181"
+      },
+      {
+        "@id": "http://www.wikidata.org/entity/Q23836180"
+      }
+    ],
+    "http://www.wikidata.org/prop/direct/P577": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "2003-01-01T00:00:00+00:00"
+      },
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "2003-02-27T00:00:00+00:00"
+      },
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "2003-09-04T00:00:00+00:00"
+      },
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "2005-07-01T00:00:00+00:00"
+      }
+    ],
+    "http://www.wikidata.org/prop/direct/P58": [
+      {
+        "@id": "http://www.wikidata.org/entity/Q23836181"
+      },
+      {
+        "@id": "http://www.wikidata.org/entity/Q23836180"
+      }
+    ],
+    "http://www.wikidata.org/prop/direct/P86": [
+      {
+        "@id": "http://www.wikidata.org/entity/Q99680627"
+      }
+    ]
+  }
+]

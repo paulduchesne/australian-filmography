@@ -1,0 +1,214 @@
+[
+  {
+    "@id": "http://www.wikidata.org/entity/Q132616",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Naomi Watts"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q157443",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "comedy film"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q5442364",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Felix Williamson"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q65920875",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Ken Sallows"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q187271",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Loene Carmen"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q2646899",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Alice Garner"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q271926",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Claudia Karvan"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q42204",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Hugo Weaving"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q447938",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Kate Beahan"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q1282904",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Strange Planet"
+      }
+    ],
+    "http://www.wikidata.org/prop/direct/P1040": [
+      {
+        "@id": "http://www.wikidata.org/entity/Q65920875"
+      }
+    ],
+    "http://www.wikidata.org/prop/direct/P136": [
+      {
+        "@id": "http://www.wikidata.org/entity/Q157443"
+      }
+    ],
+    "http://www.wikidata.org/prop/direct/P161": [
+      {
+        "@id": "http://www.wikidata.org/entity/Q42204"
+      },
+      {
+        "@id": "http://www.wikidata.org/entity/Q187271"
+      },
+      {
+        "@id": "http://www.wikidata.org/entity/Q5442364"
+      },
+      {
+        "@id": "http://www.wikidata.org/entity/Q447938"
+      },
+      {
+        "@id": "http://www.wikidata.org/entity/Q132616"
+      },
+      {
+        "@id": "http://www.wikidata.org/entity/Q366168"
+      },
+      {
+        "@id": "http://www.wikidata.org/entity/Q302175"
+      },
+      {
+        "@id": "http://www.wikidata.org/entity/Q914432"
+      },
+      {
+        "@id": "http://www.wikidata.org/entity/Q271926"
+      },
+      {
+        "@id": "http://www.wikidata.org/entity/Q2646899"
+      }
+    ],
+    "http://www.wikidata.org/prop/direct/P162": [
+      {
+        "@id": "http://www.wikidata.org/entity/Q7604855"
+      }
+    ],
+    "http://www.wikidata.org/prop/direct/P31": [
+      {
+        "@id": "http://www.wikidata.org/entity/Q11424"
+      }
+    ],
+    "http://www.wikidata.org/prop/direct/P462": [
+      {
+        "@id": "http://www.wikidata.org/entity/Q22006653"
+      }
+    ],
+    "http://www.wikidata.org/prop/direct/P57": [
+      {
+        "@id": "http://www.wikidata.org/entity/Q5372704"
+      }
+    ],
+    "http://www.wikidata.org/prop/direct/P577": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "1999-01-01T00:00:00+00:00"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q302175",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Aaron Jeffery"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q7604855",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Stavros Kazantzidis"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q914432",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Marshall Napier"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q366168",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Tom Long"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q5372704",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Emma-Kate Croghan"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q22006653",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "color"
+      }
+    ]
+  }
+]

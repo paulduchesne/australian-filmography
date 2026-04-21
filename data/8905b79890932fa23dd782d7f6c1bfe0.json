@@ -1,0 +1,155 @@
+[
+  {
+    "@id": "http://www.wikidata.org/entity/Q521053",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Robert Mammone"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q716274",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "David Lyons"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q5339729",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Edmund Pegge"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q5181140",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Craig Lahiff"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q2421031",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "neo-noir"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q5372739",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Emma Booth"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q619445",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Chris Haywood"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q7655916",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Swerve"
+      }
+    ],
+    "http://www.wikidata.org/prop/direct/P136": [
+      {
+        "@id": "http://www.wikidata.org/entity/Q2421031"
+      }
+    ],
+    "http://www.wikidata.org/prop/direct/P161": [
+      {
+        "@id": "http://www.wikidata.org/entity/Q5339729"
+      },
+      {
+        "@id": "http://www.wikidata.org/entity/Q7931468"
+      },
+      {
+        "@id": "http://www.wikidata.org/entity/Q5372739"
+      },
+      {
+        "@id": "http://www.wikidata.org/entity/Q521053"
+      },
+      {
+        "@id": "http://www.wikidata.org/entity/Q402764"
+      },
+      {
+        "@id": "http://www.wikidata.org/entity/Q716274"
+      },
+      {
+        "@id": "http://www.wikidata.org/entity/Q619445"
+      }
+    ],
+    "http://www.wikidata.org/prop/direct/P31": [
+      {
+        "@id": "http://www.wikidata.org/entity/Q11424"
+      }
+    ],
+    "http://www.wikidata.org/prop/direct/P462": [
+      {
+        "@id": "http://www.wikidata.org/entity/Q22006653"
+      }
+    ],
+    "http://www.wikidata.org/prop/direct/P57": [
+      {
+        "@id": "http://www.wikidata.org/entity/Q5181140"
+      }
+    ],
+    "http://www.wikidata.org/prop/direct/P577": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "2011-01-01T00:00:00+00:00"
+      }
+    ],
+    "http://www.wikidata.org/prop/direct/P58": [
+      {
+        "@id": "http://www.wikidata.org/entity/Q5181140"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q7931468",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Vince Colosimo"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q402764",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Jason Clarke"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q22006653",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "color"
+      }
+    ]
+  }
+]

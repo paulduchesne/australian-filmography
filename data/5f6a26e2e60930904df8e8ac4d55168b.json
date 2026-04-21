@@ -1,0 +1,500 @@
+[
+  {
+    "@id": "http://www.wikidata.org/entity/Q8049440",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Yaron Lifschitz"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q7343062",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Robert Connolly"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q4461183",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Warwick Thornton"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q7770748",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "The Turning"
+      }
+    ],
+    "http://www.wikidata.org/prop/direct/P1040": [
+      {
+        "@id": "http://www.wikidata.org/entity/Q5515600"
+      },
+      {
+        "@id": "http://www.wikidata.org/entity/Q16728382"
+      }
+    ],
+    "http://www.wikidata.org/prop/direct/P136": [
+      {
+        "@id": "http://www.wikidata.org/entity/Q130232"
+      },
+      {
+        "@id": "http://www.wikidata.org/entity/Q336144"
+      }
+    ],
+    "http://www.wikidata.org/prop/direct/P161": [
+      {
+        "@id": "http://www.wikidata.org/entity/Q42204"
+      },
+      {
+        "@id": "http://www.wikidata.org/entity/Q80966"
+      },
+      {
+        "@id": "http://www.wikidata.org/entity/Q228717"
+      },
+      {
+        "@id": "http://www.wikidata.org/entity/Q294975"
+      },
+      {
+        "@id": "http://www.wikidata.org/entity/Q327526"
+      },
+      {
+        "@id": "http://www.wikidata.org/entity/Q15222785"
+      },
+      {
+        "@id": "http://www.wikidata.org/entity/Q932490"
+      },
+      {
+        "@id": "http://www.wikidata.org/entity/Q361630"
+      },
+      {
+        "@id": "http://www.wikidata.org/entity/Q9033587"
+      },
+      {
+        "@id": "http://www.wikidata.org/entity/Q3505686"
+      }
+    ],
+    "http://www.wikidata.org/prop/direct/P162": [
+      {
+        "@id": "http://www.wikidata.org/entity/Q2852895"
+      },
+      {
+        "@id": "http://www.wikidata.org/entity/Q7343062"
+      },
+      {
+        "@id": "http://www.wikidata.org/entity/Q6308149"
+      },
+      {
+        "@id": "http://www.wikidata.org/entity/Q6376061"
+      }
+    ],
+    "http://www.wikidata.org/prop/direct/P31": [
+      {
+        "@id": "http://www.wikidata.org/entity/Q11424"
+      }
+    ],
+    "http://www.wikidata.org/prop/direct/P344": [
+      {
+        "@id": "http://www.wikidata.org/entity/Q4461183"
+      },
+      {
+        "@id": "http://www.wikidata.org/entity/Q65920705"
+      }
+    ],
+    "http://www.wikidata.org/prop/direct/P462": [
+      {
+        "@id": "http://www.wikidata.org/entity/Q22006653"
+      }
+    ],
+    "http://www.wikidata.org/prop/direct/P57": [
+      {
+        "@id": "http://www.wikidata.org/entity/Q228865"
+      },
+      {
+        "@id": "http://www.wikidata.org/entity/Q296328"
+      },
+      {
+        "@id": "http://www.wikidata.org/entity/Q80966"
+      },
+      {
+        "@id": "http://www.wikidata.org/entity/Q2442472"
+      },
+      {
+        "@id": "http://www.wikidata.org/entity/Q7519836"
+      },
+      {
+        "@id": "http://www.wikidata.org/entity/Q7343062"
+      },
+      {
+        "@id": "http://www.wikidata.org/entity/Q7490858"
+      },
+      {
+        "@id": "http://www.wikidata.org/entity/Q29442229"
+      },
+      {
+        "@id": "http://www.wikidata.org/entity/Q29442232"
+      },
+      {
+        "@id": "http://www.wikidata.org/entity/Q29442230"
+      },
+      {
+        "@id": "http://www.wikidata.org/entity/Q8049440"
+      },
+      {
+        "@id": "http://www.wikidata.org/entity/Q7610184"
+      },
+      {
+        "@id": "http://www.wikidata.org/entity/Q29442224"
+      },
+      {
+        "@id": "http://www.wikidata.org/entity/Q6317793"
+      },
+      {
+        "@id": "http://www.wikidata.org/entity/Q5907732"
+      },
+      {
+        "@id": "http://www.wikidata.org/entity/Q29442226"
+      },
+      {
+        "@id": "http://www.wikidata.org/entity/Q4461183"
+      },
+      {
+        "@id": "http://www.wikidata.org/entity/Q5125261"
+      },
+      {
+        "@id": "http://www.wikidata.org/entity/Q2852895"
+      }
+    ],
+    "http://www.wikidata.org/prop/direct/P577": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "2013-08-03T00:00:00+00:00"
+      }
+    ],
+    "http://www.wikidata.org/prop/direct/P58": [
+      {
+        "@id": "http://www.wikidata.org/entity/Q327526"
+      },
+      {
+        "@id": "http://www.wikidata.org/entity/Q4758784"
+      },
+      {
+        "@id": "http://www.wikidata.org/entity/Q5125261"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q5125261",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Claire McCarthy"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q6317793",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Justin Kurzel"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q29442224",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Jonathan auf der Heide"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q294975",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Miranda Otto"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q16728382",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Dany Cooper"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q29442229",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Rhys Graham"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q336144",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "anthology film"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q296328",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "David Wenham"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q361630",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Richard Roxburgh"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q327526",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Tim Winton"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q9033587",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Mirrah Foulkes"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q15222785",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Harrison Sloan Gilbertson"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q3505686",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Susie Porter"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q130232",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "drama film"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q7519836",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Simon Stone"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q80966",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Cate Blanchett"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q65920705",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Ellery Ryan"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q29442232",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Marieka Walsh"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q5907732",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Ian Meadows"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q22006653",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "color"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q7610184",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Stephen Page"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q5515600",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Gabriel Dowrick"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q2852895",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Anthony Lucas"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q7490858",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Shaun Gladwell"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q6308149",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Julie Eckersley"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q6376061",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Kath Shelper"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q228865",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Mia Wasikowska"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q228717",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Rose Byrne"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q4758784",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Andrew Upton"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q932490",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Callan Mulvey"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q2442472",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Tony Ayres"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q42204",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Hugo Weaving"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q29442226",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Jub Clerc"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q29442230",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Ashlee Page"
+      }
+    ]
+  }
+]

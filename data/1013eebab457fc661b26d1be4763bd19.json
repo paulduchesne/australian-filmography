@@ -1,0 +1,363 @@
+[
+  {
+    "@id": "http://www.wikidata.org/entity/Q208667",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Stellan Skarsgård"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q16640744",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Tom Hobbs"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q131519986",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Garry Phillips"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q705522",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Hiroyuki Sanada"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q369747",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "war film"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q20013188",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Akos Armont"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q542571",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Jeremy Irvine"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q4178880",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "The Railway Man"
+      }
+    ],
+    "http://www.wikidata.org/prop/direct/P1040": [
+      {
+        "@id": "http://www.wikidata.org/entity/Q114824208"
+      }
+    ],
+    "http://www.wikidata.org/prop/direct/P136": [
+      {
+        "@id": "http://www.wikidata.org/entity/Q130232"
+      },
+      {
+        "@id": "http://www.wikidata.org/entity/Q369747"
+      },
+      {
+        "@id": "http://www.wikidata.org/entity/Q645928"
+      }
+    ],
+    "http://www.wikidata.org/prop/direct/P161": [
+      {
+        "@id": "http://www.wikidata.org/entity/Q16735479"
+      },
+      {
+        "@id": "http://www.wikidata.org/entity/Q162492"
+      },
+      {
+        "@id": "http://www.wikidata.org/entity/Q4885204"
+      },
+      {
+        "@id": "http://www.wikidata.org/entity/Q3792822"
+      },
+      {
+        "@id": "http://www.wikidata.org/entity/Q208667"
+      },
+      {
+        "@id": "http://www.wikidata.org/entity/Q16640744"
+      },
+      {
+        "@id": "http://www.wikidata.org/entity/Q16215157"
+      },
+      {
+        "@id": "http://www.wikidata.org/entity/Q37459"
+      },
+      {
+        "@id": "http://www.wikidata.org/entity/Q542571"
+      },
+      {
+        "@id": "http://www.wikidata.org/entity/Q2042582"
+      },
+      {
+        "@id": "http://www.wikidata.org/entity/Q20013188"
+      },
+      {
+        "@id": "http://www.wikidata.org/entity/Q705522"
+      },
+      {
+        "@id": "http://www.wikidata.org/entity/Q6774110"
+      },
+      {
+        "@id": "http://www.wikidata.org/entity/Q5418987"
+      }
+    ],
+    "http://www.wikidata.org/prop/direct/P162": [
+      {
+        "@id": "http://www.wikidata.org/entity/Q4761147"
+      },
+      {
+        "@id": "http://www.wikidata.org/entity/Q2490682"
+      }
+    ],
+    "http://www.wikidata.org/prop/direct/P31": [
+      {
+        "@id": "http://www.wikidata.org/entity/Q11424"
+      }
+    ],
+    "http://www.wikidata.org/prop/direct/P344": [
+      {
+        "@id": "http://www.wikidata.org/entity/Q131519986"
+      }
+    ],
+    "http://www.wikidata.org/prop/direct/P462": [
+      {
+        "@id": "http://www.wikidata.org/entity/Q22006653"
+      }
+    ],
+    "http://www.wikidata.org/prop/direct/P57": [
+      {
+        "@id": "http://www.wikidata.org/entity/Q16730387"
+      }
+    ],
+    "http://www.wikidata.org/prop/direct/P577": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "2013-09-06T00:00:00+00:00"
+      },
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "2013-12-26T00:00:00+00:00"
+      },
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "2014-01-10T00:00:00+00:00"
+      }
+    ],
+    "http://www.wikidata.org/prop/direct/P58": [
+      {
+        "@id": "http://www.wikidata.org/entity/Q4761147"
+      },
+      {
+        "@id": "http://www.wikidata.org/entity/Q5386986"
+      },
+      {
+        "@id": "http://www.wikidata.org/entity/Q1233018"
+      }
+    ],
+    "http://www.wikidata.org/prop/direct/P86": [
+      {
+        "@id": "http://www.wikidata.org/entity/Q1174736"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q22006653",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "color"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q162492",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Colin Firth"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q16215157",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Masa Yamaguchi"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q3792822",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Tanroh Ishida"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q5386986",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Eric Lomax"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q16735479",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Sam Reid"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q130232",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "drama film"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q645928",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "biographical film"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q4761147",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Andy Paterson"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q37459",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Nicole Kidman"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q2042582",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Ron Smoorenburg"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q16730387",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Jonathan Teplitzky"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q114824208",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Martin Connor"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q5418987",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Ewen Leslie"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q1174736",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "David Hirschfelder"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q1233018",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Frank Cottrell-Boyce"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q4885204",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Ben Aldridge"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q6774110",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Marta Dusseldorp"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q2490682",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Bill Curbishley"
+      }
+    ]
+  }
+]

@@ -1,0 +1,179 @@
+[
+  {
+    "@id": "http://www.wikidata.org/entity/Q7613125",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Steve Le Marquand"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q10968934",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Kokoda"
+      }
+    ],
+    "http://www.wikidata.org/prop/direct/P136": [
+      {
+        "@id": "http://www.wikidata.org/entity/Q130232"
+      }
+    ],
+    "http://www.wikidata.org/prop/direct/P161": [
+      {
+        "@id": "http://www.wikidata.org/entity/Q545138"
+      },
+      {
+        "@id": "http://www.wikidata.org/entity/Q7487988"
+      },
+      {
+        "@id": "http://www.wikidata.org/entity/Q4764239"
+      },
+      {
+        "@id": "http://www.wikidata.org/entity/Q5394518"
+      },
+      {
+        "@id": "http://www.wikidata.org/entity/Q7613125"
+      },
+      {
+        "@id": "http://www.wikidata.org/entity/Q7815122"
+      },
+      {
+        "@id": "http://www.wikidata.org/entity/Q7519836"
+      },
+      {
+        "@id": "http://www.wikidata.org/entity/Q6112490"
+      },
+      {
+        "@id": "http://www.wikidata.org/entity/Q5418987"
+      }
+    ],
+    "http://www.wikidata.org/prop/direct/P31": [
+      {
+        "@id": "http://www.wikidata.org/entity/Q11424"
+      }
+    ],
+    "http://www.wikidata.org/prop/direct/P462": [
+      {
+        "@id": "http://www.wikidata.org/entity/Q22006653"
+      }
+    ],
+    "http://www.wikidata.org/prop/direct/P57": [
+      {
+        "@id": "http://www.wikidata.org/entity/Q2837213"
+      }
+    ],
+    "http://www.wikidata.org/prop/direct/P577": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "2006-01-01T00:00:00+00:00"
+      }
+    ],
+    "http://www.wikidata.org/prop/direct/P58": [
+      {
+        "@id": "http://www.wikidata.org/entity/Q2837213"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q22006653",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "color"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q4764239",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Angus Sampson"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q130232",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "drama film"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q6112490",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Jack Finsterer"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q7519836",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Simon Stone"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q5394518",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "William McInnes"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q545138",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Luke Ford"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q5418987",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Ewen Leslie"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q7815122",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Tom Budge"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q7487988",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Shane Bourne"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q2837213",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Alister Grierson"
+      }
+    ]
+  }
+]

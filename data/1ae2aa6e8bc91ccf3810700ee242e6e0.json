@@ -1,0 +1,367 @@
+[
+  {
+    "@id": "http://www.wikidata.org/entity/Q4717620",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Alex Perry"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q18686366",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Glenn Butcher"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q26708076",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "PG"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q16193398",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Mark Trevorrow"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q2482522",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Magda Szubanski"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q5562914",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Gina Riley"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q5238384",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "David Parker"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q6759053",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Marg Downey"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q117286063",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Andrew Kotatko"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q7176691",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Peter Rowsthorn"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q157443",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "comedy film"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q9011545",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Jessica De Gouw"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q7025047",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Nicholas Bell"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q734221",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Barry Humphries"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q5389197",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Erin Mullally"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q26702169",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Julie Forsyth"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q6152857",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Jane Turner"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q2342969",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Rob Sitch"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q6376051",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Kath & Kimderella"
+      }
+    ],
+    "http://www.wikidata.org/prop/direct/P136": [
+      {
+        "@id": "http://www.wikidata.org/entity/Q157443"
+      }
+    ],
+    "http://www.wikidata.org/prop/direct/P161": [
+      {
+        "@id": "http://www.wikidata.org/entity/Q2342969"
+      },
+      {
+        "@id": "http://www.wikidata.org/entity/Q5569072"
+      },
+      {
+        "@id": "http://www.wikidata.org/entity/Q6152857"
+      },
+      {
+        "@id": "http://www.wikidata.org/entity/Q2482522"
+      },
+      {
+        "@id": "http://www.wikidata.org/entity/Q4717620"
+      },
+      {
+        "@id": "http://www.wikidata.org/entity/Q9011545"
+      },
+      {
+        "@id": "http://www.wikidata.org/entity/Q5389197"
+      },
+      {
+        "@id": "http://www.wikidata.org/entity/Q5490460"
+      },
+      {
+        "@id": "http://www.wikidata.org/entity/Q380856"
+      },
+      {
+        "@id": "http://www.wikidata.org/entity/Q6759053"
+      },
+      {
+        "@id": "http://www.wikidata.org/entity/Q6838341"
+      },
+      {
+        "@id": "http://www.wikidata.org/entity/Q7025047"
+      },
+      {
+        "@id": "http://www.wikidata.org/entity/Q26702169"
+      },
+      {
+        "@id": "http://www.wikidata.org/entity/Q7687583"
+      },
+      {
+        "@id": "http://www.wikidata.org/entity/Q5562914"
+      },
+      {
+        "@id": "http://www.wikidata.org/entity/Q18686366"
+      },
+      {
+        "@id": "http://www.wikidata.org/entity/Q7176691"
+      },
+      {
+        "@id": "http://www.wikidata.org/entity/Q16193398"
+      },
+      {
+        "@id": "http://www.wikidata.org/entity/Q5537629"
+      },
+      {
+        "@id": "http://www.wikidata.org/entity/Q734221"
+      }
+    ],
+    "http://www.wikidata.org/prop/direct/P162": [
+      {
+        "@id": "http://www.wikidata.org/entity/Q6152857"
+      },
+      {
+        "@id": "http://www.wikidata.org/entity/Q5562914"
+      }
+    ],
+    "http://www.wikidata.org/prop/direct/P31": [
+      {
+        "@id": "http://www.wikidata.org/entity/Q11424"
+      }
+    ],
+    "http://www.wikidata.org/prop/direct/P3156": [
+      {
+        "@id": "http://www.wikidata.org/entity/Q26708076"
+      }
+    ],
+    "http://www.wikidata.org/prop/direct/P344": [
+      {
+        "@id": "http://www.wikidata.org/entity/Q5238384"
+      }
+    ],
+    "http://www.wikidata.org/prop/direct/P462": [
+      {
+        "@id": "http://www.wikidata.org/entity/Q22006653"
+      }
+    ],
+    "http://www.wikidata.org/prop/direct/P57": [
+      {
+        "@id": "http://www.wikidata.org/entity/Q28839849"
+      }
+    ],
+    "http://www.wikidata.org/prop/direct/P577": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "2012-09-06T00:00:00+00:00"
+      }
+    ],
+    "http://www.wikidata.org/prop/direct/P58": [
+      {
+        "@id": "http://www.wikidata.org/entity/Q2482522"
+      },
+      {
+        "@id": "http://www.wikidata.org/entity/Q5562914"
+      },
+      {
+        "@id": "http://www.wikidata.org/entity/Q6152857"
+      }
+    ],
+    "http://www.wikidata.org/prop/direct/P86": [
+      {
+        "@id": "http://www.wikidata.org/entity/Q117286063"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q22006653",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "color"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q28839849",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Ted Emery"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q380856",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Richard E. Grant"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q5490460",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Frank Woodley"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q5569072",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Glenn Robbins"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q5537629",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "George Calombaris"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q7687583",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Tasneem Roc"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q6838341",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Mick Molloy"
+      }
+    ]
+  }
+]

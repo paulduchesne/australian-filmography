@@ -1,0 +1,153 @@
+[
+  {
+    "@id": "http://www.wikidata.org/entity/Q34411664",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Three Summers"
+      }
+    ],
+    "http://www.wikidata.org/prop/direct/P136": [
+      {
+        "@id": "http://www.wikidata.org/entity/Q860626"
+      }
+    ],
+    "http://www.wikidata.org/prop/direct/P161": [
+      {
+        "@id": "http://www.wikidata.org/entity/Q6386601"
+      },
+      {
+        "@id": "http://www.wikidata.org/entity/Q568179"
+      },
+      {
+        "@id": "http://www.wikidata.org/entity/Q3308100"
+      },
+      {
+        "@id": "http://www.wikidata.org/entity/Q315855"
+      },
+      {
+        "@id": "http://www.wikidata.org/entity/Q452805"
+      },
+      {
+        "@id": "http://www.wikidata.org/entity/Q2482522"
+      },
+      {
+        "@id": "http://www.wikidata.org/entity/Q253358"
+      },
+      {
+        "@id": "http://www.wikidata.org/entity/Q363876"
+      }
+    ],
+    "http://www.wikidata.org/prop/direct/P31": [
+      {
+        "@id": "http://www.wikidata.org/entity/Q11424"
+      }
+    ],
+    "http://www.wikidata.org/prop/direct/P57": [
+      {
+        "@id": "http://www.wikidata.org/entity/Q436712"
+      }
+    ],
+    "http://www.wikidata.org/prop/direct/P577": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "2017-11-02T00:00:00+00:00"
+      }
+    ],
+    "http://www.wikidata.org/prop/direct/P58": [
+      {
+        "@id": "http://www.wikidata.org/entity/Q436712"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q452805",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Rebecca Breeds"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q436712",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Ben Elton"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q860626",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "romantic comedy"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q6386601",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Kelton Pell"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q3308100",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Michael Caton"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q253358",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Jacqueline McKenzie"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q315855",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Robert Sheehan"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q2482522",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Magda Szubanski"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q568179",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Deborah Mailman"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q363876",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "John Waters"
+      }
+    ]
+  }
+]

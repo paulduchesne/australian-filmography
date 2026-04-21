@@ -1,0 +1,160 @@
+[
+  {
+    "@id": "http://www.wikidata.org/entity/Q7027179",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Nick Giannopoulos"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q5175046",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Costas Kilias"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q22006653",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "color"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q7931468",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Vince Colosimo"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q15808023",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Emile Sherman"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q8029053",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Wog Boy 2: Kings of Mykonos"
+      }
+    ],
+    "http://www.wikidata.org/prop/direct/P136": [
+      {
+        "@id": "http://www.wikidata.org/entity/Q157443"
+      }
+    ],
+    "http://www.wikidata.org/prop/direct/P161": [
+      {
+        "@id": "http://www.wikidata.org/entity/Q5202673"
+      },
+      {
+        "@id": "http://www.wikidata.org/entity/Q5175046"
+      },
+      {
+        "@id": "http://www.wikidata.org/entity/Q7931468"
+      },
+      {
+        "@id": "http://www.wikidata.org/entity/Q1644578"
+      },
+      {
+        "@id": "http://www.wikidata.org/entity/Q7027179"
+      },
+      {
+        "@id": "http://www.wikidata.org/entity/Q313655"
+      }
+    ],
+    "http://www.wikidata.org/prop/direct/P162": [
+      {
+        "@id": "http://www.wikidata.org/entity/Q7027179"
+      },
+      {
+        "@id": "http://www.wikidata.org/entity/Q15808023"
+      }
+    ],
+    "http://www.wikidata.org/prop/direct/P31": [
+      {
+        "@id": "http://www.wikidata.org/entity/Q11424"
+      }
+    ],
+    "http://www.wikidata.org/prop/direct/P462": [
+      {
+        "@id": "http://www.wikidata.org/entity/Q22006653"
+      }
+    ],
+    "http://www.wikidata.org/prop/direct/P57": [
+      {
+        "@id": "http://www.wikidata.org/entity/Q7172533"
+      }
+    ],
+    "http://www.wikidata.org/prop/direct/P577": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "2010-05-20T00:00:00+00:00"
+      }
+    ],
+    "http://www.wikidata.org/prop/direct/P58": [
+      {
+        "@id": "http://www.wikidata.org/entity/Q7027179"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q5202673",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Zeta Makripoulia"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q157443",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "comedy film"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q1644578",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Alex Dimitriades"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q7172533",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Peter Andrikidis"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q313655",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Kevin Sorbo"
+      }
+    ]
+  }
+]

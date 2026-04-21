@@ -1,0 +1,295 @@
+[
+  {
+    "@id": "http://www.wikidata.org/entity/Q236097",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Abbie Cornish"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q6708816",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Lynette Curran"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q16617143",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Paul Gleeson"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q16613501",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Olivia Pigeot"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q1513503",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Somersault"
+      }
+    ],
+    "http://www.wikidata.org/prop/direct/P136": [
+      {
+        "@id": "http://www.wikidata.org/entity/Q130232"
+      },
+      {
+        "@id": "http://www.wikidata.org/entity/Q1146335"
+      }
+    ],
+    "http://www.wikidata.org/prop/direct/P161": [
+      {
+        "@id": "http://www.wikidata.org/entity/Q82085"
+      },
+      {
+        "@id": "http://www.wikidata.org/entity/Q1624829"
+      },
+      {
+        "@id": "http://www.wikidata.org/entity/Q927052"
+      },
+      {
+        "@id": "http://www.wikidata.org/entity/Q1607082"
+      },
+      {
+        "@id": "http://www.wikidata.org/entity/Q236097"
+      },
+      {
+        "@id": "http://www.wikidata.org/entity/Q446063"
+      },
+      {
+        "@id": "http://www.wikidata.org/entity/Q4354552"
+      },
+      {
+        "@id": "http://www.wikidata.org/entity/Q1810579"
+      },
+      {
+        "@id": "http://www.wikidata.org/entity/Q3709675"
+      },
+      {
+        "@id": "http://www.wikidata.org/entity/Q6147787"
+      },
+      {
+        "@id": "http://www.wikidata.org/entity/Q16613501"
+      },
+      {
+        "@id": "http://www.wikidata.org/entity/Q4116946"
+      },
+      {
+        "@id": "http://www.wikidata.org/entity/Q16617143"
+      },
+      {
+        "@id": "http://www.wikidata.org/entity/Q6708816"
+      }
+    ],
+    "http://www.wikidata.org/prop/direct/P162": [
+      {
+        "@id": "http://www.wikidata.org/entity/Q313918"
+      },
+      {
+        "@id": "http://www.wikidata.org/entity/Q3161628"
+      }
+    ],
+    "http://www.wikidata.org/prop/direct/P31": [
+      {
+        "@id": "http://www.wikidata.org/entity/Q11424"
+      }
+    ],
+    "http://www.wikidata.org/prop/direct/P462": [
+      {
+        "@id": "http://www.wikidata.org/entity/Q22006653"
+      }
+    ],
+    "http://www.wikidata.org/prop/direct/P57": [
+      {
+        "@id": "http://www.wikidata.org/entity/Q441510"
+      }
+    ],
+    "http://www.wikidata.org/prop/direct/P577": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "2005-05-19T00:00:00+00:00"
+      },
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "2004-05-17T00:00:00+00:00"
+      }
+    ],
+    "http://www.wikidata.org/prop/direct/P58": [
+      {
+        "@id": "http://www.wikidata.org/entity/Q441510"
+      }
+    ],
+    "http://www.wikidata.org/prop/direct/P86": [
+      {
+        "@id": "http://www.wikidata.org/entity/Q5249536"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q5249536",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Decoder Ring"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q3161628",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Jan Chapman"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q446063",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Anne-Louise Lambert"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q22006653",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "color"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q927052",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Erik Thomson"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q441510",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Cate Shortland"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q82085",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Sam Worthington"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q130232",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "drama film"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q313918",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Anthony Anderson"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q1146335",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "teen film"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q6147787",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Toby Schmitz"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q1607082",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Henry Nixon"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q1810579",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Leah Purcell"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q1624829",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Hollie Andrew"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q4354552",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Damian De Montemas"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q3709675",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Nathaniel Dean"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q4116946",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Diana Glenn"
+      }
+    ]
+  }
+]

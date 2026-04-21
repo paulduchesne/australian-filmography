@@ -1,0 +1,212 @@
+[
+  {
+    "@id": "http://www.wikidata.org/entity/Q3807402",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Jason Gann"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q113139208",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Darren Ashton"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q82085",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Sam Worthington"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q21062414",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "2.35:1"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q3814774",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Kestie Morassi"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q22006653",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "color"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q272112",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Saskia Burmeister"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q457905",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Bojana Novaković"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q932490",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Callan Mulvey"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q1087366",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Nick Sheppard"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q345970",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "John Doyle"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q5212833",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Damon Gameau"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q505053",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Thunderstruck"
+      }
+    ],
+    "http://www.wikidata.org/prop/direct/P136": [
+      {
+        "@id": "http://www.wikidata.org/entity/Q157443"
+      }
+    ],
+    "http://www.wikidata.org/prop/direct/P161": [
+      {
+        "@id": "http://www.wikidata.org/entity/Q3807402"
+      },
+      {
+        "@id": "http://www.wikidata.org/entity/Q9071492"
+      },
+      {
+        "@id": "http://www.wikidata.org/entity/Q5573861"
+      },
+      {
+        "@id": "http://www.wikidata.org/entity/Q272112"
+      },
+      {
+        "@id": "http://www.wikidata.org/entity/Q457905"
+      },
+      {
+        "@id": "http://www.wikidata.org/entity/Q3814774"
+      },
+      {
+        "@id": "http://www.wikidata.org/entity/Q1087366"
+      },
+      {
+        "@id": "http://www.wikidata.org/entity/Q82085"
+      },
+      {
+        "@id": "http://www.wikidata.org/entity/Q5212833"
+      },
+      {
+        "@id": "http://www.wikidata.org/entity/Q345970"
+      },
+      {
+        "@id": "http://www.wikidata.org/entity/Q932490"
+      }
+    ],
+    "http://www.wikidata.org/prop/direct/P2061": [
+      {
+        "@id": "http://www.wikidata.org/entity/Q21062414"
+      }
+    ],
+    "http://www.wikidata.org/prop/direct/P31": [
+      {
+        "@id": "http://www.wikidata.org/entity/Q11424"
+      }
+    ],
+    "http://www.wikidata.org/prop/direct/P462": [
+      {
+        "@id": "http://www.wikidata.org/entity/Q22006653"
+      }
+    ],
+    "http://www.wikidata.org/prop/direct/P57": [
+      {
+        "@id": "http://www.wikidata.org/entity/Q113139208"
+      }
+    ],
+    "http://www.wikidata.org/prop/direct/P577": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "2004-01-01T00:00:00+00:00"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q157443",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "comedy film"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q5573861",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Stephen Curry"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q9071492",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Ryan Johnson"
+      }
+    ]
+  }
+]

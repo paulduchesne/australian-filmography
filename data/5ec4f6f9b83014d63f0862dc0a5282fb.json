@@ -1,0 +1,334 @@
+[
+  {
+    "@id": "http://www.wikidata.org/entity/Q6239287",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "John Hill"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q1368884",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Simon Wincer"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q3531696",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Tony Bonner"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q816565",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Ben Mendelsohn"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q619445",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Chris Haywood"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q6829116",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Michael Carman"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q106481",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Alan Rickman"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q1544448",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Quigley Down Under"
+      }
+    ],
+    "http://www.wikidata.org/prop/direct/P136": [
+      {
+        "@id": "http://www.wikidata.org/entity/Q172980"
+      }
+    ],
+    "http://www.wikidata.org/prop/direct/P161": [
+      {
+        "@id": "http://www.wikidata.org/entity/Q2161934"
+      },
+      {
+        "@id": "http://www.wikidata.org/entity/Q6829116"
+      },
+      {
+        "@id": "http://www.wikidata.org/entity/Q6451604"
+      },
+      {
+        "@id": "http://www.wikidata.org/entity/Q234220"
+      },
+      {
+        "@id": "http://www.wikidata.org/entity/Q6369598"
+      },
+      {
+        "@id": "http://www.wikidata.org/entity/Q5220081"
+      },
+      {
+        "@id": "http://www.wikidata.org/entity/Q1687735"
+      },
+      {
+        "@id": "http://www.wikidata.org/entity/Q2892345"
+      },
+      {
+        "@id": "http://www.wikidata.org/entity/Q213706"
+      },
+      {
+        "@id": "http://www.wikidata.org/entity/Q619445"
+      },
+      {
+        "@id": "http://www.wikidata.org/entity/Q2985403"
+      },
+      {
+        "@id": "http://www.wikidata.org/entity/Q106481"
+      },
+      {
+        "@id": "http://www.wikidata.org/entity/Q6274560"
+      },
+      {
+        "@id": "http://www.wikidata.org/entity/Q3531696"
+      },
+      {
+        "@id": "http://www.wikidata.org/entity/Q816565"
+      },
+      {
+        "@id": "http://www.wikidata.org/entity/Q16015833"
+      }
+    ],
+    "http://www.wikidata.org/prop/direct/P31": [
+      {
+        "@id": "http://www.wikidata.org/entity/Q11424"
+      }
+    ],
+    "http://www.wikidata.org/prop/direct/P3156": [
+      {
+        "@id": "http://www.wikidata.org/entity/Q26708077"
+      }
+    ],
+    "http://www.wikidata.org/prop/direct/P344": [
+      {
+        "@id": "http://www.wikidata.org/entity/Q1174309"
+      }
+    ],
+    "http://www.wikidata.org/prop/direct/P462": [
+      {
+        "@id": "http://www.wikidata.org/entity/Q22006653"
+      }
+    ],
+    "http://www.wikidata.org/prop/direct/P57": [
+      {
+        "@id": "http://www.wikidata.org/entity/Q1368884"
+      }
+    ],
+    "http://www.wikidata.org/prop/direct/P577": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "1990-01-01T00:00:00+00:00"
+      },
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "1990-10-17T00:00:00+00:00"
+      },
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "1990-10-19T00:00:00+00:00"
+      },
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "1991-04-11T00:00:00+00:00"
+      },
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "1991-04-12T00:00:00+00:00"
+      },
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "1991-06-13T00:00:00+00:00"
+      }
+    ],
+    "http://www.wikidata.org/prop/direct/P58": [
+      {
+        "@id": "http://www.wikidata.org/entity/Q6239287"
+      }
+    ],
+    "http://www.wikidata.org/prop/direct/P86": [
+      {
+        "@id": "http://www.wikidata.org/entity/Q83906"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q2161934",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Roger Ward"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q22006653",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "color"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q2892345",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Ron Haddrick"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q234220",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Laura San Giacomo"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q83906",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Basil Poledouris"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q1174309",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "David Eggby"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q6274560",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Jonathan Sweet"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q213706",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Tom Selleck"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q2985403",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Steve Dodd"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q1687735",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Jerome Ehlers"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q172980",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Western film"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q5220081",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Danny Adcock"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q6369598",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Karen Davitt"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q6451604",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Kylie Foster"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q16015833",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Vic Gordon"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q26708077",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "M"
+      }
+    ]
+  }
+]

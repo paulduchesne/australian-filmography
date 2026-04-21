@@ -1,0 +1,534 @@
+[
+  {
+    "@id": "http://www.wikidata.org/entity/Q707158",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Nathan Jones"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q21062414",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "2.35:1"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q5799862",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Josh Helman"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q208026",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Tom Hardy"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q2065707",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Hugh Keays-Byrne"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q4960985",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Brendan McCarthy"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q1757288",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Mad Max: Fury Road"
+      }
+    ],
+    "http://www.wikidata.org/prop/direct/P1040": [
+      {
+        "@id": "http://www.wikidata.org/entity/Q20020631"
+      }
+    ],
+    "http://www.wikidata.org/prop/direct/P136": [
+      {
+        "@id": "http://www.wikidata.org/entity/Q471839"
+      },
+      {
+        "@id": "http://www.wikidata.org/entity/Q1341051"
+      },
+      {
+        "@id": "http://www.wikidata.org/entity/Q188473"
+      },
+      {
+        "@id": "http://www.wikidata.org/entity/Q20443008"
+      },
+      {
+        "@id": "http://www.wikidata.org/entity/Q319221"
+      }
+    ],
+    "http://www.wikidata.org/prop/direct/P161": [
+      {
+        "@id": "http://www.wikidata.org/entity/Q16193207"
+      },
+      {
+        "@id": "http://www.wikidata.org/entity/Q6812748"
+      },
+      {
+        "@id": "http://www.wikidata.org/entity/Q16728739"
+      },
+      {
+        "@id": "http://www.wikidata.org/entity/Q7324644"
+      },
+      {
+        "@id": "http://www.wikidata.org/entity/Q5670833"
+      },
+      {
+        "@id": "http://www.wikidata.org/entity/Q2065707"
+      },
+      {
+        "@id": "http://www.wikidata.org/entity/Q5799862"
+      },
+      {
+        "@id": "http://www.wikidata.org/entity/Q5972922"
+      },
+      {
+        "@id": "http://www.wikidata.org/entity/Q1710007"
+      },
+      {
+        "@id": "http://www.wikidata.org/entity/Q2245838"
+      },
+      {
+        "@id": "http://www.wikidata.org/entity/Q5562241"
+      },
+      {
+        "@id": "http://www.wikidata.org/entity/Q4764239"
+      },
+      {
+        "@id": "http://www.wikidata.org/entity/Q707158"
+      },
+      {
+        "@id": "http://www.wikidata.org/entity/Q479451"
+      },
+      {
+        "@id": "http://www.wikidata.org/entity/Q212006"
+      },
+      {
+        "@id": "http://www.wikidata.org/entity/Q254947"
+      },
+      {
+        "@id": "http://www.wikidata.org/entity/Q298347"
+      },
+      {
+        "@id": "http://www.wikidata.org/entity/Q227129"
+      },
+      {
+        "@id": "http://www.wikidata.org/entity/Q208026"
+      },
+      {
+        "@id": "http://www.wikidata.org/entity/Q35358"
+      },
+      {
+        "@id": "http://www.wikidata.org/entity/Q80046"
+      }
+    ],
+    "http://www.wikidata.org/prop/direct/P162": [
+      {
+        "@id": "http://www.wikidata.org/entity/Q446960"
+      },
+      {
+        "@id": "http://www.wikidata.org/entity/Q3147204"
+      },
+      {
+        "@id": "http://www.wikidata.org/entity/Q5112210"
+      },
+      {
+        "@id": "http://www.wikidata.org/entity/Q16935134"
+      },
+      {
+        "@id": "http://www.wikidata.org/entity/Q4977147"
+      }
+    ],
+    "http://www.wikidata.org/prop/direct/P2061": [
+      {
+        "@id": "http://www.wikidata.org/entity/Q21062414"
+      }
+    ],
+    "http://www.wikidata.org/prop/direct/P31": [
+      {
+        "@id": "http://www.wikidata.org/entity/Q11424"
+      }
+    ],
+    "http://www.wikidata.org/prop/direct/P3156": [
+      {
+        "@id": "http://www.wikidata.org/entity/Q26708078"
+      }
+    ],
+    "http://www.wikidata.org/prop/direct/P344": [
+      {
+        "@id": "http://www.wikidata.org/entity/Q918558"
+      }
+    ],
+    "http://www.wikidata.org/prop/direct/P462": [
+      {
+        "@id": "http://www.wikidata.org/entity/Q22006653"
+      }
+    ],
+    "http://www.wikidata.org/prop/direct/P57": [
+      {
+        "@id": "http://www.wikidata.org/entity/Q446960"
+      }
+    ],
+    "http://www.wikidata.org/prop/direct/P577": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "2015-05-13T00:00:00+00:00"
+      },
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "2015-05-14T00:00:00+00:00"
+      },
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "2015-05-15T00:00:00+00:00"
+      },
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "2015-05-21T00:00:00+00:00"
+      },
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "2015-05-22T00:00:00+00:00"
+      }
+    ],
+    "http://www.wikidata.org/prop/direct/P58": [
+      {
+        "@id": "http://www.wikidata.org/entity/Q7028802"
+      },
+      {
+        "@id": "http://www.wikidata.org/entity/Q446960"
+      },
+      {
+        "@id": "http://www.wikidata.org/entity/Q4960985"
+      }
+    ],
+    "http://www.wikidata.org/prop/direct/P86": [
+      {
+        "@id": "http://www.wikidata.org/entity/Q266429"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q16728739",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Courtney Eaton"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q16193207",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Lee Perry"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q7028802",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Nico Lathouris"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q1710007",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Joy Smithers"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q5972922",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "iOTA"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q7324644",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Richard Carter"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q4977147",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Bruce Berman"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q5112210",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Christopher DeFaria"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q6812748",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Melissa Jaffer"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q4764239",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Angus Sampson"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q918558",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "John Seale"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q5562241",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Gillian Jones"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q20443008",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "dystopian film"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q298347",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Nicholas Hoult"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q2245838",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Megan Gale"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q26708078",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "MA 15+"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q16935134",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Doug Mitchell"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q227129",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Zoë Kravitz"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q266429",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Junkie XL"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q20020631",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Margaret Sixel"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q80046",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Charlize Theron"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q471839",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "science fiction film"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q319221",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "adventure film"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q212006",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Rosie Huntington-Whiteley"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q5670833",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "John Howard"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q1341051",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "post-apocalyptic film"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q22006653",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "color"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q35358",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Richard Norton"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q446960",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "George Miller"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q3147204",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Iain Smith"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q254947",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Riley Keough"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q188473",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "action film"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q479451",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Abbey Lee"
+      }
+    ]
+  }
+]

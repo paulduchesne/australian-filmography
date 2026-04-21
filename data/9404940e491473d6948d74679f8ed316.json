@@ -1,0 +1,163 @@
+[
+  {
+    "@id": "http://www.wikidata.org/entity/Q9033587",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Mirrah Foulkes"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q89104082",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Benedict Hardie"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q53094",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "black comedy"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q7704856",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Terry Norris"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q61450786",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Judy and Punch"
+      }
+    ],
+    "http://www.wikidata.org/prop/direct/P1040": [
+      {
+        "@id": "http://www.wikidata.org/entity/Q16728382"
+      }
+    ],
+    "http://www.wikidata.org/prop/direct/P136": [
+      {
+        "@id": "http://www.wikidata.org/entity/Q53094"
+      }
+    ],
+    "http://www.wikidata.org/prop/direct/P161": [
+      {
+        "@id": "http://www.wikidata.org/entity/Q5562241"
+      },
+      {
+        "@id": "http://www.wikidata.org/entity/Q1093867"
+      },
+      {
+        "@id": "http://www.wikidata.org/entity/Q7704856"
+      },
+      {
+        "@id": "http://www.wikidata.org/entity/Q58264751"
+      },
+      {
+        "@id": "http://www.wikidata.org/entity/Q89104082"
+      },
+      {
+        "@id": "http://www.wikidata.org/entity/Q7815122"
+      },
+      {
+        "@id": "http://www.wikidata.org/entity/Q228865"
+      }
+    ],
+    "http://www.wikidata.org/prop/direct/P31": [
+      {
+        "@id": "http://www.wikidata.org/entity/Q11424"
+      }
+    ],
+    "http://www.wikidata.org/prop/direct/P57": [
+      {
+        "@id": "http://www.wikidata.org/entity/Q9033587"
+      }
+    ],
+    "http://www.wikidata.org/prop/direct/P577": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "2019-11-21T00:00:00+00:00"
+      },
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "2020-06-05T00:00:00+00:00"
+      },
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "2020-08-28T00:00:00+00:00"
+      }
+    ],
+    "http://www.wikidata.org/prop/direct/P58": [
+      {
+        "@id": "http://www.wikidata.org/entity/Q9033587"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q5562241",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Gillian Jones"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q16728382",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Dany Cooper"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q1093867",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Damon Herriman"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q228865",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Mia Wasikowska"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q58264751",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Eddie Baroo"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q7815122",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Tom Budge"
+      }
+    ]
+  }
+]

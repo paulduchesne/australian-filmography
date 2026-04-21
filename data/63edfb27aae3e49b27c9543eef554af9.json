@@ -1,0 +1,279 @@
+[
+  {
+    "@id": "http://www.wikidata.org/entity/Q83435615",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Terry Lim"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q6838341",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Mick Molloy"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q749526",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Gary Sweet"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q2424724",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Matt Doran"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q130232",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "drama film"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q4932463",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Bob Franklin"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q507519",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Geoffrey Wright"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q7926776",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Victoria Hill"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q2948641",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Damian Walshe-Howling"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q82085",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Sam Worthington"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q52424030",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Hanna Griffiths"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q5968695",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Lachy Hulme"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q5181501",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Craig Stott"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q26944612",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Chloe Armstrong"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q54612794",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "John Clifford White"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q443947",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Kate Bell"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q22006653",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "color"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q6134233",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Steve Bastoni"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q6775403",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Martin Fabinyi"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q3841961",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Macbeth"
+      }
+    ],
+    "http://www.wikidata.org/prop/direct/P136": [
+      {
+        "@id": "http://www.wikidata.org/entity/Q130232"
+      }
+    ],
+    "http://www.wikidata.org/prop/direct/P161": [
+      {
+        "@id": "http://www.wikidata.org/entity/Q6134233"
+      },
+      {
+        "@id": "http://www.wikidata.org/entity/Q5968695"
+      },
+      {
+        "@id": "http://www.wikidata.org/entity/Q7926776"
+      },
+      {
+        "@id": "http://www.wikidata.org/entity/Q82085"
+      },
+      {
+        "@id": "http://www.wikidata.org/entity/Q443947"
+      },
+      {
+        "@id": "http://www.wikidata.org/entity/Q52424030"
+      },
+      {
+        "@id": "http://www.wikidata.org/entity/Q26944612"
+      },
+      {
+        "@id": "http://www.wikidata.org/entity/Q749526"
+      },
+      {
+        "@id": "http://www.wikidata.org/entity/Q313508"
+      },
+      {
+        "@id": "http://www.wikidata.org/entity/Q2948641"
+      },
+      {
+        "@id": "http://www.wikidata.org/entity/Q83435615"
+      },
+      {
+        "@id": "http://www.wikidata.org/entity/Q2424724"
+      },
+      {
+        "@id": "http://www.wikidata.org/entity/Q6838341"
+      },
+      {
+        "@id": "http://www.wikidata.org/entity/Q5181501"
+      },
+      {
+        "@id": "http://www.wikidata.org/entity/Q4932463"
+      }
+    ],
+    "http://www.wikidata.org/prop/direct/P162": [
+      {
+        "@id": "http://www.wikidata.org/entity/Q6775403"
+      }
+    ],
+    "http://www.wikidata.org/prop/direct/P31": [
+      {
+        "@id": "http://www.wikidata.org/entity/Q11424"
+      }
+    ],
+    "http://www.wikidata.org/prop/direct/P462": [
+      {
+        "@id": "http://www.wikidata.org/entity/Q22006653"
+      }
+    ],
+    "http://www.wikidata.org/prop/direct/P57": [
+      {
+        "@id": "http://www.wikidata.org/entity/Q507519"
+      }
+    ],
+    "http://www.wikidata.org/prop/direct/P577": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "2006-01-01T00:00:00+00:00"
+      }
+    ],
+    "http://www.wikidata.org/prop/direct/P58": [
+      {
+        "@id": "http://www.wikidata.org/entity/Q507519"
+      }
+    ],
+    "http://www.wikidata.org/prop/direct/P86": [
+      {
+        "@id": "http://www.wikidata.org/entity/Q54612794"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q313508",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Chris Vance"
+      }
+    ]
+  }
+]

@@ -1,0 +1,182 @@
+[
+  {
+    "@id": "http://www.wikidata.org/entity/Q4303595",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Japanese Story"
+      }
+    ],
+    "http://www.wikidata.org/prop/direct/P1040": [
+      {
+        "@id": "http://www.wikidata.org/entity/Q280870"
+      }
+    ],
+    "http://www.wikidata.org/prop/direct/P136": [
+      {
+        "@id": "http://www.wikidata.org/entity/Q130232"
+      }
+    ],
+    "http://www.wikidata.org/prop/direct/P161": [
+      {
+        "@id": "http://www.wikidata.org/entity/Q6375339"
+      },
+      {
+        "@id": "http://www.wikidata.org/entity/Q6790442"
+      },
+      {
+        "@id": "http://www.wikidata.org/entity/Q11607137"
+      },
+      {
+        "@id": "http://www.wikidata.org/entity/Q229291"
+      },
+      {
+        "@id": "http://www.wikidata.org/entity/Q6708816"
+      }
+    ],
+    "http://www.wikidata.org/prop/direct/P162": [
+      {
+        "@id": "http://www.wikidata.org/entity/Q101084895"
+      }
+    ],
+    "http://www.wikidata.org/prop/direct/P31": [
+      {
+        "@id": "http://www.wikidata.org/entity/Q11424"
+      }
+    ],
+    "http://www.wikidata.org/prop/direct/P344": [
+      {
+        "@id": "http://www.wikidata.org/entity/Q1655440"
+      }
+    ],
+    "http://www.wikidata.org/prop/direct/P57": [
+      {
+        "@id": "http://www.wikidata.org/entity/Q7634026"
+      }
+    ],
+    "http://www.wikidata.org/prop/direct/P577": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "2003-05-19T00:00:00+00:00"
+      }
+    ],
+    "http://www.wikidata.org/prop/direct/P58": [
+      {
+        "@id": "http://www.wikidata.org/entity/Q105098566"
+      }
+    ],
+    "http://www.wikidata.org/prop/direct/P86": [
+      {
+        "@id": "http://www.wikidata.org/entity/Q51320908"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q51320908",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Elizabeth Drake"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q1655440",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Ian Baker"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q105098566",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Alison Tilson"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q101084895",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Sue Maslin"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q11607137",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Gōtarō Tsunashima"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q130232",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "drama film"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q280870",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Jill Bilcock"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q6375339",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Kate Atkinson"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q6708816",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Lynette Curran"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q229291",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Toni Collette"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q6790442",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Matthew Dyktynski"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q7634026",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Sue Brooks"
+      }
+    ]
+  }
+]

@@ -1,0 +1,192 @@
+[
+  {
+    "@id": "http://www.wikidata.org/entity/Q40572",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Heath Ledger"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q2840676",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Alyssa-Jane Cook"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q10388422",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Harry Cripps"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q1898931",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Mario Millo"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q6948200",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Myriam Francois"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q276114",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Rachael Blake"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q7417264",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Sandy Gore"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q298838",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Billy Connolly"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q6372399",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Karl Zwicky"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q4259423",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Nathan Cavaleri"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q2143665",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "children's film"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q3050175",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Paws"
+      }
+    ],
+    "http://www.wikidata.org/prop/direct/P136": [
+      {
+        "@id": "http://www.wikidata.org/entity/Q2143665"
+      }
+    ],
+    "http://www.wikidata.org/prop/direct/P161": [
+      {
+        "@id": "http://www.wikidata.org/entity/Q2840676"
+      },
+      {
+        "@id": "http://www.wikidata.org/entity/Q6948200"
+      },
+      {
+        "@id": "http://www.wikidata.org/entity/Q7417264"
+      },
+      {
+        "@id": "http://www.wikidata.org/entity/Q298838"
+      },
+      {
+        "@id": "http://www.wikidata.org/entity/Q40572"
+      },
+      {
+        "@id": "http://www.wikidata.org/entity/Q4259423"
+      },
+      {
+        "@id": "http://www.wikidata.org/entity/Q276114"
+      }
+    ],
+    "http://www.wikidata.org/prop/direct/P31": [
+      {
+        "@id": "http://www.wikidata.org/entity/Q11424"
+      }
+    ],
+    "http://www.wikidata.org/prop/direct/P3156": [
+      {
+        "@id": "http://www.wikidata.org/entity/Q26708076"
+      }
+    ],
+    "http://www.wikidata.org/prop/direct/P462": [
+      {
+        "@id": "http://www.wikidata.org/entity/Q22006653"
+      }
+    ],
+    "http://www.wikidata.org/prop/direct/P57": [
+      {
+        "@id": "http://www.wikidata.org/entity/Q6372399"
+      }
+    ],
+    "http://www.wikidata.org/prop/direct/P577": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "1997-01-01T00:00:00+00:00"
+      }
+    ],
+    "http://www.wikidata.org/prop/direct/P58": [
+      {
+        "@id": "http://www.wikidata.org/entity/Q10388422"
+      }
+    ],
+    "http://www.wikidata.org/prop/direct/P86": [
+      {
+        "@id": "http://www.wikidata.org/entity/Q1898931"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q22006653",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "color"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q26708076",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "PG"
+      }
+    ]
+  }
+]

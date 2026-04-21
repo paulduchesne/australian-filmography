@@ -1,0 +1,30 @@
+[
+  {
+    "@id": "http://www.wikidata.org/entity/Q107570772",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "The Gateway"
+      }
+    ],
+    "http://www.wikidata.org/prop/direct/P31": [
+      {
+        "@id": "http://www.wikidata.org/entity/Q11424"
+      }
+    ],
+    "http://www.wikidata.org/prop/direct/P57": [
+      {
+        "@id": "http://www.wikidata.org/entity/Q6261681"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q6261681",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "John V. Soto"
+      }
+    ]
+  }
+]

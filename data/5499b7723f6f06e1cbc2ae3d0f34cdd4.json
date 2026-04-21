@@ -1,0 +1,355 @@
+[
+  {
+    "@id": "http://www.wikidata.org/entity/Q2294057",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Sleeping Beauty"
+      }
+    ],
+    "http://www.wikidata.org/prop/direct/P136": [
+      {
+        "@id": "http://www.wikidata.org/entity/Q599558"
+      },
+      {
+        "@id": "http://www.wikidata.org/entity/Q130232"
+      }
+    ],
+    "http://www.wikidata.org/prop/direct/P161": [
+      {
+        "@id": "http://www.wikidata.org/entity/Q276114"
+      },
+      {
+        "@id": "http://www.wikidata.org/entity/Q619445"
+      },
+      {
+        "@id": "http://www.wikidata.org/entity/Q4888070"
+      },
+      {
+        "@id": "http://www.wikidata.org/entity/Q6038647"
+      },
+      {
+        "@id": "http://www.wikidata.org/entity/Q7681602"
+      },
+      {
+        "@id": "http://www.wikidata.org/entity/Q966678"
+      },
+      {
+        "@id": "http://www.wikidata.org/entity/Q7173190"
+      },
+      {
+        "@id": "http://www.wikidata.org/entity/Q3308158"
+      },
+      {
+        "@id": "http://www.wikidata.org/entity/Q5958953"
+      },
+      {
+        "@id": "http://www.wikidata.org/entity/Q2065707"
+      },
+      {
+        "@id": "http://www.wikidata.org/entity/Q7158177"
+      },
+      {
+        "@id": "http://www.wikidata.org/entity/Q1607082"
+      },
+      {
+        "@id": "http://www.wikidata.org/entity/Q7831792"
+      },
+      {
+        "@id": "http://www.wikidata.org/entity/Q7422787"
+      },
+      {
+        "@id": "http://www.wikidata.org/entity/Q425840"
+      },
+      {
+        "@id": "http://www.wikidata.org/entity/Q9033587"
+      },
+      {
+        "@id": "http://www.wikidata.org/entity/Q288620"
+      },
+      {
+        "@id": "http://www.wikidata.org/entity/Q5418987"
+      },
+      {
+        "@id": "http://www.wikidata.org/entity/Q16239360"
+      },
+      {
+        "@id": "http://www.wikidata.org/entity/Q11716813"
+      }
+    ],
+    "http://www.wikidata.org/prop/direct/P31": [
+      {
+        "@id": "http://www.wikidata.org/entity/Q11424"
+      }
+    ],
+    "http://www.wikidata.org/prop/direct/P344": [
+      {
+        "@id": "http://www.wikidata.org/entity/Q3105259"
+      }
+    ],
+    "http://www.wikidata.org/prop/direct/P462": [
+      {
+        "@id": "http://www.wikidata.org/entity/Q22006653"
+      }
+    ],
+    "http://www.wikidata.org/prop/direct/P57": [
+      {
+        "@id": "http://www.wikidata.org/entity/Q3189051"
+      }
+    ],
+    "http://www.wikidata.org/prop/direct/P577": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "2011-01-01T00:00:00+00:00"
+      },
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "2012-06-18T00:00:00+00:00"
+      }
+    ],
+    "http://www.wikidata.org/prop/direct/P58": [
+      {
+        "@id": "http://www.wikidata.org/entity/Q3189051"
+      }
+    ],
+    "http://www.wikidata.org/prop/direct/P86": [
+      {
+        "@id": "http://www.wikidata.org/entity/Q4493066"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q425840",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Hannah Wang"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q619445",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Chris Haywood"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q966678",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Joel Tobeck"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q276114",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Rachael Blake"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q6038647",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Nathan Page"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q3105259",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Geoffrey Simpson"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q7158177",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Pearl Tan"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q16239360",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Justin Smith"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q9033587",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Mirrah Foulkes"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q22006653",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "color"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q4888070",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Benita Collings"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q11716813",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Jamie Timony"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q7831792",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Tracy Mann"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q130232",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "drama film"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q7173190",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Peter Carroll"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q1607082",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Henry Nixon"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q4493066",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Ben Frost"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q3189051",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Julia Leigh"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q2065707",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Hugh Keays-Byrne"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q5958953",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Kelly Paterniti"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q7422787",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Sarah Snook"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q3308158",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Michael Dorman"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q5418987",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Ewen Leslie"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q7681602",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Tammy MacIntosh"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q288620",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Emily Browning"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q599558",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "erotic film"
+      }
+    ]
+  }
+]

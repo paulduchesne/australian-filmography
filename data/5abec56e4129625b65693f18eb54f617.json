@@ -1,0 +1,254 @@
+[
+  {
+    "@id": "http://www.wikidata.org/entity/Q235351",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Greta Scacchi"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q3854221",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Melina Marchetta"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q308124",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Anthony LaPaglia"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q3721404",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Elena Cotta"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q6404221",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Kick Gurry"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q157327",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Silverchair"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q130232",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "drama film"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q529706",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Pia Miranda"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q6006487",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Matthew Newton"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q6986037",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Ned Manning"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q61969115",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Toby Oliver"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q275182",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Leeanna Walsman"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q102429885",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "coming-of-age film"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q16267452",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Kerry Walker"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q834367",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Looking for Alibrandi"
+      }
+    ],
+    "http://www.wikidata.org/prop/direct/P136": [
+      {
+        "@id": "http://www.wikidata.org/entity/Q130232"
+      },
+      {
+        "@id": "http://www.wikidata.org/entity/Q102429885"
+      }
+    ],
+    "http://www.wikidata.org/prop/direct/P161": [
+      {
+        "@id": "http://www.wikidata.org/entity/Q235351"
+      },
+      {
+        "@id": "http://www.wikidata.org/entity/Q308124"
+      },
+      {
+        "@id": "http://www.wikidata.org/entity/Q6006487"
+      },
+      {
+        "@id": "http://www.wikidata.org/entity/Q275182"
+      },
+      {
+        "@id": "http://www.wikidata.org/entity/Q16267452"
+      },
+      {
+        "@id": "http://www.wikidata.org/entity/Q6404221"
+      },
+      {
+        "@id": "http://www.wikidata.org/entity/Q529706"
+      },
+      {
+        "@id": "http://www.wikidata.org/entity/Q5534242"
+      },
+      {
+        "@id": "http://www.wikidata.org/entity/Q3721404"
+      },
+      {
+        "@id": "http://www.wikidata.org/entity/Q6986037"
+      }
+    ],
+    "http://www.wikidata.org/prop/direct/P162": [
+      {
+        "@id": "http://www.wikidata.org/entity/Q16257727"
+      }
+    ],
+    "http://www.wikidata.org/prop/direct/P31": [
+      {
+        "@id": "http://www.wikidata.org/entity/Q11424"
+      }
+    ],
+    "http://www.wikidata.org/prop/direct/P344": [
+      {
+        "@id": "http://www.wikidata.org/entity/Q61969115"
+      }
+    ],
+    "http://www.wikidata.org/prop/direct/P462": [
+      {
+        "@id": "http://www.wikidata.org/entity/Q22006653"
+      }
+    ],
+    "http://www.wikidata.org/prop/direct/P57": [
+      {
+        "@id": "http://www.wikidata.org/entity/Q6375868"
+      }
+    ],
+    "http://www.wikidata.org/prop/direct/P577": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "2000-05-04T00:00:00+00:00"
+      }
+    ],
+    "http://www.wikidata.org/prop/direct/P58": [
+      {
+        "@id": "http://www.wikidata.org/entity/Q3854221"
+      }
+    ],
+    "http://www.wikidata.org/prop/direct/P86": [
+      {
+        "@id": "http://www.wikidata.org/entity/Q157327"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q22006653",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "color"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q6375868",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Kate Woods"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q16257727",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Robyn Kershaw"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q5534242",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Geoff Morrell"
+      }
+    ]
+  }
+]

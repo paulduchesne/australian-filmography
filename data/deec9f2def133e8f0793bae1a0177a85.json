@@ -1,0 +1,300 @@
+[
+  {
+    "@id": "http://www.wikidata.org/entity/Q42779507",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Nick Remy Matthews"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q62635802",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Julie Ryan"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q16732400",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Peter McNulty"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q560163",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Anupam Kher"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q21290522",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Gary Hamilton"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q2484376",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "thriller film"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q27703167",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Hotel Mumbai"
+      }
+    ],
+    "http://www.wikidata.org/prop/direct/P1040": [
+      {
+        "@id": "http://www.wikidata.org/entity/Q4773006"
+      },
+      {
+        "@id": "http://www.wikidata.org/entity/Q16732400"
+      }
+    ],
+    "http://www.wikidata.org/prop/direct/P136": [
+      {
+        "@id": "http://www.wikidata.org/entity/Q645928"
+      },
+      {
+        "@id": "http://www.wikidata.org/entity/Q2484376"
+      },
+      {
+        "@id": "http://www.wikidata.org/entity/Q130232"
+      }
+    ],
+    "http://www.wikidata.org/prop/direct/P161": [
+      {
+        "@id": "http://www.wikidata.org/entity/Q560163"
+      },
+      {
+        "@id": "http://www.wikidata.org/entity/Q1189102"
+      },
+      {
+        "@id": "http://www.wikidata.org/entity/Q374273"
+      },
+      {
+        "@id": "http://www.wikidata.org/entity/Q23712229"
+      },
+      {
+        "@id": "http://www.wikidata.org/entity/Q245075"
+      },
+      {
+        "@id": "http://www.wikidata.org/entity/Q214223"
+      }
+    ],
+    "http://www.wikidata.org/prop/direct/P162": [
+      {
+        "@id": "http://www.wikidata.org/entity/Q62635749"
+      },
+      {
+        "@id": "http://www.wikidata.org/entity/Q62635733"
+      },
+      {
+        "@id": "http://www.wikidata.org/entity/Q62635771"
+      },
+      {
+        "@id": "http://www.wikidata.org/entity/Q52714247"
+      },
+      {
+        "@id": "http://www.wikidata.org/entity/Q62635802"
+      },
+      {
+        "@id": "http://www.wikidata.org/entity/Q21290522"
+      }
+    ],
+    "http://www.wikidata.org/prop/direct/P31": [
+      {
+        "@id": "http://www.wikidata.org/entity/Q11424"
+      }
+    ],
+    "http://www.wikidata.org/prop/direct/P344": [
+      {
+        "@id": "http://www.wikidata.org/entity/Q42779507"
+      }
+    ],
+    "http://www.wikidata.org/prop/direct/P57": [
+      {
+        "@id": "http://www.wikidata.org/entity/Q4773006"
+      }
+    ],
+    "http://www.wikidata.org/prop/direct/P577": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "2018-01-01T00:00:00+00:00"
+      },
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "2019-03-29T00:00:00+00:00"
+      },
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "2019-04-11T00:00:00+00:00"
+      },
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "2019-06-21T00:00:00+00:00"
+      },
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "2019-09-27T00:00:00+00:00"
+      }
+    ],
+    "http://www.wikidata.org/prop/direct/P58": [
+      {
+        "@id": "http://www.wikidata.org/entity/Q4773006"
+      },
+      {
+        "@id": "http://www.wikidata.org/entity/Q6226674"
+      }
+    ],
+    "http://www.wikidata.org/prop/direct/P86": [
+      {
+        "@id": "http://www.wikidata.org/entity/Q91573"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q91573",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Hauschka"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q245075",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Dev Patel"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q4773006",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Anthony Maras"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q52714247",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Basil Iwanyk"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q1189102",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Nazanin Boniadi"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q130232",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "drama film"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q62635733",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Andrew Ogilvie"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q62635771",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Mike Gabrawy"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q23712229",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Tilda Cobham-Hervey"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q62635749",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Jomon Thomas"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q6226674",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "John Collee"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q374273",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Armie Hammer"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q645928",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "biographical film"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q214223",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Jason Isaacs"
+      }
+    ]
+  }
+]

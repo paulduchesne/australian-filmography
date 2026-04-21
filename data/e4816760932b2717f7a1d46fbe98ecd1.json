@@ -1,0 +1,389 @@
+[
+  {
+    "@id": "http://www.wikidata.org/entity/Q2035268",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Ryan Corr"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q732915",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Cem Yılmaz"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q735511",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Yılmaz Erdoğan"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q21062414",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "2.35:1"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q3308158",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Michael Dorman"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q1093867",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Damon Herriman"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q1174736",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "David Hirschfelder"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q28753726",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Andrew Anastasios"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q6134233",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Steve Bastoni"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q19664538",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Özcan Özdemir"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q505940",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Andrew Lesnie"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q253358",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Jacqueline McKenzie"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q138140",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Deniz Akdeniz"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q164730",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Olga Kurylenko"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q24809513",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Andrew Mason"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q2245838",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Megan Gale"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q19662954",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Matt Villa"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q129817",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Russell Crowe"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q521053",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Robert Mammone"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q5219133",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Daniel Wyllie"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q15411503",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "The Water Diviner"
+      }
+    ],
+    "http://www.wikidata.org/prop/direct/P1040": [
+      {
+        "@id": "http://www.wikidata.org/entity/Q19662954"
+      }
+    ],
+    "http://www.wikidata.org/prop/direct/P136": [
+      {
+        "@id": "http://www.wikidata.org/entity/Q130232"
+      }
+    ],
+    "http://www.wikidata.org/prop/direct/P161": [
+      {
+        "@id": "http://www.wikidata.org/entity/Q129817"
+      },
+      {
+        "@id": "http://www.wikidata.org/entity/Q604849"
+      },
+      {
+        "@id": "http://www.wikidata.org/entity/Q164730"
+      },
+      {
+        "@id": "http://www.wikidata.org/entity/Q732915"
+      },
+      {
+        "@id": "http://www.wikidata.org/entity/Q138140"
+      },
+      {
+        "@id": "http://www.wikidata.org/entity/Q229416"
+      },
+      {
+        "@id": "http://www.wikidata.org/entity/Q735511"
+      },
+      {
+        "@id": "http://www.wikidata.org/entity/Q1093867"
+      },
+      {
+        "@id": "http://www.wikidata.org/entity/Q521053"
+      },
+      {
+        "@id": "http://www.wikidata.org/entity/Q2245838"
+      },
+      {
+        "@id": "http://www.wikidata.org/entity/Q5219133"
+      },
+      {
+        "@id": "http://www.wikidata.org/entity/Q19664538"
+      },
+      {
+        "@id": "http://www.wikidata.org/entity/Q6580242"
+      },
+      {
+        "@id": "http://www.wikidata.org/entity/Q2035268"
+      },
+      {
+        "@id": "http://www.wikidata.org/entity/Q3101803"
+      },
+      {
+        "@id": "http://www.wikidata.org/entity/Q2111286"
+      },
+      {
+        "@id": "http://www.wikidata.org/entity/Q6134233"
+      },
+      {
+        "@id": "http://www.wikidata.org/entity/Q253358"
+      },
+      {
+        "@id": "http://www.wikidata.org/entity/Q3308158"
+      }
+    ],
+    "http://www.wikidata.org/prop/direct/P162": [
+      {
+        "@id": "http://www.wikidata.org/entity/Q24809513"
+      }
+    ],
+    "http://www.wikidata.org/prop/direct/P2061": [
+      {
+        "@id": "http://www.wikidata.org/entity/Q21062414"
+      }
+    ],
+    "http://www.wikidata.org/prop/direct/P31": [
+      {
+        "@id": "http://www.wikidata.org/entity/Q11424"
+      }
+    ],
+    "http://www.wikidata.org/prop/direct/P344": [
+      {
+        "@id": "http://www.wikidata.org/entity/Q505940"
+      }
+    ],
+    "http://www.wikidata.org/prop/direct/P462": [
+      {
+        "@id": "http://www.wikidata.org/entity/Q22006653"
+      }
+    ],
+    "http://www.wikidata.org/prop/direct/P57": [
+      {
+        "@id": "http://www.wikidata.org/entity/Q129817"
+      }
+    ],
+    "http://www.wikidata.org/prop/direct/P577": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "2015-07-30T00:00:00+00:00"
+      },
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "2014-01-01T00:00:00+00:00"
+      },
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "2015-05-07T00:00:00+00:00"
+      }
+    ],
+    "http://www.wikidata.org/prop/direct/P58": [
+      {
+        "@id": "http://www.wikidata.org/entity/Q19609585"
+      },
+      {
+        "@id": "http://www.wikidata.org/entity/Q28753726"
+      }
+    ],
+    "http://www.wikidata.org/prop/direct/P86": [
+      {
+        "@id": "http://www.wikidata.org/entity/Q1174736"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q6580242",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Salih Kalyon"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q130232",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "drama film"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q19609585",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Andrew Knight"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q604849",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Jai Courtney"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q3101803",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "George Ogilvie"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q22006653",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "color"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q229416",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Isabel Lucas"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q2111286",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Max Benitz"
+      }
+    ]
+  }
+]

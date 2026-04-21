@@ -1,0 +1,167 @@
+[
+  {
+    "@id": "http://www.wikidata.org/entity/Q28534209",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Matthew Cardarople"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q104559206",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "biographical drama film"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q67171163",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "I Am Woman"
+      }
+    ],
+    "http://www.wikidata.org/prop/direct/P136": [
+      {
+        "@id": "http://www.wikidata.org/entity/Q104559206"
+      }
+    ],
+    "http://www.wikidata.org/prop/direct/P161": [
+      {
+        "@id": "http://www.wikidata.org/entity/Q98669383"
+      },
+      {
+        "@id": "http://www.wikidata.org/entity/Q20745002"
+      },
+      {
+        "@id": "http://www.wikidata.org/entity/Q19866631"
+      },
+      {
+        "@id": "http://www.wikidata.org/entity/Q1077635"
+      },
+      {
+        "@id": "http://www.wikidata.org/entity/Q28534209"
+      },
+      {
+        "@id": "http://www.wikidata.org/entity/Q23712229"
+      },
+      {
+        "@id": "http://www.wikidata.org/entity/Q785270"
+      }
+    ],
+    "http://www.wikidata.org/prop/direct/P162": [
+      {
+        "@id": "http://www.wikidata.org/entity/Q7368315"
+      },
+      {
+        "@id": "http://www.wikidata.org/entity/Q79436197"
+      }
+    ],
+    "http://www.wikidata.org/prop/direct/P31": [
+      {
+        "@id": "http://www.wikidata.org/entity/Q11424"
+      }
+    ],
+    "http://www.wikidata.org/prop/direct/P344": [
+      {
+        "@id": "http://www.wikidata.org/entity/Q1226913"
+      }
+    ],
+    "http://www.wikidata.org/prop/direct/P57": [
+      {
+        "@id": "http://www.wikidata.org/entity/Q79436197"
+      }
+    ],
+    "http://www.wikidata.org/prop/direct/P577": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "2019-09-05T00:00:00+00:00"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q785270",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Evan Peters"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q23712229",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Tilda Cobham-Hervey"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q79436197",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Unjoo Moon"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q7368315",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Rosemary Blight"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q1226913",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Dion Beebe"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q19866631",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Rita Rani Ahuja"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q20745002",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Danielle Macdonald"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q98669383",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Chelsea Cullen"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q1077635",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Chris Parnell"
+      }
+    ]
+  }
+]

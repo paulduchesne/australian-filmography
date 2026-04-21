@@ -1,0 +1,278 @@
+[
+  {
+    "@id": "http://www.wikidata.org/entity/Q7823063",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Tony Nikolakopoulos"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q117868151",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Paul Glen"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q117851606",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Lawrence Johnston"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q5240494",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "David Tredinnick"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q6544652",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Life"
+      }
+    ],
+    "http://www.wikidata.org/prop/direct/P161": [
+      {
+        "@id": "http://www.wikidata.org/entity/Q117866322"
+      },
+      {
+        "@id": "http://www.wikidata.org/entity/Q117867799"
+      },
+      {
+        "@id": "http://www.wikidata.org/entity/Q7347796"
+      },
+      {
+        "@id": "http://www.wikidata.org/entity/Q7823063"
+      },
+      {
+        "@id": "http://www.wikidata.org/entity/Q117866498"
+      },
+      {
+        "@id": "http://www.wikidata.org/entity/Q117866646"
+      },
+      {
+        "@id": "http://www.wikidata.org/entity/Q117868151"
+      },
+      {
+        "@id": "http://www.wikidata.org/entity/Q117866847"
+      },
+      {
+        "@id": "http://www.wikidata.org/entity/Q117867100"
+      },
+      {
+        "@id": "http://www.wikidata.org/entity/Q5974713"
+      },
+      {
+        "@id": "http://www.wikidata.org/entity/Q16201074"
+      },
+      {
+        "@id": "http://www.wikidata.org/entity/Q117867488"
+      },
+      {
+        "@id": "http://www.wikidata.org/entity/Q4882899"
+      },
+      {
+        "@id": "http://www.wikidata.org/entity/Q60649899"
+      },
+      {
+        "@id": "http://www.wikidata.org/entity/Q7171594"
+      },
+      {
+        "@id": "http://www.wikidata.org/entity/Q2553120"
+      },
+      {
+        "@id": "http://www.wikidata.org/entity/Q5240494"
+      }
+    ],
+    "http://www.wikidata.org/prop/direct/P31": [
+      {
+        "@id": "http://www.wikidata.org/entity/Q11424"
+      }
+    ],
+    "http://www.wikidata.org/prop/direct/P462": [
+      {
+        "@id": "http://www.wikidata.org/entity/Q22006653"
+      }
+    ],
+    "http://www.wikidata.org/prop/direct/P57": [
+      {
+        "@id": "http://www.wikidata.org/entity/Q117851606"
+      }
+    ],
+    "http://www.wikidata.org/prop/direct/P577": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "1996-01-01T00:00:00+00:00"
+      }
+    ],
+    "http://www.wikidata.org/prop/direct/P58": [
+      {
+        "@id": "http://www.wikidata.org/entity/Q117851606"
+      },
+      {
+        "@id": "http://www.wikidata.org/entity/Q16201074"
+      }
+    ],
+    "http://www.wikidata.org/prop/direct/P86": [
+      {
+        "@id": "http://www.wikidata.org/entity/Q54612794"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q117867799",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Dino Marnika"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q4882899",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Belinda McClory"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q16201074",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "John Brumpton"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q7171594",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Peta Doodson"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q117866847",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Luke Elliot"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q117866498",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Noel Jordan"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q117866322",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Kevin Hopkins"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q2553120",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Wayne Rodda"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q7347796",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Robert Morgan"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q5974713",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Libby Tanner"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q117866646",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Jeff Kovski"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q54612794",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "John Clifford White"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q60649899",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Ian Scott"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q117867100",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Colin Mitchell"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q117867488",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Bob Halsall"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q22006653",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "color"
+      }
+    ]
+  }
+]

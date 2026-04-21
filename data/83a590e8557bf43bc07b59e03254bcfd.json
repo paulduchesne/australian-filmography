@@ -1,0 +1,504 @@
+[
+  {
+    "@id": "http://www.wikidata.org/entity/Q2514268",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Iain Canning"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q296328",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "David Wenham"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q6378956",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Kaushik Sen"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q15808023",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Emile Sherman"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q7127780",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Pallavi Sharda"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q20740655",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Priyanka Bose"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q5219216",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Daniela Farinacci"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q130232",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "drama film"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q23651358",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Garth Davis"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q181484",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Sia"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q29019732",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Sunny Pawar"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q17715100",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Greig Fraser"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q6116670",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Sachin Joab"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q108486103",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Keshav Jadhav"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q245075",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Dev Patel"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q7683695",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Tannishtha Chatterjee"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q2995800",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Nawazuddin Siddiqui"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q3267059",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Luke Davies"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q110657835",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Rita Boy"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q30110166",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Divian Ladwa"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q28839907",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Angie Fielder"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q65718493",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Arka Das"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q65718515",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Emilie Cocquerel"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q645928",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "biographical film"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q16226200",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Todd Sampson"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q25999409",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Benjamin Rigby"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q26708076",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "PG"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q22006653",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "color"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q91573",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Hauschka"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q7332372",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Riddhi Sen"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q58120689",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Abhishek Bharate"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q5250658",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Deepti Naval"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q23013699",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Lion"
+      }
+    ],
+    "http://www.wikidata.org/prop/direct/P136": [
+      {
+        "@id": "http://www.wikidata.org/entity/Q645928"
+      },
+      {
+        "@id": "http://www.wikidata.org/entity/Q130232"
+      }
+    ],
+    "http://www.wikidata.org/prop/direct/P161": [
+      {
+        "@id": "http://www.wikidata.org/entity/Q30110166"
+      },
+      {
+        "@id": "http://www.wikidata.org/entity/Q7683695"
+      },
+      {
+        "@id": "http://www.wikidata.org/entity/Q65718493"
+      },
+      {
+        "@id": "http://www.wikidata.org/entity/Q29019732"
+      },
+      {
+        "@id": "http://www.wikidata.org/entity/Q7332372"
+      },
+      {
+        "@id": "http://www.wikidata.org/entity/Q16226200"
+      },
+      {
+        "@id": "http://www.wikidata.org/entity/Q65718515"
+      },
+      {
+        "@id": "http://www.wikidata.org/entity/Q7127780"
+      },
+      {
+        "@id": "http://www.wikidata.org/entity/Q20740655"
+      },
+      {
+        "@id": "http://www.wikidata.org/entity/Q58138871"
+      },
+      {
+        "@id": "http://www.wikidata.org/entity/Q25999409"
+      },
+      {
+        "@id": "http://www.wikidata.org/entity/Q58120689"
+      },
+      {
+        "@id": "http://www.wikidata.org/entity/Q6010260"
+      },
+      {
+        "@id": "http://www.wikidata.org/entity/Q5219216"
+      },
+      {
+        "@id": "http://www.wikidata.org/entity/Q110657835"
+      },
+      {
+        "@id": "http://www.wikidata.org/entity/Q108486103"
+      },
+      {
+        "@id": "http://www.wikidata.org/entity/Q6378956"
+      },
+      {
+        "@id": "http://www.wikidata.org/entity/Q296328"
+      },
+      {
+        "@id": "http://www.wikidata.org/entity/Q2995800"
+      },
+      {
+        "@id": "http://www.wikidata.org/entity/Q5250658"
+      },
+      {
+        "@id": "http://www.wikidata.org/entity/Q6116670"
+      },
+      {
+        "@id": "http://www.wikidata.org/entity/Q245075"
+      },
+      {
+        "@id": "http://www.wikidata.org/entity/Q228766"
+      },
+      {
+        "@id": "http://www.wikidata.org/entity/Q37459"
+      }
+    ],
+    "http://www.wikidata.org/prop/direct/P162": [
+      {
+        "@id": "http://www.wikidata.org/entity/Q15808023"
+      },
+      {
+        "@id": "http://www.wikidata.org/entity/Q28839907"
+      },
+      {
+        "@id": "http://www.wikidata.org/entity/Q2514268"
+      }
+    ],
+    "http://www.wikidata.org/prop/direct/P31": [
+      {
+        "@id": "http://www.wikidata.org/entity/Q11424"
+      }
+    ],
+    "http://www.wikidata.org/prop/direct/P3156": [
+      {
+        "@id": "http://www.wikidata.org/entity/Q26708076"
+      }
+    ],
+    "http://www.wikidata.org/prop/direct/P344": [
+      {
+        "@id": "http://www.wikidata.org/entity/Q17715100"
+      }
+    ],
+    "http://www.wikidata.org/prop/direct/P462": [
+      {
+        "@id": "http://www.wikidata.org/entity/Q22006653"
+      }
+    ],
+    "http://www.wikidata.org/prop/direct/P57": [
+      {
+        "@id": "http://www.wikidata.org/entity/Q23651358"
+      }
+    ],
+    "http://www.wikidata.org/prop/direct/P577": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "2015-07-01T00:00:00+00:00"
+      },
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "2016-09-10T00:00:00+00:00"
+      },
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "2017-01-19T00:00:00+00:00"
+      },
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "2017-02-09T00:00:00+00:00"
+      },
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "2017-02-16T00:00:00+00:00"
+      },
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "2017-02-23T00:00:00+00:00"
+      }
+    ],
+    "http://www.wikidata.org/prop/direct/P58": [
+      {
+        "@id": "http://www.wikidata.org/entity/Q3267059"
+      }
+    ],
+    "http://www.wikidata.org/prop/direct/P86": [
+      {
+        "@id": "http://www.wikidata.org/entity/Q770687"
+      },
+      {
+        "@id": "http://www.wikidata.org/entity/Q91573"
+      },
+      {
+        "@id": "http://www.wikidata.org/entity/Q181484"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q37459",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Nicole Kidman"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q6010260",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Menik Gooneratne"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q58138871",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Khushi Solanki"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q228766",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Rooney Mara"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q770687",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Dustin O'Halloran"
+      }
+    ]
+  }
+]

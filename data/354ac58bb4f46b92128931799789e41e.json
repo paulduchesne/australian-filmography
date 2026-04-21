@@ -1,0 +1,321 @@
+[
+  {
+    "@id": "http://www.wikidata.org/entity/Q4682184",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Aden Young"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q545146",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Pauline Chan"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q447176",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Johanna ter Steege"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q229714",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Julianna Margulies"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q80966",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Cate Blanchett"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q163122",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Ross Edwards"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q369747",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "war film"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q456329",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Sab Shimono"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q372311",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Glenn Close"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q235721",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Jennifer Ehle"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q204299",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Frances McDormand"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q661591",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Clyde Kusatsu"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q22006653",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "color"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q3505686",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Susie Porter"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q130232",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "drama film"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q23020159",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Sue Milliken"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q7163398",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Penne Hackforth-Jones"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q1970669",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Paradise Road"
+      }
+    ],
+    "http://www.wikidata.org/prop/direct/P136": [
+      {
+        "@id": "http://www.wikidata.org/entity/Q130232"
+      },
+      {
+        "@id": "http://www.wikidata.org/entity/Q369747"
+      }
+    ],
+    "http://www.wikidata.org/prop/direct/P161": [
+      {
+        "@id": "http://www.wikidata.org/entity/Q80966"
+      },
+      {
+        "@id": "http://www.wikidata.org/entity/Q661591"
+      },
+      {
+        "@id": "http://www.wikidata.org/entity/Q447176"
+      },
+      {
+        "@id": "http://www.wikidata.org/entity/Q456329"
+      },
+      {
+        "@id": "http://www.wikidata.org/entity/Q3505686"
+      },
+      {
+        "@id": "http://www.wikidata.org/entity/Q229714"
+      },
+      {
+        "@id": "http://www.wikidata.org/entity/Q545146"
+      },
+      {
+        "@id": "http://www.wikidata.org/entity/Q242705"
+      },
+      {
+        "@id": "http://www.wikidata.org/entity/Q266520"
+      },
+      {
+        "@id": "http://www.wikidata.org/entity/Q276365"
+      },
+      {
+        "@id": "http://www.wikidata.org/entity/Q372311"
+      },
+      {
+        "@id": "http://www.wikidata.org/entity/Q6774110"
+      },
+      {
+        "@id": "http://www.wikidata.org/entity/Q235721"
+      },
+      {
+        "@id": "http://www.wikidata.org/entity/Q4682184"
+      },
+      {
+        "@id": "http://www.wikidata.org/entity/Q7163398"
+      },
+      {
+        "@id": "http://www.wikidata.org/entity/Q204299"
+      }
+    ],
+    "http://www.wikidata.org/prop/direct/P162": [
+      {
+        "@id": "http://www.wikidata.org/entity/Q23020159"
+      }
+    ],
+    "http://www.wikidata.org/prop/direct/P31": [
+      {
+        "@id": "http://www.wikidata.org/entity/Q11424"
+      }
+    ],
+    "http://www.wikidata.org/prop/direct/P344": [
+      {
+        "@id": "http://www.wikidata.org/entity/Q2076005"
+      }
+    ],
+    "http://www.wikidata.org/prop/direct/P462": [
+      {
+        "@id": "http://www.wikidata.org/entity/Q22006653"
+      }
+    ],
+    "http://www.wikidata.org/prop/direct/P57": [
+      {
+        "@id": "http://www.wikidata.org/entity/Q449220"
+      }
+    ],
+    "http://www.wikidata.org/prop/direct/P577": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "1997-01-01T00:00:00+00:00"
+      },
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "1997-11-20T00:00:00+00:00"
+      }
+    ],
+    "http://www.wikidata.org/prop/direct/P58": [
+      {
+        "@id": "http://www.wikidata.org/entity/Q449220"
+      }
+    ],
+    "http://www.wikidata.org/prop/direct/P86": [
+      {
+        "@id": "http://www.wikidata.org/entity/Q163122"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q266520",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Nicholas Hammond"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q2076005",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Peter James"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q449220",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Bruce Beresford"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q242705",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Pauline Collins"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q6774110",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Marta Dusseldorp"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q276365",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Wendy Hughes"
+      }
+    ]
+  }
+]

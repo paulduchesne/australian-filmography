@@ -1,0 +1,164 @@
+[
+  {
+    "@id": "http://www.wikidata.org/entity/Q22323661",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Peter Templeman"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q12126653",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Not Suitable for Children"
+      }
+    ],
+    "http://www.wikidata.org/prop/direct/P136": [
+      {
+        "@id": "http://www.wikidata.org/entity/Q860626"
+      }
+    ],
+    "http://www.wikidata.org/prop/direct/P161": [
+      {
+        "@id": "http://www.wikidata.org/entity/Q382257"
+      },
+      {
+        "@id": "http://www.wikidata.org/entity/Q2035268"
+      },
+      {
+        "@id": "http://www.wikidata.org/entity/Q7422787"
+      },
+      {
+        "@id": "http://www.wikidata.org/entity/Q39992"
+      },
+      {
+        "@id": "http://www.wikidata.org/entity/Q457905"
+      },
+      {
+        "@id": "http://www.wikidata.org/entity/Q6377008"
+      },
+      {
+        "@id": "http://www.wikidata.org/entity/Q5217472"
+      }
+    ],
+    "http://www.wikidata.org/prop/direct/P31": [
+      {
+        "@id": "http://www.wikidata.org/entity/Q11424"
+      }
+    ],
+    "http://www.wikidata.org/prop/direct/P462": [
+      {
+        "@id": "http://www.wikidata.org/entity/Q22006653"
+      }
+    ],
+    "http://www.wikidata.org/prop/direct/P57": [
+      {
+        "@id": "http://www.wikidata.org/entity/Q22323661"
+      }
+    ],
+    "http://www.wikidata.org/prop/direct/P577": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "2012-01-01T00:00:00+00:00"
+      }
+    ],
+    "http://www.wikidata.org/prop/direct/P58": [
+      {
+        "@id": "http://www.wikidata.org/entity/Q578414"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q457905",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Bojana Novaković"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q382257",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Ryan Kwanten"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q860626",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "romantic comedy"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q578414",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Michael Lucas"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q7422787",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Sarah Snook"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q2035268",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Ryan Corr"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q39992",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Clare Bowen"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q5217472",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Daniel Henshall"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q6377008",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Kathryn Beck"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q22006653",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "color"
+      }
+    ]
+  }
+]

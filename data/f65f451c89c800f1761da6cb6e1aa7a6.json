@@ -1,0 +1,329 @@
+[
+  {
+    "@id": "http://www.wikidata.org/entity/Q725688",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Ashleigh Cummings"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q16540905",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Don Halbert"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q138140",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Deniz Akdeniz"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q288652",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Caitlin Stasey"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q21062414",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "2.35:1"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q2484376",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "thriller film"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q4758472",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Andrew Ryan"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q185723",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Phoebe Tonkin"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q6758117",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Marcus D'Arcy"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q16613501",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Olivia Pigeot"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q234947",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Rachel Hurd-Wood"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q2719725",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Stuart Beattie"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q22006653",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "color"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q977651",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "John Marsden"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q115993",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Tomorrow, When the War Began"
+      }
+    ],
+    "http://www.wikidata.org/prop/direct/P1040": [
+      {
+        "@id": "http://www.wikidata.org/entity/Q6758117"
+      }
+    ],
+    "http://www.wikidata.org/prop/direct/P136": [
+      {
+        "@id": "http://www.wikidata.org/entity/Q369747"
+      },
+      {
+        "@id": "http://www.wikidata.org/entity/Q188473"
+      },
+      {
+        "@id": "http://www.wikidata.org/entity/Q319221"
+      },
+      {
+        "@id": "http://www.wikidata.org/entity/Q2484376"
+      },
+      {
+        "@id": "http://www.wikidata.org/entity/Q1146335"
+      }
+    ],
+    "http://www.wikidata.org/prop/direct/P161": [
+      {
+        "@id": "http://www.wikidata.org/entity/Q4758472"
+      },
+      {
+        "@id": "http://www.wikidata.org/entity/Q1394456"
+      },
+      {
+        "@id": "http://www.wikidata.org/entity/Q16215157"
+      },
+      {
+        "@id": "http://www.wikidata.org/entity/Q16613501"
+      },
+      {
+        "@id": "http://www.wikidata.org/entity/Q288652"
+      },
+      {
+        "@id": "http://www.wikidata.org/entity/Q4761051"
+      },
+      {
+        "@id": "http://www.wikidata.org/entity/Q16540905"
+      },
+      {
+        "@id": "http://www.wikidata.org/entity/Q138140"
+      },
+      {
+        "@id": "http://www.wikidata.org/entity/Q725688"
+      },
+      {
+        "@id": "http://www.wikidata.org/entity/Q1108476"
+      },
+      {
+        "@id": "http://www.wikidata.org/entity/Q185723"
+      },
+      {
+        "@id": "http://www.wikidata.org/entity/Q234947"
+      }
+    ],
+    "http://www.wikidata.org/prop/direct/P2061": [
+      {
+        "@id": "http://www.wikidata.org/entity/Q21062414"
+      }
+    ],
+    "http://www.wikidata.org/prop/direct/P31": [
+      {
+        "@id": "http://www.wikidata.org/entity/Q11424"
+      }
+    ],
+    "http://www.wikidata.org/prop/direct/P462": [
+      {
+        "@id": "http://www.wikidata.org/entity/Q22006653"
+      }
+    ],
+    "http://www.wikidata.org/prop/direct/P57": [
+      {
+        "@id": "http://www.wikidata.org/entity/Q2719725"
+      }
+    ],
+    "http://www.wikidata.org/prop/direct/P577": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "2010-01-01T00:00:00+00:00"
+      }
+    ],
+    "http://www.wikidata.org/prop/direct/P58": [
+      {
+        "@id": "http://www.wikidata.org/entity/Q977651"
+      },
+      {
+        "@id": "http://www.wikidata.org/entity/Q2719725"
+      }
+    ],
+    "http://www.wikidata.org/prop/direct/P86": [
+      {
+        "@id": "http://www.wikidata.org/entity/Q879456"
+      },
+      {
+        "@id": "http://www.wikidata.org/entity/Q1702351"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q1108476",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Colin Friels"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q1394456",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Lincoln Lewis"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q16215157",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Masa Yamaguchi"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q1702351",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Johnny Klimek"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q4761051",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Andy Minh Trieu"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q188473",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "action film"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q319221",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "adventure film"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q879456",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Reinhold Heil"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q369747",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "war film"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q1146335",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "teen film"
+      }
+    ]
+  }
+]

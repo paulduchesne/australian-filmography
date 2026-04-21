@@ -1,0 +1,273 @@
+[
+  {
+    "@id": "http://www.wikidata.org/entity/Q22006653",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "color"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q20442589",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "LGBTQ-related film"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q4750388",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Ana Kokkinos"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q2700562",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Head On"
+      }
+    ],
+    "http://www.wikidata.org/prop/direct/P1040": [
+      {
+        "@id": "http://www.wikidata.org/entity/Q280870"
+      }
+    ],
+    "http://www.wikidata.org/prop/direct/P136": [
+      {
+        "@id": "http://www.wikidata.org/entity/Q130232"
+      },
+      {
+        "@id": "http://www.wikidata.org/entity/Q20442589"
+      }
+    ],
+    "http://www.wikidata.org/prop/direct/P161": [
+      {
+        "@id": "http://www.wikidata.org/entity/Q39006441"
+      },
+      {
+        "@id": "http://www.wikidata.org/entity/Q1644578"
+      },
+      {
+        "@id": "http://www.wikidata.org/entity/Q3154316"
+      },
+      {
+        "@id": "http://www.wikidata.org/entity/Q16563798"
+      },
+      {
+        "@id": "http://www.wikidata.org/entity/Q60836794"
+      },
+      {
+        "@id": "http://www.wikidata.org/entity/Q7823063"
+      },
+      {
+        "@id": "http://www.wikidata.org/entity/Q4717603"
+      },
+      {
+        "@id": "http://www.wikidata.org/entity/Q7149711"
+      },
+      {
+        "@id": "http://www.wikidata.org/entity/Q5212431"
+      },
+      {
+        "@id": "http://www.wikidata.org/entity/Q6761429"
+      }
+    ],
+    "http://www.wikidata.org/prop/direct/P162": [
+      {
+        "@id": "http://www.wikidata.org/entity/Q8462137"
+      }
+    ],
+    "http://www.wikidata.org/prop/direct/P31": [
+      {
+        "@id": "http://www.wikidata.org/entity/Q11424"
+      }
+    ],
+    "http://www.wikidata.org/prop/direct/P462": [
+      {
+        "@id": "http://www.wikidata.org/entity/Q22006653"
+      }
+    ],
+    "http://www.wikidata.org/prop/direct/P57": [
+      {
+        "@id": "http://www.wikidata.org/entity/Q4750388"
+      }
+    ],
+    "http://www.wikidata.org/prop/direct/P577": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "2000-07-27T00:00:00+00:00"
+      },
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "1998-01-01T00:00:00+00:00"
+      }
+    ],
+    "http://www.wikidata.org/prop/direct/P58": [
+      {
+        "@id": "http://www.wikidata.org/entity/Q503841"
+      },
+      {
+        "@id": "http://www.wikidata.org/entity/Q1087159"
+      },
+      {
+        "@id": "http://www.wikidata.org/entity/Q4750388"
+      }
+    ],
+    "http://www.wikidata.org/prop/direct/P86": [
+      {
+        "@id": "http://www.wikidata.org/entity/Q7088360"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q3154316",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Irene Grazioli"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q6761429",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Maria Mercedes"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q7823063",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Tony Nikolakopoulos"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q16563798",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Julian Garner"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q8462137",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Jane Scott"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q130232",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "drama film"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q503841",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Andrew Bovell"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q60836794",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Elena Mandalis"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q5212431",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Damien Fotiou"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q1644578",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Alex Dimitriades"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q39006441",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "William Zappa"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q7088360",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Ollie Olsen"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q7149711",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Paul Capsis"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q280870",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Jill Bilcock"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q4717603",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Alex Papps"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q1087159",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Christos Tsiolkas"
+      }
+    ]
+  }
+]

@@ -1,0 +1,91 @@
+[
+  {
+    "@id": "http://www.wikidata.org/entity/Q1108476",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Colin Friels"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q132636570",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "The Nothing Men"
+      }
+    ],
+    "http://www.wikidata.org/prop/direct/P1040": [
+      {
+        "@id": "http://www.wikidata.org/entity/Q130718684"
+      }
+    ],
+    "http://www.wikidata.org/prop/direct/P161": [
+      {
+        "@id": "http://www.wikidata.org/entity/Q14902479"
+      },
+      {
+        "@id": "http://www.wikidata.org/entity/Q6002252"
+      },
+      {
+        "@id": "http://www.wikidata.org/entity/Q7561916"
+      },
+      {
+        "@id": "http://www.wikidata.org/entity/Q1108476"
+      }
+    ],
+    "http://www.wikidata.org/prop/direct/P162": [
+      {
+        "@id": "http://www.wikidata.org/entity/Q6002252"
+      }
+    ],
+    "http://www.wikidata.org/prop/direct/P31": [
+      {
+        "@id": "http://www.wikidata.org/entity/Q11424"
+      }
+    ],
+    "http://www.wikidata.org/prop/direct/P577": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "2010-01-01T00:00:00+00:00"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q7561916",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Sonja Tallis"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q14902479",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "David Field"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q130718684",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Adrian Rostirolla"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q6002252",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Martin Dingle-Wall"
+      }
+    ]
+  }
+]

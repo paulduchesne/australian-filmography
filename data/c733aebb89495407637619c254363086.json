@@ -1,0 +1,196 @@
+[
+  {
+    "@id": "http://www.wikidata.org/entity/Q56555989",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Baykali Ganambarr"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q63285807",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Charlie Shotwell"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q65235591",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Harry Greenwood"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q18688012",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Jennifer Kent"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q19364581",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Bruna Papandrea"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q65235288",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Michael Sheasby"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q29262902",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "The Nightingale"
+      }
+    ],
+    "http://www.wikidata.org/prop/direct/P136": [
+      {
+        "@id": "http://www.wikidata.org/entity/Q130232"
+      }
+    ],
+    "http://www.wikidata.org/prop/direct/P161": [
+      {
+        "@id": "http://www.wikidata.org/entity/Q65235591"
+      },
+      {
+        "@id": "http://www.wikidata.org/entity/Q1093867"
+      },
+      {
+        "@id": "http://www.wikidata.org/entity/Q21208049"
+      },
+      {
+        "@id": "http://www.wikidata.org/entity/Q5418987"
+      },
+      {
+        "@id": "http://www.wikidata.org/entity/Q366833"
+      },
+      {
+        "@id": "http://www.wikidata.org/entity/Q63285807"
+      },
+      {
+        "@id": "http://www.wikidata.org/entity/Q65235288"
+      },
+      {
+        "@id": "http://www.wikidata.org/entity/Q56555989"
+      }
+    ],
+    "http://www.wikidata.org/prop/direct/P162": [
+      {
+        "@id": "http://www.wikidata.org/entity/Q18688012"
+      },
+      {
+        "@id": "http://www.wikidata.org/entity/Q19364581"
+      }
+    ],
+    "http://www.wikidata.org/prop/direct/P31": [
+      {
+        "@id": "http://www.wikidata.org/entity/Q11424"
+      }
+    ],
+    "http://www.wikidata.org/prop/direct/P57": [
+      {
+        "@id": "http://www.wikidata.org/entity/Q18688012"
+      }
+    ],
+    "http://www.wikidata.org/prop/direct/P577": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "2018-09-06T00:00:00+00:00"
+      },
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "2019-08-02T00:00:00+00:00"
+      },
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "2019-08-29T00:00:00+00:00"
+      },
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "2019-11-29T00:00:00+00:00"
+      }
+    ],
+    "http://www.wikidata.org/prop/direct/P58": [
+      {
+        "@id": "http://www.wikidata.org/entity/Q18688012"
+      }
+    ],
+    "http://www.wikidata.org/prop/direct/P86": [
+      {
+        "@id": "http://www.wikidata.org/entity/Q3176338"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q130232",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "drama film"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q3176338",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Jed Kurzel"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q21208049",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Aisling Franciosi"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q5418987",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Ewen Leslie"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q1093867",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Damon Herriman"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q366833",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Sam Claflin"
+      }
+    ]
+  }
+]

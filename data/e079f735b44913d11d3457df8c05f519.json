@@ -1,0 +1,382 @@
+[
+  {
+    "@id": "http://www.wikidata.org/entity/Q231891",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Yvonne Strahovski"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q7817415",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Tom Rosenberg"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q192643",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Aaron Eckhart"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q4682184",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Aden Young"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q604849",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Jai Courtney"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q879456",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Reinhold Heil"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q288652",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Caitlin Stasey"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q2708907",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "I, Frankenstein"
+      }
+    ],
+    "http://www.wikidata.org/prop/direct/P1040": [
+      {
+        "@id": "http://www.wikidata.org/entity/Q6758117"
+      }
+    ],
+    "http://www.wikidata.org/prop/direct/P136": [
+      {
+        "@id": "http://www.wikidata.org/entity/Q188473"
+      },
+      {
+        "@id": "http://www.wikidata.org/entity/Q157394"
+      },
+      {
+        "@id": "http://www.wikidata.org/entity/Q200092"
+      },
+      {
+        "@id": "http://www.wikidata.org/entity/Q471839"
+      }
+    ],
+    "http://www.wikidata.org/prop/direct/P161": [
+      {
+        "@id": "http://www.wikidata.org/entity/Q5990035"
+      },
+      {
+        "@id": "http://www.wikidata.org/entity/Q5474134"
+      },
+      {
+        "@id": "http://www.wikidata.org/entity/Q7025047"
+      },
+      {
+        "@id": "http://www.wikidata.org/entity/Q704314"
+      },
+      {
+        "@id": "http://www.wikidata.org/entity/Q7613430"
+      },
+      {
+        "@id": "http://www.wikidata.org/entity/Q20685076"
+      },
+      {
+        "@id": "http://www.wikidata.org/entity/Q1286406"
+      },
+      {
+        "@id": "http://www.wikidata.org/entity/Q4682184"
+      },
+      {
+        "@id": "http://www.wikidata.org/entity/Q207179"
+      },
+      {
+        "@id": "http://www.wikidata.org/entity/Q288652"
+      },
+      {
+        "@id": "http://www.wikidata.org/entity/Q294975"
+      },
+      {
+        "@id": "http://www.wikidata.org/entity/Q138140"
+      },
+      {
+        "@id": "http://www.wikidata.org/entity/Q192643"
+      },
+      {
+        "@id": "http://www.wikidata.org/entity/Q604849"
+      },
+      {
+        "@id": "http://www.wikidata.org/entity/Q231891"
+      }
+    ],
+    "http://www.wikidata.org/prop/direct/P162": [
+      {
+        "@id": "http://www.wikidata.org/entity/Q7817415"
+      },
+      {
+        "@id": "http://www.wikidata.org/entity/Q5525494"
+      }
+    ],
+    "http://www.wikidata.org/prop/direct/P31": [
+      {
+        "@id": "http://www.wikidata.org/entity/Q11424"
+      }
+    ],
+    "http://www.wikidata.org/prop/direct/P344": [
+      {
+        "@id": "http://www.wikidata.org/entity/Q21280742"
+      }
+    ],
+    "http://www.wikidata.org/prop/direct/P462": [
+      {
+        "@id": "http://www.wikidata.org/entity/Q22006653"
+      }
+    ],
+    "http://www.wikidata.org/prop/direct/P57": [
+      {
+        "@id": "http://www.wikidata.org/entity/Q2719725"
+      }
+    ],
+    "http://www.wikidata.org/prop/direct/P577": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "2014-01-20T00:00:00+00:00"
+      },
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "2014-01-23T00:00:00+00:00"
+      },
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "2014-01-24T00:00:00+00:00"
+      },
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "2014-01-29T00:00:00+00:00"
+      }
+    ],
+    "http://www.wikidata.org/prop/direct/P58": [
+      {
+        "@id": "http://www.wikidata.org/entity/Q1286406"
+      },
+      {
+        "@id": "http://www.wikidata.org/entity/Q2719725"
+      }
+    ],
+    "http://www.wikidata.org/prop/direct/P86": [
+      {
+        "@id": "http://www.wikidata.org/entity/Q879456"
+      },
+      {
+        "@id": "http://www.wikidata.org/entity/Q1702351"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q5525494",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Gary Lucchesi"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q7025047",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Nicholas Bell"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q157394",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "fantasy film"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q21280742",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Ross Emery"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q22006653",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "color"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q188473",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "action film"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q2719725",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Stuart Beattie"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q294975",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Miranda Otto"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q7613430",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Steve Mouzakis"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q1286406",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Kevin Grevioux"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q5474134",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Socratis Otto"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q704314",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Bruce Spence"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q471839",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "science fiction film"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q138140",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Deniz Akdeniz"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q20685076",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Chris Pang"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q207179",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Bill Nighy"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q200092",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "horror film"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q1702351",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Johnny Klimek"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q5990035",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Mahesh Jadu"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q6758117",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Marcus D'Arcy"
+      }
+    ]
+  }
+]

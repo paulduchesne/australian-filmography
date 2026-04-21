@@ -1,0 +1,225 @@
+[
+  {
+    "@id": "http://www.wikidata.org/entity/Q7773437",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "The Wannabes"
+      }
+    ],
+    "http://www.wikidata.org/prop/direct/P136": [
+      {
+        "@id": "http://www.wikidata.org/entity/Q157443"
+      }
+    ],
+    "http://www.wikidata.org/prop/direct/P161": [
+      {
+        "@id": "http://www.wikidata.org/entity/Q7381475"
+      },
+      {
+        "@id": "http://www.wikidata.org/entity/Q9071492"
+      },
+      {
+        "@id": "http://www.wikidata.org/entity/Q6522086"
+      },
+      {
+        "@id": "http://www.wikidata.org/entity/Q228638"
+      },
+      {
+        "@id": "http://www.wikidata.org/entity/Q4895246"
+      },
+      {
+        "@id": "http://www.wikidata.org/entity/Q5175046"
+      },
+      {
+        "@id": "http://www.wikidata.org/entity/Q6829116"
+      },
+      {
+        "@id": "http://www.wikidata.org/entity/Q5442364"
+      },
+      {
+        "@id": "http://www.wikidata.org/entity/Q7027179"
+      },
+      {
+        "@id": "http://www.wikidata.org/entity/Q5072610"
+      },
+      {
+        "@id": "http://www.wikidata.org/entity/Q7823063"
+      },
+      {
+        "@id": "http://www.wikidata.org/entity/Q1768636"
+      }
+    ],
+    "http://www.wikidata.org/prop/direct/P162": [
+      {
+        "@id": "http://www.wikidata.org/entity/Q7027179"
+      }
+    ],
+    "http://www.wikidata.org/prop/direct/P31": [
+      {
+        "@id": "http://www.wikidata.org/entity/Q11424"
+      }
+    ],
+    "http://www.wikidata.org/prop/direct/P462": [
+      {
+        "@id": "http://www.wikidata.org/entity/Q22006653"
+      }
+    ],
+    "http://www.wikidata.org/prop/direct/P57": [
+      {
+        "@id": "http://www.wikidata.org/entity/Q7027179"
+      }
+    ],
+    "http://www.wikidata.org/prop/direct/P577": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "2003-01-01T00:00:00+00:00"
+      }
+    ],
+    "http://www.wikidata.org/prop/direct/P58": [
+      {
+        "@id": "http://www.wikidata.org/entity/Q7027179"
+      }
+    ],
+    "http://www.wikidata.org/prop/direct/P86": [
+      {
+        "@id": "http://www.wikidata.org/entity/Q1174736"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q22006653",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "color"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q9071492",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Ryan Johnson"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q7027179",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Nick Giannopoulos"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q6829116",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Michael Carman"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q5072610",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Chantal Contouri"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q5442364",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Felix Williamson"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q6522086",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Lena Cruz"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q7823063",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Tony Nikolakopoulos"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q1768636",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Rove McManus"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q157443",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "comedy film"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q5175046",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Costas Kilias"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q4895246",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Bert Newton"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q228638",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Isla Fisher"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q1174736",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "David Hirschfelder"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q7381475",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Russell Dykstra"
+      }
+    ]
+  }
+]

@@ -1,0 +1,228 @@
+[
+  {
+    "@id": "http://www.wikidata.org/entity/Q2033318",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Ben Lawson"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q19875286",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "The Little Death"
+      }
+    ],
+    "http://www.wikidata.org/prop/direct/P136": [
+      {
+        "@id": "http://www.wikidata.org/entity/Q157443"
+      }
+    ],
+    "http://www.wikidata.org/prop/direct/P161": [
+      {
+        "@id": "http://www.wikidata.org/entity/Q7146146"
+      },
+      {
+        "@id": "http://www.wikidata.org/entity/Q1093867"
+      },
+      {
+        "@id": "http://www.wikidata.org/entity/Q7687583"
+      },
+      {
+        "@id": "http://www.wikidata.org/entity/Q457905"
+      },
+      {
+        "@id": "http://www.wikidata.org/entity/Q4133103"
+      },
+      {
+        "@id": "http://www.wikidata.org/entity/Q11685650"
+      },
+      {
+        "@id": "http://www.wikidata.org/entity/Q16617143"
+      },
+      {
+        "@id": "http://www.wikidata.org/entity/Q8073259"
+      },
+      {
+        "@id": "http://www.wikidata.org/entity/Q6451725"
+      },
+      {
+        "@id": "http://www.wikidata.org/entity/Q2033318"
+      },
+      {
+        "@id": "http://www.wikidata.org/entity/Q7609590"
+      },
+      {
+        "@id": "http://www.wikidata.org/entity/Q5968695"
+      }
+    ],
+    "http://www.wikidata.org/prop/direct/P31": [
+      {
+        "@id": "http://www.wikidata.org/entity/Q11424"
+      }
+    ],
+    "http://www.wikidata.org/prop/direct/P462": [
+      {
+        "@id": "http://www.wikidata.org/entity/Q22006653"
+      }
+    ],
+    "http://www.wikidata.org/prop/direct/P57": [
+      {
+        "@id": "http://www.wikidata.org/entity/Q11685650"
+      }
+    ],
+    "http://www.wikidata.org/prop/direct/P577": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "2014-01-01T00:00:00+00:00"
+      },
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "2014-12-18T00:00:00+00:00"
+      },
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "2015-04-09T00:00:00+00:00"
+      }
+    ],
+    "http://www.wikidata.org/prop/direct/P58": [
+      {
+        "@id": "http://www.wikidata.org/entity/Q11685650"
+      }
+    ],
+    "http://www.wikidata.org/prop/direct/P86": [
+      {
+        "@id": "http://www.wikidata.org/entity/Q6835480"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q7146146",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Patrick Brammall"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q22006653",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "color"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q11685650",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Josh Lawson"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q6451725",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Kym Gyngell"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q16617143",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Paul Gleeson"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q1093867",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Damon Herriman"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q7609590",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Stephen James King"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q6835480",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Michael Yezerski"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q7687583",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Tasneem Roc"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q457905",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Bojana Novaković"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q157443",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "comedy film"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q5968695",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Lachy Hulme"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q8073259",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Zoe Carides"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q4133103",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Lisa McCune"
+      }
+    ]
+  }
+]
