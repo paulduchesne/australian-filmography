@@ -61,26 +61,28 @@ with open(pathlib.Path.cwd() / 'wikidata.json', 'w') as aggregated_out:
     json.dump(aggregated_file, aggregated_out, ensure_ascii=False, indent=4)
 
 # TODO: it would be good to add a survey of available data points for each record.
-#
-
-print(len(aggregated_file))
 
 g = rdflib.Graph().parse('wikidata.json', format="json-ld")
 
-# derive a list of all films.
+# derive an array of all film ids.
+
+wikidata_ids = ['wd:'+pathlib.Path(wikidata_id).stem for wikidata_id in df.wikidata.unique()]
+
+# identify all entity types.
 
 query = '''
     prefix au: <http://ausfilmography/>
     prefix wd: <http://www.wikidata.org/entity/>
     prefix wpd: <http://www.wikidata.org/prop/direct/>
-    select distinct ?film
+    select distinct ?type
     where {
-        ?film wpd:P31 wd:Q11424
+        values ?film {'''+' '.join(wikidata_ids)+'''}
+        ?film wpd:P31 ?type .
         }
     '''
 
 result = g.query(query)
-wikidata_ids = ['wd:'+pathlib.Path(x.film).stem for x in result]
+film_types = [pathlib.Path(x.type).stem for x in result]
 
 # derive a list of film properties.
 
@@ -121,8 +123,3 @@ for p in sorted(props):
     matching_films = [x.film for x in result]
     ratio = round(len(matching_films)/len(wikidata_ids), 2)
     print(p, ratio)
-
-# TODO: this needs some further work,
-# likely due to not all films being "films", ie Q11424.
-# First pass should probably be to assess what are in scope entities
-# which we can do explicitly as we have source ids from the datasets.
